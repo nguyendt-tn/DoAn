@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01b0\u0309a c\u01a1m cha\u0341nh, b\u01b0\u0303a t\u00f4\u0341i, \u0111a\u0309i ti\u00ea\u0323c, y\u00ea\u0341n ti\u00ea\u0323c","a":"proposition","b":"dinner","c":"countless","d":"inappropriate","answer":"dinner"}

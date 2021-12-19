@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340i ti\u0341nh, ba\u0340i toa\u0341n, s\u01b0\u0323 kho\u0341 kh\u0103n, s\u01b0\u0323 tr\u01a1\u0309 nga\u0323i, v\u00e2\u0341n \u0111\u00ea\u0340","a":"fond","b":"twist","c":"problem","d":"credibility","answer":"problem"}

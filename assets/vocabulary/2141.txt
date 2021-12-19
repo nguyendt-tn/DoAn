@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4\u0323t tru\u0323 nho\u0309, \u0111a\u0341p la\u0323i lo\u0340ng t\u00f4\u0341t, \u0111o\u0323c ba\u0340i tha\u0341nh ca","a":"parallel","b":"respond","c":"aside","d":"smash","answer":"respond"}

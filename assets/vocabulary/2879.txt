@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tu\u00f4\u0309i tre\u0309, tu\u00f4\u0309i xu\u00e2n, thi\u00ea\u0341u ni\u00ean","a":"operator","b":"vanish","c":"copper","d":"youth","answer":"youth"}

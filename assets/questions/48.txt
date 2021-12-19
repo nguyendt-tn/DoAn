@@ -1,0 +1,8 @@
+Applications for admission to this university are not processed without a high school _____.
+diploma 		
+paper 			
+licence		
+résumé
+diploma 
+Dựa vào nghĩa</br>A. bằng cấp</br>B. giấy</br>C. giấy phép</br>D. sơ yếu lý lịch
+Đơn xin nhập học vào trường đại học này không được xử lý nếu không có bằng tốt nghiệp trung học.

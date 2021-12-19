@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01b0\u0341c la\u0309nh tu\u0323, s\u01b0\u0323 chi\u0309 d\u00e2\u0309n, s\u01b0\u0323 h\u01b0\u01a1\u0341ng d\u00e2\u0309n","a":"leadership","b":"notebook","c":"sovereignty","d":"companion","answer":"leadership"}

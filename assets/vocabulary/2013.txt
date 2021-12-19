@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"mua, ke\u0341o neo, t\u00e2\u0323u, s\u0103\u0341m","a":"pole","b":"purchase","c":"firmly","d":"deem","answer":"purchase"}

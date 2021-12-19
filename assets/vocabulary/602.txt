@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u00eau chu\u00e2\u0309n","a":"medication","b":"prospective","c":"criterion","d":"desirable","answer":"criterion"}

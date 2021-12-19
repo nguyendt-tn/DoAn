@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0103n xin, \u0103n ma\u0340y, kh\u00e2\u0309n c\u00e2\u0340u, y\u00eau c\u00e2\u0340u","a":"municipal","b":"beg","c":"preside","d":"clarify","answer":"beg"}

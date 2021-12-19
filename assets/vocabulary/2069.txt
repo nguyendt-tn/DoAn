@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"m\u01a1\u0341i \u0111\u00e2y","a":"remarkable","b":"recently","c":"gallon","d":"considerably","answer":"recently"}

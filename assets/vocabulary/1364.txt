@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"u\u0309i","a":"principal","b":"penalty","c":"elbow","d":"iron","answer":"iron"}

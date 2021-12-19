@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u0341a tr\u01a1\u0340i, th\u00e2\u0340n, th\u01b0\u01a1\u0323ng \u0111\u00ea\u0341","a":"insert","b":"encouragement","c":"god","d":"spectacle","answer":"god"}

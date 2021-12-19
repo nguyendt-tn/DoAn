@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u01a1i gia\u0340","a":"unprecedented","b":"memorable","c":"custody","d":"elderly","answer":"elderly"}

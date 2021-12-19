@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0303 r\u01b0\u01a1\u0323u, \u0111\u01a1n vi\u0323 \u0111o l\u01b0\u01a1\u0340ng, ha\u0323t lu\u0341a, he\u0340m r\u01b0\u01a1\u0323u, h\u00f4\u0323t lu\u0341a, h\u00f4\u0323t mu\u00f4\u0341i, h\u00f4\u0323t ti\u00eau","a":"grain","b":"destructive","c":"progressive","d":"mechanism","answer":"grain"}

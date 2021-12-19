@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"hoa\u0340n toa\u0340n, kh\u00f4ng khuy\u00ea\u0341t \u0111i\u00ea\u0309m","a":"interaction","b":"balanced","c":"perfectly","d":"sibling","answer":"perfectly"}

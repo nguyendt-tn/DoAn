@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u00f4\u0323c t\u00f4\u0323i, ca\u0341o tra\u0323ng","a":"accusation","b":"lemon","c":"feel","d":"basically","answer":"accusation"}

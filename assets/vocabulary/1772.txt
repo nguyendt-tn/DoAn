@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2u vi, \u0111a\u0323i c\u01b0\u01a1ng, hi\u0340nh th\u00ea\u0309, hi\u0340nh tra\u0323ng, ne\u0341t ve\u0303 pha\u0341c","a":"soak","b":"landmark","c":"outline","d":"accomplish","answer":"outline"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u00f4\u0341 na\u0340i, na\u0340i, n\u0103n ni\u0309","a":"insist","b":"corporation","c":"provision","d":"offering","answer":"insist"}

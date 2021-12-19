@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"k\u00ea\u0341t qua\u0309, s\u01b0\u0323 tha\u0340nh c\u00f4ng, s\u01b0\u0323 th\u0103\u0341ng l\u01a1\u0323i","a":"storage","b":"massacre","c":"success","d":"concrete","answer":"success"}

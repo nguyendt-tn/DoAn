@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u0103\u0323c bi\u00ea\u0323t, ri\u00eang bi\u00ea\u0323t","a":"petition","b":"special","c":"transformation","d":"auction","answer":"special"}

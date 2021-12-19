@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2u cha\u0340o, cha\u0340o, ti\u00ea\u0341ng cha\u0340o","a":"obsession","b":"contributor","c":"hello","d":"rob","answer":"hello"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho va\u0340o, \u0111em ra du\u0340ng, \u0111u\u0341t va\u0340o, \u0111\u01b0\u0341ng tr\u01b0\u01a1\u0341c, gi\u01a1\u0341i thi\u00ea\u0323u, nhe\u0341t va\u0340o","a":"introduce","b":"magnificent","c":"tsunami","d":"complication","answer":"introduce"}

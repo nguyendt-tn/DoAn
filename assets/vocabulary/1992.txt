@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ri\u00eang, t\u00ean ri\u00eang, \u0111i\u0341ch, \u0111u\u0341ng, chi\u0341nh, \u0111\u0103\u0323c bi\u00ea\u0323t ri\u00eang, ri\u00eang bi\u00ea\u0323t, nghi\u0303a \u0111en","a":"proper","b":"brick","c":"mortgage","d":"prosecution","answer":"proper"}

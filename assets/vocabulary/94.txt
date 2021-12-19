@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kinh nga\u0323c","a":"amazing","b":"mentor","c":"accountability","d":"ridiculous","answer":"amazing"}

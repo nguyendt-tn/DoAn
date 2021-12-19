@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kha\u0341ch ha\u0340ng, th\u00e2n chu\u0309","a":"ecological","b":"obsession","c":"client","d":"solidarity","answer":"client"}

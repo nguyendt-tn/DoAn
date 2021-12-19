@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ha\u0340i ki\u0323ch, ki\u0323ch vui","a":"mercy","b":"comedy","c":"ultimate","d":"annually","answer":"comedy"}

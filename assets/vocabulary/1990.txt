@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111o\u0323c, pha\u0341t \u00e2m, tuy\u00ean a\u0341n, tuy\u00ean b\u00f4\u0341, tuy\u00ean ca\u0341o","a":"pronounce","b":"workout","c":"gig","d":"casualty","answer":"pronounce"}

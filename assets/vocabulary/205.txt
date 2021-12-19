@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ly\u0341 li\u0323ch, \u01a1\u0309 trong bo\u0341ng t\u00f4\u0341i, ph\u00e2\u0340n sau, phi\u0341a sau, tra\u0341nh m\u0103\u0323t","a":"background","b":"ally","c":"spare","d":"nod","answer":"background"}

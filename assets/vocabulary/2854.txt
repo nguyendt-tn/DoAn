@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 kinh nghi\u00ea\u0323m, kh\u0103\u0341p n\u01a1i, kh\u0103\u0341p th\u00ea\u0341 gi\u01a1\u0341i, tha\u0323o \u0111\u01a1\u0340i","a":"genocide","b":"distinctive","c":"worldwide","d":"signature","answer":"worldwide"}

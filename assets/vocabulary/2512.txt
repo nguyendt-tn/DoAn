@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0341i th\u00ea\u0340","a":"swear","b":"appreciation","c":"offering","d":"pirate","answer":"swear"}

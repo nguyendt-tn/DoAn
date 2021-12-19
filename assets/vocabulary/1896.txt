@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ch\u00e2\u0341t \u0111\u00f4\u0323c, \u0111\u00f4\u0323c","a":"innovative","b":"diversity","c":"serial","d":"poisonous","answer":"poisonous"}

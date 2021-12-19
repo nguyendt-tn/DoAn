@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tr\u00f4ng mong, hy vo\u0323ng, ky\u0340 vo\u0323ng","a":"unveil","b":"expected","c":"arguably","d":"odds","answer":"expected"}

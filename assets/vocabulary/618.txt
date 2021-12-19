@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ph\u01a1i, ch\u01b0\u0303a, ch\u01b0\u0340a ta\u0341nh x\u00e2\u0341u, h\u00e2\u0341p, tri\u0323 bi\u0323nh, x\u00f4ng kho\u0341i","a":"lethal","b":"decisive","c":"somehow","d":"cure","answer":"cure"}

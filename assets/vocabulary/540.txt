@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"b\u00ea\u0340n lo\u0340ng, trung h\u00e2\u0323u","a":"anticipate","b":"constantly","c":"imminent","d":"tsunami","answer":"constantly"}

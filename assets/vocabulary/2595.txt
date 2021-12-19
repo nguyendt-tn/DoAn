@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"ba, s\u00f4\u0341 ba","a":"corporation","b":"three","c":"tighten","d":"extension","answer":"three"}

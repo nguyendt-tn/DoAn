@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bu\u00f4n ba\u0341n tr\u00e2\u0340m tr\u00ea\u0323, bu\u00f4\u0340n r\u00e2\u0340u, cha\u0341n na\u0309n, gie\u0323p, ki\u00ea\u0323t s\u01b0\u0341c, th\u00e2\u0341p, th\u00e2\u0341t vo\u0323ng","a":"demon","b":"depressed","c":"evident","d":"verse","answer":"depressed"}

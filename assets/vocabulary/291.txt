@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"x\u01b0\u01a1ng","a":"portfolio","b":"anticipate","c":"bone","d":"intimate","answer":"bone"}

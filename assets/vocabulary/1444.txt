@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ly khai, bo\u0309 la\u0323i, kh\u01a1\u0309i ha\u0340nh, bo\u0309, t\u01b0\u0340 gia\u0309, bu\u00f4ng tha\u0309, r\u01a1\u0340i bo\u0309, co\u0340n la\u0323i, r\u01a1\u0340i kho\u0309i, \u0111\u00ea\u0309 la\u0323i","a":"leave","b":"transmit","c":"execution","d":"dispute","answer":"leave"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"huy ch\u01b0\u01a1ng, huy hi\u00ea\u0323u, s\u01b0\u0323 thi ha\u0340nh","a":"achievement","b":"pump","c":"oblige","d":"cruise","answer":"achievement"}

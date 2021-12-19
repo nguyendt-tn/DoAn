@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gi\u01a1\u0340, lu\u0341c, ti\u00ea\u0341ng, thi\u0340 gi\u01a1\u0340","a":"feminist","b":"hour","c":"disappointment","d":"solely","answer":"hour"}

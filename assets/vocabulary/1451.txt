@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho vay, cho m\u01b0\u01a1\u0323n, cho thu\u00ea sa\u0341ch, giu\u0341p s\u01b0\u0341c, thi\u0341ch \u0111a\u0341ng, thi\u0341ch h\u01a1\u0323p","a":"wander","b":"log","c":"drown","d":"lend","answer":"lend"}

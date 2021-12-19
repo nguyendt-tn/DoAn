@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bu\u00f4\u0323c, ch\u0103\u0341p, ghe\u0341p, n\u00f4\u0341i la\u0323i, n\u00f4\u0341i li\u00ea\u0340n","a":"join","b":"allegedly","c":"privilege","d":"observer","answer":"join"}

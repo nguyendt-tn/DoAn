@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u01b0\u01a1\u0340ng pha\u0341p tuy\u00ea\u0341n, \u00f4n \u0111\u00f4\u0323 th\u01b0\u01a1\u0340ng, pha\u0341p tuy\u00ea\u0341n, th\u00f4ng th\u01b0\u01a1\u0340ng, th\u01b0\u01a1\u0340ng","a":"viewpoint","b":"commerce","c":"normal","d":"firmly","answer":"normal"}

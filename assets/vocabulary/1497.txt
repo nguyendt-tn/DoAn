@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"thua, m\u00e2\u0341t","a":"arm","b":"transmission","c":"lost","d":"headquarters","answer":"lost"}

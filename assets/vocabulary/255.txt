@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u0103ng ra, nghi\u00ean, cu\u0341i \u0111\u00e2\u0340u, u\u00f4\u0341n cong","a":"bend","b":"irony","c":"wholly","d":"compliance","answer":"bend"}

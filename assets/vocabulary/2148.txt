@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u00e2\u0340m la\u0323i, gi\u01b0\u0309, ti\u00ea\u0341p tu\u0323c du\u0340ng, thu\u00ea m\u01b0\u01a1\u0341n","a":"retain","b":"marginal","c":"cooperative","d":"youngster","answer":"retain"}

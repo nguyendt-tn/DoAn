@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ao \u01b0\u01a1\u0341c, khao kha\u0341t, lo\u0340ng ham mu\u00f4\u0341n, l\u01a1\u0340i y\u00eau c\u00e2\u0340u, \u01b0\u01a1\u0341c nguy\u00ea\u0323n, v\u00e2\u0323t ao \u01b0\u01a1\u0341c","a":"desire","b":"fake","c":"accuracy","d":"poll","answer":"desire"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cu\u0340ng c\u01b0\u0323c, c\u01b0\u0323c, h\u00ea\u0341t s\u01b0\u0341c, xa nh\u01b0\u0341t","a":"testimony","b":"flesh","c":"coincidence","d":"extreme","answer":"extreme"}

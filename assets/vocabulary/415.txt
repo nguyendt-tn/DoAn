@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ha\u0340 ti\u00ea\u0323n, i\u0341t, kh\u00f4ng \u0111\u0103\u0341t, nhu\u0323c nha\u0309, re\u0309, v\u00f4 gia\u0341 tri\u0323, x\u00e2\u0341u h\u00f4\u0309","a":"terrific","b":"hail","c":"casino","d":"cheap","answer":"cheap"}

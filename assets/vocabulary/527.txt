@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"l\u00f4\u0323n x\u00f4\u0323n, m\u00e2\u0323p m\u01a1\u0340, m\u01a1 h\u00f4\u0340, tr\u00f4\u0323n l\u00f4\u0323n, xa\u0341o tr\u00f4\u0323n","a":"starve","b":"extensively","c":"confuse","d":"adolescent","answer":"confuse"}

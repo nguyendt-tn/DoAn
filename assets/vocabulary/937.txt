@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ph\u01a1i ra, \u0111\u00ea\u0309 h\u01a1\u0309 ra, \u0111\u00ea\u0309 l\u00f4\u0323 ra, \u0111\u00ea\u0309 ra, kha\u0341m pha\u0341, lo\u0340i ra, l\u00f4\u0323 ra, ma\u0323o hi\u00ea\u0309m, pha\u0341t gia\u0341c, ba\u0340y ra, ti\u0340m th\u00e2\u0341y","a":"mutual","b":"testimony","c":"align","d":"expose","answer":"expose"}

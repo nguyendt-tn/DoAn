@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ba\u0309o v\u00ea\u0323, \u0111a\u0309ng vi\u00ean ba\u0309o thu\u0309, \u0111\u00ea\u0309 ba\u0309o thu\u0309, ng\u01b0\u01a1\u0340i theo \u0111a\u0309ng ba\u0309o thu\u0309, s\u01b0\u0323 \u01b0\u01a1\u0341c l\u01b0\u01a1\u0323ng","a":"enthusiast","b":"tendency","c":"midst","d":"conservative","answer":"conservative"}

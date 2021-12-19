@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"giao tha\u0341c, h\u01b0\u0341a, ky\u0341 tha\u0341c, pha\u0323m, u\u0309y tha\u0341c","a":"commit","b":"discourse","c":"opera","d":"remains","answer":"commit"}

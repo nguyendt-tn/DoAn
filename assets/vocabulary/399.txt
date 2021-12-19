@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u0103\u0341c ch\u0103\u0341n, \u0111i\u0323nh ro\u0309, \u0111\u00f4i chu\u0341t, nh\u00e2\u0341t \u0111i\u0323nh, xa\u0341c th\u01b0\u0323c","a":"certain","b":"simulation","c":"notably","d":"detection","answer":"certain"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01a1\u0323 co\u0341 nhi\u00ea\u0340u m\u0103\u0323t ha\u0340ng, c\u01b0\u0309a ha\u0340ng l\u01a1\u0340n, si\u00eau thi\u0323","a":"infect","b":"stability","c":"supermarket","d":"acquisition","answer":"supermarket"}

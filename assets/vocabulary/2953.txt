@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"cha\u0323y da\u0340i theo, ghe\u0341 do\u0323c theo, ta\u0340u \u0111\u00e2\u0323u","a":"alongside","b":"crowded","c":"river","d":"grey","answer":"alongside"}

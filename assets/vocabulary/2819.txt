@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"ai, ke\u0309 na\u0340o, ng\u01b0\u01a1\u0340i na\u0340o","a":"cutting","b":"prevention","c":"fade","d":"who","answer":"who"}

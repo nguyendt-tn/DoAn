@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tr\u01b0\u01a1ng ra, ba\u0340y ra, bi\u0323 ti\u00ea\u0341t l\u00f4\u0323, l\u00f4\u0323 ra","a":"out","b":"evolution","c":"confer","d":"troubled","answer":"out"}

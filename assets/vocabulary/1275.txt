@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u01b0 kh\u00f4ng, t\u01b0\u01a1\u0309ng t\u01b0\u01a1\u0323ng","a":"rehabilitation","b":"cave","c":"mate","d":"imaginary","answer":"imaginary"}

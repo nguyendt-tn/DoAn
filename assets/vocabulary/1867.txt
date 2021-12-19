@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xoi, \u0111\u00e2m, ch\u01a1\u0341p m\u0103\u0341t, giu\u0340i","a":"sphere","b":"merit","c":"pink","d":"drift","answer":"pink"}

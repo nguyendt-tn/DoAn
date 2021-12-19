@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chuy\u00ea\u0323n nha\u0303m, truy\u00ea\u0323n","a":"kit","b":"renowned","c":"tale","d":"citizenship","answer":"tale"}

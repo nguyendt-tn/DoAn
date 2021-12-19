@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ne\u0341t m\u0103\u0323t nhi\u0340n m\u00f4\u0323t b\u00ean, tr\u0103\u0341c di\u00ea\u0323n, tr\u0103\u0341c \u0111\u00f4\u0340","a":"jail","b":"profile","c":"boundary","d":"sole","answer":"profile"}

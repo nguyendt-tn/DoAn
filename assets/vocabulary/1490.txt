@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"da\u0340i ha\u0323n, l\u00e2u, vi\u00ea\u0323c l\u00e2u nga\u0340y","a":"long-term","b":"crush","c":"thoughtful","d":"globe","answer":"long-term"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cu\u0309ng c\u00f4\u0341, ph\u00ea chu\u00e2\u0309n, th\u01b0\u0340a nh\u00e2\u0323n, v\u01b0\u0309ng ch\u0103\u0341c, xa\u0341c \u0111i\u0323nh, xa\u0341c nh\u00e2\u0323n","a":"gesture","b":"confirm","c":"consecutive","d":"shortly","answer":"confirm"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cam chi\u0323u, chi\u0323u thi\u00ea\u0323t ha\u0323i","a":"suffer","b":"receiver","c":"liberal","d":"dairy","answer":"suffer"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u01b0\u0341 nhi\u0340","a":"beneficial","b":"shoot","c":"second","d":"monopoly","answer":"second"}

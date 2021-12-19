@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 di\u0341nh da\u0341ng, co\u0341 li\u00ean quan","a":"effectiveness","b":"upcoming","c":"related","d":"inmate","answer":"related"}

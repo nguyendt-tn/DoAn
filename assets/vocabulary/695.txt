@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340y to\u0309, b\u00f4\u0323 ph\u00e2\u0323n cu\u0309a ma\u0341y, chi ti\u00ea\u0341t, k\u00ea khai t\u01b0\u01a1\u0340ng t\u00e2\u0323n, ph\u00e2n \u0111\u00f4\u0323i, qu\u00e2n li\u0323nh, ti\u0309 mi\u0309","a":"precisely","b":"detail","c":"conviction","d":"info","answer":"detail"}

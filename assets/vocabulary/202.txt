@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"trang nghi\u00eam, \u0111a\u0341ng ki\u0341nh, \u0111a\u0341ng s\u01a1\u0323, d\u00ea\u0309 s\u01a1\u0323, tr\u01a1\u0340i x\u00e2\u0341u","a":"territory","b":"choir","c":"awful","d":"fare","answer":"awful"}

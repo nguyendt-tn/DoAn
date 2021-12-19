@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"sinh vi\u00ean, ho\u0323c sinh","a":"legislature","b":"eliminate","c":"student","d":"tobacco","answer":"student"}

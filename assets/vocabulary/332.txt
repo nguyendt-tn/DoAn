@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ki\u00ea\u0309u ki\u00ea\u0341n tru\u0341c, s\u01b0\u0323 c\u00e2\u0341u ta\u0323o, s\u01b0\u0323 ki\u00ea\u0341n tru\u0341c","a":"landlord","b":"supportive","c":"cattle","d":"build","answer":"build"}

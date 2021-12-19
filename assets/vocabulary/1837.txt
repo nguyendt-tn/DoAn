@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"lu\u00f4n lu\u00f4n, th\u01b0\u01a1\u0340ng xuy\u00ean","a":"consistency","b":"outrage","c":"permanent","d":"rival","answer":"permanent"}

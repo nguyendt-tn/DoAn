@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00f4\u0309 \u0111i\u00ea\u0309n, c\u00f4\u0309 hy la\u0323p, thu\u00f4\u0323c v\u00ea\u0340 my\u0303 thu\u00e2\u0323t, v\u0103n ho\u0341a Hy la\u0323p, c\u00f4\u0309 la ma\u0303, v\u0103n ho\u0341a la ma\u0303","a":"classic","b":"marker","c":"precious","d":"ego","answer":"classic"}

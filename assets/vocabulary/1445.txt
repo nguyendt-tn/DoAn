@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340i ho\u0323c, cu\u00f4\u0323c di\u00ea\u0309n thuy\u00ea\u0341t","a":"ensue","b":"proclaim","c":"lately","d":"lecture","answer":"lecture"}

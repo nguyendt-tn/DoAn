@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nghe, ghi va\u0340o s\u00f4\u0309, tra\u0341m khe h\u01a1\u0309","a":"fade","b":"utility","c":"list","d":"bombing","answer":"list"}

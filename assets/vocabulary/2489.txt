@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thi\u0341ch \u0111a\u0341ng, thi\u0341ch nghi","a":"suitable","b":"accordingly","c":"momentum","d":"recognition","answer":"suitable"}

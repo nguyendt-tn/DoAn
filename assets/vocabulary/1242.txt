@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kha\u0341ch sa\u0323n, l\u01b0\u0303 qua\u0341n","a":"handy","b":"embed","c":"hotel","d":"survival","answer":"hotel"}

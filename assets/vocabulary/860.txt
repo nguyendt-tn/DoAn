@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111u\u0309, h\u01a1i kha\u0341, kha\u0341, kha kha\u0341","a":"enough","b":"endeavour","c":"essence","d":"privatization","answer":"enough"}

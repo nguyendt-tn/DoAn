@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i bi\u0323 \u0111a\u0341nh r\u01a1\u0341t, ng\u01b0\u01a1\u0340i kh\u00f4ng \u0111\u01b0\u01a1\u0323c cho\u0323n, v\u00e2\u0323t kh\u00f4ng du\u0340ng","a":"expertise","b":"reject","c":"reasonably","d":"engagement","answer":"reject"}

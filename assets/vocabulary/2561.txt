@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"gh\u00ea s\u01a1\u0323, khu\u0309ng khi\u00ea\u0341p","a":"beneficiary","b":"terrible","c":"healthcare","d":"prosecute","answer":"terrible"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u00f4\u0341c la\u0341t, ta\u0323m th\u01a1\u0340i","a":"temporary","b":"characterize","c":"squad","d":"horizon","answer":"temporary"}

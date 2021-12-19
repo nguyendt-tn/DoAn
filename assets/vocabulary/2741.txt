@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bao la, qua\u0309ng \u0111a\u0323i, r\u00f4\u0323ng, r\u00f4\u0323ng l\u01a1\u0341n, to l\u01a1\u0341n","a":"visible","b":"ambulance","c":"hardware","d":"vast","answer":"vast"}

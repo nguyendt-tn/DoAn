@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00f4\u0309 sung, th\u00eam va\u0340o","a":"worthy","b":"additional","c":"correspondence","d":"interaction","answer":"additional"}

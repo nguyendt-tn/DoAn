@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 hoa\u0341 ho\u0323c","a":"chemical","b":"revive","c":"morality","d":"entertaining","answer":"chemical"}

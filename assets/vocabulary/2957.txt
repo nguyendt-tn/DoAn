@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0323i s\u01b0\u0341, s\u01b0\u0341 gia\u0309","a":"crazy","b":"float","c":"progress","d":"ambassador","answer":"ambassador"}

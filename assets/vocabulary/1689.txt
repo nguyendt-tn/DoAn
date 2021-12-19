@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u01b0\u0341u gia\u0341c, mo\u0303n, mu\u0303i, vi\u0323 th\u01a1m, mu\u0303i thuy\u00ea\u0340n","a":"nose","b":"ritual","c":"endless","d":"noble","answer":"nose"}

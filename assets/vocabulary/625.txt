@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u01b0\u01a1\u0340ng l\u00ea\u0323","a":"amendment","b":"custom","c":"persist","d":"spare","answer":"custom"}

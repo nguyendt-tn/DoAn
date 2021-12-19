@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"giao tranh, ch\u00f4\u0341ng la\u0323i, \u0111a\u0341nh nhau, giao chi\u00ea\u0341n, v\u00e2\u0323n du\u0323ng","a":"pond","b":"fight","c":"innovation","d":"bizarre","answer":"fight"}

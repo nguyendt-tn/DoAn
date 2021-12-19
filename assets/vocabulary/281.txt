@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ba\u0323ch kim, ma\u0340u va\u0340ng anh","a":"golden","b":"situated","c":"empirical","d":"blonde","answer":"blonde"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111i, cha\u0323y da\u0340i, s\u0103\u0341p ha\u0340ng, theo phe b\u00ean na\u0340o, \u0111i kh\u0103\u0341p n\u01a1i, \u0111i do\u0323c theo","a":"biological","b":"range","c":"psychiatric","d":"ongoing","answer":"range"}

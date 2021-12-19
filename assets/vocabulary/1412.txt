@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u00f4ng co\u0341 \u0111u\u0309, s\u01b0\u0323 tu\u0341ng thi\u00ea\u0341u, s\u01b0\u0323 thi\u00ea\u0341u th\u00f4\u0341n, ti\u0340nh tra\u0323ng thi\u00ea\u0341u, tu\u0341ng thi\u00ea\u0341u","a":"intervention","b":"lack","c":"contemplate","d":"processing","answer":"lack"}

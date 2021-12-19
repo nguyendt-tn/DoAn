@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 b\u0103\u0341t banh la\u0323i, s\u01b0\u0323 c\u00e2\u0340n ki\u00ea\u0323m, s\u01b0\u0323 ch\u00e2\u0323n banh la\u0323i, s\u01b0\u0323 ti\u00ea\u0341t ki\u00ea\u0323m","a":"exaggerate","b":"save","c":"assure","d":"withdrawal","answer":"save"}

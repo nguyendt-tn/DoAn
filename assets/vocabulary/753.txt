@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"v\u0103n th\u01b0, b\u0103\u0340ng ch\u01b0\u0341ng, gi\u00e2\u0341y ma\u0341, ta\u0340i li\u00ea\u0323u","a":"personnel","b":"prevail","c":"carbon","d":"document","answer":"document"}

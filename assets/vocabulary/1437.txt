@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341nh c\u01b0\u0309a, ca\u0341nh hoa, t\u00e2\u0341m bi\u0340nh phong, t\u01a1\u0340 gi\u00e2\u0341y, la\u0341, mi\u00ea\u0341ng gi\u00e2\u0341y, mi\u00ea\u0341ng va\u0340ng la\u0341","a":"intervene","b":"leaf","c":"shortage","d":"challenging","answer":"leaf"}

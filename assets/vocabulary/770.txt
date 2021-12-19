@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi \u0111a\u0341t, bi tra\u0341ng, ca ki\u0323ch, ki\u0323ch, ki\u0323ch tr\u01b0\u01a1\u0340ng","a":"skull","b":"functional","c":"compound","d":"dramatic","answer":"dramatic"}

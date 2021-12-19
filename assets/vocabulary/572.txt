@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111oa\u0340n th\u00ea\u0309, l\u00e2\u0323p tha\u0340nh","a":"marginal","b":"vanish","c":"accelerate","d":"corporate","answer":"corporate"}

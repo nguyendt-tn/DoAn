@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ma\u0341y chu\u0323p a\u0309nh, ma\u0341y chu\u0323p hi\u0340nh, pho\u0340ng ri\u00eang cu\u0309a quan to\u0340a, x\u01b0\u0309 ki\u0341n","a":"camera","b":"legitimate","c":"coup","d":"rebuild","answer":"camera"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"neo, neo s\u0103\u0341t \u0111\u00ea\u0309 gi\u01b0\u0303 \u0111\u00f4\u0340, \u01a1\u0309 li\u0340, tha\u0309 neo","a":"continue","b":"anchor","c":"function","d":"plane","answer":"anchor"}

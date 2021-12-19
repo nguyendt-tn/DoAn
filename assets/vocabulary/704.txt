@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 bi\u00ea\u0309u, \u0111\u00f4\u0340 hi\u0340nh, gia\u0309n \u0111\u00f4\u0340, l\u01b0\u01a1\u0323c \u0111\u00f4\u0340","a":"prior","b":"addiction","c":"firearm","d":"diagram","answer":"diagram"}

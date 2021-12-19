@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"mang, giao cho, ch\u01a1\u0309, nhe\u0341t \u0111\u00e2\u0340y, b\u0103\u0341t ga\u0341nh va\u0341t, sa\u0323t bi\u0340nh \u0103\u0341c quy, \u0111\u00f4\u0323t ki\u0341ch, phi\u0341 du\u0323ng","a":"novelist","b":"sexy","c":"deadline","d":"charge","answer":"charge"}

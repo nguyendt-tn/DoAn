@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ca\u0341ch nhau, chia ng\u0103n hai v\u00e2\u0323t, \u0111\u00ea\u0309 ri\u00eang, nh\u01b0\u0303ng ly\u0341 le\u0309, ph\u00e2n bi\u00ea\u0323t v\u01a1\u0341i v\u00e2\u0323t kha\u0341c, qua m\u00f4\u0323t b\u00ean, v\u00ea\u0340","a":"literary","b":"apart","c":"tender","d":"columnist","answer":"apart"}

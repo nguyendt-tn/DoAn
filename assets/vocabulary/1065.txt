@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ha\u0323ng t\u01b0, th\u01b0\u0341 t\u01b0","a":"treaty","b":"fourth","c":"creep","d":"instrumental","answer":"fourth"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0341c m\u00f4\u0323ng, m\u00f4\u0323ng d\u01b0\u0303","a":"nightmare","b":"render","c":"exhibit","d":"defect","answer":"nightmare"}

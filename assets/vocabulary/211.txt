@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"h\u00e2\u0340m, h\u00e2\u0341p, n\u01b0\u01a1\u0341ng","a":"weave","b":"dramatically","c":"isolate","d":"bake","answer":"bake"}

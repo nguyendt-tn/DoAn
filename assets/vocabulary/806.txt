@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"da\u0323y d\u00f4\u0303, gia\u0341o hu\u00e2\u0341n, gia\u0341o du\u0323c","a":"fixture","b":"spite","c":"delegate","d":"educate","answer":"educate"}

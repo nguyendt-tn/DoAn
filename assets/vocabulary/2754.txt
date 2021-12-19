@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 ma\u0303nh li\u00ea\u0323t, s\u01b0\u0323 ma\u0309nh li\u00ea\u0323t cu\u0309a gio\u0341, s\u01b0\u0323 d\u01b0\u0303 d\u00f4\u0323i, s\u01b0\u0323 d\u01b0\u0303 t\u01a1\u0323n","a":"minimize","b":"confusion","c":"violence","d":"tuition","answer":"violence"}

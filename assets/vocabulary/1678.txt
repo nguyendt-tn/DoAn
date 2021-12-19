@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"chi\u0341n chu\u0323c","a":"fine","b":"ninety","c":"revenue","d":"cabin","answer":"ninety"}

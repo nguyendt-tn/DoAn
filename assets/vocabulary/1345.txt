@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"quan t\u00e2m, li\u00ean quan, chu\u0341 y\u0341, quan h\u00ea\u0323","a":"lottery","b":"conversion","c":"interested","d":"thereby","answer":"interested"}

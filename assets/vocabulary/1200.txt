@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cao, b\u00ea\u0340 cao vo\u0341c ng\u01b0\u01a1\u0340i, b\u00ea\u0340 cao, chi\u00ea\u0340u cao, cho\u0341ng m\u0103\u0323t vi\u0340 l\u00ean cao, c\u01b0\u0323c \u0111i\u00ea\u0309m, \u0111\u00f4\u0323 cao","a":"subscription","b":"aftermath","c":"height","d":"fame","answer":"height"}

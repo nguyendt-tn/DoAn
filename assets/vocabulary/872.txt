@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0309nh chung quanh, khoa\u0309ng chung quanh, mi\u00ea\u0340n chung quanh, nh\u01b0\u0303ng v\u00e2\u0323t chung quanh, phu\u0309 chung quanh","a":"vulnerable","b":"lifetime","c":"diagnosis","d":"environment","answer":"environment"}

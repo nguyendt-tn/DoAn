@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phe\u0341p loa\u0323i suy, s\u01b0\u0323 gi\u00f4\u0341ng nhau, s\u01b0\u0323 t\u01b0\u01a1ng t\u01a1\u0323","a":"analogy","b":"bored","c":"july","d":"flood","answer":"analogy"}

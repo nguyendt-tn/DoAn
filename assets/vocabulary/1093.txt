@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0341o b\u0103\u0340ng l\u00f4ng thu\u0341, da l\u00f4ng cu\u0309a thu\u0341, qu\u00e2\u0340n a\u0341o b\u0103\u0340ng da thu\u0341","a":"bureaucracy","b":"merchant","c":"screw","d":"fur","answer":"fur"}

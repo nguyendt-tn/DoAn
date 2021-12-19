@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch n\u00e2\u0341u \u0103n, s\u01b0\u0323 n\u00e2\u0341u","a":"implement","b":"cooking","c":"triumph","d":"distort","answer":"cooking"}

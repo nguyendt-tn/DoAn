@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chu\u00e2\u0309n bi\u0323 vi\u00ea\u0323c gi\u0340, \u0111\u00ea\u0309 s\u01b0\u0309 du\u0323ng, g\u00e2\u0340n, s\u0103\u0309n lo\u0340ng, s\u0103\u0309n sa\u0340ng, s\u0103\u0341p la\u0340m vi\u00ea\u0323c gi\u0340, s\u01b0\u0309a soa\u0323n","a":"invasion","b":"sack","c":"beneath","d":"ready","answer":"ready"}

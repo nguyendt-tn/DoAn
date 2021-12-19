@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kha\u0341c v\u01a1\u0341i, kh\u00f4ng pha\u0309i cu\u0309a mi\u0340nh, kh\u00f4ng quan h\u00ea\u0323, ng\u01b0\u01a1\u0340i ngoa\u0323i qu\u00f4\u0341c, tra\u0341i v\u01a1\u0341i vi\u00ea\u0323c gi\u0340","a":"crop","b":"depth","c":"alien","d":"personal","answer":"alien"}

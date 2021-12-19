@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u0103n lau, da, len, \u0111\u00f4\u0340 va\u0309i lu\u0323a, ni\u0309, t\u00e2\u0341m tra\u0309i ba\u0340n, va\u0309i","a":"cloth","b":"skip","c":"pipeline","d":"capability","answer":"cloth"}

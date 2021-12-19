@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u00f4\u0323i, t\u00f4\u0309 ch\u01b0\u0341c, tr\u01b0\u01a1\u0340ng da\u0323y ngh\u00ea\u0340, vi\u00ea\u0323n v\u0103n ho\u0341a, vi\u00ea\u0323n gia\u0341o du\u0323c","a":"password","b":"principal","c":"institute","d":"adequate","answer":"institute"}

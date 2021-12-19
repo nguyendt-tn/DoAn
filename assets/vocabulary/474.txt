@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hi\u00ea\u0323p nguy\u00ea\u0323n, l\u01a1\u0340i nguy\u00ea\u0340n, nho\u0341m la\u0323i","a":"landmark","b":"wrist","c":"blanket","d":"collect","answer":"collect"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u00f4i, sum s\u00ea, co\u0341 mu\u0340i n\u0103\u0323ng, na\u0309y n\u01a1\u0309, nhi\u00ea\u0340u, co\u0341 mu\u0340i h\u00f4i, thu\u0341i, phong phu\u0341, r\u00e2\u0323m ra\u0323p","a":"purely","b":"disclosure","c":"rank","d":"inspect","answer":"rank"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"c\u00f4 \u00e2\u0341y","a":"instantly","b":"abstract","c":"she","d":"shore","answer":"she"}

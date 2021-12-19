@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u00f4ng, kh\u00f4ng co\u0341 gi\u0340 m\u01a1\u0341i ca\u0309, kh\u00f4ng \u0111a\u0341ng k\u00ea\u0309, kh\u00f4ng quan h\u00ea\u0323 l\u0103\u0341m, s\u00f4\u0341 kh\u00f4ng","a":"counselling","b":"useless","c":"nothing","d":"overseas","answer":"nothing"}

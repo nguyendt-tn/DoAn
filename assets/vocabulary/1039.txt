@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chi\u0309nh hi\u0340nh cho \u0111u\u0341ng, s\u01b0\u0309a cho \u0111u\u0341ng, t\u00e2\u0323p trung nh\u01b0\u0303ng tia sa\u0341ng","a":"unite","b":"focus","c":"beneath","d":"exploit","answer":"focus"}

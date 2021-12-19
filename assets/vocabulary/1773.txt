@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u01a1\u0309 ngoa\u0340i, t\u01b0\u0340 \u01a1\u0309 ngoa\u0340i","a":"outside","b":"excess","c":"unity","d":"chop","answer":"outside"}

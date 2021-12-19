@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"la\u0340m cho hoa\u0340n ha\u0309o, la\u0340m t\u00f4\u0341t th\u00eam, tr\u01a1\u0309 n\u00ean t\u00f4\u0341t","a":"proportion","b":"joint","c":"attorney","d":"improve","answer":"improve"}

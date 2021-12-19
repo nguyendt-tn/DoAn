@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"xa h\u01a1n, h\u01a1n n\u01b0\u0303a, th\u00eam n\u01b0\u0303a, va\u0309 la\u0323i","a":"nursery","b":"accessible","c":"restrict","d":"further","answer":"further"}

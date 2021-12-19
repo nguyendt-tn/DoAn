@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341nh bi\u0341t qui, ba\u0341nh ngo\u0323t nho\u0309, ba\u0341nh s\u01b0\u0309a kh\u00f4","a":"oral","b":"biscuit","c":"seeker","d":"enrich","answer":"biscuit"}

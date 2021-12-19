@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phim, b\u01b0\u0341c ho\u0323a, b\u01b0\u0341c hi\u0340nh, tranh a\u0309nh, b\u01b0\u0341c tranh, hi\u0340nh a\u0309nh, hi\u0340nh ve\u0303","a":"awareness","b":"picture","c":"gaming","d":"unfortunate","answer":"picture"}

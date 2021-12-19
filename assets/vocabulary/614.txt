@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u00ea\u0309 ba\u0341i, thu\u00f4\u0323c v\u00ea\u0340 t\u00ea\u0341 t\u01b0\u0323","a":"ray","b":"cultural","c":"humanity","d":"administer","answer":"cultural"}

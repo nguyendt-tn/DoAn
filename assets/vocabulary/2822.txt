@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"ca\u0341i n\u00e2\u0340y cu\u0309a ai, cu\u0309a ai, cu\u0309a ng\u01b0\u01a1\u0340i na\u0340o, ma\u0340 cu\u0309a ai","a":"critique","b":"fairness","c":"proceeding","d":"whose","answer":"whose"}

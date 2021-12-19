@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u0323 ta\u0340n pha\u0341, kh\u00f4ng du\u0340ng n\u01b0\u0303a, v\u00f4 gia\u0341 tri\u0323","a":"waste","b":"assistance","c":"statistical","d":"notify","answer":"waste"}

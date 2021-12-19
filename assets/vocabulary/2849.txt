@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01b0\u0303, l\u01a1\u0340i, ti\u00ea\u0341ng","a":"ethic","b":"decisive","c":"trap","d":"word","answer":"word"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"qu\u0103ng, l\u00f4\u0323t da, trau \u0111\u00f4\u0340 sa\u0340nh, ne\u0341m, pho\u0341ng, li\u00ea\u0323ng, sanh \u0111e\u0309","a":"mercy","b":"protester","c":"collaborate","d":"throw","answer":"throw"}

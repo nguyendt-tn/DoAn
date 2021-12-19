@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng thay \u0111\u00f4\u0309i, v\u01b0\u0309ng va\u0340ng","a":"injection","b":"efficiently","c":"tissue","d":"constant","answer":"constant"}

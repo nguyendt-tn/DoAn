@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lo\u0340ng tin, s\u01b0\u0323 giao tha\u0341c, tra\u0341ch nhi\u00ea\u0323m, s\u01b0\u0323 ky\u0340 vo\u0323ng, s\u01b0\u0323 tr\u00f4ng mong, tin c\u00e2\u0323y, ti\u0341n nhi\u00ea\u0323m","a":"casino","b":"slash","c":"trust","d":"highway","answer":"trust"}

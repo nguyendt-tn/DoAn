@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u00f4\u0341i","a":"fragment","b":"administer","c":"vibrant","d":"banana","answer":"banana"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"ta\u0341m chu\u0323c","a":"parish","b":"vulnerable","c":"eighty","d":"adverse","answer":"eighty"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0341nh gia\u0341, \u0111i\u0323nh gia\u0341 ha\u0340ng ho\u0341a, gia\u0341 ca\u0309, gia\u0341 ti\u00ea\u0340n, gia\u0341 tri\u0323, tri\u0323 gia\u0341, tri\u0323 s\u00f4\u0341","a":"value","b":"filter","c":"rental","d":"convention","answer":"value"}

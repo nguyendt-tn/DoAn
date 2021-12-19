@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"cu\u0303ng v\u00e2\u0323y, nh\u01b0 v\u00e2\u0323y, th\u00e2\u0323t v\u00e2\u0323y","a":"legend","b":"also","c":"designate","d":"unprecedented","answer":"also"}

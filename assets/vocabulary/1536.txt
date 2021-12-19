@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho l\u00e2\u0341y nhau, k\u00ea\u0341t th\u01b0\u0340ng, k\u00ea\u0341t h\u00f4n, k\u00ea\u0341t h\u00f4n v\u01a1\u0341i ng\u01b0\u01a1\u0340i na\u0340o, l\u00e2\u0341y ng\u01b0\u01a1\u0340i na\u0340o, l\u00e2\u0341y nhau, ph\u00f4\u0341i h\u01a1\u0323p","a":"aluminium","b":"format","c":"marry","d":"worship","answer":"marry"}

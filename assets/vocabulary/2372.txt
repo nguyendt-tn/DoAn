@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 m\u0103\u0323t tr\u01a1\u0340i","a":"solar","b":"calculation","c":"withdrawal","d":"manuscript","answer":"solar"}

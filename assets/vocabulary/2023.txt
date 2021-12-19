@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2\u0341t l\u01b0\u01a1\u0323ng, \u0111\u01b0\u0341c t\u00f4\u0341t, gi\u0341a tri\u0323, ph\u00e2\u0309m ca\u0341ch, ph\u00e2\u0309m ch\u00e2\u0341t, s\u01b0\u0323 cao qui\u0341, ta\u0341nh t\u00f4\u0341t, ti\u0341nh ch\u00e2\u0341t","a":"desktop","b":"lawsuit","c":"quality","d":"summit","answer":"quality"}

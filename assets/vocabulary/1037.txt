@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bay, v\u0103ng ra, \u0111a\u0340o t\u00e2\u0309u, \u0111i th\u00e2\u0323t le\u0323, la\u0341i phi c\u01a1, treo c\u01a1\u0340","a":"fly","b":"tribe","c":"charm","d":"ownership","answer":"fly"}

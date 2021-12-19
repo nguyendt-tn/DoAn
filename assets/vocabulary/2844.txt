@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kinh nga\u0323c, nga\u0323c nhi\u00ean","a":"beneficial","b":"wonder","c":"liberty","d":"presidential","answer":"wonder"}

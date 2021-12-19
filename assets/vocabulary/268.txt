@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ng\u0103n, k\u00ea\u0323, thu\u0340ng \u0111\u01b0\u0323ng r\u01b0\u01a1\u0323u","a":"complement","b":"vulnerable","c":"outsider","d":"bin","answer":"bin"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c ca\u0309i nhau, da\u0303y, ha\u0340ng, ha\u0340ng c\u00e2y, ha\u0340ng gh\u00ea\u0341, l\u01a1\u0340i khi\u00ea\u0309n tra\u0341ch, l\u01a1\u0340i la m\u0103\u0341ng, lu\u00f4\u0341ng \u0111\u00e2\u0341t","a":"row","b":"facilitate","c":"plug","d":"annually","answer":"row"}

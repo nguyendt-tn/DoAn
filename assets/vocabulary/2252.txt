@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u00e2u nh\u01b0\u0341t, l\u01a1\u0341n tu\u00f4\u0309i h\u01a1n","a":"consequently","b":"frankly","c":"spouse","d":"senior","answer":"senior"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00e2\u0340u m\u00f4\u0341i, manh m\u00f4\u0341i","a":"aftermath","b":"clue","c":"ironic","d":"sketch","answer":"clue"}

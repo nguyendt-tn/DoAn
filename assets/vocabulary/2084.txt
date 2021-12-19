@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chi\u00ea\u0341u la\u0323i, nghi\u0303 ng\u01a1\u0323i, d\u00f4\u0323i la\u0323i, suy nghi\u0303","a":"reflect","b":"autonomy","c":"inspection","d":"protective","answer":"reflect"}

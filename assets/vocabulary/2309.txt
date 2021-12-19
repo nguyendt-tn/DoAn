@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111au, b\u00ea\u0323nh, bi\u0323nh, m\u00ea\u0323t","a":"coup","b":"necessity","c":"sick","d":"shocking","answer":"sick"}

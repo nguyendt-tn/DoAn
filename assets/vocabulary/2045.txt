@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nhanh, mau, le\u0323, th\u0103\u0309ng \u0111\u01b0\u0341ng","a":"surgical","b":"rapid","c":"penalty","d":"convict","answer":"rapid"}

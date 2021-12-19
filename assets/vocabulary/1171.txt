@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"quai va li, go\u0323ng xe bu\u0340 \u00f4\u0323t, quai bi\u0340nh \u0111\u01b0\u0323ng n\u01b0\u01a1\u0341c, ca\u0341n ch\u00f4\u0309i, tay c\u00e2\u0340m, tay v\u0103\u0323n, thu\u0340ng tra\u0341i c\u00e2y","a":"handle","b":"coverage","c":"extensive","d":"taxpayer","answer":"handle"}

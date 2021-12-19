@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u00f4m nay, bu\u00f4\u0309i, t\u00f4\u0341i nga\u0340y, v\u01b0\u0340a h\u01b0\u0340ng \u0111\u00f4ng, ban nga\u0340y, v\u01b0\u0340a ta\u0309ng sa\u0341ng, nga\u0340y","a":"attendance","b":"day","c":"humanitarian","d":"reckon","answer":"day"}

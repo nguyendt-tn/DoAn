@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"cu\u0309a","a":"preside","b":"of","c":"compromise","d":"make-up","answer":"of"}

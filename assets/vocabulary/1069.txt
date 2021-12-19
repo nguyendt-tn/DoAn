@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"mu\u0340a \u0111\u00f4ng gia\u0341, ng\u0103n \u0111a\u0341, ng\u0103n la\u0323nh, s\u01b0\u0323 \u0111\u00f4ng gia\u0341, tuy\u00ea\u0341t xo\u0103\u0341n","a":"regardless","b":"parade","c":"freeze","d":"accounting","answer":"freeze"}

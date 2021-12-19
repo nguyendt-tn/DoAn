@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u00f4\u0323i \u0111\u00f4\u0340ng, h\u00f4\u0323i \u0111\u00f4\u0340ng tha\u0340nh ph\u00f4\u0341, h\u00f4\u0323i nghi\u0323, h\u00f4\u0323i nghi\u0323 t\u00f4n gia\u0341o, khai h\u00f4\u0323i, tham cha\u0341nh vi\u00ea\u0323n","a":"supervision","b":"accounting","c":"inherent","d":"council","answer":"council"}

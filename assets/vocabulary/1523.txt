@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nam nhi, \u0111a\u0340n \u00f4ng, gia th\u00e2\u0340n, loa\u0340i ng\u01b0\u01a1\u0340i, ch\u00f4\u0340ng, nam t\u01b0\u0309, ng\u01b0\u01a1\u0340i, nh\u00e2n loa\u0323i","a":"curious","b":"man","c":"grocery","d":"sporting","answer":"man"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u00e2\u0341y la\u0323i s\u01b0\u0341c","a":"health","b":"recruit","c":"odds","d":"appreciation","answer":"health"}

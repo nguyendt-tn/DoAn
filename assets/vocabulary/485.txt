@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"y\u00ean t\u00e2m, khoan khoa\u0341i, ti\u00ea\u0323n l\u01a1\u0323i, ti\u00ea\u0323n du\u0323ng, thoa\u0309i ma\u0341i","a":"buck","b":"exclusion","c":"steam","d":"comfortable","answer":"comfortable"}

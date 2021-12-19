@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u0340nh an v\u00f4 s\u01b0\u0323, kho\u0309e ma\u0323nh","a":"whole","b":"likelihood","c":"seal","d":"collective","answer":"whole"}

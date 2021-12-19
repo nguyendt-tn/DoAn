@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tu\u00e2n theo, nghe theo, phu\u0323c tu\u0340ng, v\u00e2ng l\u01a1\u0340i","a":"obey","b":"lad","c":"cynical","d":"withdraw","answer":"obey"}

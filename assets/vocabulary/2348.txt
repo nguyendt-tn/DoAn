@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"la\u0341t, la\u0341t mo\u0309ng, mi\u00ea\u0341ng mo\u0309ng, s\u01b0\u0323 tha\u0341i da\u0340i va\u0340 mo\u0309ng","a":"slice","b":"clerk","c":"ton","d":"nowadays","answer":"slice"}

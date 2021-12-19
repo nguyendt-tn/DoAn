@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng vi\u00ea\u0323c, \u0111i\u00ea\u0340u, \u0111\u00f4\u0340 \u0111a\u0323c, v\u00e2\u0323t","a":"thing","b":"counter","c":"practitioner","d":"memorable","answer":"thing"}

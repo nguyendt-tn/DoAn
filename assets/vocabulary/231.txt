@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00e2\u0323u, tia sa\u0341ng","a":"litter","b":"spokeswoman","c":"bean","d":"distant","answer":"bean"}

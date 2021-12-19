@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"dai, b\u00ea\u0340n, c\u01b0\u0341ng, c\u01b0\u01a1ng tr\u01b0\u0323c, \u0111\u00f4\u0340 v\u00f4 la\u0323i, kho\u0341 kh\u0103n, kho\u0341 nho\u0323c, ma\u0323nh me\u0303","a":"horn","b":"composer","c":"sensation","d":"tough","answer":"tough"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"h\u00e2\u0341p thu\u0323, hu\u0341t, nu\u00f4\u0341t, th\u00e2\u0341m","a":"absorb","b":"hour","c":"column","d":"polite","answer":"absorb"}

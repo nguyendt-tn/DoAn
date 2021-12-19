@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u01a1i, ch\u00f4\u0309, ch\u00f4\u0341n, \u0111i\u0323a ph\u01b0\u01a1ng, c\u01b0\u0309a ha\u0340ng, vu\u0340ng","a":"memorial","b":"place","c":"cheek","d":"theology","answer":"place"}

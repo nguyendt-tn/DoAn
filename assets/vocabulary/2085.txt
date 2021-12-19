@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 c\u0103\u0323n, \u0111\u00f4\u0340 kh\u00f4ng gia\u0341 tri\u0323, \u0111\u00f4\u0340 v\u00f4 du\u0323ng, v\u00e2\u0323t d\u01b0","a":"magnitude","b":"refuse","c":"brick","d":"reasoning","answer":"refuse"}

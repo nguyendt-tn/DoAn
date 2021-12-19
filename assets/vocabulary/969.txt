@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u00f4ng nghi\u00ea\u0323p","a":"farming","b":"confer","c":"superb","d":"fundraising","answer":"farming"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"qu\u00e2\u0340n jean","a":"notably","b":"capitalist","c":"rocket","d":"jeans","answer":"jeans"}

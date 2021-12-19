@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"t\u01b0\u0340ng \u0111oa\u0323n, t\u01b0\u0340ng khu\u0341c, t\u01b0\u0340ng ph\u00e2\u0340n","a":"consumption","b":"genetic","c":"partly","d":"substantially","answer":"partly"}

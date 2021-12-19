@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nh\u00f4m, ch\u00e2\u0341t nh\u00f4m","a":"interrupt","b":"parent","c":"date","d":"aluminium","answer":"aluminium"}

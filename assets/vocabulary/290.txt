@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bo\u0341 la\u0323i, m\u00f4\u0341i li\u00ean la\u0323c, phi\u00ea\u0341u, ra\u0340ng bu\u00f4\u0323c, v\u00e2\u0323t gi\u0340 c\u00f4\u0323t la\u0323i","a":"bond","b":"optimism","c":"adolescent","d":"preach","answer":"bond"}

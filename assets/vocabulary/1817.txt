@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khu\u00f4n, g\u01b0\u01a1ng, hi\u0340nh ve\u0309 ki\u00ea\u0309u trang s\u01b0\u0341c, m\u00e2\u0303u, ki\u00ea\u0309u","a":"tackle","b":"pattern","c":"availability","d":"long-standing","answer":"pattern"}

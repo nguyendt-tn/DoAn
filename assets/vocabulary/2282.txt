@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chia, ph\u00e2n chia, d\u01b0\u0323 va\u0340o, co\u0341 ch\u00e2n trong, ph\u00e2n ph\u00f4\u0341i, co\u0341 ph\u00e2\u0340n trong v\u00e2\u0323t gi\u0340, co\u0341 d\u01b0\u0323 ph\u00e2\u0340n","a":"greenhouse","b":"browser","c":"share","d":"syndrome","answer":"share"}

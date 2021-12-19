@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4i, c\u0103\u0323p, c\u0103\u0323p v\u01a1\u0323 ch\u00f4\u0340ng, m\u00f4\u0323t \u0111\u00f4i, s\u01b0\u0323 b\u0103\u0341t c\u0103\u0323p, \u0111\u00f4i v\u01a1\u0323 ch\u00f4\u0340ng","a":"comparable","b":"pair","c":"instantly","d":"retrieve","answer":"pair"}

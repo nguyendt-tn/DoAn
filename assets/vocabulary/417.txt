@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"phi\u00ea\u0341u d\u01b0\u0323 h\u01a1\u0323p, the\u0309 xu\u00e2\u0341t ti\u0323ch","a":"casualty","b":"tenant","c":"check","d":"lane","answer":"check"}

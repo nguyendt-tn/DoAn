@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u0103ng ha\u0341i, kh\u00eau g\u01a1\u0323i, khuy\u00ea\u0341n khi\u0341ch, ph\u00e2\u0341n kh\u01a1\u0309i","a":"conscience","b":"exciting","c":"fragile","d":"resume","answer":"exciting"}

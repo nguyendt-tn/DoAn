@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"no\u0341","a":"inclined","b":"capitalism","c":"skip","d":"it","answer":"it"}

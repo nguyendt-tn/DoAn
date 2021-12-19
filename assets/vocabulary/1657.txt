@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y kim, c\u01a1n \u0111\u00f4\u0323ng kinh, ki\u0341ch \u0111\u00f4\u0323ng, kim chi\u0309 nam, n\u00f4\u0309i gi\u00e2\u0323n, pha\u0341t gi\u00e2\u0323n, c\u01a1n th\u00e2\u0340n kinh, kim \u0111i\u0323a ba\u0340n, kim ha\u0341t ma\u0341y","a":"optimistic","b":"tragedy","c":"accuracy","d":"needle","answer":"needle"}

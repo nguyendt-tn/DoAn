@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phi c\u01a1, ho\u0309a ti\u00ea\u0309n, khi\u0341 c\u00e2\u0340u","a":"index","b":"reluctant","c":"consult","d":"aircraft","answer":"aircraft"}

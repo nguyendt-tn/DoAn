@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nha\u0340 t\u00e2m ly\u0341 ho\u0323c","a":"grasp","b":"psychologist","c":"protective","d":"creativity","answer":"psychologist"}

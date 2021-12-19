@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01a1\u0323, ch\u01a1\u0323 gia su\u0341c, gia\u0341 thi\u0323 tr\u01b0\u01a1\u0340ng, s\u01b0\u0323 bu\u00f4n ba\u0341n, thi\u0323 tr\u01b0\u01a1\u0340ng","a":"market","b":"racism","c":"commentator","d":"merit","answer":"market"}

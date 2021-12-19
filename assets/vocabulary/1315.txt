@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ho\u0323c th\u01b0\u0341c, ho\u0309i th\u0103m, s\u01b0\u0323 \u0111i\u00ea\u0340u tra, s\u01b0\u0323 hi\u00ea\u0309u bi\u00ea\u0341t, tin t\u01b0\u0341c","a":"information","b":"acre","c":"equality","d":"thankfully","answer":"information"}

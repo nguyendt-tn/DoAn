@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"h\u00f4m nay, hi\u00ea\u0323n gi\u01a1\u0340, nga\u0340y nay","a":"subscription","b":"motion","c":"conservation","d":"today","answer":"today"}

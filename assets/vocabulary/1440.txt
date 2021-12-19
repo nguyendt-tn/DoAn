@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0341o cho bi\u00ea\u0341t, da\u0323y, ho\u0323c ho\u0309i, ho\u0323c t\u00e2\u0323p, luy\u00ea\u0323n t\u00e2\u0323p, trau d\u00f4\u0340i","a":"trio","b":"latter","c":"aftermath","d":"learn","answer":"learn"}

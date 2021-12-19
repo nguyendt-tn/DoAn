@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ve\u0309 t\u00e2n ky\u0340, la\u0323 th\u01b0\u01a1\u0340ng, m\u01a1\u0341i la\u0323","a":"biography","b":"hip","c":"sexuality","d":"novel","answer":"novel"}

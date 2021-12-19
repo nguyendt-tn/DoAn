@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"do\u0340 xe\u0341t, nghi\u00ean c\u01b0\u0341u, xem xe\u0341t","a":"capitalism","b":"induce","c":"investigate","d":"toss","answer":"investigate"}

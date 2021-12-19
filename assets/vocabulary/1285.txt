@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lo\u0340ng t\u01b0\u0323 phu\u0323, ti\u0341nh tro\u0323ng \u0111a\u0323i, tro\u0323ng y\u00ea\u0341u","a":"allowance","b":"importance","c":"sustain","d":"lane","answer":"importance"}

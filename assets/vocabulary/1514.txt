@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"xe th\u01a1, bao th\u01a1, nha\u0340 b\u01b0u \u0111i\u00ea\u0323n, b\u01b0u cha\u0341nh, th\u01a1 ti\u0341n, b\u01b0u cu\u0323c, a\u0341o gia\u0341p, xe tra\u0323m","a":"mail","b":"infer","c":"textbook","d":"accordance","answer":"mail"}

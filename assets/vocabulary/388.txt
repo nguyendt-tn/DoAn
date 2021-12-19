@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"abbreviation","vi_terms":"CD, \u0111i\u0303a compact","a":"unveil","b":"cling","c":"harmony","d":"cd","answer":"cd"}

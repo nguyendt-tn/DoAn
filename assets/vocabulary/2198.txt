@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ha\u0309i qu\u00e2n, li\u0341nh thu\u0309y, thu\u0309y thu\u0309","a":"sailor","b":"dairy","c":"tribal","d":"observer","answer":"sailor"}

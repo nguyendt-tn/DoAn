@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lu\u0341c co\u0340n nho\u0309, th\u01a1\u0340i th\u01a1 \u00e2\u0341u","a":"courtesy","b":"childhood","c":"major","d":"preach","answer":"childhood"}

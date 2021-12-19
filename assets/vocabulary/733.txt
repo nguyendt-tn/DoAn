@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01a1\u0341t gia\u0341, gia\u0303m gia\u0341, ha\u0323 gia\u0341, su\u0323t gia\u0341, ti\u00ea\u0340n chi\u00ea\u0341t kh\u00e2\u0341u","a":"sentiment","b":"discount","c":"accordingly","d":"opt","answer":"discount"}

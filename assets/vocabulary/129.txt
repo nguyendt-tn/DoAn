@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"s\u01b0\u0323 minh ba\u0323ch, s\u01b0\u0323 ro\u0309 ra\u0340ng","a":"apparently","b":"gambling","c":"sexuality","d":"calculation","answer":"apparently"}

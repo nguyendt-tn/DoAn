@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hoa\u0340n toa\u0340n, \u01b0u tu\u0341, xu\u00e2\u0341t chu\u0341ng, xu\u00e2\u0341t s\u0103\u0341c","a":"aftermath","b":"unite","c":"horn","d":"excellent","answer":"excellent"}

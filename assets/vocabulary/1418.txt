@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch pha\u0341t bi\u00ea\u0309u t\u01b0 t\u01b0\u01a1\u0309ng, ng\u00f4n ng\u01b0\u0303, ti\u00ea\u0341ng, ti\u00ea\u0341ng no\u0341i cu\u0309a m\u00f4\u0323t d\u00e2n t\u00f4\u0323c, ti\u00ea\u0341ng ri\u00eang cu\u0309a m\u00f4\u0323t ngh\u00ea\u0340","a":"language","b":"trap","c":"casual","d":"peer","answer":"language"}

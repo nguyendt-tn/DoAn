@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 th\u00e2\u0323t, th\u00e2\u0323t, thi\u00ea\u0323t, th\u01b0\u0323c","a":"icon","b":"cheek","c":"real","d":"rebuild","answer":"real"}

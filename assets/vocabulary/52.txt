@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng vi\u00ea\u0323c, danh d\u01b0\u0323, ti\u0340nh ca\u0303m, v\u00e2\u0341n \u0111\u00ea\u0340, vi\u00ea\u0323c","a":"affair","b":"minimal","c":"biography","d":"snap","answer":"affair"}

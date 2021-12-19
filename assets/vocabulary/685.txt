@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4 khan, he\u0309o la\u0341nh, v\u0103\u0341ng ve\u0309, sa ma\u0323c","a":"desert","b":"privatization","c":"coordinator","d":"forth","answer":"desert"}

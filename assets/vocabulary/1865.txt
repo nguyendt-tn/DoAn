@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phi c\u00f4ng, ng\u01b0\u01a1\u0340i d\u00e2\u0309n ta\u0340u, ng\u01b0\u01a1\u0340i hoa ti\u00eau","a":"pilot","b":"facilitate","c":"widen","d":"dip","answer":"pilot"}

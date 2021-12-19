@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"la\u0340m v\u0103\u0341ng ve\u0309, nha\u0340 tr\u00f4\u0341ng, v\u00f4 i\u0341ch, xe t\u0103\u0341c xi kh\u00f4ng kha\u0341ch, tr\u00f4\u0341ng, tr\u00f4\u0341ng kh\u00f4ng","a":"mill","b":"empty","c":"endorsement","d":"refusal","answer":"empty"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nha\u0340 \u01a1\u0309 vu\u0340ng qu\u00ea, nha\u0340 tranh","a":"cottage","b":"intriguing","c":"strand","d":"designate","answer":"cottage"}

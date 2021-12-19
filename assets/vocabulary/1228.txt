@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nga\u0340y l\u00ea\u0309, nga\u0340y nghi\u0309","a":"integrated","b":"colourful","c":"holiday","d":"puzzle","answer":"holiday"}

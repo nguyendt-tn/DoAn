@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u0340nh lu\u00e2\u0323n, chi\u0309 tri\u0341ch, nguy ki\u0323ch, pha\u0341n \u0111oa\u0341n, s\u01b0\u0323 ph\u00ea bi\u0340nh","a":"regain","b":"critical","c":"electoral","d":"fond","answer":"critical"}

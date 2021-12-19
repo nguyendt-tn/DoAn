@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ri\u00eang \u0111\u0103\u0323c bi\u00ea\u0323t, ta\u0341nh \u0111\u0103\u0323c bi\u00ea\u0323t","a":"landlord","b":"robbery","c":"blanket","d":"especially","answer":"especially"}

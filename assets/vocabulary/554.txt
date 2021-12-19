@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng d\u01b0\u0341t, kh\u00f4ng ng\u01b0\u0340ng, li\u00ean ti\u00ea\u0341p, n\u00f4\u0341i ti\u00ea\u0341p","a":"debris","b":"continuous","c":"refuge","d":"motivate","answer":"continuous"}

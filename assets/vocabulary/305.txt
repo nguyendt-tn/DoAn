@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"con trai, thanh ni\u00ean, b\u00f4\u0340i, ho\u0323c tro\u0340","a":"brick","b":"boy","c":"suck","d":"faction","answer":"boy"}

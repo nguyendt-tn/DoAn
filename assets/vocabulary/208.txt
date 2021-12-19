@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"d\u01a1\u0309, kho\u0341 kh\u0103n, x\u00e2\u0341u","a":"legislation","b":"viable","c":"automatic","d":"bad","answer":"bad"}

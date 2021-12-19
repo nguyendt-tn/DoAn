@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0341t h\u01a1\u0323p pha\u0341p, tra\u0341i lu\u00e2\u0323t","a":"jurisdiction","b":"balanced","c":"trait","d":"illegal","answer":"illegal"}

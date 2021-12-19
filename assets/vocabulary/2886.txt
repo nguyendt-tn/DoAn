@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kho\u0341 hi\u00ea\u0309u, kh\u00f4ng k\u00ea\u0309, to\u0341m l\u01b0\u01a1\u0323c, tri\u0341ch y\u00ea\u0341u, tr\u01b0\u0340u t\u01b0\u01a1\u0323ng, v\u00f4 hi\u0340nh","a":"interested","b":"abstract","c":"when","d":"beginning","answer":"abstract"}

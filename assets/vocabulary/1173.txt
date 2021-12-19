@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u00ea\u0341n, xa\u0309y \u0111\u00ea\u0341n, xa\u0309y ra","a":"equip","b":"happen","c":"tender","d":"beam","answer":"happen"}

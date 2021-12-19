@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"di\u0303 nhi\u00ean, s\u01b0\u0323 xa\u0309y ra, vi\u00ea\u0323c","a":"fact","b":"thoroughly","c":"mayor","d":"clip","answer":"fact"}

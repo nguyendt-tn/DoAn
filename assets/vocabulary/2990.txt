@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"qua m\u00f4\u0323t b\u00ean, tra\u0341nh xa ra, v\u00ea\u0340 m\u00f4\u0323t b\u00ean","a":"aside","b":"button","c":"know","d":"enquiry","answer":"aside"}

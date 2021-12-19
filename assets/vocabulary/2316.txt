@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"im l\u0103\u0323ng, kh\u00f4ng no\u0341i, la\u0340m thinh, ti\u0309nh mi\u0323ch, thanh v\u0103\u0341ng, y\u00ean l\u0103\u0323ng, y\u00ean ti\u0309nh","a":"tactic","b":"indigenous","c":"silent","d":"aesthetic","answer":"silent"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i t\u00f4\u0309 ch\u01b0\u0341c","a":"organizer","b":"casino","c":"establishment","d":"scandal","answer":"organizer"}

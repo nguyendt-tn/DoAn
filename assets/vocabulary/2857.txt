@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"t\u00ea\u0323 nh\u00e2\u0341t, t\u00f4\u0340i nh\u01b0\u0341t, x\u00e2\u0341u nh\u01b0\u0341t","a":"scholar","b":"await","c":"worst","d":"genetic","answer":"worst"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phim, ch\u01a1\u0341p bo\u0341ng, ha\u0341t bo\u0341ng","a":"interaction","b":"darkness","c":"useless","d":"movie","answer":"movie"}

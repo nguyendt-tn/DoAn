@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u00ea\u0340n c\u00f4ng, ti\u00ea\u0340n l\u01b0\u01a1ng","a":"dynamic","b":"salary","c":"hip","d":"proclaim","answer":"salary"}

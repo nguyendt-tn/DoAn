@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nga\u0340y sinh nh\u00e2\u0323t","a":"birthday","b":"suck","c":"exceed","d":"convict","answer":"birthday"}

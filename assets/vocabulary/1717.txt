@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u00ea\u0309n l\u01a1\u0341n, \u0111a\u0323i d\u01b0\u01a1ng, khoa\u0309ng r\u00f4\u0323ng m\u00eanh m\u00f4ng, s\u01b0\u0323 co\u0341 r\u00e2\u0341t nhi\u00ea\u0340u","a":"fragile","b":"ocean","c":"aluminium","d":"proceed","answer":"ocean"}

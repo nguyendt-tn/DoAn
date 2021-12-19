@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"b\u00e2\u0341t c\u01b0\u0341 v\u00e2\u0323t gi\u0340, mo\u0323i v\u00e2\u0323t, t\u00e2\u0341t ca\u0309","a":"anything","b":"anonymous","c":"tobacco","d":"hardware","answer":"anything"}

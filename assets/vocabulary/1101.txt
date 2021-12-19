@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0341m, \u0111\u01b0\u01a1\u0340ng nho\u0309, t\u00f4\u0341p, lu\u0303","a":"gang","b":"benchmark","c":"well-being","d":"objection","answer":"gang"}

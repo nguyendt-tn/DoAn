@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"vun, \u0111\u0103\u0341p \u0111\u00e2\u0341t, nu\u0341p, r\u01b0\u01a1\u0323t theo, tr\u00f4\u0341n","a":"harvest","b":"earth","c":"whip","d":"conviction","answer":"earth"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341nh, cha\u0341i nha\u0340, ma\u0323n ta\u0340u, ca\u0341nh chim","a":"recovery","b":"catalogue","c":"wing","d":"handful","answer":"wing"}

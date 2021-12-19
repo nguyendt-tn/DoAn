@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 lo\u0341t ch\u00e2n, l\u01a1\u0341p ga\u0323ch \u0111\u00ea\u0309 x\u00e2y b\u01a1\u0340 \u0111a\u0341, t\u00e2\u0341m tha\u0309m, tha\u0309m, tha\u0309m co\u0309 xanh","a":"carpet","b":"relieved","c":"interference","d":"biography","answer":"carpet"}

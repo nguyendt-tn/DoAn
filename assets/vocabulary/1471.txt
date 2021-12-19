@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u00f4i, mi\u00ea\u0323ng hang, mi\u00ea\u0323ng v\u00ea\u0341t th\u01b0\u01a1ng, ph\u00e2\u0340n l\u00f4\u0340i ra, s\u01b0\u0323 x\u00e2\u0341c x\u01b0\u01a1\u0323c, ca\u0341nh hoa hi\u0340nh m\u00f4i, ta\u0341nh v\u00f4 l\u00ea\u0309","a":"lip","b":"handy","c":"dominance","d":"premise","answer":"lip"}

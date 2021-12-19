@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i ti\u0340m to\u0340i","a":"readily","b":"justification","c":"bless","d":"researcher","answer":"researcher"}

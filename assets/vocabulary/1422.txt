@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"khuya, tr\u01b0a, c\u01b0\u0323u, m\u01a1\u0341i xa\u0309y ra, cu\u0303, qua \u0111\u01a1\u0340i, tr\u00ea\u0303, mu\u00f4\u0323n","a":"consultant","b":"sound","c":"gorgeous","d":"late","answer":"late"}

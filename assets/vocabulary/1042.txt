@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u00e2n t\u00f4\u0323c, gi\u00f4\u0341ng d\u00e2n, ng\u01b0\u01a1\u0340i","a":"constituency","b":"folk","c":"sword","d":"inherent","answer":"folk"}

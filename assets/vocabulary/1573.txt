@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch th\u01b0\u0341c, la\u0340m vi\u00ea\u0323c co\u0341 th\u01b0\u0341 t\u01b0\u0323, phe\u0341p, ph\u01b0\u01a1ng pha\u0341p, ph\u01b0\u01a1ng th\u01b0\u0341c","a":"method","b":"escalate","c":"pursuit","d":"accomplishment","answer":"method"}

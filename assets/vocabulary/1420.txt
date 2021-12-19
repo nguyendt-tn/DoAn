@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"qua\u0309ng \u0111a\u0323i, r\u00f4\u0323ng ra\u0309i, t\u00f4\u0309ng qua\u0341t","a":"bug","b":"largely","c":"stall","d":"perception","answer":"largely"}

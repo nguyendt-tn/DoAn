@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"th\u00f4i, bi\u0323t la\u0323i, d\u01b0\u0340ng la\u0323i, \u0111i\u0340nh chi\u0309, ng\u0103n ca\u0309n, ng\u01b0\u0340ng la\u0323i","a":"tide","b":"heritage","c":"stop","d":"assembly","answer":"stop"}

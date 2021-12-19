@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tha\u0341ng sa\u0341u","a":"soak","b":"array","c":"listing","d":"june","answer":"june"}

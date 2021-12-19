@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"r\u0103\u0341n","a":"trademark","b":"snake","c":"era","d":"accent","answer":"snake"}

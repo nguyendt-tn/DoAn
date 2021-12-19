@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u00ea\u0309 hai ma\u0340u \u0111\u00f4\u0341i nhau, \u0111\u00f4\u0341i la\u0323i, \u0111\u00f4\u0341i v\u01a1\u0341i, pha\u0309n \u0111\u00f4\u0341i ng\u01b0\u01a1\u0340i na\u0340o, pha\u0309n \u0111\u00f4\u0341i vi\u00ea\u0323c gi\u0340","a":"verify","b":"oppose","c":"integrate","d":"commodity","answer":"oppose"}

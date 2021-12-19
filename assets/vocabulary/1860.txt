@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xoi, \u0111a\u0340o, nh\u0103\u0323t, nh\u00f4\u0309, cu\u00f4\u0341c, g\u01a1\u0309, ha\u0341i, ki\u00ea\u0341m chuy\u00ea\u0323n, khoe\u0341t, l\u0103\u0323t, l\u00e2\u0341y, l\u01b0\u0323a cho\u0323n","a":"administer","b":"governor","c":"rational","d":"pick","answer":"pick"}

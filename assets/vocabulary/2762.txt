@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0340n cho sanh ma\u0323ng, co\u0341 th\u00ea\u0309 ch\u00ea\u0341t, quan h\u00ea\u0323 \u0111\u01a1\u0340i s\u00f4\u0341ng, thu\u00f4\u0323c v\u00ea\u0340 sanh hoa\u0323t","a":"sin","b":"casino","c":"fierce","d":"vital","answer":"vital"}

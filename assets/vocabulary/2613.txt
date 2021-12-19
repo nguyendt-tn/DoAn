@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"du\u0340ng \u0111\u00ea\u0309 chi\u0309 th\u01a1\u0340i gi\u01a1\u0340i, \u0111\u00ea\u0341n, v\u00ea\u0340 chuy\u00ea\u0323n gi\u0340, v\u00ea\u0340 h\u01b0\u01a1\u0341ng","a":"assign","b":"hunger","c":"precious","d":"to","answer":"to"}

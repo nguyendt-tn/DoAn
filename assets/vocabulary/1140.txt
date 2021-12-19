@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0341p b\u0103\u0340ng cho sinh vi\u00ean","a":"allocate","b":"imminent","c":"worship","d":"graduate","answer":"graduate"}

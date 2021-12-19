@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0341u ta\u0323o, h\u01a1\u0323p tha\u0340nh, th\u00e2\u0341u ki\u0341nh","a":"gear","b":"component","c":"enrich","d":"seeker","answer":"component"}

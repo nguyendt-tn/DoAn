@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lu\u0341c hoa\u0323n na\u0323n, lu\u0341c kh\u00f4\u0341n kh\u00f4\u0309, nhu c\u00e2\u0340u, nhu y\u00ea\u0341u, s\u01b0\u0323 c\u00e2\u0340n du\u0340ng, ti\u0340nh ca\u0309nh, ti\u0340nh tra\u0323ng nghe\u0340o kh\u00f4\u0309, thi\u00ea\u0341u th\u00f4\u0341n","a":"seeker","b":"need","c":"intimate","d":"abundance","answer":"need"}

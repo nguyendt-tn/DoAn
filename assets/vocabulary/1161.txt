@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 t\u00f4\u0323i, pha\u0323m t\u00f4\u0323i","a":"retail","b":"exaggerate","c":"conserve","d":"guilty","answer":"guilty"}

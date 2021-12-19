@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"auxiliary verb","vi_terms":"pha\u0309i","a":"derive","b":"nomination","c":"ought","d":"reform","answer":"ought"}

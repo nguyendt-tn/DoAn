@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"gi\u01b0\u0309a \u0111a\u0341m \u0111\u00f4ng, gi\u01b0\u0309a hai v\u00e2\u0323t, \u01a1\u0309 gi\u01b0\u0309a","a":"among","b":"turnout","c":"membership","d":"consultation","answer":"among"}

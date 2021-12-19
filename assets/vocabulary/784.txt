@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a\u0341ng, \u0111\u00ea\u0341n ky\u0340 \u0111o\u0340i, t\u01a1\u0341i nga\u0340y n\u01a1\u0323, th\u0103\u0341ng v\u00ea\u0340 phi\u0341a, vi\u0340, \u0111\u00ea\u0341n ky\u0340 ha\u0323n, \u0111u\u0341ng, n\u01a1\u0323","a":"due","b":"problematic","c":"logic","d":"defender","answer":"due"}

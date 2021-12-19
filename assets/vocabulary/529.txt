@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u00e2\u0341p n\u00f4\u0341i, li\u00ean k\u00ea\u0341t, li\u00ean la\u0323c, li\u00ean hi\u00ea\u0323p, n\u00f4\u0341i li\u00ea\u0340n, ph\u00f4\u0341i h\u01a1\u0323p","a":"strategic","b":"connect","c":"implement","d":"commissioner","answer":"connect"}

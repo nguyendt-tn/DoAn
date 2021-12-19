@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u0103\u0323t tr\u01a1\u0340i, tha\u0341i d\u01b0\u01a1ng","a":"disappointment","b":"forum","c":"refuge","d":"sun","answer":"sun"}

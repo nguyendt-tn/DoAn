@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"chi\u0341nh chi\u0323 \u00e2\u0341y, chi\u0341nh c\u00f4 ta, chi\u0341nh na\u0340ng ta","a":"spotlight","b":"herself","c":"bless","d":"packet","answer":"herself"}

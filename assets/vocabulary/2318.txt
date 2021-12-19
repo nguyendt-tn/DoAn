@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111i\u00ean, ngu, khu\u0340ng","a":"tribe","b":"silly","c":"constitute","d":"humanity","answer":"silly"}

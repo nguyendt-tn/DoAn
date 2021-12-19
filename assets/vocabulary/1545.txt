@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2\u0341t, ch\u00e2\u0341t mu\u0303, \u0111\u00e2\u0340u \u0111\u00ea\u0340, \u0111\u00ea\u0340 mu\u0323c, vi\u00ea\u0323c, chuy\u00ea\u0323n, ghe\u0340n m\u0103\u0341t, v\u00e2\u0323t ch\u00e2\u0341t, v\u00e2\u0323t ph\u00e2\u0309m","a":"voting","b":"diagnosis","c":"matter","d":"orientation","answer":"matter"}

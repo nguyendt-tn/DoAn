@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"anh em, em trai","a":"brother","b":"adjacent","c":"rat","d":"funeral","answer":"brother"}

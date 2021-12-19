@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309ng k\u00ea nh\u01b0\u0303ng mo\u0341n \u0103n, th\u01b0\u0323c \u0111\u01a1n","a":"novelist","b":"abortion","c":"menu","d":"riot","answer":"menu"}

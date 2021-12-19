@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"t\u00f4\u0309 phu\u0323, t\u00f4\u0309 ti\u00ean","a":"growth","b":"ancestor","c":"communication","d":"necessary","answer":"ancestor"}

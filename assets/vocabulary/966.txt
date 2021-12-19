@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"xa, h\u01a1n, ca\u0341ch xa \u0111\u00e2y, \u0111\u00ea\u0341n b\u00e2y gi\u01a1\u0340, nhi\u00ea\u0340u, s\u00e2u xu\u00f4\u0341ng","a":"morality","b":"far","c":"discharge","d":"rob","answer":"far"}

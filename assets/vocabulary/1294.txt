@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"trong, \u01a1\u0309, \u01a1\u0309 trong, ta\u0323i, nh\u00e2n vi\u0340, va\u0340o, va\u0340o n\u0103m, vi\u0340 le\u0309","a":"in","b":"confront","c":"frustration","d":"processing","answer":"in"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00f4\u0323i, co\u0341 nhi\u00ea\u0340u b\u00f4\u0323 ph\u00e2\u0323n, ph\u01b0\u0341c, ke\u0341p, nhi\u00ea\u0340u","a":"sphere","b":"multiple","c":"accordance","d":"exploitation","answer":"multiple"}

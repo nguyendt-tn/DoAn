@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chia l\u00f4, chia ha\u0340ng ho\u0341a, chia ph\u00e2\u0340n, chia ra khoa\u0309ng \u0111\u00e2\u0341t","a":"grave","b":"lot","c":"blanket","d":"principal","answer":"lot"}

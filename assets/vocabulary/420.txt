@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00e2\u0340u b\u00ea\u0341p, th\u01a1\u0323 n\u00e2\u0341u","a":"loyal","b":"width","c":"declaration","d":"chef","answer":"chef"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"r\u0103ng, r\u0103ng cu\u0309a c\u01b0a","a":"prescription","b":"endure","c":"tooth","d":"operator","answer":"tooth"}

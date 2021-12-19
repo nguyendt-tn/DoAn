@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"dao, con dao, dao g\u0103m, l\u01b0\u01a1\u0309i \u0111\u00ea\u0309 c\u0103\u0341t","a":"parliamentary","b":"knife","c":"distinction","d":"synthesis","answer":"knife"}

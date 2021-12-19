@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nam","a":"deprive","b":"interact","c":"span","d":"male","answer":"male"}

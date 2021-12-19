@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gi\u00e2\u0341y ba\u0323c, gi\u00e2\u0341y y\u00ea\u0341t thi\u0323, mu\u0340i \u0111\u00e2\u0341t nh\u00f4 ra bi\u00ea\u0309n, ph\u0103\u0341c tuya, ti\u00ea\u0340n gi\u00e2\u0341y, ho\u0341a \u0111\u01a1n, ki\u0341ch, mo\u0309","a":"remarkable","b":"log","c":"bill","d":"administrative","answer":"bill"}

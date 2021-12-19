@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0309u l\u00f4\u0323, khai kh\u00e2\u0309n, khai tri\u00ea\u0309n, khu\u00ea\u0341ch tr\u01b0\u01a1ng, la\u0340m n\u00e2\u0309y n\u01a1\u0309, m\u01a1\u0309 mang, n\u01a1\u0309 nang, r\u01b0\u0303a phim a\u0309nh, to\u0309 ra, x\u00f4\u0309 ra","a":"crush","b":"guerrilla","c":"develop","d":"retail","answer":"develop"}

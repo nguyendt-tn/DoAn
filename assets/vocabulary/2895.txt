@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"phu\u0323 thu\u00f4\u0323c","a":"accidentally","b":"occur","c":"force","d":"away","answer":"accidentally"}

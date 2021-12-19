@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch k\u00ea\u0341t c\u00e2\u0341u, v\u00e2\u0323t ki\u00ea\u0341n tru\u0341c","a":"shipping","b":"structure","c":"horizon","d":"allegation","answer":"structure"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"di\u0323u da\u0340ng, kh\u00f4ng thi\u00ean vi\u0323, t\u00f4\u0341t, thu\u00e2\u0323n ti\u00ea\u0323n","a":"fairly","b":"nasty","c":"shareholder","d":"correspondent","answer":"fairly"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0309m ha\u0340n, ch\u01b0\u0341ng ca\u0309m phong, la\u0323nh lu\u0340ng, pha\u0341t la\u0323nh, re\u0341t, v\u00f4 ti\u0340nh","a":"fulfil","b":"bonus","c":"problematic","d":"cold","answer":"cold"}

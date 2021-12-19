@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u0103\u0341c ch\u0103\u0341n, \u0111a\u0341ng tin c\u00e2\u0323y, \u0111u\u0341ng \u0111\u0103\u0341ng, xa\u0341c th\u01b0\u0323c","a":"patron","b":"sound","c":"reliable","d":"dispute","answer":"reliable"}

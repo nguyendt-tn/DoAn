@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 gi\u00f4\u0341ng nhau, s\u01b0\u0323 t\u01b0\u01a1ng t\u01a1\u0323, ti\u0341nh \u0111\u00f4\u0340ng da\u0323ng, tra\u0323ng tha\u0341i nh\u01b0 nhau","a":"similarity","b":"proceed","c":"broadband","d":"overseas","answer":"similarity"}

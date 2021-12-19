@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0323c nh\u01b0\u01a1\u0323c, ta\u0341nh y\u00ea\u0341u, y\u00ea\u0341u \u0111u\u00f4\u0341i","a":"premier","b":"marker","c":"cluster","d":"weakness","answer":"weakness"}

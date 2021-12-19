@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u0103\u0323t tr\u0103ng, tu\u00e2\u0340n tr\u0103ng, tha\u0341ng tr\u0103ng","a":"destructive","b":"moon","c":"perception","d":"sensation","answer":"moon"}

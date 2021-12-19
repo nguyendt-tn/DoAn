@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"di\u00eam du\u0341a, gian xa\u0309o, xa\u0309o quy\u00ea\u0323t, xa xi\u0309, lo\u0340e loe\u0323t","a":"flash","b":"detection","c":"linger","d":"recovery","answer":"flash"}

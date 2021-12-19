@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309n, ba\u0309n sao, ki\u00ea\u0309u m\u00e2\u0309u, pho\u0309ng theo, sao lu\u0323c, s\u01b0\u0323 che\u0341p la\u0323i, ba\u0309n tha\u0309o, s\u01b0\u0323 sao la\u0323i, b\u0103\u0341t ch\u01b0\u01a1\u0341c","a":"enquire","b":"infect","c":"subscriber","d":"copy","answer":"copy"}

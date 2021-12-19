@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 \u0111i\u00ea\u0340u tra, s\u01b0\u0323 nghi\u00ean c\u01b0\u0341u, s\u01b0\u0323 do\u0340 xe\u0341t, s\u01b0\u0323 xem xe\u0341t","a":"fleet","b":"courtesy","c":"investigation","d":"rip","answer":"investigation"}

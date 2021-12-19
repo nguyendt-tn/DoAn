@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111\u00e2\u0340y \u0111\u0103\u0323n, \u0111\u00e2\u0340y \u0111u\u0309","a":"confine","b":"fully","c":"top","d":"negotiate","answer":"fully"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lo\u0340ng th\u01b0\u01a1ng ha\u0323i, lo\u0340ng tr\u0103\u0341c \u00e2\u0309n, s\u01b0\u0323 chia bu\u00f4\u0340n","a":"autonomy","b":"suspicious","c":"explosive","d":"sympathy","answer":"sympathy"}

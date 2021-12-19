@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2n x\u01b0\u0341ng, \u0111\u00e2\u0340y \u0111u\u0309, th\u00e2\u0309m quy\u00ea\u0340n \u0111\u00ea\u0309 x\u01b0\u0309, x\u01b0\u0341ng v\u01a1\u0341i","a":"adequate","b":"skirt","c":"alone","d":"expression","answer":"adequate"}

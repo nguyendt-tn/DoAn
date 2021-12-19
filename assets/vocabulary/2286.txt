@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0341p n\u01b0\u01a1\u0341c bo\u0323t, t\u00e2\u0341m ra va\u0309i, va\u0340i t\u00e2\u0341m sa\u0323ch, t\u00e2\u0341m va\u0309i, t\u01a1\u0341 ba\u0341o, t\u01a1\u0341 gi\u00e2\u0341y, trang gi\u00e2\u0341y","a":"greenhouse","b":"whip","c":"sheet","d":"arrow","answer":"sheet"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho, ban cho, b\u0103\u0340ng lo\u0340ng, nh\u00e2\u0323n cho","a":"grant","b":"broadcaster","c":"query","d":"grief","answer":"grant"}

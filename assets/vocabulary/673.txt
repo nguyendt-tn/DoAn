@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2u ho\u0309i, l\u01a1\u0340i xin, l\u01a1\u0340i y\u00eau c\u00e2\u0340u, nhu c\u00e2\u0340u, thi\u0309nh nguy\u00ea\u0323n, xin vi\u00ea\u0323c","a":"limb","b":"demand","c":"verdict","d":"assault","answer":"demand"}

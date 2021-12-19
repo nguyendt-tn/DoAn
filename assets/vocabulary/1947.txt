@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u0309 ti\u0323ch, gia\u0341m \u0111\u00f4\u0341c, h\u00f4\u0323i tr\u01b0\u01a1\u0309ng, t\u00f4\u0309ng th\u00f4\u0341ng","a":"cargo","b":"president","c":"substantially","d":"inmate","answer":"president"}

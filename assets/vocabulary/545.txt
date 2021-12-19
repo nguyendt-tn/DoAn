@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111u\u0323ng cha\u0323m, g\u00e2\u0340n gu\u0309i, va cha\u0323m, ti\u00ea\u0341p xu\u0341c","a":"inspiration","b":"elbow","c":"submission","d":"contact","answer":"contact"}

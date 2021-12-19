@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111en, d\u01a1, b\u00e2\u0309n, b\u00e2\u0341t ha\u0323nh, ru\u0309i ro, bu\u00f4\u0340n","a":"loyalty","b":"black","c":"domain","d":"significance","answer":"black"}

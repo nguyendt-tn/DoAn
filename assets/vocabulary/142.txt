@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"g\u00e2\u0340n \u0111u\u0341ng","a":"just","b":"approximately","c":"widespread","d":"coordinator","answer":"approximately"}

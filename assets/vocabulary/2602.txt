@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gi\u00e2\u0341y ghi gi\u0341a, gi\u00e2\u0341y ha\u0341t, nha\u0309n hi\u00ea\u0323u, the\u0309, ve\u0341, ve\u0341 kh\u01b0\u0341 h\u00f4\u0340i","a":"ticket","b":"weird","c":"overlook","d":"convict","answer":"ticket"}

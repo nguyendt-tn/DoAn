@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng nh\u00e2\u0309n na\u0323i, kh\u00f4ng nh\u00e2\u0309n nhu\u0323c, no\u0341ng na\u0309y","a":"inclusion","b":"conversion","c":"impatient","d":"superior","answer":"impatient"}

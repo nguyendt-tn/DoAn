@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ba\u0323n be\u0340, h\u00f4\u0323i vi\u00ean, k\u00ea\u0341t h\u01a1\u0323p, ng\u01b0\u01a1\u0340i phu\u0323 ta\u0341, k\u00ea\u0341t giao","a":"associate","b":"perceive","c":"treasure","d":"attorney","answer":"associate"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng bi\u00ea\u0341t","a":"liver","b":"unknown","c":"distinctive","d":"restraint","answer":"unknown"}

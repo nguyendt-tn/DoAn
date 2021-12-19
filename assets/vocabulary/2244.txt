@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ha\u0323t, h\u00f4\u0323t, m\u00e2\u0340m, ngu\u00f4\u0340n g\u00f4\u0341c","a":"seed","b":"stark","c":"cautious","d":"lane","answer":"seed"}

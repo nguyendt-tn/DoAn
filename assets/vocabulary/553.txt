@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ke\u0341o da\u0340i, kh\u00f4ng d\u01b0\u0341t, la\u0340m ti\u00ea\u0341p, ti\u00ea\u0341p tu\u0323c","a":"lobby","b":"sentiment","c":"championship","d":"continue","answer":"continue"}

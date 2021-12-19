@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tri\u00ea\u0323u ch\u01b0\u0341ng","a":"rational","b":"symptom","c":"mosque","d":"compulsory","answer":"symptom"}

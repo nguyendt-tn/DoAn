@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00ean trong, a\u0341o choa\u0340ng, vo\u0309, a\u0341o choa\u0340ng ngoa\u0340i, a\u0341o gia\u0341p, a\u0341o khoa\u0341c, a\u0341o, l\u00f4mg loa\u0340i thu\u0341, l\u01a1\u0341p, m\u0103\u0323t trong","a":"coat","b":"pride","c":"contention","d":"kit","answer":"coat"}

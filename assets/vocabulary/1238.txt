@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ky\u0323 binh, ng\u01b0\u0323a","a":"warrior","b":"mode","c":"horse","d":"cheer","answer":"horse"}

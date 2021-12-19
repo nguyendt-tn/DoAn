@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"d\u01b0\u0309 t\u01a1\u0323n, hung a\u0341c","a":"cruel","b":"availability","c":"legend","d":"temple","answer":"cruel"}

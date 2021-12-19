@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u01a1n gia\u0309n, gia\u0309n di\u0323, kh\u00f4ng th\u00ea\u0309 ph\u00e2n ti\u0341ch, th\u00e2\u0323t tha\u0340","a":"marketplace","b":"vein","c":"alike","d":"simple","answer":"simple"}

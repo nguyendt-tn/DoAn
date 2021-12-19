@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111i\u0323nh ro\u0309, ro\u0309 ra\u0340ng, th\u01a1\u0340i \u0111i\u0323nh, xa\u0341c \u0111i\u0323nh","a":"diminish","b":"slam","c":"definite","d":"establishment","answer":"definite"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ho\u0323c th\u01b0\u0341c r\u00f4\u0323ng, r\u00f4\u0323ng, r\u00f4\u0323ng l\u01a1\u0341n, uy\u00ean ba\u0341c","a":"abundance","b":"gathering","c":"screening","d":"wide","answer":"wide"}

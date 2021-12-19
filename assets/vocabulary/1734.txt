@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"cu\u0340ng m\u00f4\u0323t l\u00e2\u0340n, l\u00e2\u0323p t\u01b0\u0341c, m\u00f4\u0323t l\u00e2\u0340n, nga\u0340y tr\u01b0\u01a1\u0341c, nga\u0340y x\u01b0a, t\u01b0\u0341c thi\u0340","a":"dairy","b":"ray","c":"overcome","d":"once","answer":"once"}

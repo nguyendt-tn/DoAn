@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"quay phim, chi\u00ea\u0341u phim, phu\u0309 m\u00f4\u0323t l\u01a1\u0341p mo\u0303ng l\u00ean","a":"legislation","b":"film","c":"query","d":"arm","answer":"film"}

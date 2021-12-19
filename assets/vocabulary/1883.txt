@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xin, la\u0340m theo y\u0341 mu\u00f4\u0341n cu\u0309a mi\u0340nh, la\u0340m thi\u0341ch y\u0341, la\u0340m vui lo\u0340ng, v\u01b0\u0340a y\u0341, la\u0340m \u01a1n, xin vui lo\u0340ng","a":"oversee","b":"diverse","c":"shocking","d":"please","answer":"please"}

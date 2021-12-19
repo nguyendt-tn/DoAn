@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"cha me\u0323 t\u00f4i, cu\u0309a t\u00f4i, \u0111\u00f4\u0340 cu\u0309a t\u00f4i, t\u00e2\u0341t ca\u0309 cu\u0309a t\u00f4i, v\u00e2\u0323t cu\u0309a t\u00f4i","a":"my","b":"supervision","c":"lately","d":"distort","answer":"my"}

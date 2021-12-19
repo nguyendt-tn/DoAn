@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"an toa\u0340n, ch\u0103\u0341c ch\u0103\u0341n, th\u00e2\u0323n tro\u0323ng, v\u00f4 s\u01b0\u0323, kh\u00f4ng nguy hi\u00ea\u0309m, v\u01b0\u0303ng va\u0340ng","a":"safe","b":"set-up","c":"halt","d":"delete","answer":"safe"}

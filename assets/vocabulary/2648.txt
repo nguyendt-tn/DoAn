@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u00f4\u0341i chuy\u00ea\u0341n, s\u01b0\u0323 chuy\u00ea\u0309n \u0111\u00f4\u0309i binh si\u0303, s\u01b0\u0323 chuy\u00ea\u0309n ng\u00e2n, s\u01b0\u0323 d\u01a1\u0340i ch\u00f4\u0309, s\u01b0\u0323 thuy\u00ean chuy\u00ea\u0309n","a":"worthwhile","b":"transfer","c":"adjustment","d":"extract","answer":"transfer"}

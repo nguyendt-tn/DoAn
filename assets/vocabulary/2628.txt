@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chung, hoa\u0340n toa\u0340n, toa\u0340n th\u00ea\u0309, t\u00f4\u0309ng, tro\u0323n","a":"cease","b":"realm","c":"total","d":"namely","answer":"total"}

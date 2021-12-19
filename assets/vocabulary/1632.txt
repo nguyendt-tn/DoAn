@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"g\u00e2n, b\u0103\u0341p thi\u0323t","a":"muscle","b":"gig","c":"transformation","d":"advocate","answer":"muscle"}

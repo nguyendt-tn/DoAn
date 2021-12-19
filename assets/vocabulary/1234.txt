@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"danh d\u01b0\u0323, danh gia\u0341, s\u01b0\u0323 trinh ba\u0323ch, s\u01b0\u0323 trinh ti\u00ea\u0341t, th\u00ea\u0309 di\u00ea\u0323n, vinh d\u01b0\u0323, \u0111i\u0323a vi\u0323, ti\u00ea\u0341t thu\u0323c","a":"honour","b":"compensation","c":"fraud","d":"survival","answer":"honour"}

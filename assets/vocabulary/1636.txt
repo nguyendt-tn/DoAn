@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i soa\u0323n nha\u0323c, ng\u01b0\u01a1\u0340i thi\u0341ch nha\u0323c, ng\u01b0\u01a1\u0340i vi\u00ea\u0341t nha\u0323c, nha\u0323c si\u0303","a":"musician","b":"successive","c":"lad","d":"allowance","answer":"musician"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2\u0341p thang, n\u00e2\u0341c thang","a":"stance","b":"distant","c":"intensive","d":"stair","answer":"stair"}

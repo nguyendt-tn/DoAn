@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chi\u0341nh xa\u0341c, \u0111u\u0341ng, nghi\u00eam nh\u0103\u0323t","a":"ultimate","b":"drown","c":"glory","d":"strict","answer":"strict"}

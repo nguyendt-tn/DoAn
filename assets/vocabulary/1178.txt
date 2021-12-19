@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111u\u0323ng ma\u0323nh, kho\u0341 kh\u0103n, kho\u0341 nho\u0323c, ma\u0323nh","a":"gesture","b":"encouragement","c":"hardly","d":"slash","answer":"hardly"}

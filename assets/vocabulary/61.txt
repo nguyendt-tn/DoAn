@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00ea\u0341n tu\u00f4\u0309i, \u0111\u01a1\u0340i, tu\u00f4\u0309i, tu\u00f4\u0309i ta\u0341c, th\u00ea\u0341 ky\u0309, th\u01a1\u0340i \u0111a\u0323i, tro\u0323ng tu\u00f4\u0309i","a":"basket","b":"feminist","c":"age","d":"resistance","answer":"age"}

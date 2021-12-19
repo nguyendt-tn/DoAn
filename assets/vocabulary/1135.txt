@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cai tri\u0323, ki\u00ea\u0340m ch\u00ea\u0341, qua\u0309n ly\u0341, qua\u0309n tri\u0323, th\u00f4\u0341ng tri\u0323","a":"ideological","b":"sue","c":"compliance","d":"govern","answer":"govern"}

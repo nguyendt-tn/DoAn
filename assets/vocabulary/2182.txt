@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hoa\u0340ng \u0111\u00ea\u0341, l\u00f4\u0323ng l\u00e2\u0303y, nh\u01b0 vua chu\u0341a, sang tro\u0323ng, thu\u00f4\u0323c v\u00ea\u0340 hoa\u0340ng h\u00e2\u0323u, thu\u00f4\u0323c v\u00ea\u0340 vua","a":"relevance","b":"royal","c":"downtown","d":"obsess","answer":"royal"}

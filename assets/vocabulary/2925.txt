@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i coi so\u0341c, ng\u01b0\u01a1\u0340i qua\u0309n ly\u0341, ng\u01b0\u01a1\u0340i tr\u00f4ng n\u00f4m","a":"august","b":"resolve","c":"equally","d":"administrator","answer":"administrator"}

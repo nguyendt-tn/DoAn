@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"particle","vi_terms":"da\u0323","a":"hint","b":"sentiment","c":"apparatus","d":"yeah","answer":"yeah"}

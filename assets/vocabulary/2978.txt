@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 th\u00ea\u0309 \u01b0\u0341ng du\u0323ng","a":"applicable","b":"fire","c":"chocolate","d":"next","answer":"applicable"}

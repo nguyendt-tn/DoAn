@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hay, ho\u0103\u0323c, m\u00f4\u0303i","a":"patent","b":"conceal","c":"either","d":"worthwhile","answer":"either"}

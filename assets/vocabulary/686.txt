@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111a\u0341ng th\u01b0\u01a1\u0309ng","a":"earnings","b":"explicit","c":"deserve","d":"preside","answer":"deserve"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"pha\u0323m vi hoa\u0323t \u0111\u00f4\u0323ng, s\u01b0\u0323 hoa\u0323t \u0111\u00f4\u0323ng, s\u01b0\u0323 mau m\u0103\u0341m","a":"universal","b":"explicit","c":"copper","d":"activity","answer":"activity"}

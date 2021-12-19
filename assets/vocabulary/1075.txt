@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u0340nh ba\u0323n be\u0340, ti\u0340nh th\u00e2n h\u01b0\u0309u","a":"whoever","b":"friendship","c":"ego","d":"fulfil","answer":"friendship"}

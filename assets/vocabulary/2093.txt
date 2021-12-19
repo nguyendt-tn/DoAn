@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"co\u0341 qui t\u0103\u0341c, s\u01b0\u0323 chi\u0309nh \u0111\u00f4\u0341n, s\u01b0\u0323 s\u0103\u0341p \u0111\u0103\u0323t, s\u01b0\u0323 s\u01b0\u0309a la\u0323i cho \u0111u\u0341ng","a":"regulation","b":"compensate","c":"notebook","d":"poll","answer":"regulation"}

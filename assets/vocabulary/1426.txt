@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01b0\u01a1\u0340i pha\u0341 l\u00ean, c\u01b0\u01a1\u0340i r\u00f4\u0340 l\u00ean, ti\u00ea\u0341ng c\u01b0\u01a1\u0340i, ti\u00ea\u0341ng c\u01b0\u01a1\u0340i vang","a":"acceptance","b":"peculiar","c":"laughter","d":"seldom","answer":"laughter"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u00ea\u0341ng ha\u0341t","a":"nod","b":"singing","c":"subscription","d":"compute","answer":"singing"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kha\u0309 n\u0103ng, ng\u00e2\u0340m","a":"potential","b":"cult","c":"minute","d":"viewpoint","answer":"potential"}

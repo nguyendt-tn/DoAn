@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0340i sai v\u0103\u0323t, ng\u01b0\u01a1\u0340i h\u00e2\u0340u ha\u0323 vua, trang gi\u00e2\u0341y, trang sa\u0341ch","a":"page","b":"parallel","c":"beneficial","d":"racism","answer":"page"}

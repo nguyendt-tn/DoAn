@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00e2\u0340y \u0111u\u0309, hoa\u0340n toa\u0340n, la\u0340m xong, tro\u0323n ve\u0323n, hoa\u0340n ha\u0309o","a":"significance","b":"institutional","c":"complete","d":"burden","answer":"complete"}

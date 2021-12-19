@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ta\u0341nh ca\u0341ch \u0111a\u0323i di\u00ea\u0323n, mi\u00eau ta\u0309, ti\u00eau bi\u00ea\u0309u, t\u01b0\u01a1\u0323ng tr\u01b0ng, thay m\u0103\u0323t","a":"facilitate","b":"technological","c":"representative","d":"archive","answer":"representative"}

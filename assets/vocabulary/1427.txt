@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i ch\u01b0\u01a1\u0309i ru\u0309a, s\u01b0\u0323 c\u00e2\u0341t ca\u0341nh bay, ta\u0340u cha\u0323y b\u0103\u0340ng h\u01a1i, xu\u00f4\u0340ng l\u01a1\u0341n cu\u0309a chi\u00ea\u0341c ha\u0323m","a":"litre","b":"launch","c":"consistency","d":"youngster","answer":"launch"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u00e2n hoan, khoa\u0341i la\u0323c, ni\u00ea\u0340m vui s\u01b0\u01a1\u0341ng, s\u01b0\u0323 vui m\u01b0\u0340ng","a":"delight","b":"ballot","c":"preservation","d":"mentor","answer":"delight"}

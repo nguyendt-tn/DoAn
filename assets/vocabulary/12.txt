@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01a1 h\u00f4\u0323i g\u00e2\u0340n, la\u0323i g\u00e2\u0340n, l\u00f4\u0341i va\u0340o, quy\u00ea\u0340n, t\u01a1\u0341i g\u00e2\u0340n","a":"access","b":"consequently","c":"radiation","d":"hydrogen","answer":"access"}

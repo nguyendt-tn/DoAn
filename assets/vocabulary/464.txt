@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"da\u0323y ri\u00eang, da\u0323y t\u01b0, gia\u0341o s\u01b0 luy\u00ea\u0323n thi, hu\u00e2\u0341n luy\u00ea\u0323n vi\u00ean, toa xe l\u01b0\u0303a, th\u00ea\u0309 tha\u0341o gia, xe \u0111o\u0340, xe ng\u01b0\u0323a","a":"embarrassment","b":"coach","c":"random","d":"evaluation","answer":"coach"}

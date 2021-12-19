@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i la\u0340m v\u01b0\u01a1\u0340n","a":"kit","b":"predictable","c":"dub","d":"landscape","answer":"landscape"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ch\u01b0\u0303 \u0111\u00e2\u0340u t\u00ean, ch\u01b0\u0303 ph\u00ea nh\u00e2\u0323n, ky\u0341 t\u00ean t\u0103\u0341t","a":"migration","b":"spare","c":"cemetery","d":"initially","answer":"initially"}

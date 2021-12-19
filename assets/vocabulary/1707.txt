@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ti\u00ea\u0341p v\u00e2\u0323t ki\u0341nh, thu\u00f4\u0323c v\u00ea\u0340 kha\u0341ch quan","a":"eager","b":"favourable","c":"stunning","d":"objective","answer":"objective"}

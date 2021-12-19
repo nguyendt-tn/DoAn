@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chuy\u00ea\u0309n \u0111\u00f4\u0323ng, ma\u0341y pha\u0341t \u0111\u00f4\u0323ng, pha\u0341t \u0111\u00f4\u0323ng, v\u00e2\u0323n \u0111\u00f4\u0323ng","a":"intervene","b":"motor","c":"stability","d":"boost","answer":"motor"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ghi, bi\u00ean, th\u00e2u va\u0340o di\u0303a","a":"resistance","b":"clash","c":"helmet","d":"record","answer":"record"}

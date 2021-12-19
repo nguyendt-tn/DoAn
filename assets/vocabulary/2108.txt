@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0309n th\u00e2\u0323n, chu \u0111a\u0341o, thu\u00f4\u0323c v\u00ea\u0340 ti\u0341n ng\u01b0\u01a1\u0303ng, thu\u00f4\u0323c v\u00ea\u0340 t\u00f4n gia\u0341o, thu\u00f4\u0323c v\u00ea\u0340 tu ha\u0340nh","a":"intervene","b":"apparatus","c":"protocol","d":"religious","answer":"religious"}

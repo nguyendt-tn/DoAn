@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u01b0a h\u01a1n, b\u00f4\u0309 nhi\u00ea\u0323m, l\u00ean ch\u01b0\u0341c, th\u0103ng ch\u01b0\u0341c, thi\u0341ch h\u01a1n","a":"exile","b":"removal","c":"contractor","d":"prefer","answer":"prefer"}

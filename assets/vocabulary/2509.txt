@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u01b0a m\u0103\u0341t qua, ki\u00ea\u0309m \u0111i\u00ea\u0309m, l\u00e2\u0323p \u0111i\u0323a \u0111\u00f4\u0340, nhi\u0340n qua, quan sa\u0341t ky\u0309 l\u01b0\u01a1\u0303ng","a":"transmit","b":"manifest","c":"survey","d":"contend","answer":"survey"}

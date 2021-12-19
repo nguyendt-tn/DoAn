@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"co\u0341 ph\u00e2\u0309m ca\u0341ch, \u0111a\u0341ng, gia\u0341, gia\u0341 tri\u0323, x\u01b0\u0341ng \u0111a\u0341ng","a":"twist","b":"gaming","c":"collector","d":"worth","answer":"worth"}

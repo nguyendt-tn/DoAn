@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 le\u0309 \u0111\u01b0\u01a1\u0323c, co\u0341 th\u00ea\u0309 \u0111\u01b0\u01a1\u0323c, co\u0341 th\u00ea\u0309 la\u0340m","a":"possible","b":"induce","c":"turnover","d":"contempt","answer":"possible"}

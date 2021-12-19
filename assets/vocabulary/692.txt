@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"khinh th\u01b0\u01a1\u0340ng","a":"intent","b":"prosperity","c":"cliff","d":"despite","answer":"despite"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111ui, mu\u0340, s\u01b0\u0323 gia\u0303 b\u00f4\u0323","a":"controversy","b":"inadequate","c":"blind","d":"postpone","answer":"blind"}

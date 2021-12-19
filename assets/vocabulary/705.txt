@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c \u0111\u00f4\u0341i thoa\u0323i, \u0111a\u0340m thoa\u0323i","a":"premium","b":"exclusive","c":"correspondent","d":"dialogue","answer":"dialogue"}

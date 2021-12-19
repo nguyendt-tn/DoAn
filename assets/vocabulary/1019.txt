@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 th\u00ea\u0309, \u0111u\u0309 t\u01b0 ca\u0341ch, ma\u0323nh kho\u0309e, s\u0103\u0309n sa\u0340ng, t\u00f4\u0341t, v\u01b0\u0340a, v\u01b0\u0340a v\u0103\u0323n","a":"directory","b":"intimate","c":"varied","d":"fit","answer":"fit"}

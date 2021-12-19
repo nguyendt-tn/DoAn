@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340n ba\u0323c, ta\u0340i sa\u0309n ki\u00ea\u0309m k\u00ea, tha\u0309o lu\u00e2\u0323n, th\u01b0\u01a1\u0309ng th\u01b0\u0341c, tranh lu\u00e2\u0323n","a":"discussion","b":"institutional","c":"attachment","d":"random","answer":"discussion"}

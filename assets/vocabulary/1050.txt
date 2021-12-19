@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng co\u0341 quan h\u00ea\u0323, ngoa\u0323i qu\u00f4\u0341c, thu\u00f4\u0323c v\u00ea\u0340 m\u00f4\u0323t n\u01b0\u01a1\u0341c kha\u0341c, xa la\u0323","a":"foreign","b":"corruption","c":"tender","d":"originate","answer":"foreign"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0340i cha\u0340o bi\u00ea\u0323t, l\u01a1\u0340i gia\u0309 t\u01b0\u0340, l\u01a1\u0340i ta\u0323m bi\u00ea\u0323t","a":"outfit","b":"bye","c":"autonomy","d":"workshop","answer":"bye"}

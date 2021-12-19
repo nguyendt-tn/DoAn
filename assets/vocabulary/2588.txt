@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"ba m\u01b0\u01a1i","a":"sole","b":"adequately","c":"thirty","d":"hypothesis","answer":"thirty"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u0103\u0341c ch\u0103\u0341n, ki\u00ean c\u00f4\u0341, kh\u00f4ng thay \u0111\u00f4\u0309i","a":"rational","b":"desperately","c":"notebook","d":"firm","answer":"firm"}

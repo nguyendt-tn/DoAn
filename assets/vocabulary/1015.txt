@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00e2\u0340u ti\u00ean, tr\u01b0\u01a1\u0341c h\u00ea\u0341t, tr\u01b0\u01a1\u0341c nh\u00e2\u0341t","a":"confer","b":"first","c":"nod","d":"stabilize","answer":"first"}

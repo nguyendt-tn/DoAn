@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"xuy\u00ean qua, t\u01b0\u0340 b\u00ean n\u00e2\u0340y qua b\u00ean kia","a":"beneath","b":"rival","c":"through","d":"oxygen","answer":"through"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hi\u00ea\u0323n ta\u0323i, hi\u00ea\u0323n ha\u0340nh","a":"current","b":"incentive","c":"assert","d":"top","answer":"current"}

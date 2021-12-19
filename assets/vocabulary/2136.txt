@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u00f4\u0341ng c\u01b0\u0323, kha\u0341ng c\u01b0\u0323, kh\u00f4ng tu\u00e2n theo li\u0323nh, s\u01b0\u0341c ca\u0309n","a":"debut","b":"resist","c":"hopefully","d":"settler","answer":"resist"}

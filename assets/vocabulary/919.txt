@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u01a1m ph\u00f4\u0340ng l\u00ean, da\u0309n ra, gia\u0303m b\u01a1\u0341t a\u0341p l\u01b0\u0323c, khai tri\u00ea\u0309n, la\u0340m ph\u00f4\u0340ng ra, l\u01a1\u0341n l\u00ean, m\u01a1\u0309 mang, m\u01a1\u0303 r\u00f4\u0323ng, pha\u0341t tri\u00ea\u0309n","a":"helmet","b":"retail","c":"contemplate","d":"expand","answer":"expand"}

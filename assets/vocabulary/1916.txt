@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"quy\u00ea\u0340n chi\u00ea\u0341m h\u01b0\u0309u, quy\u00ea\u0340n s\u01a1\u0309 h\u01b0\u0309u, thu\u00f4\u0323c \u0111i\u0323a, v\u00e2\u0323t s\u01a1\u0309 h\u01b0\u0309u","a":"compensate","b":"possession","c":"timber","d":"oversee","answer":"possession"}

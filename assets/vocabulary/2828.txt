@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"auxiliary verb","vi_terms":"mu\u00f4\u0341n","a":"will","b":"choir","c":"marathon","d":"pronounced","answer":"will"}

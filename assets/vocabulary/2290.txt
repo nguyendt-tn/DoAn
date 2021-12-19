@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca la\u0340m vi\u00ea\u0323c, l\u01a1\u0340i thoa\u0341i tha\u0341c, nga\u0340y la\u0340m vi\u00ea\u0323c, s\u01b0\u0323 \u0111\u00f4\u0309i chi\u00ea\u0340u, s\u01b0\u0323 \u0111\u00f4\u0309i gi\u00f4\u0341ng c\u00e2y, s\u01b0\u0323 thay \u0111\u00f4\u0309i","a":"grace","b":"shift","c":"sue","d":"confront","answer":"shift"}

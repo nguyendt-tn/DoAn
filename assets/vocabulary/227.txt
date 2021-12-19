@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0103\u0341c quy, \u00e2\u0341u \u0111a\u0309, ba\u0323o ha\u0340nh, b\u00f4\u0323 pin, cu\u0323c pin","a":"neglect","b":"withdraw","c":"documentation","d":"battery","answer":"battery"}

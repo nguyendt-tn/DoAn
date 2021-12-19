@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u01a1i, xoay, choa\u0341ng va\u0341ng, l\u00f4\u0323i","a":"terms","b":"entertaining","c":"fairness","d":"swim","answer":"swim"}

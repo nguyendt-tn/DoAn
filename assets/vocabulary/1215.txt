@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 \u0111\u00e2\u0341t \u0111u\u0340n l\u00ean, \u0111\u00f4\u0340i, go\u0340, nu\u0341i nho\u0309, d\u00f4\u0341c","a":"hill","b":"depart","c":"suspicious","d":"misleading","answer":"hill"}

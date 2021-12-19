@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u00e2y l\u01b0ng, d\u00e2y ni\u0323t, d\u00e2y th\u0103\u0341t l\u01b0ng","a":"confess","b":"successive","c":"belt","d":"exceed","answer":"belt"}

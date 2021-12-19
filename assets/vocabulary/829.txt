@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0341ch kha\u0341c, hay la\u0340, n\u00ea\u0341u kh\u00f4ng th\u00ea\u0341","a":"breed","b":"else","c":"peak","d":"regulator","answer":"else"}

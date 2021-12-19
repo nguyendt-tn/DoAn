@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nghi\u0323 lu\u00e2\u0323n, tri\u00ea\u0341t ho\u0323c","a":"dot","b":"philosophy","c":"magnificent","d":"rejection","answer":"philosophy"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u01a1\u0309 tr\u00ean, \u01a1\u0309 tr\u00ean cao, phi\u0341a tr\u00ean","a":"inherent","b":"strip","c":"bombing","d":"upper","answer":"upper"}

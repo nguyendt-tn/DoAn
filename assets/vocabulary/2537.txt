@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"mu\u0340i vi\u0323, thi\u0323 hi\u00ea\u0341u, vi\u0323 gia\u0341c","a":"taste","b":"moreover","c":"buck","d":"timely","answer":"taste"}

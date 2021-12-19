@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"chi\u0341nh anh ta, chi\u0341nh no\u0341","a":"vow","b":"himself","c":"crown","d":"flourish","answer":"himself"}

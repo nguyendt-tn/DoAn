@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"song le, tuy th\u00ea\u0341 ma\u0340","a":"besides","b":"mortgage","c":"terrific","d":"nevertheless","answer":"nevertheless"}

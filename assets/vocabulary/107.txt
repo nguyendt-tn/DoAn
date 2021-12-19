@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0323ng v\u00e2\u0323t, loa\u0340i v\u00e2\u0323t, thu\u0341 v\u00e2\u0323t","a":"acid","b":"scope","c":"animal","d":"meditation","answer":"animal"}

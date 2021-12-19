@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0341t c\u01b0\u0341 ng\u01b0\u01a1\u0340i na\u0340o, m\u00f4\u0323t va\u0340i ca\u0341i gi\u0340","a":"textbook","b":"governor","c":"blanket","d":"any","answer":"any"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho hay, bi\u00ea\u0309u l\u00f4\u0323, bi\u00ea\u0309u thi\u0323, chi\u0309, to\u0309 ra, tri\u0340nh ba\u0340y","a":"indicate","b":"brick","c":"formulate","d":"proclaim","answer":"indicate"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"giu\u0341p \u0111\u01a1\u0309, giu\u0341p s\u01b0\u0341c, d\u01b0\u0323 va\u0340o","a":"tension","b":"herb","c":"assist","d":"blast","answer":"assist"}

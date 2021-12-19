@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"k\u00eau, go\u0323i, go\u0323i \u0111\u00ea\u0341n","a":"preach","b":"dissolve","c":"call","d":"intensity","answer":"call"}

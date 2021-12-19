@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u01a1i, ch\u01a1i \u0111u\u0340a, ch\u01a1i th\u00ea\u0309 thao, chuy\u00ea\u0309n v\u00e2\u0323n, \u0111a\u0341nh ba\u0340i, lo\u0341ng la\u0341nh a\u0341nh sa\u0341ng","a":"exception","b":"ensue","c":"retirement","d":"play","answer":"play"}

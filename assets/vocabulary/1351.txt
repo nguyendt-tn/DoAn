@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u00e2\u0323n la\u0323i, cu\u0341p \u0111i\u00ea\u0323n, la\u0340m \u0111\u01b0\u0341t \u0111oa\u0323n, la\u0340m gia\u0341n \u0111oa\u0323n, ng\u0103\u0341t","a":"interrupt","b":"continually","c":"lengthy","d":"unity","answer":"interrupt"}

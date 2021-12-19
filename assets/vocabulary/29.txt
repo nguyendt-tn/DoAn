@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"di\u00ea\u0309n vi\u00ean, ki\u0323ch si\u0303, ng\u01b0\u01a1\u0340i \u0111o\u0341ng tu\u00f4\u0340ng","a":"glance","b":"preside","c":"determination","d":"actor","answer":"actor"}

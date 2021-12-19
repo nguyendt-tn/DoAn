@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kha\u0341i l\u01b0\u01a1\u0323c, s\u01a1 l\u01b0\u01a1\u0323c, to\u0341m la\u0323i, to\u0341m l\u01b0\u01a1\u0323c, to\u0341m t\u0103\u0341c","a":"summary","b":"instantly","c":"elementary","d":"probable","answer":"summary"}

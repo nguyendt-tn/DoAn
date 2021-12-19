@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"cu\u0340ng v\u01a1\u0341i, v\u01a1\u0341i","a":"retail","b":"with","c":"align","d":"nod","answer":"with"}

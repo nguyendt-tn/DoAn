@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"t\u01b0\u01a1\u0323ng","a":"statue","b":"neutral","c":"shortage","d":"crown","answer":"statue"}

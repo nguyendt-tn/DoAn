@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch tao nha\u0303, gi\u00f4\u0341ng, hi\u0340nh, khu\u00f4n ba\u0309n in, loa\u0323i, m\u00e2\u0303u, hi\u0340nh th\u00ea\u0309, nghi th\u01b0\u0341c, hi\u0340nh th\u01b0\u0341c, phe\u0341p li\u0323ch s\u01b0\u0323, hi\u0340nh tra\u0323ng","a":"racist","b":"interactive","c":"form","d":"creativity","answer":"form"}

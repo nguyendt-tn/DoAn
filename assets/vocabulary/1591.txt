@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"g\u01b0\u01a1ng, ki\u00ea\u0341n","a":"memorial","b":"rating","c":"mirror","d":"declaration","answer":"mirror"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00f4n tru\u0340ng mi\u0340nh co\u0341 nhi\u00ea\u0340u kh\u01a1\u0341p, \u0111o\u0323c ro\u0309 ra\u0340ng, pha\u0341t \u00e2m ro\u0303 ra\u0340ng, t\u01b0\u0340ng ti\u00ea\u0341ng m\u00f4\u0323t","a":"articulate","b":"fantastic","c":"provide","d":"about","answer":"articulate"}

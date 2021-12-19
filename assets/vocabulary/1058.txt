@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u01b0\u0323u nh\u00e2n vi\u00ean, lu\u0341c tr\u01b0\u01a1\u0341c, tr\u01b0\u01a1\u0341c, tr\u01b0\u01a1\u0341c \u0111\u00e2y","a":"benchmark","b":"prestigious","c":"fierce","d":"former","answer":"former"}

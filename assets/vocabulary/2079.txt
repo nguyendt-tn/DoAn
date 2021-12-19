@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u01b0\u0323c ta\u0309, \u0111o\u0309","a":"acute","b":"red","c":"expire","d":"pump","answer":"red"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"n\u0103m, ba\u0340n tay, s\u00f4\u0341 n\u0103m","a":"investigator","b":"deploy","c":"five","d":"severely","answer":"five"}

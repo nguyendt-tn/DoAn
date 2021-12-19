@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309ng tin t\u01b0\u0341c to\u0341m t\u0103\u0341t, ha\u0340ng \u01a1\u0309 \u0111\u00e2\u0340u trang","a":"compose","b":"supreme","c":"hostile","d":"headline","answer":"headline"}

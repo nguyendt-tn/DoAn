@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kho\u0341i, s\u01b0\u0323 hu\u0341t thu\u00f4\u0341c la\u0341, v\u00e2\u0323t \u0111\u00ea\u0309 hu\u0341t","a":"defensive","b":"palm","c":"smoke","d":"psychiatric","answer":"smoke"}

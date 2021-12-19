@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tr\u01a1\u0309 n\u00ean, tr\u01a1\u0309 tha\u0340nh, v\u01b0\u0340a v\u0103\u0323n, x\u01b0\u0341ng \u0111a\u0341ng","a":"become","b":"embrace","c":"historian","d":"stab","answer":"become"}

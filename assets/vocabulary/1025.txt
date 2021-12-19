@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0341nh sa\u0341ng cho\u0341i, b\u00f4\u0341c cha\u0341y, \u0111ang cha\u0341y, ngo\u0323n l\u01b0\u0309a, ti\u0340nh y\u00eau say \u0111\u0103\u0341m","a":"mosque","b":"besides","c":"flame","d":"precisely","answer":"flame"}

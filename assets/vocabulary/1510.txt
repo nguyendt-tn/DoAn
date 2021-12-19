@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phi c\u01a1, gu\u00f4\u0340ng ma\u0341y, xe c\u00f4\u0323, c\u01a1 gi\u01a1\u0341i, ma\u0341y may, ma\u0341y mo\u0341c, ma\u0341y","a":"serial","b":"machine","c":"basement","d":"eternal","answer":"machine"}

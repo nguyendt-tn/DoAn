@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nha\u0340 ch\u01b0\u0341a sa\u0341ch, th\u01b0 vi\u00ea\u0323n","a":"grin","b":"congregation","c":"sigh","d":"library","answer":"library"}

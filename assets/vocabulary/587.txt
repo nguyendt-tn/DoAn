@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"anh em ho\u0323, ba\u0340 con, chi\u0323 em ho\u0323, th\u00e2n thu\u00f4\u0323c","a":"evolve","b":"cousin","c":"vertical","d":"confer","answer":"cousin"}

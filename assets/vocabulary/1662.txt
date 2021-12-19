@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"g\u00e2n, g\u00e2n ca\u0341nh c\u00f4n tru\u0340ng, n\u00f4\u0303i b\u01b0\u0323c, th\u00e2\u0340n kinh, g\u00e2n la\u0341, g\u00e2n l\u01b0ng sa\u0341ch, khi\u0341 l\u01b0\u0323c, khi\u0341 pha\u0341ch, kho\u0341 chi\u0323u","a":"nerve","b":"cutting","c":"toss","d":"gaze","answer":"nerve"}

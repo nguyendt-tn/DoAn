@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 k\u00ea\u0341t qua\u0309, co\u0341 tha\u0340nh t\u01b0\u0323u","a":"midst","b":"courtesy","c":"successful","d":"significance","answer":"successful"}

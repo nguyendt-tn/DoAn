@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"v\u00e2\u0323t bo\u0309, v\u00e2\u0323t kh\u00f4ng gia\u0341 tri\u0323, v\u00f4 ly\u0341, y\u0341 ki\u00ea\u0341n b\u00e2\u0323y ba\u0323","a":"nest","b":"variable","c":"coordinator","d":"rubbish","answer":"rubbish"}

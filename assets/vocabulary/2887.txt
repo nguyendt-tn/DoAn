@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng h\u01a1\u0323p l\u00ea\u0323, v\u00f4 ly\u0341","a":"next to","b":"discovery","c":"cannot","d":"absurd","answer":"absurd"}

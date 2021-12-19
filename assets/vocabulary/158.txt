@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111a\u0323t t\u01a1\u0341i, \u0111\u00ea\u0341n, \u01a1\u0309 n\u01a1i kha\u0341c \u0111\u00ea\u0341n, t\u01a1\u0341i, xa\u0309y \u0111\u00ea\u0341n, xa\u0309y ra","a":"handful","b":"creator","c":"arrive","d":"weaken","answer":"arrive"}

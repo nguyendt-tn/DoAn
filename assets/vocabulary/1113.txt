@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cao qu\u0341y, danh gia\u0341, di\u0323u da\u0340ng, hi\u00ea\u0340n la\u0340nh, t\u01b0\u0309 t\u00ea\u0341, th\u00e2n m\u00e2\u0323t, gia gia\u0341o, gio\u0341 hiu hiu","a":"hierarchy","b":"gentle","c":"stem","d":"accessible","answer":"gentle"}

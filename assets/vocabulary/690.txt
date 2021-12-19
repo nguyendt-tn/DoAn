@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340n \u0111\u00ea\u0309 th\u00e2u ti\u00ea\u0340n, ba\u0340n vi\u00ea\u0341t, ba\u0340n gi\u00e2\u0341y, ca\u0341i ba\u0340n, gia\u0341 \u0111\u00ea\u0309 kinh, to\u0340a soa\u0323n","a":"desk","b":"hostage","c":"viable","d":"coordinator","answer":"desk"}

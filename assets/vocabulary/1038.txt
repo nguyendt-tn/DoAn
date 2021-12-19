@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111ang bay, \u0111ang tr\u00f4\u0341n, nhe\u0323 nha\u0340ng","a":"flying","b":"total","c":"fibre","d":"crawl","answer":"flying"}

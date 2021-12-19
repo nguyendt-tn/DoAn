@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"be\u0341n, bu\u00f4\u0341t, h\u0103ng ha\u0341i, kha\u0341t vo\u0323ng, cho\u0341i lo\u0323i, mu\u0303i nho\u0323n, co\u0341 nhi\u00ea\u0323t t\u00e2m, s\u0103\u0341c, s\u0103\u0341c sa\u0309o, th\u00e2\u0341u x\u01b0\u01a1ng, d\u01b0\u0303 d\u00f4\u0323i","a":"subsidy","b":"making","c":"keen","d":"allegedly","answer":"keen"}

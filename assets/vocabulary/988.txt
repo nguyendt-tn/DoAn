@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0309m \u0111\u00f4\u0323ng, \u0111a ca\u0303m, la\u0340m \u0111\u00f4\u0323ng lo\u0340ng","a":"supreme","b":"feeling","c":"incur","d":"critique","answer":"feeling"}

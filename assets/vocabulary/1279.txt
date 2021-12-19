@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"ngay","a":"integrity","b":"tsunami","c":"immediately","d":"dynamic","answer":"immediately"}

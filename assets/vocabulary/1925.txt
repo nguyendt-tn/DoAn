@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u0103\u0341n nh\u01b0 m\u01b0a, \u0111\u00f4\u0309 va\u0340o, m\u01b0a n\u0103\u0323ng h\u00f4\u0323t, ro\u0341t va\u0340o, tru\u0341t n\u01b0\u01a1\u0341c xu\u00f4\u0341ng, tru\u0341t va\u0340o","a":"verbal","b":"pioneer","c":"directory","d":"pour","answer":"pour"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01b0\u0323c, c\u00e2\u0341p, d\u00f4\u0341c, l\u00ean t\u01a1\u0341i \u0111i\u0309nh, m\u01b0\u0323c ngang, th\u01b0\u0341 vi\u0323, tri\u0340nh \u0111\u00f4\u0323 n\u0103\u0323ng nhe\u0323, \u0111\u01b0\u01a1\u0340ng, ph\u00e2\u0309m, ha\u0323ng","a":"reform","b":"momentum","c":"beast","d":"grade","answer":"grade"}

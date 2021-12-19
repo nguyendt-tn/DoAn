@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"v\u00f4 danh","a":"fishing","b":"metre","c":"anonymous","d":"backwards","answer":"anonymous"}

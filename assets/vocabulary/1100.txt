@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"gan da\u0323, ngang ta\u0340n","a":"game","b":"flee","c":"cabinet","d":"poll","answer":"game"}

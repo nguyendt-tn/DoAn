@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c ch\u01a1i, cu\u00f4\u0323c gia\u0309i tri\u0341, s\u01b0\u0323 vui \u0111u\u0340a, th\u00ea\u0309 thao, cu\u00f4\u0323c ti\u00eau khi\u00ea\u0309n","a":"sport","b":"stabilize","c":"inappropriate","d":"applaud","answer":"sport"}

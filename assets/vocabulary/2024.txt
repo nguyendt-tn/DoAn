@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a s\u00f4\u0341, l\u01b0\u01a1\u0323ng s\u00f4\u0341, m\u00f4\u0323t s\u00f4\u0341, nhi\u00ea\u0340u l\u0103\u0341m, s\u00f4\u0341 nhi\u00ea\u0340u","a":"ray","b":"mainland","c":"corrupt","d":"quantity","answer":"quantity"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u00f4n ho\u0340a, tham d\u01b0\u0323","a":"habit","b":"lend","c":"because","d":"accessible","answer":"accessible"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"g\u01b0\u01a1m, c\u00e2y \u0111u\u00f4\u0341c, khu\u0341c cu\u0309i, loa\u0323i, nha\u0309n hi\u00ea\u0323u","a":"preservation","b":"empower","c":"brand","d":"grip","answer":"brand"}

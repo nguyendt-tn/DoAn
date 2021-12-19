@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0309u l\u00f4\u0323, bi\u00ea\u0309u ti\u0340nh, ch\u01b0\u0341ng minh, ch\u01b0\u0341ng to\u0309","a":"demonstrate","b":"disturbing","c":"rebellion","d":"hidden","answer":"demonstrate"}

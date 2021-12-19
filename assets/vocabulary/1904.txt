@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 s\u00e2u \u01a1\u0309 s\u00f4ng, h\u00f4\u0340 b\u01a1i, h\u00f4\u0340 t\u0103\u0341m, v\u00f4\u0341n chung, vu\u0303ng n\u01b0\u01a1\u0341c, vu\u0303ng n\u01b0\u01a1\u0341c \u0111o\u0323ng","a":"presently","b":"pool","c":"collective","d":"line-up","answer":"pool"}

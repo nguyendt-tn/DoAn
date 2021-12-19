@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phe\u0341p ve\u0309 ph\u00f4\u0341i ca\u0309nh, theo ca\u0341ch ph\u00f4\u0341i ca\u0309nh","a":"perspective","b":"disorder","c":"marketplace","d":"visible","answer":"perspective"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"d\u00e2\u0309n d\u0103\u0341t, \u0111em \u0111\u00ea\u0341n, \u0111em la\u0323i, \u0111\u01b0a la\u0323i, mang \u0111\u00ea\u0341n","a":"terminal","b":"harbour","c":"compose","d":"bring","answer":"bring"}

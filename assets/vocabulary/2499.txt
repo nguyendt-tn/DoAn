@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i c\u00e2\u0341p d\u01b0\u01a1\u0303ng, ng\u01b0\u01a1\u0340i giu\u0341p \u0111\u01a1\u0309, ng\u01b0\u01a1\u0340i u\u0309ng h\u00f4\u0323, v\u00e2\u0323t \u0111\u00ea\u0309 ch\u00f4\u0341ng \u0111\u01a1\u0309","a":"duo","b":"primarily","c":"midst","d":"supporter","answer":"supporter"}

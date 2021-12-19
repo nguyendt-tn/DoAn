@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gio\u0323ng, s\u01b0\u0323 nh\u00e2\u0341n ma\u0323nh","a":"shoe","b":"accent","c":"highlight","d":"delicious","answer":"accent"}

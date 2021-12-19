@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"la\u0340m nga\u0323c nhi\u00ean, s\u01b0\u0323 \u0111\u00f4\u0323t ki\u0341ch","a":"legacy","b":"distinctive","c":"screening","d":"surprising","answer":"surprising"}

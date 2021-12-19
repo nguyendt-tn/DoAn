@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"s\u00f4\u0341 \u0111\u00f4ng","a":"prevail","b":"outrage","c":"encouragement","d":"mass","answer":"mass"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y c\u00f4n, c\u00e2u la\u0323c b\u00f4\u0323, \u0111a\u0341nh b\u0103\u0340ng c\u00f4n, \u0111oa\u0340n th\u00ea\u0309, la\u0341 chu\u00f4\u0340n, tra\u0341i chu\u0340y, g\u00e2\u0323y cong, gia\u0309i bu\u00f4\u0323t to\u0341c, h\u00f4\u0323i","a":"swing","b":"club","c":"overseas","d":"drought","answer":"club"}

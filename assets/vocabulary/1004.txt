@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cu\u00f4\u0341i, cu\u00f4\u0341i cu\u0340ng, l\u00e2\u0340n cho\u0341t, sau cho\u0341t, sau cu\u0340ng","a":"testimony","b":"formation","c":"contractor","d":"final","answer":"final"}

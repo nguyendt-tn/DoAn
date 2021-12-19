@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"thoa, cha\u0340, ta\u0341n nho\u0309, ca\u0323 va\u0340o, cha\u0340 va\u0340o nhau, xa\u0341t, co\u0323 va\u0340o, mo\u0340n, nghi\u00ea\u0340n","a":"tragedy","b":"deficit","c":"rub","d":"kidnap","answer":"rub"}

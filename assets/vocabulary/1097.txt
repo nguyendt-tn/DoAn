@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"t\u01b0\u01a1ng lai, se\u0303 t\u01a1\u0341i, thu\u00f4\u0323c v\u00ea\u0340 nga\u0340y sau","a":"accusation","b":"peculiar","c":"future","d":"residue","answer":"future"}

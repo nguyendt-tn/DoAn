@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u0309a h\u00f4\u0340i m\u00f4n, s\u00f4\u0341 ma\u0323ng, th\u01a1\u0340i v\u00e2\u0323n, tra\u0323ng tha\u0341i gia\u0340u co\u0341, v\u00e2\u0323n ma\u0323ng, v\u00e2\u0323n may","a":"cabinet","b":"fortune","c":"rival","d":"exclusive","answer":"fortune"}

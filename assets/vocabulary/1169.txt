@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0323i sa\u0309nh, l\u00e2u \u0111a\u0340i, nha\u0340 cu\u0309a \u0111i\u0323a chu\u0309, nha\u0340 l\u01a1\u0341n \u0111\u00ea\u0309 \u01a1\u0309, pho\u0340ng \u0103n, pho\u0340ng l\u01a1\u0341n","a":"forum","b":"undoubtedly","c":"hall","d":"completion","answer":"hall"}

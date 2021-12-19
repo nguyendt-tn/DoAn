@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho\u0323n, ke\u0341n cho\u0323n, l\u01b0\u0323a cho\u0323n, tuy\u00ea\u0309n cho\u0323n","a":"spectacle","b":"mechanism","c":"deem","d":"choose","answer":"choose"}

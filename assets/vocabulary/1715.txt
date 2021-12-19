@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"thi\u0309nh thoa\u0309ng, tr\u01b0\u0340 bi\u0323","a":"treasure","b":"notify","c":"civilian","d":"occasionally","answer":"occasionally"}

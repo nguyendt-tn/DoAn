@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ch\u01b0\u0309a, co\u0341 thai, nhi\u00ea\u0340u, nhi\u00ea\u0340u \u01b0\u0341ng du\u0323ng","a":"agricultural","b":"pregnant","c":"neglect","d":"undertake","answer":"pregnant"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cho\u0323c gi\u00e2\u0323n, gi\u00e2\u0323n d\u01b0\u0309, n\u00f4\u0309i gi\u00e2\u0323n, n\u00f4\u0309i xung, t\u01b0\u0341c gi\u00e2\u0323n","a":"devote","b":"supreme","c":"angry","d":"hunger","answer":"angry"}

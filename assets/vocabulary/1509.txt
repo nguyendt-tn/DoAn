@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 xa xi\u0341, s\u01b0\u0323 l\u00f4\u0323ng l\u00e2\u0309y, s\u01b0\u0323 xa hoa, ti\u0341nh d\u00e2m du\u0323c","a":"orientation","b":"simulate","c":"dictate","d":"luxury","answer":"luxury"}

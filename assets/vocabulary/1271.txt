@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0323nh hoa\u0323n, ti\u0340nh tra\u0323ng \u0111au y\u00ea\u0341u","a":"illness","b":"worship","c":"bid","d":"nasty","answer":"illness"}

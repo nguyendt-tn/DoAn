@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"keo, c\u01a1\u0303, \u0111\u00f4\u0323 l\u01a1\u0341n, h\u00f4\u0340 ga\u0323o, ki\u0341ch th\u01b0\u01a1\u0341c, khu\u00f4n kh\u00f4\u0309","a":"monk","b":"auction","c":"primarily","d":"size","answer":"size"}

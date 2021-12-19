@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00ea\u0340 ngoa\u0340i, ngoa\u0340i, ngoa\u0323i di\u00ea\u0323n, \u01a1\u0309 n\u01b0\u01a1\u0341c ngoa\u0340i, \u01a1\u0309 ngoa\u0340i","a":"external","b":"linear","c":"decisive","d":"sexy","answer":"external"}

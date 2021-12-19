@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a s\u00f4\u0341, ph\u00e2\u0340n \u0111\u00f4ng, ph\u00e2\u0340n nhi\u00ea\u0340u","a":"outsider","b":"majority","c":"burst","d":"prominent","answer":"majority"}

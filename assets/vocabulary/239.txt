@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"pho\u0340ng ngu\u0303","a":"cheer","b":"bedroom","c":"shareholder","d":"hierarchy","answer":"bedroom"}

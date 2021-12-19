@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nguy\u00ean t\u01b0\u0309, thu\u00f4\u0323c v\u00ea\u0340 ha\u0323ch, thu\u00f4\u0323c v\u00ea\u0340 ha\u0323ch nguy\u00ean t\u01b0\u0309","a":"debut","b":"nuclear","c":"intellectual","d":"settlement","answer":"nuclear"}

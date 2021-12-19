@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"k\u00eau, chi\u0309 \u0111i\u0323nh","a":"capitalism","b":"psychological","c":"helmet","d":"term","answer":"term"}

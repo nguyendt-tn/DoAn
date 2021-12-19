@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"to, nhi\u00ea\u0340u, ph\u00e2\u0340n l\u01a1\u0341n, ph\u00e2\u0340n nhi\u00ea\u0340u, s\u00f4\u0341 nhi\u00ea\u0340u, l\u01a1\u0341n, tuy\u00ea\u0323t qua\u0341, v\u00f4 s\u00f4\u0341","a":"outlet","b":"anxiety","c":"resistance","d":"great","answer":"great"}

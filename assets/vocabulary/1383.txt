@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tha\u0341ng ba\u0309y","a":"tide","b":"mathematical","c":"briefly","d":"july","answer":"july"}

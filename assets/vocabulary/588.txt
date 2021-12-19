@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"che, ba\u0309o \u0111a\u0309m, bao phu\u0309, che \u0111\u00e2\u0323y, \u0111\u00e2\u0323y","a":"theatrical","b":"cover","c":"interim","d":"compound","answer":"cover"}

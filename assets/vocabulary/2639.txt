@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 ch\u01a1i, \u0111\u00f4\u0340 ch\u01a1i tre\u0309 con, \u0111\u00f4\u0340 v\u00e2\u0323t i\u0341t gia\u0341 tri\u0323","a":"toy","b":"fulfil","c":"precise","d":"creep","answer":"toy"}

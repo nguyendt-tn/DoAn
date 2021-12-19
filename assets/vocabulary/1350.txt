@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"th\u00f4ng ng\u00f4n, gia\u0309i nghi\u0303a, gia\u0309i thi\u0341ch, di\u00ea\u0309n ta\u0309, th\u00f4ng di\u0323ch","a":"rebellion","b":"declaration","c":"interpret","d":"perception","answer":"interpret"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111\u00ea\u0341n \u0111\u00e2y, \u0111\u00ea\u0341n \u0111o\u0341, nh\u01b0 th\u00ea\u0341, nh\u01b0 v\u00e2\u0323y, v\u00e2\u0323t","a":"premier","b":"thus","c":"lobby","d":"behalf","answer":"thus"}

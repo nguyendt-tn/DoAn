@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"co\u0341 ai, co\u0341 ng\u01b0\u01a1\u0340i, ng\u01b0\u01a1\u0340i na\u0340o","a":"variation","b":"somebody","c":"influential","d":"adverse","answer":"somebody"}

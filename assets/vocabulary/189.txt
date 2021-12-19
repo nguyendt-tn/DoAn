@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 s\u01b0\u0341c h\u00e2\u0341p d\u00e2\u0309n, co\u0341 s\u01b0\u0341c hu\u0341t","a":"attractive","b":"probability","c":"assertion","d":"mentor","answer":"attractive"}

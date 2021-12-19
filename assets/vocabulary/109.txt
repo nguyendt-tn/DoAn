@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u00ea\u0309 chu ni\u00ean","a":"balanced","b":"anniversary","c":"premier","d":"inability","answer":"anniversary"}

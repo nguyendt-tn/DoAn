@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 n\u00f4\u0309, ti\u00ea\u0341ng n\u00f4\u0309","a":"innovation","b":"explosion","c":"chase","d":"renew","answer":"explosion"}

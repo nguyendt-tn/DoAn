@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u00e2n th\u00e2\u0323t, ch\u01b0a k\u00ea\u0341t h\u00f4n, co\u0340n \u0111\u00f4\u0323c th\u00e2n, \u0111\u00f4\u0323c th\u00e2n, \u0111\u01a1n \u0111\u00f4\u0323c, m\u00f4\u0323t mi\u0340nh, ngay th\u00e2\u0323t, tha\u0340nh th\u00e2\u0323t","a":"scholarship","b":"single","c":"operator","d":"buffer","answer":"single"}

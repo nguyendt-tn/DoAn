@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u00ea\u0323 tri\u0340nh, khu\u00e2\u0341t phu\u0323c, quy phu\u0323c, tri\u0340nh t\u01b0\u0323","a":"mechanic","b":"submit","c":"endure","d":"shore","answer":"submit"}

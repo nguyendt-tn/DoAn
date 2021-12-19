@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ba\u0340 con g\u00e2\u0340n, ba\u0323n th\u00e2n, g\u00e2\u0340n, s\u0103\u0341p","a":"bulk","b":"supreme","c":"faculty","d":"near","answer":"near"}

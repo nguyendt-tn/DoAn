@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309i bi\u00ea\u0309n, b\u01a1\u0340 bi\u00ea\u0309n","a":"peer","b":"beach","c":"speculate","d":"convenience","answer":"beach"}

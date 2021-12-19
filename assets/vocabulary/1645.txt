@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng th\u00f4ng minh, ch\u00e2\u0323t he\u0323p, ti\u0309 mi\u0309, co\u0341 gi\u01a1\u0341i ha\u0323n, he\u0323p, bi\u0323 ha\u0323n ch\u00ea\u0341, ky\u0309 ca\u0340ng, khi\u0341t nhau, kh\u00f4ng r\u00f4\u0323ng, he\u0323p ho\u0340i","a":"sketch","b":"narrow","c":"notable","d":"administrative","answer":"narrow"}

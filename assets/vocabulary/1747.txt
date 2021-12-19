@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00e2u m\u0103\u0323t nhau, \u0111\u00f4\u0341i di\u00ea\u0323n, \u0111\u00f4\u0341i m\u0103\u0323t","a":"nominate","b":"citizenship","c":"ray","d":"opposite","answer":"opposite"}

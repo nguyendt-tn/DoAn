@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 th\u00ea\u0309 xa\u0309y \u0111\u00ea\u0341n, co\u0341 th\u00ea\u0309 xa\u0309y ra, t\u01a1\u0341i","a":"memorial","b":"incident","c":"revival","d":"countless","answer":"incident"}

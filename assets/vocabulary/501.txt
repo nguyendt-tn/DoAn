@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tranh \u0111ua, ganh \u0111ua, cu\u00f4\u0323c thi, s\u01b0\u0323 ca\u0323nh tranh","a":"isolate","b":"realization","c":"competition","d":"delegation","answer":"competition"}

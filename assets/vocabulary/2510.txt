@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"co\u0340n s\u00f4\u0341ng, s\u00f4\u0341ng l\u00e2u h\u01a1n h\u00ea\u0341t, s\u00f4\u0341ng so\u0341t, v\u00e2\u0309n t\u00f4\u0340n ta\u0323i","a":"tender","b":"dispose","c":"survive","d":"grasp","answer":"survive"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u0103\u0323c, nh\u01b0\u0341t tri\u0341, r\u0103\u0341n ch\u0103\u0341c, thi\u0341ch h\u01a1\u0323p","a":"applicant","b":"consistent","c":"portfolio","d":"legislation","answer":"consistent"}

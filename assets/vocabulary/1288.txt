@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kho\u0341 la\u0340m \u0111\u01b0\u01a1\u0323c, kh\u00f4ng th\u00ea\u0309 \u0111\u01b0\u01a1\u0323c, kh\u00f4ng thi\u0341ch \u0111a\u0341ng, vi\u00ea\u0323c kho\u0341 kh\u0103n","a":"affection","b":"impossible","c":"inhibit","d":"ratio","answer":"impossible"}

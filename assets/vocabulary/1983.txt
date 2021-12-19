@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0340i, l\u01a1\u0323i, s\u00f4\u0341 ti\u00ea\u0340n l\u01a1\u0340i, l\u01a1\u0323i i\u0341ch","a":"midst","b":"profit","c":"surveillance","d":"casualty","answer":"profit"}

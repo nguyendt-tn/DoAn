@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nh\u01b0 nhau, gi\u00f4\u0341ng nhau, m\u00f4\u0323t th\u01b0\u0341","a":"deposit","b":"motivate","c":"temple","d":"same","answer":"same"}

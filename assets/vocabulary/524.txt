@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u0103\u0341c ch\u0103\u0341n, li\u00ea\u0340u li\u0309nh, qua\u0309 quy\u00ea\u0341t, tin ch\u0103\u0341c","a":"villager","b":"bounce","c":"confident","d":"kidney","answer":"confident"}

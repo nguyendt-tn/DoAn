@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111au, bi\u0323 \u0111au, la\u0340m h\u01b0, la\u0340m ng\u01b0\u01a1\u0340i na\u0340o bi\u0323 th\u01b0\u01a1ng, la\u0340m thi\u00ea\u0323t ha\u0323i, la\u0340m kh\u00f4\u0309 ng\u01b0\u01a1\u0340i na\u0340o","a":"hurt","b":"strip","c":"convenience","d":"fierce","answer":"hurt"}

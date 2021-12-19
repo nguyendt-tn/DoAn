@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y, th\u00e2\u0323p t\u01b0\u0323 gia\u0341","a":"tree","b":"slap","c":"contend","d":"minimal","answer":"tree"}

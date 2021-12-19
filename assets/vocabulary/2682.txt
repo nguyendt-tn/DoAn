@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"t\u01b0\u01a1\u0323ng tr\u01b0ng","a":"neutral","b":"typical","c":"conventional","d":"surplus","answer":"typical"}

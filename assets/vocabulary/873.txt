@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"s\u01b0\u0323 bo\u0323c chung quanh, tra\u0323ng ca\u0309nh chung quanh","a":"environmental","b":"diversity","c":"resume","d":"martial","answer":"environmental"}

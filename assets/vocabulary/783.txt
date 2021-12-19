@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4, kh\u00f4 khan, kha\u0341t n\u01b0\u01a1\u0341c, ra\u0341o n\u01b0\u01a1\u0341c, ca\u0323n, ti\u00ea\u0340n n\u00f4\u0309i, kh\u00f4 ga\u0341o, v\u0103\u0341t kh\u00f4, ti\u00ea\u0340n m\u0103\u0323t","a":"tribute","b":"consent","c":"dry","d":"inadequate","answer":"dry"}

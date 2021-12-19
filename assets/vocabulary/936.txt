@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ha\u0340ng ho\u0341a xu\u00e2\u0341t ca\u0309ng, s\u01b0\u0323 xu\u00e2\u0341t ca\u0309ng","a":"swallow","b":"defy","c":"essentially","d":"export","answer":"export"}

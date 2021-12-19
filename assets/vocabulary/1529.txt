@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309n \u0111\u00f4\u0340, \u0111i\u0323a \u0111\u00f4\u0340","a":"map","b":"legend","c":"diminish","d":"preservation","answer":"map"}

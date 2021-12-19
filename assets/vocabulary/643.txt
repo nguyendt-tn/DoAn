@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chia, bu\u00f4n ba\u0341n, giao di\u0323ch, h\u00e2\u0323u \u0111a\u0309i, ph\u00e2n ph\u00f4\u0341i, k\u00ea\u0341t li\u00ea\u0309u m\u00f4\u0323t c\u00f4ng vi\u00ea\u0323c","a":"subsidy","b":"intellectual","c":"deal","d":"alike","answer":"deal"}

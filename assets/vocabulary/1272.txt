@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chu\u0341 gia\u0309i, gia\u0309ng nghi\u0303a, thuy\u00ea\u0341t minh","a":"clinic","b":"illustrate","c":"severely","d":"excess","answer":"illustrate"}

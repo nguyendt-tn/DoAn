@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01b0\u0341c t\u01b0\u01a1\u0323ng, thu\u00e2\u0323t \u0111i\u00eau kh\u0103\u0341c","a":"technological","b":"input","c":"sculpture","d":"behalf","answer":"sculpture"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hang s\u00e2u, b\u00ea\u0340 s\u00e2u, chi\u00ea\u0340u s\u00e2u, \u0111\u00f4\u0323 s\u00e2u, ti\u0341nh th\u00e2m a\u0341c, ti\u0341nh th\u00e2m tr\u00e2\u0340m","a":"machinery","b":"restore","c":"endless","d":"depth","answer":"depth"}

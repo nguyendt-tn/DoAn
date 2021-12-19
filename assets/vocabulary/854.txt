@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01a1 gi\u01a1\u0341i, \u0111\u00e2\u0340u ma\u0341y xe l\u01b0\u0303a, \u0111\u00f4\u0323ng c\u01a1, ma\u0341y, ma\u0341y mo\u0341c, ph\u01b0\u01a1ng pha\u0341p, ph\u01b0\u01a1ng ti\u00ea\u0323n, thu\u0309 \u0111oa\u0323n","a":"engine","b":"presidency","c":"mobilize","d":"cult","answer":"engine"}

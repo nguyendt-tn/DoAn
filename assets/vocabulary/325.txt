@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tr\u00ean kh\u00f4ng, truy\u00ea\u0340n \u0111i b\u0103\u0340ng v\u00f4 tuy\u00ea\u0341n \u0111i\u00ea\u0323n","a":"lad","b":"broadcast","c":"diagnose","d":"revenge","answer":"broadcast"}

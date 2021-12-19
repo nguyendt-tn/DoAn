@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"cu\u0303ng ng\u00e2\u0340n \u00e2\u0341y, \u0111u\u0341ng v\u00e2\u0323y, hoa\u0340n toa\u0340n, nguy\u00ean ca\u0309, t\u00e2\u0341t ca\u0309, toa\u0340n ve\u0323n, th\u00e2\u0323t v\u00e2\u0323y","a":"toxic","b":"chop","c":"openly","d":"quite","answer":"quite"}

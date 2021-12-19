@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ta\u0341c ph\u00e2\u0303m xu\u00e2\u0341t ba\u0309n ha\u0340ng n\u0103m","a":"article","b":"door","c":"neighbourhood","d":"annually","answer":"annually"}

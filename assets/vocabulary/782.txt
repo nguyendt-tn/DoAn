@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"say, say s\u01b0a, u\u00f4\u0341ng say","a":"transparent","b":"consumption","c":"exclusively","d":"drunk","answer":"drunk"}

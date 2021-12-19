@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111i\u0323nh, pho\u0309ng \u0111oa\u0341n, ti\u0340m m\u00f4\u0323t bi\u00ea\u0309u th\u01b0\u0341c","a":"contemplate","b":"evaluate","c":"rocket","d":"outing","answer":"evaluate"}

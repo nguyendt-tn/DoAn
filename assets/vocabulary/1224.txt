@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chim \u01b0ng nho\u0309, ng\u01b0\u0323a nho\u0309, s\u01b0\u0323 gia\u0309i tri\u0341, ti\u00eau khi\u00ea\u0309n \u01b0a thi\u0341ch","a":"adverse","b":"say","c":"hobby","d":"newly","answer":"hobby"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xin, c\u00e2\u0340u kh\u00e2\u0309n, c\u00e2\u0340u nguy\u00ea\u0323n, kh\u00e2\u0309n nguy\u00ea\u0323n","a":"pray","b":"bug","c":"momentum","d":"workforce","answer":"pray"}

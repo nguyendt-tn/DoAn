@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i bu\u00f4n ba\u0341n, nha\u0340 kinh doanh, nha\u0340 doanh th\u01b0\u01a1ng, nha\u0340 th\u01b0\u01a1ng ma\u0309i","a":"meaningful","b":"compel","c":"businessman","d":"productive","answer":"businessman"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"l\u00ean tr\u00ean, ch\u01b0a \u0111i ngu\u0309, \u01a1\u0309 tr\u00ean","a":"entrepreneur","b":"convict","c":"up","d":"tempt","answer":"up"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ki\u00ean nh\u00e2\u0309n, nh\u00e2\u0309n na\u0323i","a":"assertion","b":"lesbian","c":"patient","d":"steer","answer":"patient"}

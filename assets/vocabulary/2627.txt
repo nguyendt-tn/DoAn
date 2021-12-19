@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u0309 \u0111\u00ea\u0340, \u0111\u00ea\u0340 mu\u0323c","a":"pride","b":"topic","c":"ignorance","d":"cave","answer":"topic"}

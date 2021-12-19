@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xem, \u0111a\u0341nh r\u01a1\u0341t, no\u0341i bo\u0341ng, nh\u0103\u0341m va\u0340o, a\u0341m chi\u0309, tri\u0340nh \u0111\u01a1n cho ng\u01b0\u01a1\u0340i na\u0340o, vi\u00ea\u0323n d\u00e2\u0309n, tham kha\u0309o","a":"elbow","b":"sufficient","c":"indigenous","d":"refer","answer":"refer"}

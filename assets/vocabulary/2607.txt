@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u00f4\u0340i, lu\u0341c, thi\u0340 gi\u01a1\u0340, th\u01a1\u0340i \u0111a\u0323i, th\u01a1\u0340i gian, th\u01a1\u0340i ky\u0340","a":"shortage","b":"clarify","c":"lethal","d":"time","answer":"time"}

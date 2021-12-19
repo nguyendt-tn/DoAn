@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ky\u0309 thu\u00e2\u0323t ho\u0323c","a":"gay","b":"array","c":"protester","d":"technology","answer":"technology"}

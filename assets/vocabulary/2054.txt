@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a\u0303 \u0111o\u0323c","a":"read","b":"administer","c":"stimulus","d":"integrate","answer":"read"}

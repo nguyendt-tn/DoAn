@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a\u0323t ky\u0309 lu\u00e2\u0323t","a":"recording","b":"casual","c":"litre","d":"precede","answer":"recording"}

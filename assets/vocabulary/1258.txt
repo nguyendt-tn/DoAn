@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"g\u00e2\u0341p, v\u00f4\u0323i","a":"dumb","b":"hurry","c":"relieved","d":"parish","answer":"hurry"}

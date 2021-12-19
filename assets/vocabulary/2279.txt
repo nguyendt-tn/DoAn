@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng s\u00e2u","a":"conceive","b":"intimate","c":"shallow","d":"supplement","answer":"shallow"}

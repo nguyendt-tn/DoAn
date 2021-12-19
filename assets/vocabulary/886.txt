@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chi\u0309 v\u00ea\u0340 \u0111a\u0323o \u0111\u01b0\u0341c, chi\u0309 v\u00ea\u0340 lu\u00e2n ly\u0341","a":"preside","b":"disclosure","c":"opt","d":"ethical","answer":"ethical"}

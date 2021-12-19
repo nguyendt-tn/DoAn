@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u00f4\u0340ng bo\u0340, chu\u00f4\u0340ng ng\u01b0\u0323a, chu\u00f4\u0340ng tr\u00e2u","a":"modification","b":"stable","c":"conceive","d":"stereotype","answer":"stable"}

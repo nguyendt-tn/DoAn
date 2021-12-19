@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ba\u0340y ro\u0309 ra ngoa\u0340i, hi\u00ea\u0309n nhi\u00ean, minh ba\u0323ch, ro\u0309 ra\u0340ng, th\u00e2\u0341y ro\u0309","a":"make-up","b":"dispose","c":"apparent","d":"substantial","answer":"apparent"}

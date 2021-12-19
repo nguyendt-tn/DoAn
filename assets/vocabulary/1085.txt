@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nhi\u00ean li\u00ea\u0323u","a":"fuel","b":"brutal","c":"nationwide","d":"supervisor","answer":"fuel"}

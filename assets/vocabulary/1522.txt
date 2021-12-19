@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"trung t\u00e2m mua s\u0103\u0341m, v\u00f4\u0340 \u0111\u00ea\u0309 \u0111a\u0341nh c\u00e2\u0340u","a":"subscription","b":"merely","c":"mall","d":"constituency","answer":"mall"}

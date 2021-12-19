@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0341ng ho\u0323ng, ho\u0323ng, v\u00e2\u0323t gi\u00f4\u0341ng hi\u0340nh cu\u00f4\u0341ng ho\u0323ng","a":"separation","b":"incur","c":"bleed","d":"throat","answer":"throat"}

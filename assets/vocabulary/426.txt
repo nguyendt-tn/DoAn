@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"con ca\u0341i, con cha\u0341u, \u0111\u01b0\u0341a be\u0341, \u0111\u01b0\u0341a tre\u0309, ha\u0340i nhi, ng\u01b0\u01a1\u0340i co\u0340n tre\u0309, nhi \u0111\u00f4\u0340ng, tre\u0309 em","a":"child","b":"regulator","c":"clip","d":"interaction","answer":"child"}

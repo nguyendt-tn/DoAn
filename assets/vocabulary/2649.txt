@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0341n ch\u00e2\u0341t, bi\u00ea\u0341n \u0111\u00f4\u0309i, bi\u00ea\u0341n ho\u0341a, thay \u0111\u00f4\u0309i","a":"whatsoever","b":"accumulation","c":"transform","d":"magnificent","answer":"transform"}

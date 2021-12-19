@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nha\u0340 chuy\u00ean m\u00f4n","a":"delete","b":"specialist","c":"exploitation","d":"scholarship","answer":"specialist"}

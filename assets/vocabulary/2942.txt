@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"da\u0340n tr\u00e2\u0323n, ke\u0341o th\u0103\u0309ng, la\u0340m cho ngay ng\u0103\u0341n, s\u0103\u0341p ha\u0340ng","a":"island","b":"bowl","c":"align","d":"half","answer":"align"}

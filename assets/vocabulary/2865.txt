@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u00f4\u0323 ra","a":"forum","b":"writing","c":"bizarre","d":"scrutiny","answer":"writing"}

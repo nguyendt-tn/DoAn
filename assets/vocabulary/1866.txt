@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ghim, kim b\u0103ng, kim g\u0103m, ke\u0323p, ca\u0341i nga\u0323c, ca\u0341i ch\u00f4\u0341t, kim gu\u0341t","a":"debut","b":"long-time","c":"pin","d":"trauma","answer":"pin"}

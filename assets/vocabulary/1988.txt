@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0340i h\u01b0\u0341a, l\u01a1\u0340i \u01b0\u01a1\u0341c he\u0323n","a":"promise","b":"gene","c":"custody","d":"prevail","answer":"promise"}

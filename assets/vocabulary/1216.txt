@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"anh ta, no\u0341","a":"plead","b":"liberty","c":"cabin","d":"him","answer":"him"}

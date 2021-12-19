@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340 chu\u0341a, c\u00f4ng chu\u0341a, n\u01b0\u0303 hoa\u0340ng","a":"princess","b":"capitalist","c":"epidemic","d":"simulation","answer":"princess"}

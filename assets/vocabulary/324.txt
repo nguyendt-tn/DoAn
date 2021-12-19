@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u00ea\u0309n m\u00eanh m\u00f4ng, r\u00f4\u0323ng, r\u00f4\u0323ng ra\u0309i","a":"broad","b":"choir","c":"inhibit","d":"privilege","answer":"broad"}

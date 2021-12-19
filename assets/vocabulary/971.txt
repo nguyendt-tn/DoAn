@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch la\u0340m, h\u01a1\u0323p th\u01a1\u0340i trang, ki\u00ea\u0309u, m\u00f4\u0341t, tho\u0341i quen","a":"lifelong","b":"renowned","c":"accommodate","d":"fashion","answer":"fashion"}

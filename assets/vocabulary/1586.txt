@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"t\u00f4\u0341i thi\u00ea\u0309u","a":"congratulate","b":"minimum","c":"operator","d":"supervise","answer":"minimum"}

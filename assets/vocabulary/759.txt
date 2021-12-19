@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho, t\u0103\u0323ng","a":"bargain","b":"donate","c":"tolerance","d":"mercy","answer":"donate"}

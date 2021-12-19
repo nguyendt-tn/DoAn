@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"la\u0340m cho thi\u0341ch h\u01a1\u0323p, la\u0340m cho v\u01b0\u0340a, l\u0103\u0341p va\u0340o, pho\u0309ng theo, s\u01b0\u0309a \u0111\u00f4\u0309i, tu\u0340y th\u01a1\u0340i","a":"adapt","b":"adhere","c":"idiot","d":"tender","answer":"adapt"}

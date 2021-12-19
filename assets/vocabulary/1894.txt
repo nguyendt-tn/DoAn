@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chua cay, ch\u00e2m chi\u0341ch, co\u0341 \u0111\u00e2\u0340u nho\u0323n, nho\u0323n","a":"consecutive","b":"spectacular","c":"ideological","d":"pointed","answer":"pointed"}

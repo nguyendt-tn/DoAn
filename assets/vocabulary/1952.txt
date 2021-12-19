@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"co\u0341 th\u00ea\u0309 tra\u0341nh, ng\u0103n ca\u0309n, ng\u0103n tr\u01a1\u0309, pho\u0340ng ng\u01b0\u0340a","a":"prevent","b":"prompt","c":"extensively","d":"complication","answer":"prevent"}

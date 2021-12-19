@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u00f4\u0341 ti\u00ea\u0340n th\u01b0\u01a1\u0309ng, s\u01b0\u0323 ba\u0341o \u0111a\u0341p, s\u01b0\u0323 th\u01b0\u01a1\u0309ng","a":"reward","b":"accommodate","c":"investor","d":"restoration","answer":"reward"}

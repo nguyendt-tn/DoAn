@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"r\u01b0\u0340ng","a":"scare","b":"heritage","c":"forest","d":"accumulate","answer":"forest"}

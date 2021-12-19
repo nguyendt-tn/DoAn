@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"s\u01b0\u0323 gi\u00e2\u0323n d\u01b0\u0309","a":"angrily","b":"evident","c":"combat","d":"toll","answer":"angrily"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"kh\u00f4ng, kh\u00f4ng \u0111\u00e2u, cu\u0303ng kh\u00f4ng, kh\u00f4ng n\u01b0\u0303a","a":"unveil","b":"capitalism","c":"neither","d":"patch","answer":"neither"}

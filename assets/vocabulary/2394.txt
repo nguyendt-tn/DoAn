@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u01a1\u0309 h\u01b0\u01a1\u0341ng nam","a":"pause","b":"southern","c":"principal","d":"burial","answer":"southern"}

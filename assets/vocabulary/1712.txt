@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"minh ba\u0323ch, ro\u0309 ra\u0340ng","a":"gallon","b":"ballet","c":"obvious","d":"rental","answer":"obvious"}

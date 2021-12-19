@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u01b0a tha\u0323o, kh\u00f4ng kinh nghi\u00ea\u0323m, s\u00f4\u0341ng","a":"raw","b":"neglect","c":"credibility","d":"separation","answer":"raw"}

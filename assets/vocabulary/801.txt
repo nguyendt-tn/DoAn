@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2\u0340n ki\u00ea\u0323m, da\u0340nh du\u0323m, ha\u0340 ti\u00ea\u0323n, s\u01b0\u0323 ti\u00ea\u0341t ki\u00ea\u0323m","a":"economy","b":"slot","c":"assault","d":"fortunate","answer":"economy"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u00f4\u0309 nh\u01b0\u0323t ky\u0341","a":"guideline","b":"diary","c":"short-term","d":"embassy","answer":"diary"}

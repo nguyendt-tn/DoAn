@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a\u0323i l\u01b0\u0303 qua\u0341n","a":"stem","b":"framework","c":"concede","d":"palace","answer":"palace"}

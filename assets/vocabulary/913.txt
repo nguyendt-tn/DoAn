@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tha, mi\u00ea\u0309n cho, tha l\u00f4\u0309i, tha th\u01b0\u0341","a":"excuse","b":"vow","c":"certainty","d":"observer","answer":"excuse"}

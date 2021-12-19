@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"d\u00e2\u0303n ch\u01b0\u0341ng, \u0111o\u0340i ra to\u0340a, nh\u0103\u0341t la\u0323i l\u01a1\u0340i no\u0341i, vi\u00ea\u0323n ch\u01b0\u0341ng","a":"reproduction","b":"equality","c":"circulate","d":"cite","answer":"cite"}

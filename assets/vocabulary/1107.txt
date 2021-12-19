@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"go\u0341p, h\u00f4\u0323i ho\u0323p, l\u01b0\u01a1\u0323m, n\u0103\u0341m ch\u0103\u0323t, nh\u0103\u0323t, nho\u0341m ho\u0323p, nho\u0341m la\u0323i, si\u00ea\u0341t ch\u0103\u0323t, tu\u0323 ho\u0323p","a":"undergo","b":"memorial","c":"corruption","d":"gather","answer":"gather"}

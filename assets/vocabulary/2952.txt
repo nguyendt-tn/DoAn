@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340ng minh, giao ha\u0309o, k\u00ea\u0341t th\u00e2n","a":"ally","b":"the","c":"engine","d":"cake","answer":"ally"}

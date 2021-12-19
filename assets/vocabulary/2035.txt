@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111oa\u0323n v\u0103n, gia\u0341 hi\u00ea\u0323n ha\u0340nh, th\u01a1\u0340i gia\u0341","a":"prohibit","b":"erupt","c":"quotation","d":"dairy","answer":"quotation"}

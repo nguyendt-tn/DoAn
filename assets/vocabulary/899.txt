@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"kh\u0103\u0341p n\u01a1i, mo\u0323i n\u01a1i, v\u00f4 ha\u0323n","a":"everywhere","b":"confine","c":"protective","d":"fragile","answer":"everywhere"}

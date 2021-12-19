@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"kh\u00f4ng ch\u00e2\u0341p nh\u00e2\u0323n, la\u0340m b\u00f4\u0323 kh\u00f4ng bi\u00ea\u0341t","a":"bulk","b":"punch","c":"liver","d":"ignore","answer":"ignore"}

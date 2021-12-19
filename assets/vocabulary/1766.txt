@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"ca\u0341i cu\u0309a chu\u0341ng ta, ca\u0341i cu\u0309a chu\u0341ng t\u00f4i","a":"absorb","b":"ours","c":"wheat","d":"medieval","answer":"ours"}

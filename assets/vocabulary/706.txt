@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kim c\u01b0\u01a1ng, h\u00f4\u0323t xoa\u0340n, hi\u0340nh thoi, la\u0341 n\u0103m r\u00f4, s\u00e2n da\u0309 c\u00e2\u0340u, v\u00e2\u0323t chi\u00ea\u0341u sa\u0341ng, v\u00e2\u0323t lo\u0341ng la\u0341nh","a":"diamond","b":"undermine","c":"cemetery","d":"navigation","answer":"diamond"}

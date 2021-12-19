@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"gi\u00f4\u0341c, gi\u00f4\u0341c \u0111\u01b0\u0341ng","a":"widen","b":"drown","c":"incentive","d":"steep","answer":"steep"}

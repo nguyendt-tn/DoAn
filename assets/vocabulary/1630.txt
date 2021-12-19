@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"im, me\u0323, ng\u00e2\u0323m mi\u00ea\u0323ng la\u0323i","a":"satisfaction","b":"mum","c":"constitute","d":"overseas","answer":"mum"}

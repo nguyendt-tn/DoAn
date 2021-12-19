@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"coi la\u0340, \u0111i\u0323nh danh, \u0111i\u0323nh ti\u0341nh ch\u00e2\u0341t, go\u0323i la\u0340, gia\u0309m b\u01a1\u0341t, ha\u0323n ch\u00ea\u0341, hi\u0340nh dung, s\u01b0\u0309a \u0111\u00f4\u0309i","a":"qualify","b":"spoil","c":"missile","d":"apparatus","answer":"qualify"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00f4\u0341i r\u00f4\u0341i, l\u00e2\u0340m l\u00e2\u0303n, l\u00f4\u0323n, r\u00f4\u0341i tri\u0341","a":"novelist","b":"casino","c":"robust","d":"confused","answer":"confused"}

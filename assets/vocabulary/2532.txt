@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cao","a":"tall","b":"pump","c":"beast","d":"generic","answer":"tall"}

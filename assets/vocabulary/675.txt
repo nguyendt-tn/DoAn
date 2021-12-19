@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nha si\u0303","a":"tenure","b":"dentist","c":"dip","d":"patrol","answer":"dentist"}

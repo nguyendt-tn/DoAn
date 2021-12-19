@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch n\u00e2\u0341u \u0103n, ph\u01b0\u01a1ng thu\u00f4\u0341c","a":"exaggerate","b":"distract","c":"racial","d":"recipe","answer":"recipe"}

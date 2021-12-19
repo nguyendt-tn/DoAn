@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0341t ma\u0303m","a":"tobacco","b":"hazard","c":"annoyed","d":"detain","answer":"annoyed"}

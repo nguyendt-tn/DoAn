@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00e2\u0340u tr\u01a1\u0340i, khi\u0341 h\u00e2\u0323u","a":"clinical","b":"incidence","c":"sky","d":"psychological","answer":"sky"}

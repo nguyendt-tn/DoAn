@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kha\u0341c, kha\u0341c bi\u00ea\u0323t, kha\u0341c nhau, kh\u00f4ng gi\u00f4\u0341ng nhau, v\u00e2\u0323t kh\u00f4ng gi\u00f4\u0341ng nhau","a":"flexibility","b":"unlike","c":"terrific","d":"arbitrary","answer":"unlike"}

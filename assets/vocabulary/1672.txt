@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u0103\u0341p t\u01a1\u0341i","a":"mere","b":"conception","c":"next to","d":"timber","answer":"next to"}

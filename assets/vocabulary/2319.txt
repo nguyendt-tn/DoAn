@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0323c, \u0111\u00f4\u0340ng ti\u00ea\u0340n ba\u0323c","a":"instrumental","b":"colonial","c":"silver","d":"successor","answer":"silver"}

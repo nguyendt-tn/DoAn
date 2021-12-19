@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y to, ng\u01b0\u01a1\u0340i kh\u00f4\u0309ng l\u00f4\u0340, v\u00e2\u0323t phi th\u01b0\u01a1\u0340ng","a":"giant","b":"fairness","c":"stun","d":"compose","answer":"giant"}

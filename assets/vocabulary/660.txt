@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0340o ch\u01b0\u0309a, ba\u0309o v\u00ea\u0323, bi\u00ea\u0323n gia\u0309i, binh v\u01b0\u0323c, che ch\u01a1\u0309","a":"defend","b":"overnight","c":"conceive","d":"subtle","answer":"defend"}

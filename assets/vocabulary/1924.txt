@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"pao, ch\u00f4\u0309 nh\u00f4\u0341t su\u0341c v\u00e2\u0323t, \u0111\u00f4\u0340ng ba\u0309ng Anh, \u0111\u01a1n vi\u0323 c\u00e2n anh, hoa\u0340n ca\u0309nh, n\u01b0\u0309a, ca\u0309nh ng\u00f4\u0323, ti\u0340nh th\u00ea\u0341","a":"starve","b":"bonus","c":"pound","d":"nursery","answer":"pound"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"quan toa\u0340, th\u00e2\u0309m pha\u0341n","a":"inadequate","b":"solely","c":"judge","d":"disastrous","answer":"judge"}

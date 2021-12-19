@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 sa\u0309n xu\u00e2\u0341t, c\u00f4\u0323i r\u00ea\u0309, g\u00f4\u0341c, n\u01a1i sa\u0309n ra, ngu\u00f4\u0340n, ngu\u00f4\u0340n go\u0341c, xu\u00e2\u0341t x\u01b0\u0341","a":"origin","b":"novel","c":"spectacular","d":"assemble","answer":"origin"}

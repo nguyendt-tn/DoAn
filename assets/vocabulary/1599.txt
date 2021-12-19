@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"di \u0111\u00f4\u0323ng, kh\u00f4ng \u01a1\u0309 m\u00f4\u0323t ch\u00f4\u0309, ta\u0341nh hay thay \u0111\u00f4\u0309i, l\u01b0u \u0111\u00f4\u0323ng","a":"registration","b":"mobile","c":"abundance","d":"highway","answer":"mobile"}

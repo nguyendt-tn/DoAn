@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"mu\u0303 chu\u0340m cu\u0309a th\u00e2\u0340y tu","a":"challenge","b":"fork","c":"amid","d":"old","answer":"amid"}

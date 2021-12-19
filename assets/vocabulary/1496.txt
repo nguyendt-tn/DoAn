@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0323 lu\u0341ng tu\u0341ng, s\u01b0\u0323 bo\u0309 m\u00e2\u0341t, s\u01b0\u0323 \u0111a\u0341nh m\u00e2\u0341t, s\u01b0\u0323 hao t\u00f4\u0309n, s\u01b0\u0323 kh\u00f4ng tr\u00f4ng th\u00e2\u0341y, s\u01b0\u0323 m\u00e2\u0341t","a":"corresponding","b":"rejection","c":"loss","d":"mutual","answer":"loss"}

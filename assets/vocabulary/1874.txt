@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ha\u0340nh tinh","a":"squeeze","b":"planet","c":"accumulate","d":"humanitarian","answer":"planet"}

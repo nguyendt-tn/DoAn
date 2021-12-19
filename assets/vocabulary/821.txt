@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c tuy\u00ea\u0309n c\u01b0\u0303, s\u01b0\u0323 l\u01b0\u0323a cho\u0323n, tuy\u00ea\u0309n l\u00ean thi\u00ean \u0111\u01b0\u01a1\u0340ng","a":"election","b":"balloon","c":"regulator","d":"occupy","answer":"election"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"sinh, sanh ra, \u0111e\u0309 ra","a":"born","b":"spill","c":"mechanism","d":"accumulation","answer":"born"}

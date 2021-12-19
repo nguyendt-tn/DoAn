@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bao quanh, \u0111i vo\u0340ng quanh, quay cu\u00f4\u0340ng","a":"congressional","b":"mechanic","c":"circle","d":"tendency","answer":"circle"}

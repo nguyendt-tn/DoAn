@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cha\u0309y, ch\u01b0\u0303 vi\u00ea\u0341t tha\u0341u, li\u00ean ti\u00ea\u0341p, l\u01b0u loa\u0341t, tr\u00f4i cha\u0309y","a":"running","b":"demonstration","c":"genuinely","d":"referendum","answer":"running"}

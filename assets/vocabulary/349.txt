@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"d\u00e2y neo","a":"bass","b":"whip","c":"memorial","d":"cable","answer":"cable"}

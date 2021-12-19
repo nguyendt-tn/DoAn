@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khao kha\u0341t, lo\u0340ng the\u0340m mu\u00f4\u0341n, s\u01b0\u0323 ngon mi\u00ea\u0323ng, the\u0340m \u0103n","a":"appetite","b":"god","c":"being","d":"maths","answer":"appetite"}

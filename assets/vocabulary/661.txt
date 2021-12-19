@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111i\u0323nh nghi\u0303a, \u0111i\u0323nh ro\u0309, mi\u00eau ta\u0309, va\u0323ch bi\u00ean gi\u01a1\u0341i","a":"confine","b":"define","c":"random","d":"gear","answer":"define"}

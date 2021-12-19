@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khi\u00eau vu\u0303, ng\u01b0\u01a1\u0340i khi\u00eau vu\u0303, vu\u0303 c\u00f4ng, vu\u0303 n\u01b0\u0303","a":"confession","b":"dancer","c":"sake","d":"isolate","answer":"dancer"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ki\u0323ch tr\u01b0\u01a1\u0340ng, pha\u0323m vi","a":"sign","b":"different","c":"arena","d":"contest","answer":"arena"}

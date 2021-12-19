@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ho\u0323c th\u01b0\u0341c, ki\u00ea\u0341n th\u01b0\u0341c, ky\u0309 thu\u00e2\u0323t, khoa ho\u0323c, tri\u0341 th\u01b0\u0341c","a":"nursing","b":"resolution","c":"science","d":"anticipate","answer":"science"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ph\u00f4 tr\u01b0\u01a1ng, khoe khoang, bi\u00ea\u0309u l\u00f4\u0323, cu\u00f4\u0323c tri\u00ea\u0309n la\u0303m, s\u01b0\u0323 bi\u00ea\u0309u d\u01b0\u01a1ng, tr\u01b0ng ba\u0340y","a":"display","b":"empire","c":"globe","d":"reportedly","answer":"display"}

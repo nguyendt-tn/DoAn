@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u00ea\u0323n","a":"additionally","b":"genius","c":"stun","d":"electricity","answer":"electricity"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u0103\u0341t ti\u00ea\u0340n, \u0111e\u0323p \u0111e\u0309, gia\u0340u co\u0341, l\u00f4\u0323ng l\u00e2\u0303y, phi\u0340 nhi\u00eau, r\u00e2\u0341t bu\u00f4\u0340n c\u01b0\u01a1\u0340i, t\u00f4\u0341t, tra\u0341ng l\u00ea\u0323","a":"preservation","b":"forthcoming","c":"rich","d":"crystal","answer":"rich"}

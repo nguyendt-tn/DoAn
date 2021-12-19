@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0341t tr\u01b0\u01a1\u0341c, c\u00f4ng nh\u00e2\u0323n, nh\u00e2\u0323n bi\u00ea\u0341t, nhi\u0340n nh\u00e2\u0323n, th\u01b0\u0340a nh\u00e2\u0323n, xa\u0341c nh\u00e2\u0323n","a":"appoint","b":"intellectual","c":"recognize","d":"venture","answer":"recognize"}

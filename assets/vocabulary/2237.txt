@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u0341 m\u00e2\u0323t, i\u0341t th\u00f4\u0341 l\u00f4\u0323, ki\u0341n \u0111a\u0341o, th\u00e2\u0340m ki\u0341n","a":"scrutiny","b":"monthly","c":"secret","d":"betray","answer":"secret"}

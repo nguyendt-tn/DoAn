@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"la\u0340m \u0111e\u0323p lo\u0340ng","a":"cooperate","b":"relevance","c":"isolate","d":"pleased","answer":"pleased"}

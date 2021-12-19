@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"binh v\u01b0\u0323c, u\u0309ng h\u00f4\u0323","a":"depart","b":"noon","c":"champion","d":"privatization","answer":"champion"}

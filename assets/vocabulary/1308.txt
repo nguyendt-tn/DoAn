@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u01a1\u0309 nha\u0340, \u01a1\u0309 trong","a":"respectively","b":"bless","c":"notably","d":"indoors","answer":"indoors"}

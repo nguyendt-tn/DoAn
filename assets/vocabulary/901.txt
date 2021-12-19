@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u00f4ng hay, \u0111i\u00ea\u0340u ha\u0323i, n\u00f4\u0309i \u0111au \u0111\u01a1\u0341n, vi\u00ea\u0323c x\u00e2\u0341u, \u0111i\u00ea\u0340u x\u00e2\u0341u, \u0111i\u00ea\u0340u a\u0341c, kh\u00f4\u0309 s\u01a1\u0309","a":"extension","b":"adverse","c":"evil","d":"shortage","answer":"evil"}

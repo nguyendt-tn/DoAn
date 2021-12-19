@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111i mau","a":"output","b":"reasonably","c":"speed","d":"accordance","answer":"speed"}

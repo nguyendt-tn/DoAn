@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u00e2\u0341t ma\u0309n, b\u00e2\u0341t ho\u0340a, g\u00e2y g\u00f4\u0309, kha\u0341c nhau, kh\u00f4ng \u0111\u00f4\u0340ng y\u0341, kh\u00f4ng gi\u00f4\u0341ng, kh\u00f4ng ha\u0323p, kh\u00f4ng h\u01a1\u0323p, kh\u00f4ng thi\u0341ch h\u01a1\u0323p","a":"caution","b":"kidney","c":"disagree","d":"universal","answer":"disagree"}

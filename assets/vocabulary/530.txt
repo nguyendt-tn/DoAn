@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"li\u00ean can, di\u0341nh da\u0341ng, di\u0341nh la\u0323i, li\u00ean h\u00ea\u0323","a":"transportation","b":"connected","c":"blend","d":"formula","answer":"connected"}

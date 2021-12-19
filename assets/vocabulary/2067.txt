@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u01b0\u0341a v\u00e2\u0323t gi\u0340, la\u0303nh, nh\u00e2\u0323n, ti\u00ea\u0341p \u0111a\u0303i, ti\u00ea\u0341p \u0111o\u0341n","a":"addiction","b":"intensify","c":"vibrant","d":"receive","answer":"receive"}

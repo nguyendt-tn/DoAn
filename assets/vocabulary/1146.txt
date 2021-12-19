@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309i co\u0309, co\u0309, co\u0309 xanh, \u0111\u00f4\u0340ng co\u0309, mu\u0323c tr\u01b0\u01a1\u0340ng","a":"overnight","b":"devastate","c":"thereafter","d":"grass","answer":"grass"}

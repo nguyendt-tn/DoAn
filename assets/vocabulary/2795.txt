@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u0323a chi\u0309 trang web","a":"democracy","b":"website","c":"inflation","d":"reliability","answer":"website"}

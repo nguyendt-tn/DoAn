@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"l\u00e2u r\u00f4\u0340i, t\u01b0\u0340 \u0111o\u0341, t\u01b0\u0340 l\u00e2u","a":"divine","b":"magnitude","c":"since","d":"province","answer":"since"}

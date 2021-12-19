@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thi\u0341 nghi\u00ea\u0323m","a":"testing","b":"hook","c":"laboratory","d":"dare","answer":"laboratory"}

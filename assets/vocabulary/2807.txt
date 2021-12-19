@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"d\u00e2\u0340u sao \u0111i n\u01b0\u0303a, d\u00e2\u0340u v\u00e2\u0323t gi\u0340, b\u00e2\u0341t c\u01b0\u0341 \u0111i\u00ea\u0340u gi\u0340","a":"accountable","b":"viable","c":"likelihood","d":"whatever","answer":"whatever"}

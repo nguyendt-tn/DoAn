@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nhi\u00ea\u0323t t\u00e2m, nhi\u00ea\u0323t tha\u0340nh, s\u00f4\u0341t s\u0103\u0341ng","a":"landlord","b":"enthusiastic","c":"restrict","d":"derive","answer":"enthusiastic"}

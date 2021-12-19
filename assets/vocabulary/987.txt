@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0303m gia\u0341c, s\u01a1\u0340 mo\u0341","a":"thereby","b":"efficiency","c":"loyal","d":"feel","answer":"feel"}

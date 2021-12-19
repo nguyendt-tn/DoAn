@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u00ea\u0341t, \u0111oa\u0341n tr\u01b0\u01a1\u0341c, hi\u00ea\u0309u ro\u0309 vi\u00ea\u0323c gi\u0340, pho\u0340ng bi\u0323","a":"prior","b":"broadband","c":"aware","d":"inherent","answer":"aware"}

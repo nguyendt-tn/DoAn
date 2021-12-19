@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"con kh\u0103ng, ca\u0341ch \u0111a\u0341nh tr\u00f4\u0309ng, con me\u0340o, d\u00e2y ke\u0341o neo, loa\u0323i thu\u0341 gi\u00f4\u0341ng nh\u01b0 me\u0340o, ng\u01b0\u01a1\u0340i \u0111a\u0340n ba\u0340 \u0111\u00f4\u0323c a\u0341c","a":"nonetheless","b":"somehow","c":"cat","d":"disorder","answer":"cat"}

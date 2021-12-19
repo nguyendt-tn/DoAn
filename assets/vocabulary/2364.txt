@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111\u00ea\u0341n th\u00ea\u0341 \u00e2\u0341y, nh\u01b0 th\u00ea\u0341, nh\u01b0 v\u00e2\u0323y, d\u01b0\u01a1\u0340ng \u00e2\u0341y, v\u00e2\u0323y thi\u0340","a":"permanently","b":"so","c":"squeeze","d":"constitution","answer":"so"}

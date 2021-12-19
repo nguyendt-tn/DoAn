@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2n r\u0103ng, c\u0103n nguy\u00ean, nguy\u00ean nh\u00e2n, nguy\u00ean do, nguy\u00ean \u00e2m, ngu\u00f4\u0340n g\u00f4\u0341c, c\u0103n s\u00f4\u0341, r\u00ea\u0309 c\u00e2y","a":"terrorist","b":"novelist","c":"devil","d":"root","answer":"root"}

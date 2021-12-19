@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng vi\u00ean, v\u01b0\u01a1\u0340n, v\u01b0\u01a1\u0340n rau","a":"garden","b":"assign","c":"rebel","d":"litre","answer":"garden"}

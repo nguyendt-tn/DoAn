@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341i chu\u0323p, ca\u0341i ga\u0340u xu\u0341c \u0111\u00e2\u0341t, chu\u0323p le\u0323, ca\u0341i v\u00f4\u0340","a":"grab","b":"amusing","c":"novel","d":"puzzle","answer":"grab"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"th\u00e2\u0341t nghi\u00ea\u0323p","a":"unemployment","b":"verbal","c":"habitat","d":"collaborate","answer":"unemployment"}

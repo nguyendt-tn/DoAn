@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bia, r\u01b0\u01a1\u0323u","a":"foundation","b":"crawl","c":"spectator","d":"beer","answer":"beer"}

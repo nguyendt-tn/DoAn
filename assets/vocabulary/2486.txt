@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"d\u00e2\u0309n kh\u01a1\u0309i, \u0111\u00ea\u0340 nghi\u0323, g\u01a1\u0323i y\u0341","a":"curious","b":"reckon","c":"suggest","d":"operator","answer":"suggest"}

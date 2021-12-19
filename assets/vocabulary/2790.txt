@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"gia\u0340u, gia\u0340u co\u0341, gia\u0340u sang","a":"pad","b":"wealthy","c":"widow","d":"administer","answer":"wealthy"}

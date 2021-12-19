@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"sau, ch\u00e2\u0323m tr\u00ea\u0309, phi\u0341a sau","a":"landlord","b":"behind","c":"seize","d":"allocate","answer":"behind"}

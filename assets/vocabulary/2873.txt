@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"nh\u01b0ng, tuy nhi\u00ean, song, tu\u0340y th\u00ea\u0341","a":"validity","b":"isolate","c":"ballet","d":"yet","answer":"yet"}

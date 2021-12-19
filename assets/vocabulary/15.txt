@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ho\u0340a \u00e2m, h\u00f4\u0323 t\u00f4\u0341ng, h\u01a1\u0323p t\u00e2\u0341u","a":"decisive","b":"accompany","c":"intact","d":"proclaim","answer":"accompany"}

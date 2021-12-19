@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u00f4i sao, m\u00ea\u0340 \u0111ay","a":"simulate","b":"compound","c":"frankly","d":"star","answer":"star"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u0103\u0323c bi\u00ea\u0323t, \u0111\u00ea\u0309 da\u0340nh ri\u00eang, ri\u00eang bi\u00ea\u0323t, thi\u0341ch \u0111a\u0341ng, thi\u0341ch h\u01a1\u0323p, x\u01b0\u0341ng \u0111a\u0341ng","a":"appropriate","b":"protester","c":"alongside","d":"license","answer":"appropriate"}

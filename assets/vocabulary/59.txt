@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"b\u0103\u0341t \u0111\u00e2\u0340u la\u0323i, h\u01a1n n\u01b0\u0309a, l\u00e2\u0340n n\u01b0\u0309a, ti\u0309nh la\u0323i, va\u0309 la\u0323i","a":"again","b":"shore","c":"appreciation","d":"incorrect","answer":"again"}

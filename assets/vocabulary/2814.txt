@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"h\u00f4m nay ho\u0103\u0323c nga\u0340y mai, kh\u00f4ng bi\u00ea\u0341t co\u0341 \u0111u\u0341ng ch\u0103ng","a":"top","b":"whether","c":"diagnose","d":"namely","answer":"whether"}

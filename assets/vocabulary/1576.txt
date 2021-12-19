@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"m\u01b0\u01a1\u0340i hai gi\u01a1\u0340 khuya, n\u01b0\u0303a \u0111\u00eam","a":"corruption","b":"harvest","c":"midnight","d":"vicious","answer":"midnight"}

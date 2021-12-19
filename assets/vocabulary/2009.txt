@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u01a1i, b\u0103\u0341t, ni\u0341u, tu\u0341m, che\u0340o, co\u0341 a\u0309nh h\u01b0\u01a1\u0309ng, ghi\u0340m, gi\u01b0\u0323t chu\u00f4ng, in ba\u0309n th\u01b0\u0309, ke\u0341o, leo l\u00ean gi\u00f4\u0341c","a":"flaw","b":"pull","c":"cheer","d":"preach","answer":"pull"}

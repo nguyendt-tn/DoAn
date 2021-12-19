@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cho ti\u00ea\u0341p xu\u0341c, d\u00e2\u0341u, d\u00e2\u0341u hi\u00ea\u0323u, hi\u0340nh vo\u0341c, s\u01b0\u0323 \u0111o\u0341ng, b\u00ea\u0340 cao, ca\u0341ch c\u0103\u0341t, ca\u0341ch la\u0340m, ch\u00ea\u0341 ta\u0323o","a":"input","b":"suppress","c":"documentation","d":"make","answer":"make"}

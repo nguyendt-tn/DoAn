@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u00f4\u0341i hi\u00ea\u0309m nghe\u0340o, nguy hi\u00ea\u0309m","a":"danger","b":"franchise","c":"toxic","d":"deposit","answer":"danger"}

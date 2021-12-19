@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"th\u00ea\u0341 gi\u01a1\u0341i, va\u0323n v\u00e2\u0323t, vi\u00ea\u0323c \u0111\u01a1\u0340i, vu\u0303 tru\u0323","a":"peak","b":"accommodate","c":"world","d":"supervisor","answer":"world"}

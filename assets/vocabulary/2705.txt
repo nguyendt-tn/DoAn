@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u01a1n vi\u0323, kh\u00f4\u0341i, m\u00f4\u0323t, m\u00f4\u0323t ca\u0341i","a":"unit","b":"listing","c":"assure","d":"verify","answer":"unit"}

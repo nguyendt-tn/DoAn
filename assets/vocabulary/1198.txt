@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u0323nh hen suy\u00ea\u0309n, chuy\u00ea\u0309n \u0111\u00f4\u0323ng, k\u00ea\u0340nh ca\u0340ng, kho\u0341 nho\u0323c, l\u01a1\u0341n, n\u0103\u0323ng n\u00ea\u0340, th\u01a1\u0303 g\u00e2\u0341p, tro\u0323ng tra\u0341ch","a":"establishment","b":"spare","c":"heavy","d":"commentator","answer":"heavy"}

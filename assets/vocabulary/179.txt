@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01b0\u0323c si\u0303, ng\u01b0\u01a1\u0340i kho\u0309e ma\u0323nh","a":"athlete","b":"extensive","c":"terms","d":"analyst","answer":"athlete"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00f4ng ki\u0341ch, la\u0340m m\u00e2\u0341t lo\u0340ng, l\u01a1\u0340i no\u0341i mi\u0341ch lo\u0340ng, mi\u0341ch lo\u0340ng, t\u00e2\u0341n c\u00f4ng","a":"sibling","b":"overnight","c":"offensive","d":"desperately","answer":"offensive"}

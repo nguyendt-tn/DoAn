@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"d\u00ea\u0340nh da\u0340ng, k\u00ea\u0340nh ca\u0340ng, n\u0103\u0323ng n\u00ea\u0340, to l\u01a1\u0341n","a":"essence","b":"transcript","c":"massive","d":"conservation","answer":"massive"}

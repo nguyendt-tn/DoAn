@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u0323a vi\u0323, \u0111i\u00ea\u0340u ki\u00ea\u0323n, ti\u0340nh ca\u0309nh, ti\u0340nh th\u00ea\u0341, th\u00e2n ph\u00e2\u0323n, tra\u0323ng hu\u00f4\u0341ng, ti\u0340nh tra\u0323ng, tra\u0323ng tha\u0341i","a":"condition","b":"goodness","c":"worthy","d":"cultivate","answer":"condition"}

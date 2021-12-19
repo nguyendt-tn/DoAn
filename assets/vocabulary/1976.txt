@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i ch\u00ea\u0341 ta\u0323o, ng\u01b0\u01a1\u0340i sa\u0309n xu\u00e2\u0341t, ng\u01b0\u01a1\u0340i tri\u0340nh ba\u0340y ha\u0340ng, ng\u01b0\u01a1\u0340i xu\u00e2\u0341t ba\u0309n","a":"linear","b":"stun","c":"appetite","d":"producer","answer":"producer"}

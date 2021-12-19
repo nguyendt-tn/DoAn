@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"danh nh\u00e2n, ca\u0341c b\u01b0\u0323c anh hu\u0340ng, t\u01b0\u01a1\u0341c vi\u0323 \u0111\u00ea\u0341 v\u01b0\u01a1ng","a":"erect","b":"residence","c":"elevate","d":"grand","answer":"grand"}

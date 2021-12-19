@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"cu\u0309a no\u0341","a":"anticipate","b":"say","c":"its","d":"immigration","answer":"its"}

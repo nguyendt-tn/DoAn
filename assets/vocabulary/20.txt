@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u0103\u0341c th\u0103\u0341ng, hoa\u0340n tha\u0340nh, thi ha\u0340nh","a":"obsession","b":"substantially","c":"achieve","d":"creativity","answer":"achieve"}

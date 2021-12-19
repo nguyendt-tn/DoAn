@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ta\u0340u, thuy\u00ea\u0340n","a":"ship","b":"execute","c":"curiosity","d":"signature","answer":"ship"}

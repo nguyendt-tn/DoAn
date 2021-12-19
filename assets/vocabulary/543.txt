@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0103n, cha\u0341y h\u00ea\u0341t, la\u0340m hao mo\u0340n, ta\u0340n pha\u0341, ti\u00ea\u0340u tu\u0323y, ti\u00eau thu\u0323, thi\u00eau hu\u0309y, du\u0340ng, u\u00f4\u0341ng","a":"duo","b":"consume","c":"suburb","d":"formerly","answer":"consume"}

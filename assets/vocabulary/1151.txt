@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bu\u00f4\u0340n r\u00e2\u0340u, r\u00e2\u0340u ri\u0309, ta\u0341i me\u0341t, xa\u0341m, xanh me\u0341t","a":"differ","b":"grey","c":"jail","d":"radiation","answer":"grey"}

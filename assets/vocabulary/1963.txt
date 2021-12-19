@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ma\u0341y in, ng\u01b0\u01a1\u0340i r\u01b0\u0309a a\u0309nh, th\u01a1\u0323 nha\u0340 in","a":"fundamentally","b":"bold","c":"printer","d":"verbal","answer":"printer"}

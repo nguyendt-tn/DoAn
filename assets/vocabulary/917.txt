@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"co\u0341, co\u0340n la\u0323i, t\u00f4\u0340n ta\u0323i, v\u00e2\u0309n co\u0340n, v\u00e2\u0309n co\u0340n t\u00f4\u0340n ta\u0323i","a":"navigation","b":"exist","c":"clarify","d":"trailer","answer":"exist"}

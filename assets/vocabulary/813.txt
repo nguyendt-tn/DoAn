@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4\u0341 g\u0103\u0341ng, \u0111\u00f4\u0323ng l\u01b0\u0323c, g\u0103\u0341ng s\u01b0\u0341c, s\u01b0\u0323 ra\u0341n s\u01b0\u0341c","a":"effort","b":"corporation","c":"forecast","d":"province","answer":"effort"}

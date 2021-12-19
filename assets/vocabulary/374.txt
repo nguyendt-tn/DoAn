@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0309n th\u00e2\u0323n, chu\u0341 y\u0341, gi\u01b0\u0309 gi\u0340n, lo l\u0103\u0341ng, l\u01b0u y\u0341, th\u00e2\u0323n tro\u0323ng","a":"accumulate","b":"renew","c":"careful","d":"motivate","answer":"careful"}

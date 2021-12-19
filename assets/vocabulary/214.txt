@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 c\u00e2\u0341m chi\u0309, t\u00f4\u0323i \u0111a\u0340y bi\u00ea\u0323t x\u01b0\u0341","a":"ban","b":"legislative","c":"sufficient","d":"coordinate","answer":"ban"}

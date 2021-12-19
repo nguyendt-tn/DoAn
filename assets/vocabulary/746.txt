@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ph\u00e2n chia, ph\u00e2n chia theo ha\u0323ng, ph\u00e2n pha\u0341t, s\u01b0\u0323 vung ra\u0309i","a":"distribution","b":"beneficial","c":"plea","d":"mechanic","answer":"distribution"}

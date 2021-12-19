@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"la\u0340m con nu\u00f4i, nh\u00e2\u0323n \u0111\u00ea\u0340 nghi\u0323, s\u01b0\u0323 cho\u0323n ngh\u00ea\u0340, s\u01b0\u0323 nh\u00e2\u0323n nu\u00f4i","a":"she","b":"ankle","c":"adoption","d":"east","answer":"adoption"}

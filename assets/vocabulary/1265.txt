@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"kha\u0341m pha\u0341, la\u0340m gi\u00f4\u0341ng nhau, la\u0340m nh\u01b0 nhau","a":"rail","b":"limitation","c":"efficiently","d":"identify","answer":"identify"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u00f4\u0341ng que\u0323t ma\u0341y, the\u0341p","a":"reverse","b":"hint","c":"steel","d":"breakdown","answer":"steel"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"trong th\u00e2m t\u00e2m, \u01a1\u0309 trong","a":"problematic","b":"composer","c":"internal","d":"listing","answer":"internal"}

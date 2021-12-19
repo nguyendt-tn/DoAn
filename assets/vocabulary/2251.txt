@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ban cho, g\u01a1\u0309i, la\u0340m cha\u0323y t\u01a1\u0341i","a":"dispose","b":"thorough","c":"instantly","d":"send","answer":"send"}

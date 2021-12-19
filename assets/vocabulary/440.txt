@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 d\u00e2n, thu\u00f4\u0323c v\u00ea\u0340 d\u00e2n pha\u0341p, thu\u00f4\u0323c v\u00ea\u0340 vi\u00ea\u0323c d\u00e2n, vi\u00ea\u0323c h\u00f4\u0323, x\u01b0\u0341ng \u0111a\u0341ng m\u00f4\u0323t c\u00f4ng d\u00e2n","a":"liberation","b":"critically","c":"civil","d":"vacuum","answer":"civil"}

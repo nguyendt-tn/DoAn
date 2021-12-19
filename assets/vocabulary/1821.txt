@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"y\u00ean \u00f4\u0309n","a":"collaboration","b":"peaceful","c":"flexibility","d":"well-being","answer":"peaceful"}

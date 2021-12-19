@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"video, chi\u00ea\u0341u phim","a":"video","b":"capitalist","c":"flourish","d":"submission","answer":"video"}

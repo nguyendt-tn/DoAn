@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xem, nh\u00e2\u0323n ra, nhi\u0340n th\u00e2\u0341y, th\u00e2\u0341y, tr\u00f4ng th\u00e2\u0341y, l\u01b0u y\u0341, xem xe\u0341t","a":"see","b":"constitution","c":"exploitation","d":"shareholder","answer":"see"}

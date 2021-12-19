@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u00f4\u0309i pho\u0309ng v\u00e2\u0341n, cu\u00f4\u0323c h\u00f4\u0323i \u0111a\u0340m, cu\u00f4\u0323c h\u00f4\u0323i ki\u00ea\u0341n, cu\u00f4\u0323c pho\u0309ng v\u00e2\u0341n","a":"interpretation","b":"interview","c":"disappoint","d":"straightforward","answer":"interview"}

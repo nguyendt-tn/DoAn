@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0341o nh\u00e2\u0323n \u0111\u01b0\u01a1\u0323c, c\u00f4ng nh\u00e2\u0323n, nhi\u0340n nh\u00e2\u0323n, to\u0309 ra bi\u00ea\u0341t \u01a1n","a":"reasonably","b":"content","c":"framework","d":"acknowledge","answer":"acknowledge"}

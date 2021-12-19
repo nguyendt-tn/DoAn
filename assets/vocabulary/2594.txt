@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"do\u0323a na\u0323t, h\u0103m do\u0323a","a":"threaten","b":"proposition","c":"fluid","d":"ancestor","answer":"threaten"}

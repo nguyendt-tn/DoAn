@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chia ra, ng\u0103n ra, bo\u0309 \u0111i, la\u0340m r\u01a1\u0340i ra, ph\u00e2n ph\u00f4\u0341i","a":"eternal","b":"sound","c":"part","d":"cue","answer":"part"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00e2\u0340y sinh khi\u0341, \u0111\u00e2\u0340y sinh l\u01b0\u0323c, linh \u0111\u00f4\u0323ng, linh hoa\u0323t, s\u00f4\u0341ng","a":"mechanism","b":"live","c":"diverse","d":"trading","answer":"live"}

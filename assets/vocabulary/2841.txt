@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u01a1\u0309 ngoa\u0340i, \u01a1\u0309 phi\u0341a ngoa\u0340i","a":"suspension","b":"distress","c":"intake","d":"without","answer":"without"}

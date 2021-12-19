@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u0103\u0323n do\u0340, l\u01a1\u0340i khuy\u00ean, th\u01a1 th\u00f4ng ca\u0341o","a":"ease","b":"advice","c":"indicator","d":"sword","answer":"advice"}

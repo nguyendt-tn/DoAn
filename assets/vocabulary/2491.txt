@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"to\u0341m la\u0323i, to\u0341m t\u0103\u0341c","a":"blessing","b":"toss","c":"magnetic","d":"summarize","answer":"summarize"}

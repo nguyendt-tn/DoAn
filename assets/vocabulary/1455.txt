@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 cho thu\u00ea, s\u01b0\u0323 ng\u0103n tr\u01a1\u0309, s\u01b0\u0323 tr\u01a1\u0309 nga\u0323i, v\u00e2\u0323t ch\u01b0\u01a1\u0341ng nga\u0323i, v\u00e2\u0323t ng\u0103n ca\u0309n","a":"sufficiently","b":"diverse","c":"let","d":"parameter","answer":"let"}

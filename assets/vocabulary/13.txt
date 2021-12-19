@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u00e2\u0323p kh\u00ea\u0309nh, l\u00f4\u0340i lo\u0303m, ng\u00e2\u0309u nhi\u00ean, tai na\u0323n","a":"accomplish","b":"fraction","c":"supreme","d":"accident","answer":"accident"}

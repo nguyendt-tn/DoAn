@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u00f4\u0303 con ng\u01b0\u01a1i","a":"precise","b":"pupil","c":"designate","d":"necessity","answer":"pupil"}

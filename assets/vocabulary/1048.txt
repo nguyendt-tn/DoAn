@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"b\u01a1\u0309i vi\u0340, ta\u0323i vi\u0340, vi\u0340","a":"for","b":"trademark","c":"clerk","d":"inhibit","answer":"for"}

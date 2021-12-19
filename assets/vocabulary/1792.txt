@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341i cha\u0309o, ca\u0341i di\u0303a, la\u0341 tr\u00e2\u0340u, ca\u0341i xoong, \u0111i\u0303a c\u00e2n","a":"voluntary","b":"pan","c":"contender","d":"manifest","answer":"pan"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a\u0341ng ng\u01a1\u0340, kha\u0309 nghi","a":"dilemma","b":"pipeline","c":"suspect","d":"remarkable","answer":"suspect"}

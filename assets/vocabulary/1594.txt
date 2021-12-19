@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng ta\u0341c, \u0111i c\u00f4ng ta\u0341c, nhi\u00ea\u0323m vu\u0323, s\u01b0\u0323 \u0111i c\u00f4ng ca\u0341n, s\u01b0\u0341 ma\u0323ng, s\u01b0\u0341 qua\u0341n","a":"enact","b":"verify","c":"mission","d":"organic","answer":"mission"}

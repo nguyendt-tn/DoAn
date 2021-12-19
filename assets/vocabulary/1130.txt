@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kim, ma\u0340u va\u0340ng, ti\u00ea\u0340n va\u0340ng, va\u0340ng","a":"terribly","b":"gold","c":"motion","d":"consequently","answer":"gold"}

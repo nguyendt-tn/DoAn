@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"vi\u00ea\u0341t","a":"humanity","b":"compelling","c":"promotion","d":"write","answer":"write"}

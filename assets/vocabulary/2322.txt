@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"t\u01b0\u01a1ng t\u01a1\u0323","a":"stance","b":"corporation","c":"similarly","d":"militant","answer":"similarly"}

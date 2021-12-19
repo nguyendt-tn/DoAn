@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ba\u0340y to\u0309, chi ti\u00ea\u0341t, k\u00ea\u0309 ro\u0309, k\u00ea\u0309 t\u01b0\u01a1\u0340ng t\u00e2\u0323n, tri\u0340nh ba\u0340y","a":"utility","b":"likelihood","c":"detailed","d":"convenience","answer":"detailed"}

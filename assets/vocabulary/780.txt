@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ma tu\u0341y, nha\u0340 thu\u00f4\u0341c, thu\u00f4\u0341c, thu\u00f4\u0341c ba\u0340o ch\u00ea\u0341, thu\u00f4\u0341c men, thu\u00f4\u0341c m\u00ea, thu\u00f4\u0341c u\u00f4\u0341ng, d\u01b0\u01a1\u0323c ph\u00e2\u0303m","a":"drug","b":"terrify","c":"long-standing","d":"commentary","answer":"drug"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"hoa\u0309ng s\u01a1\u0323","a":"intensify","b":"correlation","c":"frighten","d":"tolerate","answer":"frighten"}

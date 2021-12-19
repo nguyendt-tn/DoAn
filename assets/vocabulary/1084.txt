@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chi\u00ean, ra\u0341n, xa\u0340o","a":"trio","b":"cutting","c":"invade","d":"fry","answer":"fry"}

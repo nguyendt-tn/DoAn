@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ra kh\u01a1i","a":"upcoming","b":"accusation","c":"landing","d":"off","answer":"off"}

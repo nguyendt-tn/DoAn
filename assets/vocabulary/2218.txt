@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0341i ca\u0309nh, ca\u0309nh v\u00e2\u0323t, ch\u00f4\u0309 di\u00ea\u0309n tu\u00f4\u0340ng, phong ca\u0309nh, s\u00e2n kh\u00e2\u0341u","a":"automatically","b":"scene","c":"philosophical","d":"tribunal","answer":"scene"}

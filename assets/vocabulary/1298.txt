@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hu\u00ea l\u01a1\u0323i, l\u01a1\u0323i t\u01b0\u0341c, ti\u00ea\u0340n l\u01a1\u0340i","a":"modest","b":"income","c":"supportive","d":"confine","answer":"income"}

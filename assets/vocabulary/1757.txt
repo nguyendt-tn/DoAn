@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"s\u0103\u0341p \u0111\u0103\u0323c","a":"tragic","b":"integral","c":"denial","d":"organized","answer":"organized"}

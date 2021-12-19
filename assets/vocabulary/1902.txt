@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cha\u0341nh kha\u0341ch, ng\u01b0\u01a1\u0340i la\u0340m chi\u0341nh tri\u0323","a":"wit","b":"politician","c":"medication","d":"bug","answer":"politician"}

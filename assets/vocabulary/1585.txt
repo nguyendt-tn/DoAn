@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 khoa\u0341ng v\u00e2\u0323t","a":"dive","b":"speculation","c":"mineral","d":"equality","answer":"mineral"}

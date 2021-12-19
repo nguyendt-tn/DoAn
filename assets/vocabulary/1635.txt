@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ti\u00ea\u0341ng nha\u0323c \u00eam tai, thu\u00f4\u0323c v\u00ea\u0340 \u00e2m nha\u0323c","a":"accountant","b":"musical","c":"induce","d":"surrender","answer":"musical"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xin, k\u00eau na\u0340i","a":"absurd","b":"migration","c":"promotion","d":"claim","answer":"claim"}

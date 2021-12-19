@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ta\u0340i","a":"burial","b":"talented","c":"spectacle","d":"handy","answer":"talented"}

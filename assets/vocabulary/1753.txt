@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u0340nh th\u01b0\u01a1\u0340ng, t\u00e2\u0340m th\u01b0\u01a1\u0340ng, th\u00f4ng th\u01b0\u01a1\u0340ng, th\u01b0\u01a1\u0340ng, th\u01b0\u01a1\u0340ng du\u0340ng","a":"declaration","b":"legacy","c":"ordinary","d":"survivor","answer":"ordinary"}

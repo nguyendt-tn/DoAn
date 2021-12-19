@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309n ch\u00e2\u0341t, ba\u0309n ta\u0341nh, hi\u00ea\u0323n kim, quy\u0309 cha\u0341nh phu\u0309 c\u00e2\u0341p, ta\u0340i n\u0103ng, ti\u00ea\u0340n cu\u0309a hi\u00ea\u0323n co\u0341, ti\u00ea\u0340n v\u00f4\u0341n","a":"hook","b":"coalition","c":"unveil","d":"fund","answer":"fund"}

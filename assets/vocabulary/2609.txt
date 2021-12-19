@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nho\u0309 xi\u0341u","a":"configuration","b":"tiny","c":"worm","d":"erect","answer":"tiny"}

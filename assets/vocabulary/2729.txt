@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 i\u0341ch, h\u01b0\u0303u i\u0341ch","a":"counselling","b":"useful","c":"reconstruction","d":"interim","answer":"useful"}

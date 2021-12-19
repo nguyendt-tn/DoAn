@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ky\u0341 gia\u0309, nha\u0340 ba\u0341o","a":"magistrate","b":"challenging","c":"tribunal","d":"journalist","answer":"journalist"}

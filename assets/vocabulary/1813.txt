@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gi\u00e2\u0341y th\u00f4ng ha\u0340nh, h\u00f4\u0323 chi\u00ea\u0341u","a":"transparency","b":"passport","c":"editorial","d":"opt","answer":"passport"}

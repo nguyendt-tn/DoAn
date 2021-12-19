@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu ky\u0340, chu tri\u0340nh, s\u01b0\u0323 tu\u00e2\u0340n hoa\u0340n, tu\u00e2\u0340n tr\u0103ng, thi t\u00e2\u0323p, xe \u0111a\u0323p, xe ma\u0341y","a":"damaging","b":"era","c":"cycle","d":"universal","answer":"cycle"}

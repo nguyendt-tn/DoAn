@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i \u0111a\u0340n ba\u0340, va\u0323t a\u0341o, va\u0341y, va\u0341y m\u0103\u0323c cu\u0309a \u0111a\u0340n ba\u0340","a":"offspring","b":"prey","c":"elegant","d":"skirt","answer":"skirt"}

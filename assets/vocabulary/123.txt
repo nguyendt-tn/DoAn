@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"d\u00e2\u0340u th\u00ea\u0341 na\u0340o \u0111i n\u01b0\u0309a, la\u0340m vi\u00ea\u0323c gi\u0340 cu\u0303ng \u0111\u01b0\u01a1\u0323c","a":"tighten","b":"aluminium","c":"anyway","d":"passing","answer":"anyway"}

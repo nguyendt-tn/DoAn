@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2n dung, hi\u0340nh","a":"burst","b":"imprisonment","c":"principal","d":"portrait","answer":"portrait"}

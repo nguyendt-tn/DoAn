@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u0309 \u0111\u00f4\u0323ng, \u0111a\u0323i ly\u0341 \u0111\u00f4\u0323c quy\u00ea\u0340n, ha\u0340nh \u0111\u00f4\u0323ng, ng\u01b0\u01a1\u0340i \u0111a\u0323i ly\u0341, ng\u01b0\u01a1\u0340i qua\u0309n ly\u0341, tay doanh nghi\u00ea\u0323p","a":"necessity","b":"engaging","c":"valid","d":"agent","answer":"agent"}

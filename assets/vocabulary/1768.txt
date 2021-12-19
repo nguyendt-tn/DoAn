@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chung cu\u00f4\u0323c, k\u00ea\u0341t cu\u00f4\u0323c, k\u00ea\u0341t qua\u0309","a":"spokesman","b":"outcome","c":"conviction","d":"lyric","answer":"outcome"}

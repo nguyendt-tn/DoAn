@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ban, b\u00e2\u0340y, bo\u0323n, \u0111\u00f4\u0323i, lu\u0309, toa\u0340n th\u00ea\u0309 nh\u00e2n vi\u00ean","a":"assertion","b":"shareholder","c":"fossil","d":"crew","answer":"crew"}

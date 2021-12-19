@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u00e2\u0340n du\u0340ng, c\u00e2\u0340n thi\u00ea\u0341t, y\u00eau c\u00e2\u0340u","a":"require","b":"plunge","c":"negotiation","d":"disruption","answer":"require"}

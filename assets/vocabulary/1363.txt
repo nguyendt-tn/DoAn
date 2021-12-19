@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"g\u00e2y ra, m\u01a1\u0340i, ru\u0309, thi\u0309nh","a":"removal","b":"entrepreneur","c":"invite","d":"empower","answer":"invite"}

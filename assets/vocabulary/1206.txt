@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"ba\u0340 \u00e2\u0341y, chi\u0323 \u00e2\u0341y, c\u00f4 \u00e2\u0341y, cu\u0309a c\u00f4 \u00e2\u0341y, na\u0340ng \u00e2\u0341y","a":"her","b":"equip","c":"romance","d":"casino","answer":"her"}

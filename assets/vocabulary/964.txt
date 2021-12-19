@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 s\u0103\u0341c \u0111\u00f4\u0341m \u0111\u00f4\u0341m, \u0111\u0103\u0323c bi\u00ea\u0323t","a":"removal","b":"healthcare","c":"deploy","d":"fancy","answer":"fancy"}

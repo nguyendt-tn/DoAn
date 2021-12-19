@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"che, cho bo\u0341ng b\u01b0\u0341c tranh, \u0111i\u00ea\u0340u ho\u0340a ca\u0341c s\u0103\u0341c, la\u0340m cho m\u01a1\u0341 t\u00f4\u0341i, phu\u0309 l\u00ean, tru\u0340m","a":"operational","b":"pledge","c":"shade","d":"distant","answer":"shade"}

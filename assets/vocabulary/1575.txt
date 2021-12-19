@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"trung t\u00e2m, trung \u01b0\u01a1ng, chi\u0341nh gi\u01b0\u0303a, khoa\u0309ng gi\u01b0\u0303a, khoa\u0309ng trung, ngay chi\u0341nh gi\u01b0\u0303a","a":"sometime","b":"middle","c":"credible","d":"fine","answer":"middle"}

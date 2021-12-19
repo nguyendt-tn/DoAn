@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tranh \u0111ua, ganh \u0111ua, ca\u0323nh tranh","a":"compete","b":"assign","c":"probability","d":"gesture","answer":"compete"}

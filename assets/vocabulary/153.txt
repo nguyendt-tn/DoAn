@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"xung quanh, chung quanh, \u0111o\u0341 \u0111\u00e2y, kh\u0103\u0341p x\u01b0\u0341, l\u00f4\u0341i ch\u01b0\u0309ng","a":"petition","b":"around","c":"spite","d":"endless","answer":"around"}

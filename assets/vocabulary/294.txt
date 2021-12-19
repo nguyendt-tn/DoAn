@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u00ean ca\u0309nh, bi\u00ean gi\u01a1\u0341i","a":"straightforward","b":"divert","c":"essence","d":"border","answer":"border"}

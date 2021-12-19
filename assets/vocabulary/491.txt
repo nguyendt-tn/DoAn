@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bo\u0309 tu\u0340, qu\u00ean l\u01a1\u0340i h\u01b0\u0341a, s\u01b0\u0323 pha\u0323m t\u00f4\u0323i, ti\u0340nh tra\u0323ng bi\u0323 bo\u0309 tu\u0340, t\u00f4\u0341ng giam, tra\u0309 m\u00f4\u0323t d\u01b0\u0323 lu\u00e2\u0323t, tra\u0341t b\u0103\u0341t giam","a":"commitment","b":"cleaning","c":"lane","d":"suite","answer":"commitment"}

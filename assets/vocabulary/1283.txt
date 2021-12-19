@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"a\u0341m ta\u0340ng, \u00e2\u0309n ta\u0340ng, nghi\u0303a la\u0340","a":"imply","b":"accused","c":"recruitment","d":"license","answer":"imply"}

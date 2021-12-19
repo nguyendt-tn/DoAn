@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i kh\u00f4ng quen, ng\u01b0\u01a1\u0340i la\u0323, ng\u01b0\u01a1\u0340i la\u0323 m\u0103\u0323t","a":"thoughtful","b":"notebook","c":"stranger","d":"blessing","answer":"stranger"}

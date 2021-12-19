@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"s\u00f4i l\u00ean","a":"boil","b":"stall","c":"distinguish","d":"ladder","answer":"boil"}

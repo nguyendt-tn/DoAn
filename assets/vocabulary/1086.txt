@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"no n\u00ea, chan ch\u01b0\u0341a, \u0111\u00e2\u0340y, nhi\u00ea\u0340u","a":"full","b":"legitimate","c":"tackle","d":"activist","answer":"full"}

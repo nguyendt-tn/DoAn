@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00f4ng nghi\u00ea\u0323p, thu\u00f4\u0323c v\u00ea\u0340 ky\u0309 ngh\u00ea\u0323, th\u01b0\u0323c nghi\u00ea\u0323p","a":"justification","b":"compromise","c":"pursuit","d":"industrial","answer":"industrial"}

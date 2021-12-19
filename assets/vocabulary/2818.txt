@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tr\u0103\u0341ng, trong tr\u0103\u0341ng","a":"proportion","b":"white","c":"nutrition","d":"crack","answer":"white"}

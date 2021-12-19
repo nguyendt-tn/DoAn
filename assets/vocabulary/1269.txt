@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111au, bi\u0323nh, \u0111au y\u00ea\u0341u","a":"constitution","b":"ill","c":"nasty","d":"wrist","answer":"ill"}

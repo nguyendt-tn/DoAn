@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u01b0\u01a1\u0323c h\u00e2\u0323u \u0111a\u0309i, \u0111\u01b0\u01a1\u0323c hoan nghinh, tro\u0323ng \u0111a\u0309i, \u0111\u01b0\u01a1\u0323c ti\u00ea\u0341p \u0111a\u0309i t\u01b0\u0309 t\u00ea\u0341","a":"compel","b":"welcome","c":"glory","d":"tension","answer":"welcome"}

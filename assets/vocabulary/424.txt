@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ng\u01b0\u01a1\u0340i tre\u0309 tu\u00f4\u0309i","a":"proportion","b":"chicken","c":"merit","d":"commissioner","answer":"chicken"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"co\u0340n la\u0323i, \u0111\u01a1\u0340i, \u0111\u01a1\u0340i s\u00f4\u0341ng, hi\u00ea\u0323n nay, th\u01b0\u0323c th\u00ea\u0309, v\u00e2\u0323t \u0111ang s\u00f4\u0341ng","a":"large-scale","b":"existence","c":"directory","d":"strategic","answer":"existence"}

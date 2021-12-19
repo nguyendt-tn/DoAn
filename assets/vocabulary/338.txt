@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"xe buy\u0341t, xe ch\u01a1\u0309 ha\u0340nh kha\u0341ch, xe \u00f4 t\u00f4 buy\u0341t","a":"infect","b":"civic","c":"bus","d":"straightforward","answer":"bus"}

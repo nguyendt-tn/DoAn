@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nghi\u0303, nghi\u0303 ra, quan ni\u00ea\u0323m, t\u01b0\u01a1\u0309ng t\u01b0\u01a1\u0323ng, t\u01b0 t\u01b0\u01a1\u0309ng","a":"addiction","b":"ethic","c":"imagine","d":"residue","answer":"imagine"}

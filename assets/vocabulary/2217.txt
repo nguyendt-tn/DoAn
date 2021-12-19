@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"gh\u00ea s\u01a1\u0323, kinh khu\u0309ng, nhu\u0341t nha\u0341t","a":"scary","b":"outrage","c":"diagnose","d":"referendum","answer":"scary"}

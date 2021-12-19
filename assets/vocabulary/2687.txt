@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0341t ta\u0340i","a":"methodology","b":"unable","c":"clash","d":"reproduce","answer":"unable"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2\u0341t v\u00e2\u0341n, ki\u00ea\u0309m tra, ky\u0340 thi tuy\u00ea\u0309n, kha\u0341m, kha\u0341m nghi\u00ea\u0323m, kha\u0341m t\u00f4\u0309ng qua\u0341t, kha\u0341m xe\u0341t, l\u00e2\u0341y kh\u00e2\u0309u cung, th\u00e2\u0303m v\u00e2\u0341n","a":"autonomy","b":"usage","c":"examination","d":"integral","answer":"examination"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01a1\u0323, n\u01a1i bu\u00f4n ba\u0341n, thi\u0323 tr\u01b0\u01a1\u0340ng","a":"marketing","b":"occurrence","c":"widow","d":"appealing","answer":"marketing"}

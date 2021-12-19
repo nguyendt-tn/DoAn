@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"qu\u0103n, bi\u0323 bi\u0323nh qu\u0103n la\u0341, khu\u0341c khuy\u0309u, xo\u0103\u0341n","a":"content","b":"squeeze","c":"fraud","d":"curly","answer":"curly"}

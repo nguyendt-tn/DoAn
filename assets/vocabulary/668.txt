@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"c\u00e2n h\u0103\u0341n, \u0111\u0103\u0341n \u0111o, thong tha\u0309, xe\u0341t \u0111oa\u0341n ky\u0309 l\u01b0\u01a1\u0309ng","a":"exclusive","b":"duration","c":"deliberately","d":"restraint","answer":"deliberately"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"khao kha\u0341t, mong mo\u0303i","a":"aspire","b":"truly","c":"fork","d":"accuse","answer":"aspire"}

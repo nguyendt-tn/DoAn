@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gia\u0341o \u0111\u00f4\u0340, m\u00f4n \u0111\u00f4\u0340, ti\u0341n \u0111\u00f4","a":"professor","b":"rebel","c":"equip","d":"elaborate","answer":"professor"}

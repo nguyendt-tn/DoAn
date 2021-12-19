@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01b0\u0341ng c\u01a1\u0341, d\u00e2\u0341u hi\u00ea\u0323u, hi\u00ea\u0309n nhi\u00ean, minh ba\u0323ch, ng\u01b0\u01a1\u0340i ch\u01b0\u0341ng, ro\u0309 r\u00ea\u0323t, s\u01b0\u0323 ro\u0309 ra\u0340ng","a":"elite","b":"evidence","c":"therapist","d":"modification","answer":"evidence"}

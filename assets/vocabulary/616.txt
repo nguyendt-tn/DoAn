@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341t, che\u0341n, kh\u01a1\u0341p x\u01b0\u01a1ng, \u00f4\u0341ng gia\u0341c, ch\u00f4\u0309 lo\u0309m xu\u00f4\u0341ng, s\u00f4\u0341 ph\u00e2\u0323n, cu\u0341p, ta\u0341ch, \u0111a\u0340i hoa","a":"cup","b":"ton","c":"effectiveness","d":"neighbouring","answer":"cup"}

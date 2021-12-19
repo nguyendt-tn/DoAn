@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"v\u00f4 song, \u0111\u00f4\u0341i chi\u00ea\u0341u, so sa\u0341nh, so v\u01a1\u0341i, ty\u0309 gia\u0309o","a":"compare","b":"shareholder","c":"evolution","d":"bounce","answer":"compare"}

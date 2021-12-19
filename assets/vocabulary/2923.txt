@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tr\u00f4ng n\u00f4m, a\u0341p du\u0323ng, cung c\u00e2\u0341p, \u0111i\u00ea\u0340u khi\u00ea\u0309n, thi ha\u0340nh","a":"explain","b":"both","c":"administer","d":"purpose","answer":"administer"}

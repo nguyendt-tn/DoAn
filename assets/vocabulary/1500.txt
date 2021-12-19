@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"huy\u00ean na\u0341o, \u00f4\u0340n a\u0340o","a":"dependent","b":"loudly","c":"uphold","d":"helmet","answer":"loudly"}

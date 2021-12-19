@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ra kh\u01a1i, \u0111\u0103\u0323t, \u0111\u00ea\u0309, bo\u0309, li\u00ea\u0323ng, nhe\u0341t, \u0111u\u0341t","a":"navigation","b":"put","c":"prospective","d":"copper","answer":"put"}

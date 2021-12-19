@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u01b0\u01a1ng quy\u00ea\u0341t, h\u00f4\u0341ng ha\u0341ch, hu\u0340ng h\u00f4\u0340n, la\u0340m l\u00f4\u0323 ra, n\u00f4\u0309i l\u00ean, nh\u00e2\u0341n ma\u0323nh","a":"instrumental","b":"emphasize","c":"accomplishment","d":"rehabilitation","answer":"emphasize"}

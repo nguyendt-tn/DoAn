@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"th\u00f4ng th\u01b0\u01a1\u0340ng","a":"distinctive","b":"usually","c":"mainland","d":"situated","answer":"usually"}

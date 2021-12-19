@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"g\u00e2y n\u00ean, \u0111o\u0341ng tu\u00f4\u0340ng, la\u0340m r\u00f4\u0341i loa\u0323n, phong ch\u01b0\u0341c, sa\u0341ng ta\u0323o, ta\u0323o tha\u0340nh","a":"strengthen","b":"descend","c":"create","d":"march","answer":"create"}

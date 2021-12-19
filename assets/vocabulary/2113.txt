@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nh\u0103\u0341c la\u0323i","a":"clinical","b":"seal","c":"remind","d":"personnel","answer":"remind"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"h\u01a1n","a":"than","b":"affection","c":"obsession","d":"thankfully","answer":"than"}

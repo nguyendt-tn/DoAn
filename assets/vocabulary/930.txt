@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"gia\u0309i thi\u0341ch, gia\u0309ng nghi\u0309a","a":"expansion","b":"explain","c":"thread","d":"additionally","answer":"explain"}

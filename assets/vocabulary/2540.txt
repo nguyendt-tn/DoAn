@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y tra\u0340, tra\u0340","a":"tea","b":"prosperity","c":"parade","d":"confrontation","answer":"tea"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xem, coi \u0111\u00e2y, nhi\u0340n, nhi\u0340n th\u0103\u0309ng, th\u00e2\u0341y, co\u0341 ve\u0309, gi\u00f4\u0341ng nh\u01b0","a":"intriguing","b":"look","c":"briefly","d":"spectator","answer":"look"}

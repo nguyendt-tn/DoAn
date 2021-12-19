@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u0103ng ra, du\u00f4\u0309i tay ch\u00e2n ra, ke\u0341o ra, n\u0103\u0340m da\u0340i ra, n\u01a1\u0341i r\u00f4\u0323ng","a":"long-standing","b":"rumour","c":"stretch","d":"blast","answer":"stretch"}

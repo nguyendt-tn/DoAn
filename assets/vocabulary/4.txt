@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"xung quanh, \u0111\u00f4\u0323 ch\u01b0\u0340ng, \u01b0\u01a1\u0341c ch\u01b0\u0340ng, va\u0340o khoa\u0309ng, g\u00e2\u0340n, v\u00e2\u0341n \u0111\u00ea\u0340 gi\u0340, l\u00e2\u0340n l\u01b0\u01a1\u0323t, \u0111\u00e2y \u0111o\u0341, mo\u0323i ch\u00f4\u0309","a":"about","b":"intensify","c":"stimulate","d":"alien","answer":"about"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"mu\u0303, no\u0341n","a":"hat","b":"cemetery","c":"pledge","d":"functional","answer":"hat"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u00ea\u0341ng cha\u0340o nhau","a":"elite","b":"hook","c":"timing","d":"goodbye","answer":"goodbye"}

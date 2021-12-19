@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u00ean khu, bi\u00ean ca\u0309nh, bi\u00ean gi\u01a1\u0341i, gi\u01a1\u0341i ha\u0323n","a":"limit","b":"visible","c":"burden","d":"insert","answer":"limit"}

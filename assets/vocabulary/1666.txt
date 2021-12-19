@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"kh\u00f4ng bao gi\u01a1\u0340, kh\u00f4ng khi na\u0340o, kh\u00f4ng thay \u0111\u00f4\u0309i","a":"ballet","b":"negotiation","c":"never","d":"screw","answer":"never"}

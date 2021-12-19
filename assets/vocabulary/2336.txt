@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"sa\u0341u, s\u00f4\u0341 sa\u0341u","a":"mob","b":"six","c":"apparatus","d":"super","answer":"six"}

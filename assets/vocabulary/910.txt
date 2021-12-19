@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u0323 ki\u0341ch thi\u0341ch, lo l\u0103\u0341ng","a":"horn","b":"spectacle","c":"enact","d":"excited","answer":"excited"}

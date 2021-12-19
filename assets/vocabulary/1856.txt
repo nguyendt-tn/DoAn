@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2u v\u0103n, ng\u01b0\u0303 pha\u0341p, nha\u0323c ti\u00ea\u0341t, t\u01b0\u0340 ng\u01b0\u0303","a":"liver","b":"phrase","c":"empirical","d":"precedent","answer":"phrase"}

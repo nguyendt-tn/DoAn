@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"sau khi, to\u0341m lai","a":"unveil","b":"adequately","c":"exploitation","d":"after","answer":"after"}

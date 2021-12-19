@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 b\u0103\u0340ng lo\u0340ng, s\u01b0\u0323 ph\u00ea chu\u00e2\u0309n, s\u01b0\u0323 xa\u0341c nh\u00e2\u0323n","a":"privilege","b":"approval","c":"gesture","d":"drift","answer":"approval"}

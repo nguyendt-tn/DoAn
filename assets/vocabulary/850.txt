@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00ean \u0111i\u0323ch, \u0111\u00f4\u0341i ph\u01b0\u01a1ng, ke\u0309 \u0111i\u0323ch, ke\u0309 thu\u0340","a":"interference","b":"sin","c":"behalf","d":"enemy","answer":"enemy"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"m\u01b0\u01a1\u0340i hai","a":"twelve","b":"activate","c":"long-standing","d":"suburb","answer":"twelve"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bu\u00f4\u0340n c\u01b0\u01a1\u0340i, hoa\u0323t k\u00ea, kh\u00f4i ha\u0340i","a":"portion","b":"humorous","c":"infant","d":"circulate","answer":"humorous"}

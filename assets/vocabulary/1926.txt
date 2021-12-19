@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nghe\u0340o na\u0340n, ti\u0340nh tra\u0323ng thi\u00ea\u0341u th\u00f4\u0341n","a":"homeless","b":"comic","c":"poverty","d":"ridiculous","answer":"poverty"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cho\u0341 tru, kh\u00f4ng ch\u00ea \u0111\u01b0\u01a1\u0323c, ti\u00ea\u0341ng me\u0340o k\u00eau, vi\u00ea\u0323c la\u0323 lu\u0340ng","a":"dull","b":"nursing","c":"wow","d":"transcript","answer":"wow"}

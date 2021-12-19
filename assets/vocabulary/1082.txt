@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111ong c\u01b0\u0341ng la\u0323i, \u0111ong la\u0323nh la\u0323i, v\u00e2\u0323t \u0111ong la\u0323nh","a":"frozen","b":"resign","c":"accusation","d":"pad","answer":"frozen"}

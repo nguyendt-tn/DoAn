@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"cu\u0309a chu\u0341ng ta, cu\u0309a chu\u0341ng t\u00f4i","a":"so-called","b":"custody","c":"insider","d":"our","answer":"our"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u01b0\u01a1ng nhi\u00ean, thi\u00ean t\u01b0, \u00e2m n\u00f4\u0341t t\u01b0\u0323 nhi\u00ean, c\u00f4\u0341 nhi\u00ean, d\u00e2\u0341u b\u00ea ca, ng\u01b0\u01a1\u0340i ngu t\u01b0\u0340 lu\u0341c m\u01a1\u0341i sanh","a":"inappropriate","b":"residence","c":"dramatically","d":"natural","answer":"natural"}

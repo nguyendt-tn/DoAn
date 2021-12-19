@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khoai t\u00e2y","a":"potato","b":"part-time","c":"spell","d":"beneficiary","answer":"potato"}

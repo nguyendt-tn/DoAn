@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tr\u00e2\u0323n m\u01b0a ra\u0340o, vo\u0340i sen","a":"tighten","b":"banner","c":"shower","d":"openly","answer":"shower"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ha\u0340nh thi\u0341ch, sa\u0341t nh\u00e2n, s\u01b0\u0323 a\u0341m sa\u0341t, s\u01b0\u0323 gi\u00ea\u0341t ng\u01b0\u01a1\u0340i","a":"assassination","b":"sentence","c":"cat","d":"flow","answer":"assassination"}

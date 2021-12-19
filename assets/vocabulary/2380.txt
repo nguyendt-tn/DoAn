@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"chu\u0341t i\u0341t","a":"something","b":"info","c":"accountant","d":"somehow","answer":"something"}

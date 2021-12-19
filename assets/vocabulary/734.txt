@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u00ea\u0309 th\u00e2\u0341y, kha\u0341m pha\u0341, pha\u0341t gia\u0341c, ti\u00ea\u0341t l\u00f4\u0323, ti\u0340m th\u00e2\u0341y","a":"discover","b":"crystal","c":"glorious","d":"prospective","answer":"discover"}

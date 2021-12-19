@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ti\u0341nh ca\u0341ch ta\u0340i li\u00ea\u0323u, d\u01b0\u0323a va\u0340o ch\u01b0\u0341ng c\u01a1\u0341","a":"documentary","b":"liberal","c":"empower","d":"widow","answer":"documentary"}

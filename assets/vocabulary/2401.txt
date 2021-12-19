@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ri\u00eang, \u0111\u0103\u0323c bi\u00ea\u0323t, \u0111i\u0323nh ro\u0309, xa\u0341c \u0111i\u0323nh, ri\u00eang bi\u00ea\u0323t","a":"amid","b":"precisely","c":"specific","d":"legislation","answer":"specific"}

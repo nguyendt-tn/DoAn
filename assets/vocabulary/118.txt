@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng y\u00ean, a\u0341y na\u0341y, ham mu\u00f4\u0341n, lo l\u0103\u0341ng, lo s\u01a1\u0323","a":"lad","b":"anxious","c":"democratic","d":"","answer":"anxious"}

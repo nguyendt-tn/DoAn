@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a\u0340n ba\u0340, gi\u00f4\u0341ng ca\u0341i, phu\u0323 n\u01b0\u0303, gi\u00f4\u0341ng ma\u0341i","a":"female","b":"threshold","c":"capitalist","d":"interior","answer":"female"}

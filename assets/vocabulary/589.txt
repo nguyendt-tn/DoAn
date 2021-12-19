@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bo\u0340, ca\u0341 voi","a":"cow","b":"mayor","c":"valid","d":"cheer","answer":"cow"}

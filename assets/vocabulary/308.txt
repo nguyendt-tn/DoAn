@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi h\u00f4\u0323i, chi nha\u0341nh, nga\u0340nh, nha\u0341nh c\u00e2y","a":"merchant","b":"strain","c":"confusion","d":"branch","answer":"branch"}

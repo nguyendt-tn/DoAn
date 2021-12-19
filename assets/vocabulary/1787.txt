@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u00e2y c\u00f4\u0323t ta\u0340u, ho\u0323a si\u0303, th\u01a1\u0323 s\u01a1n, th\u01a1\u0323 ve\u0303","a":"basement","b":"gene","c":"revolutionary","d":"painter","answer":"painter"}

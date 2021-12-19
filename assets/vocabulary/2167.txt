@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"con \u0111\u01b0\u01a1\u0340ng, \u0111\u01b0\u01a1\u0340ng, \u0111\u01b0\u01a1\u0340ng \u0111i, \u0111\u01b0\u01a1\u0340ng s\u0103\u0341t","a":"road","b":"revision","c":"fit","d":"crown","answer":"road"}

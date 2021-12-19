@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 thu\u0341c giu\u0323c, s\u01b0\u0323 x\u00f4 \u0111\u00e2\u0309y","a":"upcoming","b":"cynical","c":"urge","d":"guideline","answer":"urge"}

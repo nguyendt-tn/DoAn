@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ch\u01b0\u0340ng na\u0340o, khi na\u0340o, lu\u0341c na\u0340o","a":"notable","b":"when","c":"bow","d":"spouse","answer":"when"}

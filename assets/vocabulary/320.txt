@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ng\u0103\u0341n go\u0323n, v\u0103\u0341n t\u0103\u0341c","a":"brief","b":"resistance","c":"index","d":"distinct","answer":"brief"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y \u0111inh, chi ti\u00ea\u0341t, la\u0340m n\u00f4\u0303i b\u00e2\u0323t l\u00ean, l\u00f4\u0323 l\u00ean","a":"highlight","b":"probe","c":"buck","d":"nowadays","answer":"highlight"}

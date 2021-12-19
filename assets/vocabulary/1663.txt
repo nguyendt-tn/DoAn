@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hay gi\u00e2\u0323n, hay s\u01a1\u0323, hay t\u01b0\u0341c, ng\u01b0\u01a1\u0340i d\u00ea\u0309 bi\u0323 ki\u0341ch thi\u0341ch, nha\u0341t gan, nhu\u0341t nha\u0341t, thu\u00f4\u0323c v\u00ea\u0340 th\u00e2\u0340n kinh","a":"nervous","b":"tournament","c":"compassion","d":"grasp","answer":"nervous"}

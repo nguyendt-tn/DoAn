@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01b0\u0309a s\u00f4\u0309","a":"yell","b":"window","c":"cluster","d":"interference","answer":"window"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"trong n\u00f4m, \u0111i\u00ea\u0340u khi\u00ea\u0309n, h\u01b0\u01a1\u0341ng d\u00e2\u0303n, qua\u0309n ly\u0341","a":"expertise","b":"consult","c":"conduct","d":"presumably","answer":"conduct"}

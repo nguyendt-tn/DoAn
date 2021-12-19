@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bom, tra\u0341i pha\u0341","a":"bomb","b":"nursery","c":"clash","d":"scholar","answer":"bomb"}

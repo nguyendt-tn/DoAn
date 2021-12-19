@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u0103ng, d\u00e2y, \u0111ai, kh\u00e2u, d\u00e2y curoa, g\u00e2n, d\u00e2y tr\u00e2n, va\u0340nh, ni\u00ea\u0340ng s\u0103\u0341t, chi\u0309 \u0111o\u0341ng sa\u0341ch, va\u0309i gia\u0341o si\u0303 \u0111eo \u01a1\u0309 ng\u01b0\u0323c","a":"band","b":"net","c":"slap","d":"blanket","answer":"band"}

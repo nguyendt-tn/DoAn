@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111u\u0341ng m\u00f4\u0341t, h\u01a1\u0323p th\u01a1\u0340i trang, theo m\u00f4\u0341t","a":"fashionable","b":"nomination","c":"verbal","d":"consultant","answer":"fashionable"}

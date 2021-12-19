@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c thi, s\u01b0\u0323 kha\u0309o thi\u0341, s\u01b0\u0323 th\u01b0\u0309, thi\u0341 nghi\u00ea\u0323m","a":"fake","b":"retail","c":"allocate","d":"test","answer":"test"}

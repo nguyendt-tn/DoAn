@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"treo, bi\u0323 treo, \u0111i dong da\u0340i, mo\u0341c","a":"unfortunate","b":"corresponding","c":"exploitation","d":"hang","answer":"hang"}

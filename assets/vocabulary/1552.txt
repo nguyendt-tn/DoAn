@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ha\u0309o y\u0341, co\u0341 y\u0341 t\u00f4\u0341t, \u0111\u00e2\u0340y y\u0341 nghi\u0303a","a":"meaning","b":"deficiency","c":"exile","d":"scholar","answer":"meaning"}

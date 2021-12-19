@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ghi, che\u0341p, \u0111\u0103\u0323t tr\u01b0\u01a1\u0341c, ghi va\u0340o s\u00f4\u0309","a":"remarkably","b":"book","c":"infect","d":"coastal","answer":"book"}

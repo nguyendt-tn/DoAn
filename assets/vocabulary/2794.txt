@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tay quay, \u0111\u00e2\u0340u chi\u0340a kho\u0341a, \u0111\u00f4\u0340 d\u00ea\u0323t, l\u01b0\u01a1\u0303i c\u01b0a, ma\u0340ng da ch\u00e2n vi\u0323t, cu\u00f4\u0341n gi\u00e2\u0341y l\u01a1\u0341n, va\u0309i","a":"coincide","b":"web","c":"theology","d":"fever","answer":"web"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0340nh c\u00e2y, l\u01a1\u0341p s\u01a1n, n\u00ea\u0340n nha\u0340, ng\u01b0\u01a1\u0340i \u0111\u0103\u0323t, ng\u01b0\u01a1\u0340i ga\u0340i b\u00e2\u0309y, ng\u01b0\u01a1\u0340i nh\u0103\u0341m b\u0103\u0341n \u0111a\u0323i ba\u0341c","a":"layer","b":"perceive","c":"synthesis","d":"dealer","answer":"layer"}

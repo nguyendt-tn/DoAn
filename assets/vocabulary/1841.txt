@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ri\u00eang, nh\u00e2n x\u01b0ng, ca\u0341 nh\u00e2n, t\u01b0\u0323 do ca\u0341 nh\u00e2n, thu\u00f4\u0323c v\u00ea\u0340 ca\u0341 nh\u00e2n","a":"personal","b":"pioneer","c":"biography","d":"yell","answer":"personal"}

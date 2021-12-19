@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"co\u0341 y\u0341 \u0111i\u0323nh, da\u0340nh cho, co\u0341 y\u0341 mu\u00f4\u0341n, \u0111i\u0323nh cho, \u0111i\u0323nh ph\u00e2\u0340n","a":"ideological","b":"intend","c":"rebel","d":"distinctive","answer":"intend"}

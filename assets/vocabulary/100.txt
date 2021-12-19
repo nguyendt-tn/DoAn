@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nghi\u00ean c\u01b0\u0341u, ph\u00e2n gia\u0309i, phe\u0341p ph\u00e2n ta\u0341ch, phe\u0341p ph\u00e2n ti\u0341ch, xe\u0341t nghi\u00ea\u0323m","a":"summit","b":"eternal","c":"descent","d":"analysis","answer":"analysis"}

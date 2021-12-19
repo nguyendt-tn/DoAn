@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ng\u01b0\u01a1\u0340i l\u01a1\u0341n","a":"structural","b":"nowadays","c":"comparative","d":"adult","answer":"adult"}

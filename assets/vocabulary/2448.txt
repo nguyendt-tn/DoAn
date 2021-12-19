@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bao t\u01b0\u0309, da\u0323 da\u0340y, bu\u0323ng","a":"activist","b":"epidemic","c":"thorough","d":"stomach","answer":"stomach"}

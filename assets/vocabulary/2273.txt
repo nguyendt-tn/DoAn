@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gi\u01a1\u0341i ti\u0341nh, ti\u0341nh \u0111\u01b0\u0323c ca\u0341i, ti\u0341nh trai ga\u0341i, ti\u0340nh du\u0323c","a":"disastrous","b":"mathematical","c":"sex","d":"republic","answer":"sex"}

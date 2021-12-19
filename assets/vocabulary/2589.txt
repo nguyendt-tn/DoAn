@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"ca\u0341i n\u00e2\u0340y, \u0111i\u00ea\u0340u na\u0340y, v\u00e2\u0323t n\u00e2\u0340y","a":"concession","b":"fraction","c":"undergraduate","d":"this","answer":"this"}

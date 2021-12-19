@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ban, \u0111oa\u0340n th\u00ea\u0309 thao, \u0111\u00f4\u0323i, \u0111\u00f4\u0323i bo\u0341ng","a":"team","b":"entertaining","c":"warming","d":"nominee","answer":"team"}

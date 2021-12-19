@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"dollar, \u0111\u00f4\u0340ng ba\u0323c, \u0111\u00f4\u0340ng \u0111\u00f4 la \u01a1\u0309 my\u0303, \u0111\u00f4\u0340ng dollar","a":"moving","b":"companion","c":"dollar","d":"stroke","answer":"dollar"}

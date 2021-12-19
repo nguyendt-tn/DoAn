@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0341 m\u00e2\u0323t, h\u01a1i th\u00f4\u0309i, la\u0340m si\u0340nh bu\u0323ng, ngo\u0323n gio\u0341, tin ki\u0341n, khoe mi\u0340nh","a":"commissioner","b":"interface","c":"blow","d":"pond","answer":"blow"}

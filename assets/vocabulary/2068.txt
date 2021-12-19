@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"m\u01a1\u0341i \u0111\u00e2y, m\u01a1\u0341i xa\u0309y ra, v\u01b0\u0340a m\u01a1\u0341i \u0111\u00e2y","a":"recent","b":"mobility","c":"burst","d":"riot","answer":"recent"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"a\u0341m a\u0309nh, chi\u00ea\u0341m h\u01b0\u0309u, co\u0341, \u0111\u01b0\u01a1\u0323c","a":"divert","b":"possess","c":"monopoly","d":"restrict","answer":"possess"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"ca\u0341i cu\u0309a chu\u0341ng no\u0341, ca\u0341i cu\u0309a ho\u0323","a":"emergence","b":"therapist","c":"greatly","d":"theirs","answer":"theirs"}

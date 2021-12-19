@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01b0\u0303a \u0103n, \u0111\u00f4\u0340 \u0103n, thi\u0323t, thi\u0323t c\u01a1m cu\u0309a tra\u0341i c\u00e2y, th\u01b0\u0341c \u0103n","a":"non-profit","b":"civilization","c":"uphold","d":"meat","answer":"meat"}

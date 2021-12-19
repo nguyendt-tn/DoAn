@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y c\u00f4\u0341i trong r\u01b0\u0340ng, g\u00f4\u0303, r\u01b0\u0340ng, thu\u0340ng \u0111\u01b0\u0323ng r\u01b0\u01a1\u0323u","a":"nasty","b":"embed","c":"well-being","d":"wood","answer":"wood"}

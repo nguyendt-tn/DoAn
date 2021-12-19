@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"lung lay, \u0111\u01b0\u01a1\u0340ng nha\u0309y mu\u0341a, lu\u0341c l\u0103\u0341c","a":"strengthen","b":"dancing","c":"basket","d":"jail","answer":"dancing"}

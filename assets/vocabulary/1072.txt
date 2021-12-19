@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"t\u01b0\u01a1i, co\u0340n non n\u01a1\u0341t, ma\u0341t me\u0309, mau m\u0103\u0341n, ch\u00ea\u0341ch choa\u0341ng, t\u01b0\u0323 phu\u0323, \u0111\u00f4\u0340ng trinh, m\u01a1\u0341i, thi\u00ea\u0341u kinh nghi\u00ea\u0323m","a":"fresh","b":"offender","c":"cabin","d":"spectacular","answer":"fresh"}

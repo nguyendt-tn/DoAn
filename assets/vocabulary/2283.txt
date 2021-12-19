@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4n ngoan, ki\u0323ch li\u00ea\u0323t, nho\u0323n, s\u0103\u0341c, xa\u0309o quy\u00ea\u0323t, be\u0341n, tinh qua\u0341i, lanh l\u01a1\u0323i","a":"adolescent","b":"ethnic","c":"sharp","d":"textbook","answer":"sharp"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phao, xe hoa, xe kh\u00f4ng mui, be\u0340 g\u00f4\u0309, kh\u00f4\u0341i b\u0103ng, v\u00e2\u0323t n\u00f4\u0309i tr\u00ean m\u0103\u0323t n\u01b0\u01a1\u0341c","a":"automatic","b":"float","c":"heighten","d":"triumph","answer":"float"}

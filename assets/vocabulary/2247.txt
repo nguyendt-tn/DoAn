@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u01b0\u0323a, l\u01b0\u0323a cho\u0323n","a":"overturn","b":"select","c":"vow","d":"councillor","answer":"select"}

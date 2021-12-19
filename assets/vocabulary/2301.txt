@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"g\u00e2\u0340n, g\u00e2\u0340n \u0111\u00e2y, ng\u0103\u0341n, ng\u0103\u0341n ngu\u0309i, to\u0341m la\u0323i, thi\u00ea\u0341u, go\u0323n, v\u0103\u0341n","a":"valid","b":"short","c":"catalogue","d":"forecast","answer":"short"}

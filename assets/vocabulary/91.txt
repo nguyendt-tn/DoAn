@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"lu\u00e2n phi\u00ean, thay phi\u00ean, lu\u00e2n chuy\u00ea\u0309n, thay \u0111\u00f4\u0309i nhau","a":"format","b":"rival","c":"alternative","d":"conversion","answer":"alternative"}

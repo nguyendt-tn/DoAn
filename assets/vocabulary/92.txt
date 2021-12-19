@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"cha\u0323y su\u00f4\u0341t qua, m\u0103\u0323c d\u00e2\u0340u","a":"altogether","b":"removal","c":"although","d":"overlook","answer":"although"}

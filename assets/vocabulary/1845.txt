@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"khuy\u00ean, la\u0340m cho tin, la\u0340m nghe theo, la\u0340m phu\u0323c theo, xu\u0341i","a":"persuade","b":"innovative","c":"stereotype","d":"abundance","answer":"persuade"}

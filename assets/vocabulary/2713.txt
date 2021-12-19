@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng c\u00e2\u0340n thi\u00ea\u0341t, kh\u00f4ng thi\u00ea\u0341t y\u00ea\u0341u","a":"signature","b":"cling","c":"unnecessary","d":"erect","answer":"unnecessary"}

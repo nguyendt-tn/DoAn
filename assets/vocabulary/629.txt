@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cha, ba, b\u00f4\u0341, ti\u0341a","a":"dad","b":"generic","c":"simulation","d":"corporation","answer":"dad"}

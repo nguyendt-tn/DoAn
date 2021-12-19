@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u0103\u0341m tra\u0323i, ch\u00f4\u0309 \u0111o\u0341ng qu\u00e2n, \u0111a\u0309ng pha\u0341i, phe \u0111a\u0309ng, tra\u0323i, tr\u00e2\u0323n \u0111i\u0323a","a":"confusion","b":"legendary","c":"variation","d":"camp","answer":"camp"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"n\u01a1\u0323, thi\u00ea\u0341u","a":"owe","b":"ensue","c":"successive","d":"militant","answer":"owe"}

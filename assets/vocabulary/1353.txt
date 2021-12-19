@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"trong, v\u00f4 trong, \u01a1\u0309 trong","a":"trillion","b":"into","c":"mechanical","d":"collision","answer":"into"}

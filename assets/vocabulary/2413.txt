@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cha me\u0323 \u0111\u01a1\u0309 \u0111\u00e2\u0340u, ng\u01b0\u01a1\u0340i ba\u0309o \u0111a\u0309m, ng\u01b0\u01a1\u0340i ba\u0309o la\u0309nh, ng\u01b0\u01a1\u0340i \u0111\u01a1\u0309 \u0111\u00e2\u0340u","a":"feat","b":"sponsor","c":"surveillance","d":"chunk","answer":"sponsor"}

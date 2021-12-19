@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u0309ng loa\u0323i, gi\u00f4\u0341ng, loa\u0340i, loa\u0323i","a":"verdict","b":"harvest","c":"distinctive","d":"species","answer":"species"}

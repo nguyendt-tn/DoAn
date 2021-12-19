@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u00f4ng \u01b0a, ghe\u0341t ng\u01b0\u01a1\u0340i na\u0340o, kh\u00f4ng thi\u0341ch","a":"affection","b":"dislike","c":"insufficient","d":"undergo","answer":"dislike"}

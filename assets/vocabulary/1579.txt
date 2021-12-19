@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u0103\u0323m","a":"situated","b":"faculty","c":"blade","d":"mile","answer":"mile"}

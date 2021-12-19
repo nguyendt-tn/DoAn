@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0323 ph\u00e2\u0323n cu\u0309a ma\u0341y, khe tr\u01a1\u0323t trong ma\u0341y mo\u0341c, s\u01b0\u0323 l\u01a1\u0309 \u0111\u00e2\u0341t, s\u01b0\u0323 su\u0323p \u0111\u00e2\u0341t, s\u01b0\u0323 tr\u01a1\u0323t","a":"deficit","b":"junction","c":"residence","d":"slide","answer":"slide"}

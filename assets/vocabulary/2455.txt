@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng quen, la\u0323, xa la\u0323","a":"strange","b":"debris","c":"subsequently","d":"equation","answer":"strange"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ky\u0303 thu\u00e2\u0323t s\u00f4\u0341, ngo\u0341n ch\u00e2n, phi\u00ea\u0341m cu\u0309a d\u01b0\u01a1ng c\u00e2\u0340m, thu\u00f4\u0323c v\u00ea\u0340 ngo\u0341n tay","a":"cue","b":"manipulation","c":"digital","d":"surgical","answer":"digital"}

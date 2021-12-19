@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u00f4ng sai, ch\u0103\u0341c ch\u0103\u0341n","a":"fail","b":"verify","c":"commence","d":"manuscript","answer":"fail"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng tr\u00f4ng ch\u01a1\u0340 ma\u0340 \u0111\u00ea\u0341n","a":"miracle","b":"unexpected","c":"serial","d":"breakthrough","answer":"unexpected"}

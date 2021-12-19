@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tha\u0341ng chi\u0341n, tha\u0341ng chi\u0341n d\u01b0\u01a1ng li\u0323ch","a":"compromise","b":"ridiculous","c":"implementation","d":"september","answer":"september"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"g\u00e2\u0340y, g\u00e2\u0340y co\u0340m, \u00f4\u0341m nhom, s\u01a1 sa\u0340i, x\u00e2\u0341u, xoa\u0340ng, g\u00e2\u0340y \u00f4\u0341m","a":"lean","b":"preliminary","c":"enjoyable","d":"leap","answer":"lean"}

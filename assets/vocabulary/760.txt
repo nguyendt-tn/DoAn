@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341nh c\u01b0\u0309a, c\u01b0\u0309a, h\u00e2\u0341p h\u00f4\u0341i, \u01a1\u0309 ngoa\u0340i tr\u01a1\u0340i, \u01a1\u0309 nha\u0340, x\u01b0\u0309 ki\u0341n","a":"door","b":"ideological","c":"storage","d":"effectiveness","answer":"door"}

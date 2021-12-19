@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u01b0\u0341a be\u0341 nghi\u0323ch ng\u01a1\u0323m, huy\u00ean na\u0341o, om so\u0340m, \u00f4\u0340n a\u0340o","a":"worthy","b":"correlation","c":"highway","d":"noisy","answer":"noisy"}

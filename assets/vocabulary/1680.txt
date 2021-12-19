@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"kh\u00f4ng ai, kh\u00f4ng m\u00f4\u0323t ai","a":"devastate","b":"no one","c":"fragment","d":"rehabilitation","answer":"no one"}

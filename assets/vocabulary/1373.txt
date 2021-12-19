@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng vi\u00ea\u0323c, vi\u00ea\u0323c, vi\u00ea\u0323c la\u0340m, vi\u00ea\u0323c la\u0340m khoa\u0341n, vi\u00ea\u0323c la\u0340m thu\u00ea","a":"sentiment","b":"cutting","c":"integrated","d":"job","answer":"job"}

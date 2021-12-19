@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0309i ch\u01b0\u0341c, bo\u0309 qua, ca\u0341ch ch\u01b0\u0341c, \u0111u\u00f4\u0309i, \u0111u\u00f4\u0309i khe\u0341o, gia\u0309i ta\u0341n, l\u00f4\u0323t ch\u01b0\u0341c, th\u00f4i la\u0340m","a":"nursery","b":"dismiss","c":"warrior","d":"correlate","answer":"dismiss"}

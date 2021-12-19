@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thanh li\u00eam, ch\u00e2n th\u00e2\u0323t, li\u00eam ki\u00ea\u0341t, ngay th\u00e2\u0323t, tha\u0340nh th\u00e2\u0323t","a":"honest","b":"desktop","c":"inject","d":"warrant","answer":"honest"}

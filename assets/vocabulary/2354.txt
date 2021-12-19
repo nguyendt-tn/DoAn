@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bu\u00f4\u0340n cha\u0341n, ch\u00e2\u0323m, ch\u00e2\u0323m cha\u0323p, ch\u00e2\u0323m ra\u0309i, kh\u00f4ng lanh tri\u0341, thong tha\u0309","a":"missile","b":"coordination","c":"slow","d":"troubled","answer":"slow"}

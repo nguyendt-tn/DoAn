@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i ph\u00e2n ti\u0341ch, nha\u0340 chuy\u00ean m\u00f4n gia\u0309i ti\u0341ch, nha\u0340 gia\u0309i ti\u0341ch ho\u0323c","a":"engine","b":"analyst","c":"alter","d":"specifically","answer":"analyst"}

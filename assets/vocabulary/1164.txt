@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u00f4\u0340n c\u01b0\u01a1\u0340i, c\u00e2u no\u0341i \u0111u\u0340a, l\u01a1\u0340i, ng\u01b0\u01a1\u0340i, ng\u01b0\u01a1\u0340i \u0103n b\u00e2\u0323n l\u00f4i th\u00f4i, t\u00e2\u0309u thoa\u0341t, tr\u00f4\u0341n","a":"contradiction","b":"guy","c":"provoke","d":"inequality","answer":"guy"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 c\u00f4ng b\u0103\u0340ng","a":"justice","b":"depression","c":"sin","d":"imagery","answer":"justice"}

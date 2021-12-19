@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ha\u0323n","a":"manipulation","b":"toss","c":"limited","d":"dam","answer":"limited"}

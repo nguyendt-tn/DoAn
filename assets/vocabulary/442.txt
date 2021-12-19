@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2\u0341p, \u0111\u0103\u0309ng, giai c\u00e2\u0341p, gi\u01a1\u0340 ho\u0323c, ha\u0323ng, loa\u0323i, l\u01a1\u0341p, l\u01a1\u0341p ho\u0323c, ph\u00e2n loa\u0323i, ph\u00e2n ha\u0323ng, th\u01b0\u0341","a":"dive","b":"genius","c":"simultaneously","d":"class","answer":"class"}

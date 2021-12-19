@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho, c\u00e2\u0341p d\u01b0\u01a1\u0303ng, c\u00e2\u0341p, cung c\u00e2\u0341p, \u0111\u00ea\u0340 pho\u0340ng, pho\u0340ng bi\u0323, qui \u0111i\u0323nh, d\u01b0\u0323 \u0111i\u0323nh, \u01b0\u01a1\u0341c \u0111i\u0323nh, d\u01b0\u0323 pho\u0340ng","a":"exile","b":"elbow","c":"provide","d":"unprecedented","answer":"provide"}

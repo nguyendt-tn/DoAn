@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"gi\u00f4\u0341ng h\u00ea\u0323t, gi\u00f4\u0341ng l\u0103\u0341m","a":"ton","b":"flourish","c":"eager","d":"nearly","answer":"nearly"}

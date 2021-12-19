@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u01b0\u0341a, cung c\u00e2\u0341p, \u0111\u01b0\u0323ng, giu\u0341p \u0111\u01a1\u0309, ho\u0340a gia\u0309i, l\u0103\u0341p, tu\u0340y th\u01a1\u0340i, thi\u0341ch h\u01a1\u0323p","a":"fault","b":"accommodate","c":"thousand","d":"curved","answer":"accommodate"}

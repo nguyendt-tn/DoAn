@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u00ea\u0340u quan sa\u0341t, l\u01a1\u0340i ph\u00ea bi\u0340nh, do\u0340m ngo\u0341, s\u01b0\u0323 chu\u0341 y\u0341, s\u01b0\u0323 \u0111\u00ea\u0309 y\u0341, s\u01b0\u0323 do\u0323 tha\u0341m, trinh sa\u0341t","a":"observation","b":"opt","c":"adhere","d":"replacement","answer":"observation"}

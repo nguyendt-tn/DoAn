@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nha\u0340 ha\u0340ng, qua\u0341n \u0103n","a":"restaurant","b":"array","c":"uphold","d":"lesser","answer":"restaurant"}

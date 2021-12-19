@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cho\u0323c t\u01b0\u0341c, la\u0340m phi\u00ea\u0340n, la\u0340m tra\u0341i y\u0341","a":"squeeze","b":"annoying","c":"coordinator","d":"municipal","answer":"annoying"}

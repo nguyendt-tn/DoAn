@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"d\u00e2\u0340n d\u00e2\u0340n","a":"youngster","b":"doctrine","c":"gradually","d":"harassment","answer":"gradually"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"cu\u0309a chu\u0341ng no\u0341, cu\u0309a ho\u0323","a":"integrate","b":"blend","c":"tap","d":"their","answer":"their"}

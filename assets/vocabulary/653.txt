@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"khai, tuy\u00ean ng\u00f4n, khai ha\u0340ng ho\u0341a, qua\u0309 quy\u00ea\u0341t, tuy\u00ean b\u00f4\u0341, tuy\u00ean ca\u0341o, chi\u0323u thua tr\u01b0\u01a1\u0341c, xa\u0341c nh\u00e2\u0323n","a":"embrace","b":"reside","c":"globalization","d":"declare","answer":"declare"}

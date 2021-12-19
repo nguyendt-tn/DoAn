@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ban c\u00f4ng, bao l\u01a1n, chu\u00f4\u0340ng ga\u0340, ha\u0340ng ba, ha\u0340nh lang, ma\u0341i hi\u00ean","a":"long-standing","b":"racism","c":"gallery","d":"allowance","answer":"gallery"}

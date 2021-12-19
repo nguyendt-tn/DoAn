@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"l\u01b0\u01a1\u0303ng l\u01b0\u0323, ng\u00e2\u0323p ng\u01b0\u0340ng, do d\u01b0\u0323, du\u0323 d\u01b0\u0323","a":"hesitate","b":"governor","c":"architectural","d":"wheat","answer":"hesitate"}

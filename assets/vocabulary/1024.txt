@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y b\u00f4\u0340 hoa\u0340ng, \u0111a\u0341 \u0111\u00ea\u0309 lo\u0341 \u0111\u01b0\u01a1\u0340ng, l\u00f4ng ca\u0341nh chim, la\u0341 c\u01a1\u0340, la\u0341 lu\u0341a","a":"flag","b":"barrel","c":"injustice","d":"seeker","answer":"flag"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"do\u0340ng \u0111i\u00ea\u0323n m\u00f4\u0323t chi\u00ea\u0340u, \u0111i th\u0103\u0309ng, minh ba\u0323ch, ngay th\u0103\u0309ng, ro\u0309 ra\u0340ng, tha\u0340nh th\u00e2\u0323t, tr\u01b0\u0323c ti\u00ea\u0341p","a":"encompass","b":"inhabitant","c":"starve","d":"direct","answer":"direct"}

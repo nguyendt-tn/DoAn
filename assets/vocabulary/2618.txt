@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0340 chua, ca\u0340 t\u00f4 ma\u0341t","a":"tomato","b":"creep","c":"laser","d":"psychological","answer":"tomato"}

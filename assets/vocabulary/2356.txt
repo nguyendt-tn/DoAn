@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"le\u0323 la\u0340ng, li\u0323ch s\u01b0\u0323, mau le\u0323","a":"smart","b":"rock","c":"enforcement","d":"medieval","answer":"smart"}

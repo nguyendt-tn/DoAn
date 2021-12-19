@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"y\u00ea\u0341u, y\u00ea\u0341u \u01a1\u0341t","a":"weak","b":"neutral","c":"theology","d":"depression","answer":"weak"}

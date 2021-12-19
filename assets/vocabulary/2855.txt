@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"lo","a":"jet","b":"worry","c":"sexy","d":"conserve","answer":"worry"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"xanh, xanh t\u01b0\u01a1i, ng\u00e2y th\u01a1, rau t\u01b0\u01a1i, la\u0341 c\u00e2y, lu\u0323c, xanh ma\u0340u co\u0309, th\u00e2\u0323t tha\u0340, xanh me\u0341t, co\u0309","a":"green","b":"publishing","c":"amendment","d":"fluid","answer":"green"}

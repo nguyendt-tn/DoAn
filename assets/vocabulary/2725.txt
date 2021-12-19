@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"chu\u0341ng ta, chu\u0341ng t\u00f4i","a":"reasoning","b":"patch","c":"composer","d":"us","answer":"us"}

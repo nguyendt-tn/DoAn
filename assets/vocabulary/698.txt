@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0309nh sa\u0341t chi\u0340m, ca\u0309nh sa\u0341t \u0111\u0103\u0323c bi\u00ea\u0323t, nha\u0340 trinh tha\u0341m, tha\u0341m t\u01b0\u0309","a":"gender","b":"chronic","c":"seize","d":"detective","answer":"detective"}

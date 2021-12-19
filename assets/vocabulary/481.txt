@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"li\u00ean minh, ho\u0341a h\u01a1\u0323p, h\u01a1\u0323p nh\u00e2\u0341t, l\u00e2\u0323p tha\u0340nh nghi\u00ea\u0323p \u0111oa\u0340n, li\u00ean k\u00ea\u0341t, ho\u0340a h\u01a1\u0323p, ph\u00f4\u0341i h\u01a1\u0323p","a":"shore","b":"combine","c":"deed","d":"glory","answer":"combine"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"tu\u0340y theo, t\u01b0\u01a1ng \u0111\u00f4\u0341i","a":"evolve","b":"bless","c":"stimulate","d":"relatively","answer":"relatively"}

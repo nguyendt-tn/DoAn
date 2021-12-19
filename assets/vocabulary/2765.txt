@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0309n sa\u0341ch, cu\u00f4\u0341n sa\u0341ch, quy\u00ea\u0309n sa\u0341ch, th\u00ea\u0309 ti\u0341ch, dung ti\u0341ch","a":"volume","b":"vulnerable","c":"documentation","d":"forth","answer":"volume"}

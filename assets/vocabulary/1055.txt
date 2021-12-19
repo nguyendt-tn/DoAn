@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341i chi\u0303a, ca\u0341i ni\u0303a, ni\u0303a, nha\u0341nh c\u00e2y, c\u00e2y na\u0323ng","a":"inherit","b":"reckon","c":"fork","d":"enact","answer":"fork"}

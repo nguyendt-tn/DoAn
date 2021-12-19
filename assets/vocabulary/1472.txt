@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"trong, \u00eam a\u0341i, trong su\u00f4\u0341t, hay thay \u0111\u00f4\u0309i","a":"mercy","b":"liquid","c":"readily","d":"convey","answer":"liquid"}

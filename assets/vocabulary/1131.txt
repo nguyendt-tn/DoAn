@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"golf, \u0111a\u0341nh c\u00e2\u0340u \u01a1\u0309 anh, l\u00f4\u0341i ch\u01a1i g\u00f4n","a":"fulfil","b":"golf","c":"syndrome","d":"ancestor","answer":"golf"}

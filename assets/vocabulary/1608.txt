@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tha\u0341ng","a":"apology","b":"month","c":"revenue","d":"moving","answer":"month"}

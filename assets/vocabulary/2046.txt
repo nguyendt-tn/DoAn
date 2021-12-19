@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ha\u0303n h\u01b0\u0309u, hi\u00ea\u0341m, hi\u00ea\u0341m co\u0341, hy h\u01b0\u0309u, i\u0341t co\u0341, s\u00f4\u0341ng nh\u0103n","a":"harsh","b":"debris","c":"rare","d":"stimulus","answer":"rare"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"sai, gia\u0309 d\u00f4\u0341i, gi\u0309a b\u00f4\u0323, sai l\u00e2\u0340m, kh\u00f4ng ngay th\u00e2\u0323t","a":"FALSE","b":"donation","c":"opt","d":"severely","answer":"FALSE"}

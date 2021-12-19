@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u01a1\u0309 n\u01a1i na\u0340o, va\u0340i n\u01a1i kha\u0341c","a":"trustee","b":"merger","c":"constitute","d":"somewhere","answer":"somewhere"}

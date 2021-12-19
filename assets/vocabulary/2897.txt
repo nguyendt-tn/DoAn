@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ho\u0340an tha\u0340nh, la\u0340m tro\u0340n, la\u0340m xong, tha\u0340nh t\u01b0\u0323u, th\u01b0\u0323c ha\u0340nh","a":"accomplish","b":"impact","c":"soul","d":"century","answer":"accomplish"}

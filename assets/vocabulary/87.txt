@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"kh\u00f4ng th\u00e2n nh\u00e2n, \u0111\u00ea\u0309 y\u00ean, kh\u00f4ng k\u00ea\u0309, do\u0323c theo","a":"along","b":"wander","c":"copyright","d":"gravity","answer":"along"}

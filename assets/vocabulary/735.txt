@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kha\u0341m pha\u0341, ti\u0340m th\u00e2\u0341y, v\u00e2\u0323t ti\u0340m th\u00e2\u0341y","a":"discovery","b":"hostile","c":"breed","d":"thesis","answer":"discovery"}

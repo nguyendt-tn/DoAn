@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"xa, xa ca\u0341ch","a":"innovation","b":"alert","c":"stroke","d":"widely","answer":"widely"}

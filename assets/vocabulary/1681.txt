@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"kh\u00f4ng co\u0341 ai, kh\u00f4ng ng\u01b0\u01a1\u0340i na\u0340o","a":"nobody","b":"restriction","c":"palm","d":"archive","answer":"nobody"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"mo\u0323i ng\u01b0\u01a1\u0340i, nh\u01b0\u0303ng ng\u01b0\u01a1\u0340i, t\u00e2\u0341t ca\u0309 ng\u01b0\u01a1\u0340i","a":"contention","b":"sacrifice","c":"obsess","d":"everybody","answer":"everybody"}

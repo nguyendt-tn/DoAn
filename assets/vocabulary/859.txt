@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4\u0309ng l\u00f4\u0340, phi th\u01b0\u01a1\u0340ng, to l\u01a1\u0341n","a":"registration","b":"manufacturing","c":"enormous","d":"atrocity","answer":"enormous"}

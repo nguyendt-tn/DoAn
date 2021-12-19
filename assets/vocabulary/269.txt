@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chim","a":"trait","b":"bird","c":"forbid","d":"consistency","answer":"bird"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01b0\u0341c ma\u0340n treo, b\u01b0\u0341c tha\u0340nh n\u00f4\u0341i hai pha\u0341o \u0111a\u0340i, ma\u0340n, mi\u00ea\u0341ng s\u0103\u0341t che l\u00f4\u0309 kho\u0341a","a":"crystal","b":"rage","c":"negotiate","d":"curtain","answer":"curtain"}

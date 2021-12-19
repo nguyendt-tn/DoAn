@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"gia tr\u01b0\u01a1\u0309ng","a":"pill","b":"adjust","c":"head","d":"sufficiently","answer":"head"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u00f4\u0341i kh\u01a1\u0309i \u0111\u00e2\u0340u, ngu\u00f4\u0340n g\u00f4\u0341c c\u0103n ba\u0309n, nguy\u00ean ch\u00e2\u0341t, nguy\u00ean t\u0103\u0341c","a":"principle","b":"brick","c":"timing","d":"medication","answer":"principle"}

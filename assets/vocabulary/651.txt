@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"x\u01b0\u0309 \u0111oa\u0341n","a":"decide","b":"editorial","c":"spectacle","d":"nominee","answer":"decide"}

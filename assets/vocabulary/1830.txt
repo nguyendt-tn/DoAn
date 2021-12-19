@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"su\u00e2\u0341t ba\u0341ch ph\u00e2n, ty\u0309 l\u00ea\u0323 ba\u0341ch ph\u00e2n, ty\u0309 l\u00ea\u0323 ph\u00e2\u0340n tr\u0103m","a":"percentage","b":"reflection","c":"attachment","d":"mature","answer":"percentage"}

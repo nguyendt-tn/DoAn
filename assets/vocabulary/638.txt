@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u01b0\u0309 ki\u00ea\u0323n, mu\u0323c ti\u00eau","a":"data","b":"wisdom","c":"bind","d":"mercy","answer":"data"}

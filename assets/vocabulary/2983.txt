@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 ki\u00ea\u0341n tru\u0341c","a":"architectural","b":"boot","c":"included","d":"monkey","answer":"architectural"}

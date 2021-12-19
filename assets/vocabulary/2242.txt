@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u01a1i an ninh, s\u01b0\u0323 ba\u0309o toa\u0340n, ti\u00ea\u0340n ba\u0309o ch\u01b0\u0341ng, tra\u0323ng tha\u0341i an toa\u0340n","a":"offspring","b":"security","c":"stark","d":"dignity","answer":"security"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"trong, gi\u00e2\u0341y t\u00f4\u0341t, \u01a1\u0309 trong, ph\u00e2\u0340n trong, \u00e2\u0309n ti\u0340nh, phi\u0341a trong nha\u0340, phi\u0341a trong xe, ru\u00f4\u0323t, phi\u0341a trong","a":"surgeon","b":"outlook","c":"backdrop","d":"inside","answer":"inside"}

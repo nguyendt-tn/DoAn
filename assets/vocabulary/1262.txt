@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kem, ca\u0340 rem, kem la\u0323nh","a":"varied","b":"ice cream","c":"militia","d":"bass","answer":"ice cream"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ch\u00e2\u0323m cha\u0323p, n\u0103\u0323ng, n\u0103\u0323ng n\u00ea\u0340","a":"contempt","b":"heavily","c":"stance","d":"immigration","answer":"heavily"}

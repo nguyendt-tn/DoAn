@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u0103\u0341ng, \u0111\u00f4\u0340 \u0103n co\u0341 vi\u0323 \u0111\u0103\u0341ng, \u0111\u00f4\u0340 co\u0341 ch\u00e2\u0341t \u0111\u0103\u0341ng, no\u0341i chuy\u00ea\u0323n chua cha\u0341t","a":"bitter","b":"referendum","c":"pad","d":"correlation","answer":"bitter"}

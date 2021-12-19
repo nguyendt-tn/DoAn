@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"th\u01a1\u0323 chu\u0323p hi\u0340nh","a":"photographer","b":"magnificent","c":"bargain","d":"turnout","answer":"photographer"}

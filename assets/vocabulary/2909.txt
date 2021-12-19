@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0323 ca\u0341o, ng\u01b0\u01a1\u0340i bi\u0323 bu\u00f4\u0323c t\u00f4\u0323i","a":"accused","b":"distance","c":"climb","d":"we","answer":"accused"}

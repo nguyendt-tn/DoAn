@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"hai l\u00e2\u0340n","a":"resemble","b":"pioneer","c":"twice","d":"coordinate","answer":"twice"}

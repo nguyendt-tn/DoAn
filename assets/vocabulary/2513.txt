@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0341o len da\u0340i tay, a\u0341o ni\u0323t b\u0103\u0340ng len","a":"sweater","b":"certificate","c":"transaction","d":"infamous","answer":"sweater"}

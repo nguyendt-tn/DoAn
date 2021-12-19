@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ti\u00ea\u0323n l\u01a1\u0323i, ti\u00ea\u0323n nghi","a":"genetic","b":"tribute","c":"chase","d":"convenient","answer":"convenient"}

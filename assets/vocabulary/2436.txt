@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nh\u00e2n quy\u00ea\u0340n pha\u0341p","a":"congressional","b":"status","c":"stimulus","d":"palm","answer":"status"}

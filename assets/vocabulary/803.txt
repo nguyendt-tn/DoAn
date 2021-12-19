@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111i\u00ea\u0340u khi\u00ea\u0309n, gia\u0341m \u0111\u00f4\u0341c","a":"prevalence","b":"competent","c":"edit","d":"extensive","answer":"edit"}

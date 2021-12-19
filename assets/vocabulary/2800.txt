@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u00e2n, c\u00e2n nh\u0103\u0341c, \u0111\u0103\u0341n \u0111o, \u0111e\u0340 n\u0103\u0323ng, suy se\u0341t","a":"integral","b":"denial","c":"weigh","d":"timing","answer":"weigh"}

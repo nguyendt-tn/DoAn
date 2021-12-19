@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u01b0\u01a1\u0323c thi\u0341ch, \u0111\u01b0\u01a1\u0323c th\u01b0\u01a1ng, \u0111\u01b0\u01a1\u0323c y\u00eau m\u00ea\u0341n, ki\u0341nh tro\u0323ng","a":"fare","b":"favourite","c":"testimony","d":"dramatically","answer":"favourite"}

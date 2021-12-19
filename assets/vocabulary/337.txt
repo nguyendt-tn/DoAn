@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u00f4n, mai ta\u0341ng, xo\u0309 va\u0340o","a":"widen","b":"bury","c":"awkward","d":"gesture","answer":"bury"}

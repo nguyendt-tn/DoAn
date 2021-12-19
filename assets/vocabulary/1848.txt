@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u00ea\u0341n t\u01b0\u01a1\u0323ng, giai \u0111oa\u0323n","a":"marathon","b":"deadline","c":"phase","d":"visible","answer":"phase"}

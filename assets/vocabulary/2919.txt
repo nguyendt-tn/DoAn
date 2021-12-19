@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tham gia, di\u0341nh ch\u0103\u0323t va\u0340o, trung tha\u0340nh","a":"approximately","b":"electronic","c":"look","d":"adhere","answer":"adhere"}

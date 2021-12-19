@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u00f4\u0309 tr\u00f4\u0341ng, tr\u0103\u0341ng","a":"colonial","b":"blank","c":"variable","d":"furious","answer":"blank"}

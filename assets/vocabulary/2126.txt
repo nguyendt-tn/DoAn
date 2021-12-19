@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"danh ti\u00ea\u0341ng","a":"shed","b":"grave","c":"reputation","d":"benchmark","answer":"reputation"}

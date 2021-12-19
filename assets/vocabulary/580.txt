@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ki\u00ea\u0309m \u0111i\u00ea\u0309m, ki\u00ea\u0309m tra, t\u00f4\u0309ng s\u00f4\u0341, s\u01b0\u0323 \u0111\u00ea\u0341m, s\u01b0\u0323 ti\u0341nh toa\u0341n","a":"trailer","b":"liberal","c":"count","d":"closure","answer":"count"}

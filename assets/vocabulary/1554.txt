@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"trong khi \u00e2\u0341y, trong lu\u0341c \u00e2\u0341y","a":"spokesperson","b":"delicate","c":"flexibility","d":"meanwhile","answer":"meanwhile"}

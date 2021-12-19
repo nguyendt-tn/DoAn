@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cha\u0323m \u0111\u00ea\u0341n","a":"affect","b":"confirmation","c":"successive","d":"pause","answer":"affect"}

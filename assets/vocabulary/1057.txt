@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cha\u0341nh th\u01b0\u0341c, theo \u0111u\u0341ng lu\u00e2\u0323t, theo nghi l\u00ea\u0309, thu\u00f4\u0323c v\u00ea\u0340 hi\u0340nh th\u01b0\u0341c","a":"whereby","b":"fame","c":"formal","d":"depart","answer":"formal"}

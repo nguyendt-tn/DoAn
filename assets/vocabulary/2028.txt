@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111oa\u0340n ng\u01b0\u01a1\u0340i n\u00f4\u0341i nhau, \u0111oa\u0340n xe n\u00f4\u0341i nhau, lo\u0323n to\u0341c th\u0103\u0341t bi\u0341n sau \u0111\u00e2\u0340u","a":"surge","b":"queue","c":"carbon","d":"exaggerate","answer":"queue"}

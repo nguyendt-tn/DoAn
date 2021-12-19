@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ly\u0341, h\u01a1\u0323p ly\u0341, pha\u0309i ch\u0103ng, v\u01b0\u0340a pha\u0309i","a":"compensate","b":"reasonable","c":"summit","d":"hatred","answer":"reasonable"}

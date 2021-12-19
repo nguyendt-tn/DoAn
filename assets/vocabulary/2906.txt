@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u0341nh chi\u0341nh xa\u0341c, ti\u0341nh \u0111u\u0341ng, xa\u0341c th\u01b0\u0323c","a":"same","b":"ban","c":"imagination","d":"accuracy","answer":"accuracy"}

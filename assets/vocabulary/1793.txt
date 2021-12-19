@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309n danh sa\u0341ch, b\u00f4\u0340i th\u00e2\u0303m danh bi\u00ea\u0309u, m\u0103\u0323t cu\u0309a ma\u0341y, pho\u0340ng ng\u0103n ri\u00eang, va\u0341n bi\u0323t \u01a1\u0309 tr\u00ean c\u01b0\u0309a, y\u00ean ng\u01b0\u0323a","a":"exclude","b":"panel","c":"vacuum","d":"condemn","answer":"panel"}

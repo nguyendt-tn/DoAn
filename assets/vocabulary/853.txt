@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0323n, b\u00e2\u0323n vi\u00ea\u0323c, co\u0341 ng\u01b0\u01a1\u0340i choa\u0341n, \u0111a\u0303 \u0111i\u0341nh h\u00f4n","a":"endure","b":"engaged","c":"prejudice","d":"peasant","answer":"engaged"}

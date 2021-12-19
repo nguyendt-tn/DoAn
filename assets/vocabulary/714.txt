@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kho\u0341, kho\u0341 kh\u0103n, kho\u0341 la\u0340m quen","a":"medal","b":"prevalence","c":"configuration","d":"difficult","answer":"difficult"}

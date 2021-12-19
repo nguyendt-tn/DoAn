@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u00eau, c\u00e2y ti\u00eau, h\u00f4\u0323t ti\u00eau","a":"gig","b":"cue","c":"pepper","d":"yield","answer":"pepper"}

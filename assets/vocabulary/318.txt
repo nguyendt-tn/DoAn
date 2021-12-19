@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"vi\u0323 h\u00f4n th\u00ea, v\u01a1\u0323 s\u0103\u0341p c\u01b0\u01a1\u0341i","a":"corruption","b":"partial","c":"testimony","d":"bride","answer":"bride"}

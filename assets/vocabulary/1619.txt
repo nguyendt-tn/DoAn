@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"l\u00ean, b\u00f4\u0341c l\u00ean, c\u01a1\u0309i ng\u01b0\u0323a, l\u00ean ng\u01b0\u0323a, tre\u0340o l\u00ean","a":"mount","b":"radar","c":"nowadays","d":"coincide","answer":"mount"}

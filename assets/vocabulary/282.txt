@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng t\u01b0\u0303 b\u00f4\u0323t, \u0111u\u0341ng m\u00f4\u0341t, huy\u00ea\u0341t, ma\u0341u","a":"embarrassment","b":"blood","c":"whoever","d":"inflation","answer":"blood"}

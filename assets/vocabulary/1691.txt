@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ghi, chu\u0341 gia\u0309i, chu\u0341 thi\u0341ch, nh\u00e2\u0323n th\u00e2\u0341y, chu\u0341 y\u0341, che\u0341p, ghi vi\u00ea\u0323c \u0111\u00ea\u0309 \u0111a\u0341ng nh\u01a1\u0341","a":"gambling","b":"note","c":"boundary","d":"width","answer":"note"}

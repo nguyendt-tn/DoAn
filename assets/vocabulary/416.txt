@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0103n gian, c\u01a1\u0340 ba\u0323c gian l\u00e2\u0323n, l\u01b0\u01a1\u0340ng ga\u0323t, \u0111a\u0341nh l\u01b0\u0340a","a":"upgrade","b":"cheat","c":"lyric","d":"dispose","answer":"cheat"}

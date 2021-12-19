@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"i\u0341t, r\u00e2\u0341t i\u0341t, va\u0340i","a":"caution","b":"proceed","c":"log","d":"few","answer":"few"}

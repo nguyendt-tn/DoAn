@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chu\u0309 y\u00ea\u0341u, hi\u0340nh ch\u01b0\u0303 th\u00e2\u0323p, nguy ng\u00e2\u0323p, quy\u00ea\u0341t \u0111i\u0323nh","a":"compensate","b":"footage","c":"unity","d":"crucial","answer":"crucial"}

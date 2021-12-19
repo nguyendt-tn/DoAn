@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u00e2\u0341u du\u0340ng cho khu\u0341c nha\u0323c, khu\u0341c phu\u0323c t\u00e2\u0341u, phu\u0323c x\u01b0\u01a1\u0341ng cu\u0309a ba\u0323n nha\u0323c, ti\u00ea\u0341ng y\u00eau c\u00e2\u0340u xin ha\u0341t la\u0323i, xin di\u00ea\u0309n la\u0323i","a":"civic","b":"whatsoever","c":"repeat","d":"ownership","answer":"repeat"}

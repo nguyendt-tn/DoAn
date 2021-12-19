@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u01b0\u01a1\u0340ng bay, \u0111\u01b0\u01a1\u0340ng ha\u0340ng kh\u00f4ng, ha\u0309ng ma\u0341y bay, ma\u0341y bay","a":"airline","b":"democracy","c":"wheat","d":"occasional","answer":"airline"}

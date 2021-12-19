@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u01b0\u01a1\u0341c l\u01a1\u0341n, n\u01b0\u01a1\u0341c ng\u00e2\u0323p, n\u01b0\u01a1\u0341c tri\u00ea\u0340u l\u00ean, n\u01b0\u01a1\u0341c d\u01b0ng l\u00ean, thu\u0309y tai","a":"retirement","b":"medieval","c":"decisive","d":"flood","answer":"flood"}

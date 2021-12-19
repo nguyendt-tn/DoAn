@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u01b0a th\u01b0a, kh\u00f4ng d\u00e2\u0340y, lo\u0309ng, g\u00e2\u0340y, kh\u00f4ng v\u01b0\u0303ng ch\u0103\u0341c, mo\u0303ng, \u00f4\u0341m","a":"pop","b":"thin","c":"acute","d":"isolated","answer":"thin"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chi\u0309 co\u0341 m\u00f4\u0323t, \u0111\u00f4\u0323c nh\u00e2\u0341t, duy nh\u01b0\u0341t","a":"radiation","b":"odds","c":"unique","d":"eliminate","answer":"unique"}

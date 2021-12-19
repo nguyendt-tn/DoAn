@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xin, ho\u0309i th\u0103m, m\u01a1\u0340i ng\u01b0\u01a1\u0340i na\u0340o, thi\u0309nh c\u00e2\u0340u, thi\u0309nh nguy\u00ea\u0323n, ho\u0309i, xin l\u00f4\u0309i ng\u01b0\u01a1\u0340i na\u0340o, xin phe\u0341p ng\u01b0\u01a1\u0340i na\u0340o, y\u00eau c\u00e2\u0340u","a":"specify","b":"gaming","c":"ask","d":"animation","answer":"ask"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tr\u00f4ng nom, b\u0103ng thu\u00f4\u0341c cho ng\u01b0\u01a1\u0340i bi\u0323nh, gi\u01b0\u0309 gi\u0340n, s\u0103n so\u0341c, xoay v\u00ea\u0340 h\u01b0\u01a1\u0341ng","a":"cruise","b":"outrage","c":"tend","d":"widespread","answer":"tend"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nguy\u00ean, ch\u01b0a thi\u00ea\u0341n, toa\u0340n th\u00ea\u0309, ca\u0341i nguy\u00ean, hoa\u0340n toa\u0340n, tro\u0323n ve\u0323n, tro\u0323n","a":"democracy","b":"supervisor","c":"entire","d":"monument","answer":"entire"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"vua, th\u00e2n v\u01b0\u01a1ng, hoa\u0340ng t\u01b0\u0309, hoa\u0340ng th\u00e2n, tay c\u01b0\u0323 pha\u0341ch","a":"conversion","b":"lawn","c":"prince","d":"sexuality","answer":"prince"}

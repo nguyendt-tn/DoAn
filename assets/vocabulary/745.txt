@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chia, la\u0340m tung ta\u0341n, ph\u00e2n loa\u0323i, ph\u00e2n pha\u0341t, ph\u00e2n ha\u0323ng","a":"inflation","b":"considerably","c":"pump","d":"distribute","answer":"distribute"}

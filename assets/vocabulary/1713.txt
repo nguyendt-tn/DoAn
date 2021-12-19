@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ch\u0103\u0341c ch\u0103\u0341n, xa\u0341c th\u00e2\u0323t","a":"portfolio","b":"obviously","c":"offering","d":"duration","answer":"obviously"}

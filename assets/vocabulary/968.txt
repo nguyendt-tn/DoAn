@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u00f4ng phu, ng\u01b0\u01a1\u0340i la\u0340m ru\u00f4\u0323ng, ng\u01b0\u01a1\u0340i thu thu\u00ea\u0341","a":"specialized","b":"farmer","c":"capitalist","d":"outing","answer":"farmer"}

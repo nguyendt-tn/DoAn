@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"t\u01b0\u0340 h\u01b0\u01a1\u0341ng t\u00e2y, thu\u00f4\u0323c v\u00ea\u0340 h\u01b0\u01a1\u0341ng t\u00e2y","a":"frustration","b":"western","c":"tribute","d":"embark","answer":"western"}

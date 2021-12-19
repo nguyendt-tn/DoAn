@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ri\u00eang, \u0111u\u0309 t\u00e2\u0341t ca\u0309 chi ti\u00ea\u0341t, ti\u0309 mi\u0309, vu\u0323n v\u0103\u0323t, ky\u0309 ca\u0340ng, ky\u0303 l\u01b0\u01a1\u0303ng, ca\u0341 nh\u00e2n, ro\u0309 ra\u0340ng","a":"inject","b":"adequately","c":"particular","d":"reproduction","answer":"particular"}

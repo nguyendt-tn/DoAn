@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chung ky\u0340, ky\u0340, ky\u0340 ha\u0323n, ni\u00ean hi\u00ea\u0323u, nga\u0340y, nga\u0340y tha\u0341ng, nga\u0340y tha\u0341ng n\u0103m, nh\u00e2\u0323t ky\u0341, th\u00f4ng hi\u00ea\u0309u, th\u01a1\u0340i gian, th\u01a1\u0340i ky\u0340","a":"date","b":"shrug","c":"blow","d":"ministry","answer":"date"}

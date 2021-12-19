@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ngay, h\u00ea\u0341t, hoa\u0340n toa\u0340n, t\u00e2\u0341t ca\u0309, th\u0103\u0309ng, tru\u0341ng","a":"usage","b":"manuscript","c":"right","d":"divert","answer":"right"}

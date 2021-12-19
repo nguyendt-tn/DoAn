@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 n\u00f4\u0309i ti\u00ea\u0341ng, s\u01b0\u0323 ta\u0341n tu\u0323ng","a":"crystal","b":"patrol","c":"celebration","d":"viable","answer":"celebration"}

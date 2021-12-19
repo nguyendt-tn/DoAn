@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"qu\u00f4\u0341c d\u00e2n, thu\u00f4\u0323c v\u00ea\u0340 d\u00e2n t\u00f4\u0323c","a":"detain","b":"installation","c":"spine","d":"national","answer":"national"}

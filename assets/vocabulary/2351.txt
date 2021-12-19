@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"khinh thi\u0323, kh\u00f4ng ki\u0341nh tro\u0323ng","a":"resign","b":"firearm","c":"benchmark","d":"slightly","answer":"slightly"}

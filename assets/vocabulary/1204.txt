@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u01b0a, ca\u0309n tr\u01a1\u0309, giu\u0341p, giu\u0341p \u0111\u01a1\u0303, ng\u0103n tr\u01a1\u0309, do\u0323n","a":"help","b":"lyric","c":"disappoint","d":"tolerance","answer":"help"}

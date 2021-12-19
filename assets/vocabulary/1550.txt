@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0323t, b\u01b0\u0303a \u0103n","a":"stall","b":"diplomatic","c":"medication","d":"meal","answer":"meal"}

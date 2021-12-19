@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"xe cam nh\u00f4ng, xe ch\u01a1\u0309 ha\u0340nh n\u0103\u0323ng, xe v\u00e2\u0323n chuy\u00ea\u0309n ha\u0340ng ho\u0341a, xe v\u00e2\u0323n ta\u0309i","a":"observer","b":"bulk","c":"promotion","d":"lorry","answer":"lorry"}

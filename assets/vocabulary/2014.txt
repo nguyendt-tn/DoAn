@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"trong, nguy\u00ean ch\u00e2\u0341t, tinh khi\u00ea\u0341t, kh\u00f4ng pha l\u00f4\u0323n, thu\u00e2\u0340n ly\u0341, thu\u00e2\u0340n tu\u0341y, thu\u00e2\u0340n","a":"retail","b":"pure","c":"personnel","d":"audit","answer":"pure"}

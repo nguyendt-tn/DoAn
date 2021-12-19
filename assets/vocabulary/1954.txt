@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"g\u00e2\u0341p, tr\u01b0\u01a1\u0341c","a":"communist","b":"opt","c":"viable","d":"previously","answer":"previously"}

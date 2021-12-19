@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0309o thu\u00e2\u0323t, ma thu\u00e2\u0323t, pha\u0341p thu\u00e2\u0323t, y\u00eau pha\u0341p, y\u00eau thu\u00e2\u0323t","a":"magic","b":"gig","c":"deputy","d":"spectator","answer":"magic"}

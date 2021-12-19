@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cho u\u00f4\u0341ng thu\u00f4\u0341c, ch\u01b0ng ha\u0340ng, cu\u00f4\u0323c tri\u00ea\u0309n la\u0309m, ho\u0323c b\u00f4\u0309ng, do\u0323n ha\u0340ng, tri\u00ea\u0309n la\u0303m","a":"exhibition","b":"syndrome","c":"blend","d":"mode","answer":"exhibition"}

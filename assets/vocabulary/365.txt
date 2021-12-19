@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 kha\u0309 n\u0103ng, co\u0341 n\u0103ng l\u01b0\u0323c, co\u0341 ta\u0340i gio\u0309i","a":"bargain","b":"vertical","c":"inherit","d":"capable","answer":"capable"}

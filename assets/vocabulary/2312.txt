@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0341m hi\u00ea\u0323u, d\u00e2\u0341u, \u0111i\u00ea\u0340m, hi\u00ea\u0323u, ky\u0341 hi\u00ea\u0323u, phu\u0340 hi\u00ea\u0323u, ba\u0309ng hi\u00ea\u0323u","a":"intriguing","b":"weaken","c":"sign","d":"backing","answer":"sign"}

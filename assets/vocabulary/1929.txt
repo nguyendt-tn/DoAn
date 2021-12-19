@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"a\u0309nh h\u01b0\u01a1\u0309ng, co\u0341 c\u00f4ng hi\u00ea\u0323u, co\u0341 nghi\u0323 l\u01b0\u0323c, co\u0341 quy\u00ea\u0340n th\u00ea\u0341, co\u0341 s\u01b0\u0341c ma\u0323nh, co\u0341 th\u00ea\u0341 l\u01b0\u0323c","a":"powerful","b":"emission","c":"novel","d":"warfare","answer":"powerful"}

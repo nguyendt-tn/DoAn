@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0309a cho t\u00f4\u0341t th\u00eam, s\u01b0\u0323 ca\u0309i thi\u00ea\u0323n, s\u01b0\u0323 s\u01b0\u0309a sang, s\u01b0\u0323 ti\u00ea\u0341n tri\u00ea\u0309n, s\u01b0\u0323 trau gi\u00f4\u0340i","a":"improvement","b":"justification","c":"disrupt","d":"restrict","answer":"improvement"}

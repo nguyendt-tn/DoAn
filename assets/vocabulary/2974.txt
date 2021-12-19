@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 thi\u00ea\u0341t bi\u0323, ma\u0341y mo\u0341c, trang tri\u0341, du\u0323ng cu\u0323","a":"pop","b":"apparatus","c":"armed","d":"grandmother","answer":"apparatus"}

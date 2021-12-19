@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ma, h\u00f4\u0340n ng\u01b0\u01a1\u0340i ch\u00ea\u0341t, ma qui\u0309","a":"considerably","b":"mere","c":"ghost","d":"thought-provoking","answer":"ghost"}

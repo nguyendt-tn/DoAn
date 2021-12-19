@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"quan h\u00ea\u0323, quan h\u00ea\u0323 \u0111a\u0323i danh t\u01b0\u0340, ti\u0309 \u0111\u00f4\u0341i, tu\u0340y theo, th\u00e2n thu\u00f4\u0323c, thu\u00f4\u0323c v\u00ea\u0340 t\u01b0\u01a1ng \u0111\u00f4\u0341i","a":"determination","b":"relative","c":"massacre","d":"tsunami","answer":"relative"}

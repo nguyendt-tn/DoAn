@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111o\u0341ng tu\u00f4\u0340ng, th\u01b0\u0323c ha\u0340nh","a":"act","b":"ancestor","c":"junction","d":"pursuit","answer":"act"}

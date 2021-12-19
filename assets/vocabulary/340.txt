@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kinh doanh, c\u00f4ng ta\u0341c, c\u00f4ng vi\u00ea\u0323c, bu\u00f4n ba\u0341n, ngh\u00ea\u0340 nghi\u00ea\u0323p, th\u01b0\u01a1ng ma\u0309i, vai tro\u0340, vi\u00ea\u0323c la\u0340m","a":"precise","b":"business","c":"dismissal","d":"martial","answer":"business"}

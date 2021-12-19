@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00e2\u0309n y\u00ea\u0341u, quan tro\u0323ng, tro\u0323ng \u0111a\u0323i, tro\u0323ng y\u00ea\u0341u","a":"important","b":"suicide","c":"emission","d":"legislature","answer":"important"}

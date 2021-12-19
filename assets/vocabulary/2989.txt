@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tro, cha\u0341y tha\u0340nh tro, ng\u01b0\u01a1\u0340i ch\u00ea\u0341t \u0111\u00f4\u0341t tha\u0340nh cho","a":"carry","b":"heavily","c":"ugly","d":"ash","answer":"ash"}

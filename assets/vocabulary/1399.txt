@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u00e2u y\u00ea\u0341m, co\u0341 ha\u0309o t\u00e2m, co\u0341 lo\u0340ng t\u00f4\u0341t, ha\u0309o y\u0341, t\u00f4\u0341t qua\u0341, t\u01b0\u0309 t\u00ea\u0341, \u0111a ti\u0340nh, d\u00ea\u0309 th\u01b0\u01a1ng","a":"kind","b":"frustrated","c":"puzzle","d":"domain","answer":"kind"}

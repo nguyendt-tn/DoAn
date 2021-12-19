@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u0103n lau khi t\u0103\u0341m, kh\u0103n t\u0103\u0341m","a":"towel","b":"navigation","c":"coordinator","d":"underlying","answer":"towel"}

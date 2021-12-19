@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0341p l\u01b0\u0323c, s\u01b0\u0323 a\u0341p b\u01b0\u0341c, s\u01b0\u0323 a\u0341p ch\u00ea\u0341, s\u01b0\u0341c e\u0341p, s\u01b0\u0323 \u0111e\u0340 l\u00ean, s\u01b0\u0323 e\u0341p","a":"relevance","b":"pressure","c":"intimate","d":"combat","answer":"pressure"}

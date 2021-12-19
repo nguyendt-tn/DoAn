@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"hi\u00ea\u0309u, hi\u00ea\u0309u bi\u00ea\u0341t, hi\u00ea\u0309u ng\u00e2\u0340m, hi\u00ea\u0309u ro\u0309","a":"understand","b":"timely","c":"colourful","d":"neutral","answer":"understand"}

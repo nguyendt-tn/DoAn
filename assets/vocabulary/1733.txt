@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"tr\u00ean, g\u00e2\u0340n","a":"colony","b":"genuine","c":"render","d":"on","answer":"on"}

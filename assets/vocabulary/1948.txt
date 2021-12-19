@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111em in, ca\u0341n gi\u00e2\u0341y, \u00e2\u0341n l\u00ean, \u0111\u00f4ng ng\u01b0\u01a1\u0340i, nh\u00e2\u0323n l\u00ean, si\u00ea\u0341t la\u0323i, t\u01b0\u0341c kh\u0103\u0341c, v\u0103\u0323n la\u0323i, e\u0341p la\u0323i, h\u00f4\u0341i thu\u0341c","a":"artwork","b":"reasoning","c":"fleet","d":"press","answer":"press"}

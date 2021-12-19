@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u0103\u0340ng lo\u0340ng, ch\u00e2\u0341p thu\u00e2\u0323n, nh\u00e2\u0323n la\u0309nh, tho\u0323 la\u0309nh, \u01b0ng chi\u0323u","a":"eventually","b":"recall","c":"area","d":"acceptance","answer":"acceptance"}

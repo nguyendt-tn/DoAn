@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"loa\u0340i ng\u01b0\u01a1\u0340i, thu\u00f4\u0323c v\u00ea\u0340 ng\u01b0\u01a1\u0340i","a":"casualty","b":"firework","c":"human","d":"tolerate","answer":"human"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340i thi, ba\u0340i th\u01a1","a":"poem","b":"remainder","c":"memorable","d":"displace","answer":"poem"}

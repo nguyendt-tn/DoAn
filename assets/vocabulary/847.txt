@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0323o da\u0323n, h\u0103ng ha\u0341i, khuy\u00ea\u0341n khi\u0341ch, ph\u00e2\u0341n kh\u01a1\u0309i","a":"spouse","b":"incur","c":"encourage","d":"disastrous","answer":"encourage"}

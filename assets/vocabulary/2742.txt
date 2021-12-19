@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 c\u00e2y c\u00f4\u0341i, thu\u00f4\u0323c v\u00ea\u0340 tha\u0309o m\u00f4\u0323c, thu\u00f4\u0323c v\u00ea\u0340 th\u01b0\u0323c v\u00e2\u0323t","a":"favourable","b":"circulation","c":"vegetable","d":"wholly","answer":"vegetable"}

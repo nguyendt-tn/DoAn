@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u01b0u th\u00e2\u0309m, ky\u0340 h\u01b0u ha\u0323, ky\u0340 nghi\u0309 he\u0340, nghi\u0303 he\u0340","a":"vacation","b":"log","c":"entertaining","d":"random","answer":"vacation"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"th\u00f4ng tin, \u0111\u01b0\u01a1\u0340ng xa\u0341, \u0111\u01b0\u01a1\u0340ng xe l\u01b0\u0309a, li\u00ean la\u0323c, tin t\u01b0\u0341c, \u0111i\u00ea\u0323n thoa\u0323i n\u00f4\u0341i li\u00ea\u0340n, trao \u0111\u00f4\u0309i","a":"legislature","b":"disclosure","c":"registration","d":"communication","answer":"communication"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 linh h\u00f4\u0340n, thu\u00f4\u0323c v\u00ea\u0340 tinh th\u00e2\u0340n, thu\u00f4\u0323c v\u00ea\u0340 v\u00e2\u0323t tha\u0341nh","a":"precision","b":"accidentally","c":"litter","d":"spiritual","answer":"spiritual"}

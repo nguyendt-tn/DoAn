@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u0103\u0340ng lo\u0340ng, ch\u00e2\u0341p thu\u00e2\u0323n, \u0111\u00f4\u0340ng y\u0341, ho\u0340a thu\u00e2\u0323n, h\u01a1\u0323p nhau, phu\u0340 h\u01a1\u0323p nhau, ta\u0341n tha\u0340nh, thi\u0341ch h\u01a1\u0323p, tho\u0309a thu\u00e2\u0323n","a":"agree","b":"accountability","c":"stunning","d":"foundation","answer":"agree"}

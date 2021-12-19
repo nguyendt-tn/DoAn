@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"lung lay, rung rinh, lay chuy\u00ea\u0309n, lay \u0111\u00f4\u0323ng, \u0111a\u0341nh co\u0341 ti\u00ea\u0341ng rung, la\u0340m rung, rung chuy\u00ea\u0309n, lu\u0341c l\u0103\u0341c","a":"indicator","b":"appoint","c":"strain","d":"shake","answer":"shake"}

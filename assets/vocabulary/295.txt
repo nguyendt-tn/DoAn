@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u01b0\u0323c do\u0323c, cha\u0341n na\u0309n, h\u01a1i bu\u00f4\u0340n, kho\u0341 chi\u0323u, la\u0340m bu\u00f4\u0340n, la\u0340m phi\u00ea\u0340n, qu\u00e2\u0341y r\u00e2\u0340y","a":"restriction","b":"magistrate","c":"boring","d":"canal","answer":"boring"}

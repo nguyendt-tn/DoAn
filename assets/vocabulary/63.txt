@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi nha\u0341nh, ch\u00f4\u0309 la\u0340m vi\u00ea\u0323c, \u0111a\u0323i ly\u0341, gi\u01a1\u0341i thi\u00ea\u0323u, m\u00f4i gi\u01a1\u0341i, s\u01a1\u0309 la\u0340m, ta\u0341c du\u0323ng","a":"convenience","b":"agency","c":"prescription","d":"involvement","answer":"agency"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u00e2m giai, \u00e2m ca\u0341ch, \u0111a\u0323i ti\u00ea\u0340n \u0111\u00ea\u0340, l\u01a1\u0341n h\u01a1n, nhi\u00ea\u0340u","a":"major","b":"naked","c":"widow","d":"dumb","answer":"major"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u00e2u l\u01b0u, \u0111i\u0340nh chi\u0309, ng\u0103n la\u0323i","a":"arrest","b":"triumph","c":"booking","d":"lethal","answer":"arrest"}

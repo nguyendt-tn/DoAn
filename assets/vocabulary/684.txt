@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"di\u00ea\u0323n ma\u0323o, loa\u0323i ng\u01b0\u01a1\u0340i, mi\u00eau ta\u0309, s\u01b0\u0323 cho\u0323n l\u01b0\u0323a, s\u01b0\u0323 ve\u0309, thu\u00e2\u0323t la\u0323i","a":"constraint","b":"troubled","c":"description","d":"heal","answer":"description"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ky\u0340 th\u01b0\u0323c, th\u00e2\u0323t ra","a":"albeit","b":"hint","c":"really","d":"suburban","answer":"really"}

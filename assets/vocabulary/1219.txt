@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"ca\u0341i cu\u0309a anh \u00e2\u0341y, cu\u0309a anh \u00e2\u0341y, cu\u0309a no\u0341","a":"scare","b":"his","c":"beast","d":"gig","answer":"his"}

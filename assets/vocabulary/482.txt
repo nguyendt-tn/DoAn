@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u00ea\u0341n, \u0111i \u0111\u00ea\u0341n, \u0111i la\u0323i, \u0111i t\u01a1\u0341i, l\u00ean \u0111\u00ea\u0341n, l\u00ean t\u01a1\u0341i, xa\u0309y \u0111\u00ea\u0341n, xa\u0309y ra","a":"absurd","b":"revelation","c":"ironic","d":"come","answer":"come"}

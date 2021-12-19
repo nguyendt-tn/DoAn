@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"x\u00f4, \u0111\u00e2\u0309y, \u0111\u01b0a t\u01a1\u0341i, b\u00e2\u0341m chu\u00f4ng, ti\u00ea\u0341n t\u01a1\u0341i, thu\u0341c giu\u0323c, nh\u00e2\u0323n nu\u0341t","a":"distort","b":"linger","c":"push","d":"ultimate","answer":"push"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nu\u00f4i, c\u00e2\u0323p b\u00ea\u0341n, \u0111o\u0341ng bi\u0340a, l\u00ean ta\u0340u, lo\u0341t va\u0341n","a":"enrol","b":"surgical","c":"board","d":"mobility","answer":"board"}

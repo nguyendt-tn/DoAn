@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0341c la\u0341t, kh\u00e2\u0309n y\u00ea\u0341u, m\u00f4\u0323t chu\u0341t, m\u00f4\u0323t la\u0341t, vi\u00ea\u0323c quan tro\u0323ng","a":"consultant","b":"moment","c":"swing","d":"mutual","answer":"moment"}

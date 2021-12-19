@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u01b0\u0341ng minh, ch\u01b0\u0341ng ro\u0309, ch\u01b0\u0341ng to\u0309, ch\u01b0\u0341ng th\u00e2\u0323t, thi\u0341 nghi\u00ea\u0323m, th\u01b0\u0340, th\u01b0\u0309 lo\u0340ng","a":"precede","b":"championship","c":"outfit","d":"prove","answer":"prove"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u01a1n, t\u00f4\u0341t h\u01a1n, v\u01b0\u01a1\u0323t qua","a":"formulate","b":"trio","c":"administer","d":"better","answer":"better"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340n, ba\u0340n \u0103n, lo\u0340ng ba\u0340n tay, m\u0103\u0323t b\u0103\u0340ng cu\u0309a h\u00f4\u0323t ngo\u0323c, ba\u0309n mu\u0323c lu\u0323c","a":"counsellor","b":"ink","c":"table","d":"prompt","answer":"table"}

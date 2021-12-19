@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"chi\u0341n, hoa\u0340n toa\u0340n, th\u01b0\u01a1\u0340ng th\u01b0\u01a1\u0340ng","a":"fame","b":"nine","c":"bat","d":"upcoming","answer":"nine"}

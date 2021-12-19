@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0340i chi\u0309 tri\u0341ch, l\u01a1\u0340i chu\u0341 thi\u0341ch, l\u01a1\u0340i gia\u0309i thi\u0341ch, l\u01a1\u0340i ph\u00ea bi\u0340nh","a":"inspiration","b":"consecutive","c":"technological","d":"comment","answer":"comment"}

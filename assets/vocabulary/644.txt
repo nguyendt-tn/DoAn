@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u00e2n, m\u0103\u0341c mo\u0309, \u0111\u0103\u0341t \u0111o\u0309, th\u00e2n a\u0341i, th\u00e2n m\u00e2\u0323t, th\u00e2n thi\u00ea\u0341t, y\u00eau qui\u0341","a":"noble","b":"dear","c":"ambassador","d":"theatrical","answer":"dear"}

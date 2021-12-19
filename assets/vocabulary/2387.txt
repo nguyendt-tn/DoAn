@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"he\u0340n mo\u0323n, l\u00e2\u0341y la\u0340m bu\u00f4\u0340n, l\u00e2\u0341y la\u0340m ti\u00ea\u0341c, x\u00e2\u0341u","a":"premium","b":"sorry","c":"conspiracy","d":"passionate","answer":"sorry"}

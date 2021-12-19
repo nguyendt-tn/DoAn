@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341i l\u01b0\u01a1\u0303i, l\u01b0\u01a1\u0303i","a":"equation","b":"tongue","c":"caution","d":"suspend","answer":"tongue"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"theo, theo sau, \u0111i sau, \u0111u\u00f4\u0309i theo, n\u00f4\u0341i nghi\u00ea\u0323p, ti\u00ea\u0341p theo","a":"nutrition","b":"decisive","c":"follow","d":"theoretical","answer":"follow"}

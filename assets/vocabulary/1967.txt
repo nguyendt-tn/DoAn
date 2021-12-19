@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i bi\u0323 giam, ng\u01b0\u01a1\u0340i \u01a1\u0309 tu\u0340, tu\u0340 binh, tu\u0340 nh\u00e2n","a":"stimulus","b":"prisoner","c":"outing","d":"confrontation","answer":"prisoner"}

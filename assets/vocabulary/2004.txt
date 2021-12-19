@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"t\u00e2m ly\u0341 ho\u0323c","a":"peculiar","b":"dose","c":"psychology","d":"provincial","answer":"psychology"}

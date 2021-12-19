@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"da\u0341n gi\u00e2\u0341y, s\u01a1n ph\u00ea\u0341t, trang hoa\u0340ng, trang tri\u0341, tr\u00e2\u0340n thi\u00ea\u0341t","a":"monthly","b":"pit","c":"decorate","d":"bare","answer":"decorate"}

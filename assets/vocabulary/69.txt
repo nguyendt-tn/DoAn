@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340ng y\u0341, gi\u00f4\u0341ng nhau, hi\u00ea\u0323p \u01b0\u01a1\u0341c, h\u01a1\u0323p nhau, s\u01b0\u0323 \u0111\u00f4\u0340ng lo\u0340ng","a":"verify","b":"outrage","c":"cater","d":"agreement","answer":"agreement"}

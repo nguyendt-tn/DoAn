@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng la\u0340m tho\u0309a ma\u0309n, th\u00e2\u0341t \u01b0\u01a1\u0341c","a":"cattle","b":"rocket","c":"disappointing","d":"niche","answer":"disappointing"}

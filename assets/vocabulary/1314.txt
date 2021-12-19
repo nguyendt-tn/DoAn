@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng h\u01a1\u0323p ca\u0341ch, kh\u00f4ng h\u01a1\u0323p th\u01b0\u0341c","a":"informal","b":"prosecute","c":"admission","d":"neutral","answer":"informal"}

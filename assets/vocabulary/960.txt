@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"quen, bi\u00ea\u0341t v\u00e2\u0323t gi\u0340, t\u00e2\u0323p cho tha\u0323o vi\u00ea\u0323c, th\u00e2n m\u00e2\u0323t, th\u00e2n ti\u0340nh, th\u00e2n thi\u00ea\u0341t, thu\u00f4\u0323c v\u00ea\u0340 gia \u0111i\u0340nh","a":"frustrated","b":"segment","c":"familiar","d":"adjust","answer":"familiar"}

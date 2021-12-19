@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tin, ti\u0341n ng\u01b0\u01a1\u0309ng, t\u01b0\u01a1\u0309ng","a":"infant","b":"believe","c":"scenario","d":"autonomy","answer":"believe"}

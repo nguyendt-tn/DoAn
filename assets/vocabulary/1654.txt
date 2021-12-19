@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0340n, c\u00e2\u0340n pha\u0309i la\u0340m vi\u00ea\u0323c gi\u0340, n\u00ea\u0341u c\u00e2\u0340n, t\u00e2\u0341t y\u00ea\u0341u, thi\u00ea\u0341t y\u00ea\u0341u, c\u00e2\u0340n thi\u00ea\u0341t","a":"syndrome","b":"custody","c":"necessary","d":"missile","answer":"necessary"}

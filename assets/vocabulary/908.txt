@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0341c ra, kh\u00f4ng k\u00ea\u0309 ra, kh\u00f4ng th\u01b0\u0340a nh\u00e2\u0323n, loa\u0323i ra, ngoa\u0323i tr\u01b0\u0340, tr\u01b0\u0340 ra","a":"reassure","b":"except","c":"foreigner","d":"assemble","answer":"except"}

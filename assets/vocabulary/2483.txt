@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111\u00f4\u0323t ng\u00f4\u0323t, t\u00e2\u0341t ca\u0309 xa\u0309y ra thi\u0340nh li\u0340nh, thi\u0340nh li\u0340nh, xa\u0309y ra","a":"suddenly","b":"embarrassment","c":"motive","d":"transit","answer":"suddenly"}

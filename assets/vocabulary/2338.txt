@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"sa\u0341u chu\u0323c","a":"legislative","b":"chaos","c":"recipient","d":"sixty","answer":"sixty"}

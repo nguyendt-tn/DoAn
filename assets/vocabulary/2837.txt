@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4n ngoan, kh\u00f4n","a":"imprisonment","b":"affection","c":"undergo","d":"wise","answer":"wise"}

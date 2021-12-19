@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u00ea\u0341ng \u0111\u00f4\u0340n, ti\u00ea\u0341ng ri\u0340 ra\u0340o, ti\u00ea\u0341ng thi\u0340 th\u00e2\u0340m, ti\u00ea\u0341ng xi\u0340 xa\u0340o, tin \u0111\u00f4\u0340n","a":"constitute","b":"whisper","c":"vanish","d":"navigation","answer":"whisper"}

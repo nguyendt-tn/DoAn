@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341t, ch\u00e2\u0323u, ly u\u00f4\u0341ng r\u01b0\u01a1\u0323u l\u01a1\u0341n, che\u0341n, ch\u01a1i ne\u0341m banh tro\u0340n","a":"bowl","b":"idiot","c":"set-up","d":"correspondent","answer":"bowl"}

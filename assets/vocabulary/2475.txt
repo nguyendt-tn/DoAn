@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng d\u00e2n, chu\u0309 t\u01b0\u0340, d\u00e2n cu\u0309a m\u00f4\u0323t n\u01b0\u01a1\u0341c, thi th\u00ea\u0309 \u0111\u00ea\u0309 m\u00f4\u0309 xe\u0309, v\u00e2\u0341n \u0111\u00ea\u0340","a":"interaction","b":"subject","c":"convincing","d":"revenue","answer":"subject"}

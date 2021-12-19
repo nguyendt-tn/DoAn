@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"da\u0341ng \u0111i\u00ea\u0323u, s\u01b0\u0323 co\u0341 m\u0103\u0323t, s\u01b0\u0323 hi\u00ea\u0323n di\u00ea\u0323n, s\u01b0\u0323 lanh tri\u0341","a":"presence","b":"extensively","c":"rational","d":"basket","answer":"presence"}

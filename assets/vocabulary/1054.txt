@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"giao thi\u00ea\u0323p, tu\u0323 ho\u0323p, tha l\u00f4\u0309i, xa\u0341 t\u00f4\u0323i","a":"forgive","b":"excessive","c":"archive","d":"racism","answer":"forgive"}

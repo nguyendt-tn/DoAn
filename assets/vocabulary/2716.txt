@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hi\u00ea\u0341m co\u0341, i\u0341t du\u0340ng, kh\u00f4ng th\u00f4ng th\u01b0\u01a1\u0340ng, kh\u00f4ng th\u00f4ng du\u0323ng","a":"neutral","b":"unusual","c":"recovery","d":"electoral","answer":"unusual"}

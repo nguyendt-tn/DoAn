@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 ke\u0323p, l\u01b0\u01a1\u0303i khoan, mi\u00ea\u0341ng, m\u00f4\u0323t chu\u0341t, mu\u0303i khoan, t\u01b0\u0340ng ma\u0309nh","a":"shortly","b":"arguably","c":"grocery","d":"bit","answer":"bit"}

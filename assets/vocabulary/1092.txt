@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bu\u00f4\u0340n c\u01b0\u01a1\u0340i, \u0111u\u0340a, ky\u0340 cu\u0323c, ky\u0340 qu\u0103\u0323c, kh\u00f4i ha\u0340i, vui c\u01b0\u01a1\u0340i","a":"miracle","b":"specialize","c":"deficit","d":"funny","answer":"funny"}

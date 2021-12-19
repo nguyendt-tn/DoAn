@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c no\u0341i chuy\u00ea\u0323n, \u0111a\u0340m thoa\u0323i","a":"coordination","b":"conversation","c":"glimpse","d":"torture","answer":"conversation"}

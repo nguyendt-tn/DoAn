@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00e2\u0340u tr\u01a1\u0340i, thi\u00ean \u0111a\u0340ng, tr\u01a1\u0340i","a":"heaven","b":"buck","c":"tackle","d":"fragile","answer":"heaven"}

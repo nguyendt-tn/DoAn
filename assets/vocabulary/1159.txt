@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ky\u0341 sinh tru\u0340ng, kha\u0341ch, kha\u0341ch quen","a":"guest","b":"reluctant","c":"inability","d":"dub","answer":"guest"}

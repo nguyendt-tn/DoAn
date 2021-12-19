@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u00e2\u0323t c\u01b0\u01a1\u0340i, bo\u0309 ra, chi\u0309 ro\u0309 ti\u0341ch ca\u0341ch gia\u0309 ma\u0323o, ch\u01b0\u0341ng minh, c\u01b0\u01a1\u0340i r\u00f4\u0323 l\u00ean, gia\u0309i ro\u0309, la\u0340m n\u00f4\u0309 mi\u0340n, loa\u0323i ra","a":"explode","b":"eligible","c":"nomination","d":"terminate","answer":"explode"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gi\u00e2\u0341y cho phe\u0341p, gi\u00e2\u0341y phe\u0341p, phe\u0341p","a":"renew","b":"assembly","c":"permit","d":"gaze","answer":"permit"}

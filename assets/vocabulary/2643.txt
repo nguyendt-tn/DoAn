@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 truy\u00ea\u0340n tyh\u00f4\u0341ng","a":"stall","b":"abortion","c":"traditional","d":"peasant","answer":"traditional"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"la\u0340m, nghi\u0303a vu\u0323, nhi\u00ea\u0323m vu\u0323, thi ha\u0340nh, th\u01b0\u0323c ha\u0340nh, th\u01b0\u0323c hi\u00ea\u0323n, tri\u0340nh ba\u0340y","a":"gambling","b":"perform","c":"cult","d":"rail","answer":"perform"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tranh \u0111\u00e2\u0341u, tr\u00e2\u0323n \u0111a\u0341nh","a":"colonial","b":"prejudice","c":"newly","d":"fighting","answer":"fighting"}

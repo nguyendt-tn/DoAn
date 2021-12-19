@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"du\u0340ng cho \u0111i\u00ea\u0323n t\u01b0\u0309, \u0111\u00f4\u0340ng ti\u00ea\u0340n, khe\u0340o, la\u0341t mo\u0303ng, ph\u00e2n thu\u0341 v\u00e2\u0323t, the\u0309 b\u0103\u0340ng nga\u0340, que\u0340o ch\u00e2n, vo\u0309 g\u00f4\u0303 ba\u0340o","a":"regime","b":"curiosity","c":"chip","d":"mill","answer":"chip"}

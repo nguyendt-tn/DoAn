@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"lo \u00e2u","a":"purely","b":"layout","c":"concerned","d":"deficit","answer":"concerned"}

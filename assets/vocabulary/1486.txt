@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340n su\u0341ng, kho\u0341a, lo\u0323n to\u0341c, \u00f4\u0309 kho\u0341a, to\u0341c","a":"lock","b":"compensate","c":"intensity","d":"settlement","answer":"lock"}

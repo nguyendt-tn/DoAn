@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y s\u00f4\u0341, m\u00f4\u0323t ki\u0341 l\u00f4 me\u0341t","a":"kilometre","b":"terminal","c":"backdrop","d":"expansion","answer":"kilometre"}

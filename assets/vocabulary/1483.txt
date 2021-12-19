@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111i\u0323a ph\u01b0\u01a1ng, thu\u00f4\u0323c v\u00ea\u0340 ch\u00f4\u0309","a":"local","b":"incorporate","c":"endure","d":"spine","answer":"local"}

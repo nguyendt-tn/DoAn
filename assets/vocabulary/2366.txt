@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u00f4n tu\u0341c c\u00e2\u0340u","a":"beam","b":"evolve","c":"soccer","d":"workplace","answer":"soccer"}

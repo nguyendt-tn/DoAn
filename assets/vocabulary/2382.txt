@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"h\u01a1i chu\u0341t, m\u00f4\u0323t i\u0341t, m\u00f4\u0323t va\u0340i ca\u0341i gi\u0340","a":"moderate","b":"preference","c":"adverse","d":"somewhat","answer":"somewhat"}

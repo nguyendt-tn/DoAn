@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"li\u00ea\u0323u pha\u0341p, phe\u0341p tri\u0323 li\u00ea\u0323u, tri\u0323 li\u00ea\u0323u","a":"tag","b":"mob","c":"therapy","d":"accurately","answer":"therapy"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0323n h\u00f4\u0323, ca\u0303i, chi\u0309 ro\u0309, ch\u01b0\u0341ng to\u0309, tranh lu\u00e2\u0323n","a":"literally","b":"argue","c":"worthy","d":"embed","answer":"argue"}

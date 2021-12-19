@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cao h\u01a1n","a":"courtesy","b":"reassure","c":"tower","d":"inspect","answer":"tower"}

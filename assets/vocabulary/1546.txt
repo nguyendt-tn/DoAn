@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01b0\u0323c \u0111i\u00ea\u0309m","a":"maximum","b":"breakdown","c":"remains","d":"gambling","answer":"maximum"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ph\u01b0\u01a1ng ca\u0341ch, ph\u01b0\u01a1ng pha\u0341p, ph\u01b0\u01a1ng sa\u0341ch, ph\u01b0\u01a1ng th\u01b0\u0341c, thu\u0309 tu\u0323c t\u00f4\u0341 tu\u0323ng","a":"fragile","b":"efficiency","c":"procedure","d":"soak","answer":"procedure"}

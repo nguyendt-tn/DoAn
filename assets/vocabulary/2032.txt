@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"la\u0340m y\u00ean lo\u0340ng, m\u00f4\u0323t ca\u0341ch \u00eam \u0111\u00ea\u0340m","a":"quietly","b":"warrant","c":"outstanding","d":"compelling","answer":"quietly"}

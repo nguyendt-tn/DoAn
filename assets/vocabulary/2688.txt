@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341c, chu\u0341","a":"uncle","b":"ease","c":"sufficient","d":"frankly","answer":"uncle"}

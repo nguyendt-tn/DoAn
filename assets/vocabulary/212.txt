@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309ng \u0111\u00f4\u0341i chi\u00ea\u0341u, ca\u0341i c\u00e2n, ti\u00ea\u0340n co\u0340n la\u0323i, ti\u00ea\u0340n d\u01b0\u0323, th\u00ea\u0341 th\u0103ng b\u0103\u0340ng","a":"query","b":"jury","c":"balance","d":"disturbing","answer":"balance"}

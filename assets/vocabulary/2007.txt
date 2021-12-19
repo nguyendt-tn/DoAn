@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341o xu\u00e2\u0341t ba\u0309n, s\u01b0\u0323 ban ha\u0340nh, s\u01b0\u0323 ba\u0341o ca\u0341o, s\u01b0\u0323 c\u00f4ng b\u00f4\u0341, s\u01b0\u0323 \u0111\u0103ng tr\u00ean ba\u0341o","a":"pad","b":"diverse","c":"publication","d":"preliminary","answer":"publication"}

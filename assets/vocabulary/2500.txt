@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"gia\u0309 s\u01b0\u0309, gia\u0309 thi\u00ea\u0341t, nh\u00e2\u0323n la\u0340 co\u0341 th\u00e2\u0323t","a":"compensate","b":"inherit","c":"suppose","d":"somehow","answer":"suppose"}

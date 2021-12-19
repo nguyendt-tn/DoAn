@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u0341t pha\u0341p, dao kh\u0103\u0341c ch\u01b0\u0303, ki\u00ea\u0309u ki\u00ea\u0341n tru\u0341c, ki\u00ea\u0309u m\u00e2\u0303u, th\u01a1\u0340i trang","a":"lawn","b":"tsunami","c":"aide","d":"style","answer":"style"}

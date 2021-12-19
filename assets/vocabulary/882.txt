@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0340n thi\u00ea\u0341t, quan tro\u0323ng, thu\u00f4\u0323c v\u00ea\u0340 ba\u0309n ch\u00e2\u0341t, thu\u00f4\u0323c v\u00ea\u0340 ba\u0309n th\u00ea\u0309","a":"essential","b":"drift","c":"recruit","d":"operator","answer":"essential"}

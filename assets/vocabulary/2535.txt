@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bia \u0111\u00ea\u0309 b\u0103\u0341n, \u0111i\u0341ch la\u0340m tro\u0340 c\u01b0\u01a1\u0340i","a":"target","b":"biological","c":"odds","d":"simultaneously","answer":"target"}

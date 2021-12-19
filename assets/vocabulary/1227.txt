@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0340i, hang tho\u0309, l\u00ea\u0340u, l\u00f4\u0303, l\u00f4\u0303 h\u00f4\u0303ng, l\u00f4\u0303 hu\u0309ng, l\u00f4\u0303 tru\u0303ng","a":"soak","b":"exit","c":"allocate","d":"hole","answer":"hole"}

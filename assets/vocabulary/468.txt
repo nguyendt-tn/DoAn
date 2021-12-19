@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0323 lu\u00e2\u0323t, lu\u00e2\u0323t l\u00ea\u0323, m\u00e2\u0323t ma\u0303, pha\u0341p \u0111i\u00ea\u0309n, qui t\u0103\u0341t, sa\u0341ch lu\u00e2\u0323t","a":"anticipate","b":"withdraw","c":"expire","d":"code","answer":"code"}

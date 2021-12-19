@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0323 tr\u01b0\u01a1\u0309ng, \u0111\u0103\u0323c s\u01b0\u0341, mu\u0323c s\u01b0, ng\u01b0\u01a1\u0340i th\u01b0\u0340a ha\u0340nh, t\u00f4\u0309ng tr\u01b0\u01a1\u0309ng","a":"patrol","b":"warrant","c":"minister","d":"consequently","answer":"minister"}

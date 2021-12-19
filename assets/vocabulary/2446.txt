@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"y\u00ean t\u00e2m, la\u0340m cho di\u0323u, la\u0340m cho \u00eam, la\u0340m v\u01b0\u0303ng da\u0323, la\u0340m cho y\u00ean lo\u0340ng","a":"emergence","b":"moving","c":"still","d":"weave","answer":"still"}

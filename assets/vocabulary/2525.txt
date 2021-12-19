@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309ng ky\u0309 ni\u00ea\u0323m, ba\u0309ng vi\u00ea\u0341t ch\u01b0\u0303, \u0111\u00e2\u0340u t\u01b0\u01a1\u0340ng, vi\u00ean thu\u00f4\u0341c, vi\u00ean thu\u00f4\u0341c tro\u0340n","a":"distress","b":"sole","c":"tablet","d":"fever","answer":"tablet"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0309nh h\u01b0\u01a1\u0309ng, k\u00ea\u0341t qua\u0309, nh\u01b0 v\u00e2\u0323y, s\u01b0\u0323 quan tro\u0323ng, s\u01b0\u0323 quan h\u00ea\u0323, s\u01b0\u0323 tro\u0323ng y\u00ea\u0341u, v\u00e2\u0323y thi\u0340","a":"characterize","b":"consequence","c":"journalism","d":"troop","answer":"consequence"}

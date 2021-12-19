@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"i\u0341t nh\u01b0\u0341t, nho\u0309 nh\u01b0\u0341t","a":"balloon","b":"warming","c":"log","d":"least","answer":"least"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0309nh ng\u00f4\u0323, c\u00e2\u0341p c\u01b0\u0341u, kh\u00e2\u0309n c\u00e2\u0341p, nguy bi\u00ea\u0341n, nguy c\u00e2\u0341p, nguy hi\u00ea\u0309m, tr\u01b0\u01a1\u0340ng h\u01a1\u0323p nguy ng\u00e2\u0323p","a":"full-time","b":"proclaim","c":"emergency","d":"atrocity","answer":"emergency"}

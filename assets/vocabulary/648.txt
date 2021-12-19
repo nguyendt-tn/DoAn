@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0323 m\u01b0\u01a1\u0340i cu\u00f4\u0341n, tu\u00e2\u0340n m\u01b0\u01a1\u0340i nga\u0340y, th\u01a1\u0340i gian m\u01b0\u01a1\u0340i n\u0103m","a":"countless","b":"hence","c":"regime","d":"decade","answer":"decade"}

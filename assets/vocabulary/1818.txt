@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01b0\u01a1ng b\u00f4\u0309ng, s\u01b0\u0323 tra\u0309 n\u01a1\u0323, s\u01b0\u0323 tra\u0309 ti\u00ea\u0340n, ti\u00ea\u0340n c\u00f4ng, ti\u00ea\u0340n l\u01b0\u01a1ng","a":"divert","b":"tempt","c":"pay","d":"necessity","answer":"pay"}

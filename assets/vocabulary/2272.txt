@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nghi\u00eam trang, kh\u00f4\u0341c li\u00ea\u0323t, ma\u0303nh li\u00ea\u0323t, nghi\u00eam kh\u0103\u0341c, nghi\u00eam nh\u0103\u0323t","a":"stereotype","b":"manufacturing","c":"severe","d":"cabin","answer":"severe"}

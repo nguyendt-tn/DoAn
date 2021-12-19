@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chuy\u00ean quy\u00ea\u0340n, \u0111\u00f4\u0323c \u0111oa\u0341n, t\u01b0\u0323 ti\u00ea\u0323n, t\u01b0\u0323 y\u0341","a":"seat","b":"duty","c":"album","d":"arbitrary","answer":"arbitrary"}

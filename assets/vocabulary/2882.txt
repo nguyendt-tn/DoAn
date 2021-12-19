@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0309i bo\u0309, bo\u0309, thu\u0309 ti\u00eau","a":"rape","b":"abolish","c":"manuscript","d":"deployment","answer":"abolish"}

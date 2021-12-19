@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"thu\u0341 \u0111i du li\u0323ch","a":"awkward","b":"evoke","c":"versus","d":"tourism","answer":"tourism"}

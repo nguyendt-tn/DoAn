@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"anh, \u00f4ng, ma\u0340y, ca\u0341c anh, ca\u0341c ba\u0323n, ba\u0323n","a":"you","b":"variation","c":"broadband","d":"index","answer":"you"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"thuy\u00ea\u0340n","a":"protective","b":"expenditure","c":"boat","d":"academy","answer":"boat"}

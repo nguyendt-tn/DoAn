@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"hi\u00ea\u0309u ro\u0309 vi\u00ea\u0323c gi\u0340, ta\u0309 nh\u01b0 th\u00e2\u0323t, th\u01b0\u0323c ha\u0340nh, th\u01b0\u0323c hi\u00ea\u0323n, ve\u0303 hi\u0340nh nh\u01b0 th\u00e2\u0323t, y\u0341 th\u01b0\u0341c ro\u0309 ra\u0340ng","a":"gaming","b":"regulate","c":"realize","d":"compensate","answer":"realize"}

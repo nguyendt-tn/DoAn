@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chi\u0309, d\u00e2\u0303n ch\u01b0\u0341ng, chi\u0303 ro\u0309 t\u00ean, no\u0341i ro\u0309 t\u00ean, vi\u00ea\u0323n d\u00e2\u0303n","a":"educator","b":"marketplace","c":"worm","d":"quote","answer":"quote"}

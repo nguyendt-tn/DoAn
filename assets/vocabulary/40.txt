@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u00e2\u0341p nh\u00e2\u0323n, cho phe\u0341p, nh\u00e2\u0323n va\u0340o, th\u00e2u na\u0323p, thu\u0341 nh\u00e2\u0323n, th\u01b0\u0340a nh\u00e2\u0323n","a":"tragedy","b":"adjustment","c":"admit","d":"hopefully","answer":"admit"}

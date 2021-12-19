@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u00e2m th\u00ea\u0309, ca\u0341ch cu\u0309a \u0111\u00f4\u0323ng t\u01b0\u0340, khi\u0341 s\u0103\u0341c, nha\u0323c th\u00ea\u0309, ta\u0341nh ti\u0340nh","a":"mood","b":"readily","c":"outbreak","d":"bias","answer":"mood"}

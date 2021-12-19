@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"d\u01b0\u01a1\u0341i \u0111\u00e2\u0341t, \u01a1\u0309 d\u01b0\u01a1\u0341i h\u00e2\u0340m","a":"optimistic","b":"underground","c":"trap","d":"corruption","answer":"underground"}

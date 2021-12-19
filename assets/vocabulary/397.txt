@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0323i qu\u00e2n tr\u0103m ng\u01b0\u01a1\u0340i, m\u00f4\u0323t tr\u0103m \u0111\u00f4 la, m\u00f4\u0323t tr\u0103m v\u00e2\u0323t gi\u0340, th\u00ea\u0341 ky\u0309","a":"applicable","b":"fierce","c":"screening","d":"century","answer":"century"}

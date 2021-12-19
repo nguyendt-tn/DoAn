@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"no\u0341i tr\u01b0\u01a1\u0341c","a":"predict","b":"net","c":"aftermath","d":"universal","answer":"predict"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 di\u00eam c\u01a1","a":"obstacle","b":"basically","c":"thankfully","d":"clinical","answer":"basically"}

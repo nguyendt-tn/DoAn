@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"vi\u00ean thanh tra, kha\u0341ch \u0111\u00ea\u0341n vi\u00ea\u0341ng, ng\u01b0\u01a1\u0340i \u0111\u00ea\u0341n th\u0103m","a":"span","b":"visitor","c":"bail","d":"gravity","answer":"visitor"}

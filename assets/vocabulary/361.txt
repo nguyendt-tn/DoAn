@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bo\u0309 tem, b\u00f4i bo\u0309, ma\u0341y gi\u00ea\u0341t tem, s\u01b0\u0323 bo\u0309, gi\u00e2\u0341y bo\u0309","a":"applicant","b":"greenhouse","c":"cancel","d":"transcript","answer":"cancel"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u00e2\u0340n bi\u0341","a":"oblige","b":"preach","c":"mysterious","d":"coincidence","answer":"mysterious"}

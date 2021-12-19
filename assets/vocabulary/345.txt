@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341i nu\u0341t, nu\u0323 hoa, nu\u0341t a\u0341o, nu\u0341t b\u00e2\u0341m chu\u00f4ng","a":"treasure","b":"collaboration","c":"harassment","d":"button","answer":"button"}

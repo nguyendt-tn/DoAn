@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khu\u00f4n, da\u0341ng, hi\u0340nh da\u0341ng, ca\u0341ch may, hi\u0340nh th\u00ea\u0309, hi\u0340nh tra\u0323ng, hi\u0340nh kh\u00f4ng ro\u0309","a":"collaboration","b":"swing","c":"shape","d":"offspring","answer":"shape"}

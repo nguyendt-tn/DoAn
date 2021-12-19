@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"li\u00ean quan, \u0111i\u00ea\u0340u lo nga\u0323i, ha\u0309ng bu\u00f4n, doanh nghi\u00ea\u0323p, lo l\u0103\u0341ng, m\u00f4\u0323t v\u00e2\u0323t gi\u0340, xi\u0341 nghi\u00ea\u0323p, quan h\u00ea\u0323","a":"adequately","b":"overwhelm","c":"protester","d":"concern","answer":"concern"}

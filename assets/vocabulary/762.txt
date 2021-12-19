@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u01b0a ch\u0103\u0341c, kh\u00f4ng ch\u0103\u0341c, nghi ng\u01a1\u0340","a":"doubt","b":"deem","c":"obesity","d":"timely","answer":"doubt"}

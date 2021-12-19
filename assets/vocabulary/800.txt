@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kinh t\u00ea\u0341, thu\u00f4\u0323c v\u00ea\u0340 kinh t\u00ea\u0341 ho\u0323c","a":"beneficial","b":"economic","c":"retreat","d":"hail","answer":"economic"}

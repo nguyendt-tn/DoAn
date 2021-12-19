@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 danh, co\u0341 ti\u00ea\u0341ng, n\u00f4\u0309i danh","a":"part-time","b":"unprecedented","c":"auction","d":"famous","answer":"famous"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u00ea\u0341t nhi\u00ea\u0340u ta\u0341c gia\u0309, c\u00f4\u0309 \u0111i\u00ea\u0309n, my\u0303 thu\u00e2\u0323t hay","a":"frankly","b":"successive","c":"drain","d":"classical","answer":"classical"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"in, in d\u00e2\u0341u, xu\u00e2\u0341t ba\u0309n, in b\u00f4ng l\u00ean va\u0309i, in s\u00e2u va\u0340o tri\u0341 nh\u01a1\u0341, in hi\u0340nh l\u00ean va\u0309i, r\u01b0\u0309a phim a\u0309nh","a":"print","b":"prestigious","c":"deploy","d":"marathon","answer":"print"}

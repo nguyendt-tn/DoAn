@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"s\u01b0\u0323 d\u01b0\u0323 va\u0340o, s\u01b0\u0323 k\u00ea\u0341t giao","a":"dose","b":"associated","c":"gorgeous","d":"unfold","answer":"associated"}

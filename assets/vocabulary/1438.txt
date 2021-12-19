@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"li\u00ean minh, \u0111\u00f4\u0340ng minh, li\u00ean \u0111oa\u0340n","a":"mobility","b":"league","c":"soak","d":"consumption","answer":"league"}

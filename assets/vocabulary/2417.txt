@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u0103ng ra, tr\u01b0\u01a1ng ra, lan tra\u0340n, cha\u0323y da\u0340i ra, truy\u00ea\u0340n bi\u0323nh, \u0111\u00f4\u0340n tin, tra\u0309i ra","a":"prosperity","b":"herb","c":"spread","d":"blanket","answer":"spread"}

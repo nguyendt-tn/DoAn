@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u01b0\u01a1\u0323c tra\u0309 l\u01b0\u01a1ng cao, ti\u00ea\u0340n c\u00f4ng, ti\u00ea\u0340n l\u01b0\u01a1ng","a":"wage","b":"foreigner","c":"provoke","d":"disturb","answer":"wage"}

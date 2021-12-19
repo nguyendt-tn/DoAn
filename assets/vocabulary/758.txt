@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cao h\u01a1n, \u0111a\u0340n a\u0341p, \u0111\u00f4 h\u00f4\u0323, ki\u00ea\u0340m ch\u00ea\u0341, la\u0340m chu\u0309, n\u00f4\u0309i h\u01a1n h\u00ea\u0341t, th\u00f4\u0341ng tri\u0323","a":"ideological","b":"dominate","c":"corporation","d":"threshold","answer":"dominate"}

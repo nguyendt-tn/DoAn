@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u0103\u0341c, ch\u0103\u0341c ch\u0103\u0341n, hi\u00ea\u0323u nghi\u00ea\u0323m, kh\u00f4ng th\u00ea\u0309 sai l\u00e2\u0340m, xa\u0341c th\u00e2\u0323t","a":"surveillance","b":"legend","c":"bulk","d":"sure","answer":"sure"}

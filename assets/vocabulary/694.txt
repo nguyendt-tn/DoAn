@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"pha\u0341 hoa\u0323i, pha\u0341 hu\u0309y, ta\u0340n pha\u0341, t\u01b0\u0323 v\u00e2\u0323n, tr\u01b0\u0340 kh\u01b0\u0309","a":"denial","b":"destroy","c":"plunge","d":"handful","answer":"destroy"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0323 ti\u0323ch, ha\u0340nh vi, ta\u0341c du\u0323ng, tha\u0341i \u0111\u00f4\u0323, hoa\u0323t \u0111\u00f4\u0323ng, th\u00ea\u0341 l\u01b0\u0323c","a":"ratio","b":"inclusion","c":"editorial","d":"action","answer":"action"}

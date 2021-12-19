@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi\u0323u khu\u00e2\u0341t phu\u0323c, \u0111\u00e2\u0340u g\u00f4\u0341i, ha\u0323 mi\u0340nh, kh\u01a1\u0341p \u0111\u00ea\u0309 xoay, v\u00e2\u0323t hi\u0340nh gi\u00f4\u0341ng \u0111\u00e2\u0340u g\u00f4\u0341i","a":"knee","b":"arena","c":"patent","d":"suite","answer":"knee"}

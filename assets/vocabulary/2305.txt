@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u01b0a ra cho xem, bi\u00ea\u0309u l\u00f4\u0323, chi\u0309, chi\u0309 ch\u00f4\u0309, l\u00f4\u0323 ra, to\u0309 ra","a":"show","b":"slash","c":"fare","d":"boom","answer":"show"}

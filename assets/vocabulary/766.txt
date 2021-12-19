@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u00f4\u0323t ta\u0341, m\u01b0\u01a1\u0340i hai ca\u0341i, ta\u0341","a":"remarkable","b":"content","c":"dozen","d":"highway","answer":"dozen"}

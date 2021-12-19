@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u01a1\u0309 tha\u0340nh \u0111oa\u0340n th\u00ea\u0309, thu\u00f4\u0323c v\u00ea\u0340 xa\u0303 h\u00f4\u0323i","a":"freely","b":"anxiety","c":"social","d":"scope","answer":"social"}

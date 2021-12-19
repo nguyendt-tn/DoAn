@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ki\u00eang \u0103n, c\u01b0\u0309 \u0103n, qu\u00f4\u0341c h\u00f4\u0323i, nhi\u0323n \u0103n","a":"asylum","b":"speculate","c":"optimistic","d":"diet","answer":"diet"}

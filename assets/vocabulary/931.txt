@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u0103\u0341t nghi\u0309a, gia\u0309i nghi\u0309a, gia\u0309i thi\u0341ch","a":"explanation","b":"blade","c":"prompt","d":"literally","answer":"explanation"}

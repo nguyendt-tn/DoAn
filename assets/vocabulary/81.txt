@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chu\u0341 y\u0341 \u0111\u00ea\u0341n, co\u0340n s\u00f4\u0341ng, gi\u01b0\u0309 m\u00f4\u0323t ky\u0309 ni\u00ea\u0323m, s\u00f4\u0341ng la\u0323i, t\u00f4\u0340n ta\u0323i","a":"fairness","b":"transcript","c":"barrel","d":"alive","answer":"alive"}

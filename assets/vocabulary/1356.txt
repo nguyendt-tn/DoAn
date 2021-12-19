@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0340y ra, pha\u0341t minh, sa\u0341ng ch\u00ea\u0341","a":"wheat","b":"invent","c":"merchant","d":"deed","answer":"invent"}

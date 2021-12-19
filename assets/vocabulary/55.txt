@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng da\u0341m, s\u01a1\u0323 ha\u0309i","a":"stabilize","b":"afraid","c":"academy","d":"evolution","answer":"afraid"}

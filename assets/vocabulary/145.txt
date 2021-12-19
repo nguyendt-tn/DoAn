@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u00f4 hi\u0340nh, phe\u0341p c\u00e2\u0341u ta\u0323o, s\u01b0\u0323 k\u00ea\u0341t c\u00e2\u0341u, thu\u00e2\u0323t ki\u00ea\u0341n tru\u0341c, x\u00e2y d\u01b0\u0323ng","a":"fantasy","b":"broadband","c":"restraint","d":"architecture","answer":"architecture"}

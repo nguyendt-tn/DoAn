@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 hi\u00ea\u0323u l\u01b0\u0323c, co\u0341 n\u0103ng l\u01b0\u0323c, \u0111\u01b0\u01a1ng la\u0340m, hi\u00ea\u0323n di\u0323ch, mau m\u0103\u0341n, nhanh nh\u00e2\u0309u","a":"active","b":"hint","c":"prosecutor","d":"blanket","answer":"active"}

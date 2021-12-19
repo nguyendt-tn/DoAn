@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u01a1\u0309 trong","a":"vocal","b":"inner","c":"innovative","d":"devise","answer":"inner"}

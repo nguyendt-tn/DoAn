@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"h\u00e2\u0340u h\u00ea\u0341t, l\u00e2\u0341y h\u00ea\u0341t \u0111i, toa\u0340n th\u00ea\u0309, to\u0341m la\u0323i","a":"all","b":"plug","c":"assemble","d":"outbreak","answer":"all"}

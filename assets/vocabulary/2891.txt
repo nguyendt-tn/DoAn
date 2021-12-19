@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho\u0341ng th\u00eam","a":"difficult","b":"blue","c":"accelerate","d":"similar","answer":"accelerate"}

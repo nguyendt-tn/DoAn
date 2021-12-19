@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"auxiliary verb","vi_terms":"co\u0341 le\u0303, co\u0341 th\u00ea\u0309","a":"relieve","b":"meaningful","c":"may","d":"cruise","answer":"may"}

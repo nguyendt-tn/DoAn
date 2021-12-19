@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u01a1i no\u0341ng, khi\u0341 no\u0341ng","a":"accomplish","b":"heating","c":"mechanic","d":"revive","answer":"heating"}

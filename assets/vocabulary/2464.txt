@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"soi qua, \u0111a\u0341nh ng\u01b0\u01a1\u0340i na\u0340o, \u0111i\u0340nh c\u00f4ng","a":"strike","b":"soak","c":"indication","d":"conversion","answer":"strike"}

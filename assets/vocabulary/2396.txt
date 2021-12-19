@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u01b0\u0341ng to\u0309, di\u00ea\u0309n thuy\u00ea\u0341t, no\u0341i","a":"undoubtedly","b":"speak","c":"correlate","d":"footage","answer":"speak"}

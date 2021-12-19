@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0323n \u0111\u00f4\u0340ng li\u00eau, ba\u0323n \u0111\u00f4\u0340ng nghi\u00ea\u0323p","a":"sceptical","b":"organizational","c":"deploy","d":"colleague","answer":"colleague"}

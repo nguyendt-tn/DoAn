@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nh\u01b0 nhau, gi\u00f4\u0341ng, gi\u00f4\u0341ng nhau, t\u01b0\u01a1ng t\u01a1\u0323","a":"mechanism","b":"similar","c":"toxic","d":"classify","answer":"similar"}

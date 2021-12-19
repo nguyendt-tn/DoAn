@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"ca\u0341i cu\u0309a c\u00f4 \u00e2\u0341y","a":"hers","b":"genocide","c":"diagnose","d":"torture","answer":"hers"}

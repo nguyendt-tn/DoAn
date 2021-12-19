@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cao, \u0111i\u0323a vi\u0323 cao, \u0111\u01b0\u0341ng","a":"high","b":"occupy","c":"correspond","d":"unite","answer":"high"}

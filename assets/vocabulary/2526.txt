@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0341m to\u0341c, \u0111oa\u0323n cu\u00f4\u0341i, \u0111u\u00f4i thu\u0341, trang cu\u00f4\u0341i","a":"virtue","b":"tail","c":"appropriately","d":"make-up","answer":"tail"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01b0\u0303 in, \u0111a\u0341 mo\u0309, kim khi\u0341, kim thu\u00f4\u0323c, khoa\u0341ng ch\u00e2\u0341t, loa\u0340i kim","a":"metal","b":"backdrop","c":"unacceptable","d":"excessive","answer":"metal"}

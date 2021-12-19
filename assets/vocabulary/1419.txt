@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"to, l\u01a1\u0341n, nhi\u00ea\u0340u, quy\u00ea\u0340n ha\u0340nh r\u00f4\u0323ng ra\u0309i, r\u00f4\u0323ng, r\u00f4\u0323ng ra\u0309i, khoan h\u00f4\u0340ng, t\u01b0 t\u01b0\u01a1\u0309ng r\u00f4\u0323ng ra\u0309i","a":"rational","b":"deadline","c":"lawsuit","d":"large","answer":"large"}

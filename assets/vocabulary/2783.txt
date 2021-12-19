@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u01b0\u01a1\u0341c, n\u01b0\u01a1\u0341c bi\u00ea\u0309n, n\u01b0\u01a1\u0341c \u0111\u01b0\u01a1\u0323c \u0111un s\u00f4i, n\u01b0\u01a1\u0341c lo\u0323c, n\u01b0\u01a1\u0341c s\u00f4ng, n\u01b0\u01a1\u0341c u\u00f4\u0341ng","a":"water","b":"memorial","c":"preference","d":"discard","answer":"water"}

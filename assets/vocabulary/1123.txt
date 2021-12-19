@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u0103\u0340ng lo\u0340ng, ha\u0340i lo\u0340ng, vui lo\u0340ng, vui ve\u0309","a":"compliance","b":"integrated","c":"potentially","d":"glad","answer":"glad"}

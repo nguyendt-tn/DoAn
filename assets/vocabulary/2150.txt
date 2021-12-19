@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u00e2\u0309n d\u00e2\u0323t, bo\u0309 ngh\u00ea\u0340, he\u0309o la\u0341nh, i\u0341t ng\u01b0\u01a1\u0340i \u0111i la\u0323i, kh\u00f4ng kinh doanh n\u01b0\u0303a, \u01a1\u0309 \u00e2\u0309n, ti\u00ea\u0340n h\u01b0u tri\u0341","a":"disclosure","b":"retired","c":"opera","d":"sufficient","answer":"retired"}

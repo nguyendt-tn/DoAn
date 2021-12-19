@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111ang cha\u0309y, kim khi\u0341 n\u00e2\u0341u cha\u0309y, s\u01b0\u0323 n\u00e2\u0341u cha\u0309y","a":"theatrical","b":"melt","c":"accumulate","d":"honesty","answer":"melt"}

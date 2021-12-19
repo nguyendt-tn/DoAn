@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ha\u0309ng, n\u01a1i ch\u00ea\u0341 ta\u0323o, ph\u00e2n x\u01b0\u01a1\u0309ng, v\u0103n pho\u0340ng c\u00f4ng ty, x\u01b0\u01a1\u0309ng, x\u01b0\u01a1\u0309ng ch\u00ea\u0341 ta\u0323o","a":"certificate","b":"orchestra","c":"tribe","d":"factory","answer":"factory"}

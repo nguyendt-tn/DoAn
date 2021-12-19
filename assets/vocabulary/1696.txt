@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tha\u0341ng m\u01b0\u01a1\u0340i m\u00f4\u0323t","a":"tournament","b":"exert","c":"november","d":"emergence","answer":"november"}

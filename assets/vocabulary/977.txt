@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01b0a hoa\u0340n tha\u0340nh, \u0111i\u00ea\u0340u sai l\u00e2\u0340m, ta\u0341nh, t\u00e2\u0323t x\u00e2\u0341u, ti\u0340nh tra\u0323ng d\u01a1\u0309 dang, tho\u0341i x\u00e2\u0341u","a":"evident","b":"deed","c":"fault","d":"presidency","answer":"fault"}

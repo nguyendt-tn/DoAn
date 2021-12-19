@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nga\u0340y th\u01b0\u0341 ba\u0309y, th\u01b0\u0341 ba\u0309y","a":"saturday","b":"amateur","c":"sigh","d":"exile","answer":"saturday"}

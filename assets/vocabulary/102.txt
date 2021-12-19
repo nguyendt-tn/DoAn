@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"cu\u0340ng, va\u0340, v\u01a1\u0341i","a":"fame","b":"respective","c":"adhere","d":"and","answer":"and"}

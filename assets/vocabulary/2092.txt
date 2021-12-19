@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"co\u0341 \u0111i\u0323nh ky\u0340, \u0111\u00ea\u0340u \u0111\u00ea\u0340u","a":"principal","b":"firearm","c":"costly","d":"regularly","answer":"regularly"}

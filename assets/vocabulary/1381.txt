@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 xe\u0341t x\u01b0\u0309","a":"inflict","b":"vessel","c":"judgement","d":"arena","answer":"judgement"}

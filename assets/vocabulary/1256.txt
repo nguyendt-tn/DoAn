@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"s\u01b0\u0323 cha\u0323y kh\u00f4ng \u0111\u00ea\u0340u","a":"invoke","b":"hunting","c":"sceptical","d":"concede","answer":"hunting"}

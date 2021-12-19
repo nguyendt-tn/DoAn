@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 th\u00ea\u0309 x\u00ea\u0341p la\u0323i \u0111\u01b0\u01a1\u0323c","a":"magnitude","b":"folding","c":"displace","d":"villager","answer":"folding"}

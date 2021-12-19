@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"cu\u0309a c\u00e2\u0323u, cu\u0309a m\u00e2\u0340y, cu\u0309a \u00f4ng, cu\u0309a anh, cu\u0309a ba\u0323n","a":"gesture","b":"specify","c":"balanced","d":"your","answer":"your"}

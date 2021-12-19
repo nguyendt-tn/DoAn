@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01b0\u0303a \u0103n sa\u0341ng, b\u01b0\u0303a sa\u0341ng","a":"newly","b":"breakfast","c":"regime","d":"administer","answer":"breakfast"}

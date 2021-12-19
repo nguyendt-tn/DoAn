@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c tranh \u0111\u00e2\u0341u","a":"naval","b":"struggle","c":"consciousness","d":"syndrome","answer":"struggle"}

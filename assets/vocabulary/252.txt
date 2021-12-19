@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340","a":"whip","b":"deprive","c":"belong","d":"fatal","answer":"belong"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chu\u00e2\u0303n h\u01b0\u0341a, c\u00f4ng nh\u00e2\u0323n, th\u00e2u na\u0323p, th\u00e2u nh\u00e2\u0323n, th\u01b0\u0340a nh\u00e2\u0323n, dung h\u01b0\u0341a","a":"commodity","b":"spare","c":"golden","d":"allow","answer":"allow"}

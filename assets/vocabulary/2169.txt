@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111u \u0111\u01b0a, la\u0340m lung lay, lu\u0341c l\u0103\u0341c, rung chuy\u00ea\u0309n","a":"oversee","b":"accountant","c":"preside","d":"rock","answer":"rock"}

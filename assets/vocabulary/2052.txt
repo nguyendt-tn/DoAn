@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"pha\u0309n \u0111\u00f4\u0323ng la\u0323i, pha\u0309n \u01b0\u0341ng, pha\u0309n \u01b0\u0341ng ho\u0341a ho\u0323c, su\u0323t gia\u0341","a":"terms","b":"expenditure","c":"delicate","d":"react","answer":"react"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0340n cu\u0340ng, \u0111a\u0341ng th\u01b0\u01a1ng, i\u0341t, kh\u00f4ng sanh l\u01a1\u0323i, nghe\u0340o, thi\u00ea\u0341u th\u00f4\u0341n, v\u00f4 gia\u0341 tri\u0323, x\u00e2\u0341u","a":"violation","b":"poor","c":"indictment","d":"dynamic","answer":"poor"}

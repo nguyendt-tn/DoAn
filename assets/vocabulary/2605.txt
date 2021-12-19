@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bo\u0341 sa\u0341t, c\u0103ng th\u0103\u0309ng, xinh x\u0103\u0341n, ch\u00e2\u0323t, eo he\u0323p, kh\u00f4ng ri\u0309 qua, kh\u00f4ng th\u00e2\u0341m n\u01b0\u01a1\u0341c, l\u00e2\u0341p khi\u0341t","a":"tight","b":"nowadays","c":"sake","d":"displace","answer":"tight"}

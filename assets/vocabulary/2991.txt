@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01b0\u0340 \u0111o\u0323c ma\u0323nh \u0111\u00ea\u0309 pha\u0341t \u00e2m, nguy\u00ea\u0323n vo\u0323ng, s\u01b0\u0323 hu\u0341t va\u0340o, s\u01b0\u0323 qua\u0323t ra, s\u01b0\u0323 ru\u0341t ra","a":"paint","b":"fill","c":"care","d":"aspiration","answer":"aspiration"}

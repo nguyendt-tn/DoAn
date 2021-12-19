@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"to, kh\u00f4\u0309ng l\u00f4\u0340, r\u00e2\u0341t nhi\u00ea\u0340u, to l\u01a1\u0341n","a":"huge","b":"articulate","c":"tackle","d":"partial","answer":"huge"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0303m \u0111\u00f4\u0323ng, ca\u0303m ki\u0341ch, \u0111\u00f4\u0323ng lo\u0340ng","a":"rival","b":"impressive","c":"dispose","d":"landing","answer":"impressive"}

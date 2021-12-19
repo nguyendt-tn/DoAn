@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bao g\u00f4\u0340m, bao ha\u0340m, g\u00f4\u0340m co\u0341","a":"moderate","b":"portfolio","c":"include","d":"anticipate","answer":"include"}

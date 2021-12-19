@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"lu\u0341c \u0111\u00e2\u0340u, tr\u01b0\u01a1\u0341c h\u00ea\u0341t","a":"modest","b":"firstly","c":"donor","d":"regulator","answer":"firstly"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"da\u0303y li\u00ean ti\u00ea\u0341p nhau, ha\u0340ng","a":"series","b":"troop","c":"determination","d":"ongoing","answer":"series"}

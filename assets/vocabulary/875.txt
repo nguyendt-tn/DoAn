@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nh\u01b0 nhau, ngang nhau, c\u00e2n nhau, b\u0103\u0340ng, b\u0103\u0340ng nhau, \u0111\u00ea\u0340u nhau","a":"overlook","b":"seemingly","c":"equal","d":"disturb","answer":"equal"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho, ban cho, co\u0341 nga\u0340y gi\u01a1\u0340, co\u0341 th\u00ea\u0309, \u0111u\u0309 kha\u0309 n\u0103ng, \u0111u\u0309 t\u01b0 ca\u0341ch","a":"afford","b":"proportion","c":"patch","d":"bargain","answer":"afford"}

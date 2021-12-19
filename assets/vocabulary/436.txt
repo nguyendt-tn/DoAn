@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u0340nh hu\u00f4\u0341ng, ti\u0340nh th\u00ea\u0341, ti\u0340nh tra\u0323ng, tra\u0323ng hu\u00f4\u0341ng","a":"overlook","b":"stun","c":"accessible","d":"circumstance","answer":"circumstance"}

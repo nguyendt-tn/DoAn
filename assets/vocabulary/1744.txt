@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01a1 h\u00f4\u0323i, di\u0323p t\u00f4\u0341t","a":"competent","b":"unprecedented","c":"motion","d":"opportunity","answer":"opportunity"}

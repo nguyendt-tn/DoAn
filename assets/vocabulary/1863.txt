@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"heo, khu\u00f4n \u0111\u00ea\u0309 \u0111u\u0341c gang, lo\u0323 nho\u0309, l\u01a1\u0323n, ng\u01b0\u01a1\u0340i ham \u0103n, ng\u01b0\u01a1\u0340i \u01a1\u0309 d\u01a1, ng\u01b0\u01a1\u0340i th\u00f4 l\u00f4\u0309, tho\u0309i gang","a":"pig","b":"stun","c":"incorporate","d":"acquisition","answer":"pig"}

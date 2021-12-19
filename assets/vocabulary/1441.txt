@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ho\u0323c th\u01b0\u0341c, s\u01b0\u0323 ho\u0323c, s\u01b0\u0323 ho\u0323c ho\u0309i","a":"namely","b":"reinforce","c":"learning","d":"disorder","answer":"learning"}

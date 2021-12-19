@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ha\u0323ch mi\u00ea\u0323ng, ki\u00ea\u0309m sa\u0341t, kha\u0341m xe\u0341t, kha\u0309o sa\u0341t, kha\u0309o thi\u0341, l\u00e2\u0341y kh\u00e2\u0309u cung, th\u00e2\u0309m tra, th\u00e2\u0309m v\u00e2\u0341n, xem xe\u0341t","a":"examine","b":"interval","c":"applaud","d":"referee","answer":"examine"}

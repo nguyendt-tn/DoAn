@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"th\u00f4ng tri, ba\u0341o ca\u0341o, ba\u0341o cho bi\u00ea\u0341t, nh\u0103\u0341c nh\u01a1\u0309, th\u00f4ng ca\u0341o","a":"array","b":"thumb","c":"interface","d":"announce","answer":"announce"}

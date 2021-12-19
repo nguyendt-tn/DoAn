@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"vo\u0309 xe h\u01a1i, va\u0340nh s\u0103\u0341t bi\u0323t ba\u0341nh xe, vo\u0309 ba\u0341nh xe","a":"sole","b":"tyre","c":"assembly","d":"firefighter","answer":"tyre"}

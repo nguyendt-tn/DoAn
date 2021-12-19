@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01b0\u0341c ho\u0323a ve\u0309 tr\u00ean ca\u0323t t\u00f4ng, hi\u0341 ho\u0323a, tranh ve\u0303 thi\u00ea\u0341u nhi, hoa\u0323t ho\u0323a, tranh c\u01b0\u01a1\u0340i","a":"tonne","b":"cartoon","c":"occupation","d":"consent","answer":"cartoon"}

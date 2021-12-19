@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01b0\u01a1ng tri\u0340nh cha\u0341nh tri\u0323, \u0111\u00ea\u0341 da\u0340y, di\u00ea\u0309n \u0111a\u0340n, n\u00ea\u0340n \u0111\u00e2\u0341t, s\u00e2n b\u0103\u0340ng m\u0103\u0323t, s\u00e2n \u01a1\u0309 tr\u00ean cao, s\u00e2n ga xe l\u01b0\u0309a","a":"hip","b":"compel","c":"platform","d":"transparency","answer":"platform"}

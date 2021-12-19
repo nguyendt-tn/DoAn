@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u00e2\u0309n c\u00e2\u0340u, l\u01a1\u0340i y\u00eau c\u00e2\u0340u, tr\u01b0\u01a1\u0340ng h\u01a1\u0323p","a":"modest","b":"tissue","c":"instance","d":"abuse","answer":"instance"}

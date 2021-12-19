@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chu\u0341 y\u0341, \u0111a\u0323i di\u00ea\u0323n, \u0111o\u0341ng tu\u00f4\u0340ng, di\u00ea\u0309n ta\u0309, la\u0340m \u0111\u00ea\u0309 y\u0341, mi\u00eau ta\u0309, t\u01b0\u01a1\u0323ng tr\u01b0ng","a":"inherent","b":"artwork","c":"tolerate","d":"represent","answer":"represent"}

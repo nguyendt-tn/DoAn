@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cha\u0341nh sa\u0341ch, cha\u0341nh tri\u0323, kh\u00ea\u0341 \u01b0\u01a1\u0341c ba\u0309o hi\u00ea\u0309m, m\u01b0u k\u00ea\u0341, m\u01b0u me\u0323o, quy\u00ea\u0340n ha\u0340nh","a":"nowadays","b":"eligible","c":"policy","d":"preference","answer":"policy"}

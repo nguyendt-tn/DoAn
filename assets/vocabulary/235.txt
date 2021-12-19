@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u0103\u0341c \u0111e\u0323p, ve\u0309 \u0111e\u0323p","a":"consistency","b":"suspension","c":"herb","d":"beauty","answer":"beauty"}

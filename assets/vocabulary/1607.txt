@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u0103\u0341t ch\u01b0\u01a1\u0341c, con khi\u0309","a":"effectiveness","b":"monkey","c":"sensitivity","d":"long-standing","answer":"monkey"}

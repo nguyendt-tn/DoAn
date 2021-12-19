@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ly khai, chi\u0323u thua, d\u01a1\u0340i \u0111i, \u0111\u00e2\u0340u ha\u0340ng, ha\u0323 c\u01a1\u0340","a":"glimpse","b":"regulate","c":"dedicated","d":"quit","answer":"quit"}

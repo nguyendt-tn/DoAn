@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 \u0111i\u00ea\u0323n","a":"electric","b":"undertake","c":"magical","d":"differ","answer":"electric"}

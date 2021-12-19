@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u0103\u0341n \u0111o, \u0111\u00ea\u0309 y\u0341, kha\u0309o sa\u0341t, l\u01b0u t\u00e2m \u0111\u00ea\u0341n, xem xe\u0341t","a":"consider","b":"tsunami","c":"confession","d":"glory","answer":"consider"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"x\u0103n l\u00ean, bo\u0341 la\u0323i, c\u00f4\u0323t la\u0323i, ho\u0323p la\u0323i tha\u0340nh \u0111a\u0341m \u0111\u00f4ng","a":"patrol","b":"bunch","c":"spam","d":"cease","answer":"bunch"}

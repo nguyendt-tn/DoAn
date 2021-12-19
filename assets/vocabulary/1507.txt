@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0103n qua loa, \u0103n b\u01b0\u0303a tr\u01b0a, m\u01a1\u0340i ng\u01b0\u01a1\u0340i na\u0340o \u0103n tr\u01b0a","a":"countless","b":"lunch","c":"grasp","d":"presently","answer":"lunch"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cho l\u00e2\u0341y nhau, co\u0341 gia \u0111i\u0340nh, ph\u00f4\u0341i h\u01a1\u0323p","a":"thereby","b":"married","c":"likewise","d":"acre","answer":"married"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"kh\u00f4ng","a":"not","b":"authentic","c":"sphere","d":"fine","answer":"not"}

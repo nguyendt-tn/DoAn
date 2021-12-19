@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u0103\u0341t, bu\u00f4\u0323c, c\u00f4\u0323t, ti\u0323ch th\u00e2u, tu\u0341m c\u00f4\u0309, tro\u0341i","a":"coordinator","b":"attach","c":"march","d":"wrist","answer":"attach"}

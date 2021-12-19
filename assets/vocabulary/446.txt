@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2u ng\u0103\u0341n, chu\u0309 y\u00ea\u0341u, c\u00f4\u0341t y\u00ea\u0341u, \u0111i\u00ea\u0340u khoa\u0309n, \u0111i\u00ea\u0340u l\u00ea\u0323, \u0111oa\u0323n ng\u0103\u0341n, m\u00ea\u0323nh \u0111\u00ea\u0340","a":"varied","b":"clause","c":"compulsory","d":"hint","answer":"clause"}

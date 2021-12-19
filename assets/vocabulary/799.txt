@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0103n, \u0103n c\u01a1m, \u0103n lu\u0309ng, \u0103n mu\u0323t, la\u0340m h\u01b0","a":"bonus","b":"eat","c":"temple","d":"perceive","answer":"eat"}

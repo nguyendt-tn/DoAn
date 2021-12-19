@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bao, bo\u0323c, go\u0341i","a":"proceeds","b":"nominate","c":"wrap","d":"ballot","answer":"wrap"}

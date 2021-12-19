@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01a1 quan, \u0111a\u0323i phong c\u00e2\u0340m, khi\u0341 quan","a":"organ","b":"exceed","c":"alignment","d":"reverse","answer":"organ"}

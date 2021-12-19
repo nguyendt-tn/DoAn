@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nguy\u00ean \u00e2m, c\u0103n ba\u0309n, n\u00ea\u0340n mo\u0341ng, du\u0340ng la\u0340m n\u00ea\u0340n ta\u0309ng","a":"peasant","b":"demonstration","c":"slogan","d":"fundamental","answer":"fundamental"}

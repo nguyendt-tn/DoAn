@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"da\u0309n ra, la\u0340m cho y\u00ea\u0341u, la\u0340m nhe\u0323 b\u01a1\u0341t, lo\u0309ng ra, n\u01a1\u0341i ra, nghi\u0303 ng\u01a1i, nhu\u00e2\u0323n tr\u01b0\u01a1\u0340ng, th\u01b0 gia\u0303n, d\u01b0\u01a1\u0303ng s\u01b0\u0341c","a":"ritual","b":"delegate","c":"relax","d":"ink","answer":"relax"}

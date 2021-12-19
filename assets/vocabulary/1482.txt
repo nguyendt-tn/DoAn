@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho vay, cho m\u01b0\u01a1\u0323n","a":"tournament","b":"assumption","c":"inherent","d":"loan","answer":"loan"}

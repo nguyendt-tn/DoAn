@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cha\u0323m \u0111\u00ea\u0341n danh d\u01b0\u0323, la\u0340m ha\u0323i, la\u0340m h\u01b0, la\u0340m t\u00f4\u0309n ha\u0323i, t\u00f4\u0309n th\u01b0\u01a1ng, xu\u0341c pha\u0323m","a":"comic","b":"justification","c":"remedy","d":"injure","answer":"injure"}

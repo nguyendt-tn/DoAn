@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ki\u00eau sa, \u0111e\u0323p, d\u00ea\u0309 th\u01b0\u01a1ng, l\u00f4\u0323ng l\u00e2\u0303y, tuy\u00ea\u0323t \u0111e\u0323p, y\u00eau ki\u00ea\u0340u, di\u00ea\u0309m l\u00ea\u0323","a":"relevance","b":"deficit","c":"lovely","d":"migration","answer":"lovely"}

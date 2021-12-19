@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111\u00e2y, n\u01a1i \u0111\u00e2y, \u01a1\u0309 \u0111\u00e2y, ta\u0323i \u0111\u00e2y","a":"revenue","b":"here","c":"abolish","d":"inspect","answer":"here"}

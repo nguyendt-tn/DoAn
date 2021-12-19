@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"b\u01a1\u0309i vi\u0340, nghi\u0309 vi\u0340, xe\u0341t vi\u0340, xe\u0341t r\u0103\u0340ng","a":"strive","b":"whereas","c":"chronic","d":"exert","answer":"whereas"}

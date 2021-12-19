@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"s\u01a1\u0323 ha\u0309i","a":"sophisticated","b":"audio","c":"frightened","d":"misery","answer":"frightened"}

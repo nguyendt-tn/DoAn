@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0341ch kha\u0341c, kha\u0341c, kha\u0341c h\u01a1n, tr\u01b0\u01a1\u0341c","a":"other","b":"resign","c":"lyric","d":"correlate","answer":"other"}

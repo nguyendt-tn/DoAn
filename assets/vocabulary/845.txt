@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho phe\u0341p, cho quy\u00ea\u0340n, \u0111u\u0309 ta\u0340i, giao quy\u00ea\u0340n, la\u0340m cho \u0111u\u0309 s\u01b0\u0341c, th\u00e2\u0309m quy\u00ea\u0340n","a":"altogether","b":"enable","c":"protocol","d":"identical","answer":"enable"}

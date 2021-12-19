@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nhi\u00ea\u0340u, s\u00f4\u0341 nhi\u00ea\u0340u, v\u00f4 s\u00f4\u0341","a":"interfere","b":"straightforward","c":"dimension","d":"many","answer":"many"}

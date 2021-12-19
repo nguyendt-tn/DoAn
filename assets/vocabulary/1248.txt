@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"tuy nhi\u00ean, song le, d\u00e2\u0340u th\u00ea\u0341 na\u0340o, tuy v\u00e2\u0323y","a":"however","b":"treaty","c":"boast","d":"gorgeous","answer":"however"}

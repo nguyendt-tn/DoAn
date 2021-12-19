@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tha\u0341ng hai, tha\u0341ng hai d\u01b0\u01a1ng li\u0323ch","a":"maximize","b":"rival","c":"february","d":"certainty","answer":"february"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00ea\u0340 pho\u0340ng, lanh le\u0323, mau m\u0103\u0341n, tri\u0341 minh m\u00e2\u0309n","a":"alert","b":"she","c":"champion","d":"institute","answer":"alert"}

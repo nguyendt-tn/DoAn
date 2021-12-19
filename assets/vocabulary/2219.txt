@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309n k\u00ea khai, danh bi\u00ea\u0309u, li\u0323ch tri\u0340nh, ph\u00e2n ha\u0323ng \u0111a\u0341nh thu\u00ea\u0341, \u0111i\u00ea\u0340u l\u00ea\u0323, phu\u0323 lu\u0323c, th\u01a1\u0340i kh\u0103\u0341c bi\u00ea\u0309u, v\u0103n ki\u00ea\u0323n","a":"upcoming","b":"schedule","c":"alliance","d":"fatal","answer":"schedule"}

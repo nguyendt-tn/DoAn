@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"dinh th\u01b0\u0323 l\u01a1\u0341n, l\u00e2u \u0111a\u0340i, to\u0340a l\u00e2u \u0111a\u0340i, tha\u0340nh qua\u0341ch s\u01b0\u0341 qu\u00e2n, tha\u0340nh tri\u0340","a":"damaging","b":"castle","c":"lighting","d":"versus","answer":"castle"}

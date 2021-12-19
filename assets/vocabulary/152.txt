@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"qu\u00e2n nh\u00e2n","a":"army","b":"dub","c":"precisely","d":"landing","answer":"army"}

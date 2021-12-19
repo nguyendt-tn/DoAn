@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chi\u0323u \u0111\u01b0\u0323ng v\u00e2\u0323t gi\u0340, kh\u00f4ng th\u00e2\u0341m n\u01b0\u01a1\u0341c","a":"whereby","b":"halfway","c":"congratulate","d":"proof","answer":"proof"}

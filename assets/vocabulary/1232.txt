@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340i ho\u0323c sinh la\u0340m \u01a1\u0309 nha\u0340, c\u00f4ng vi\u00ea\u0323c la\u0340m \u01a1\u0309 nha\u0340","a":"homework","b":"syndrome","c":"outrage","d":"denounce","answer":"homework"}

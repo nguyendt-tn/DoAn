@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"a\u0341nh sa\u0341ng cho\u0341i, b\u00ea\u0340n, c\u01b0\u01a1\u0340ng tra\u0341ng, ki\u00ean c\u00f4\u0341, ma\u0323nh, v\u01b0\u0303ng ch\u0103\u0341c","a":"credible","b":"strong","c":"profitable","d":"founder","answer":"strong"}

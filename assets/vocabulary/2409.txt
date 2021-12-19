@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lo\u0340ng can \u0111a\u0303m, lo\u0340ng h\u0103ng ha\u0341i, ng\u01b0\u01a1\u0340i c\u00e2\u0340m \u0111\u00e2\u0340u, r\u01b0\u01a1\u0323u co\u0341 mu\u0340i, tha\u0341nh th\u00e2\u0340n, th\u00e2\u0340n linh, vong h\u00f4\u0340n","a":"glorious","b":"specification","c":"corporation","d":"spirit","answer":"spirit"}

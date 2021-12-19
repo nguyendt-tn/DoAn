@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"t\u0103ng l\u00ean, th\u00eam, t\u0103ng gia, la\u0340m nhi\u00ea\u0340u th\u00eam, l\u01a1\u0341n th\u00eam","a":"increase","b":"rock","c":"literary","d":"cemetery","answer":"increase"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cha\u0341nh th\u01b0\u0341c, h\u01a1\u0323p pha\u0341p, theo pha\u0341p lu\u00e2\u0323t, thu\u00f4\u0323c v\u00ea\u0340 pha\u0341p lu\u00e2\u0323t","a":"corruption","b":"landing","c":"legal","d":"sovereignty","answer":"legal"}

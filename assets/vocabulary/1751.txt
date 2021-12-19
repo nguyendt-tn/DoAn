@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y cam, tra\u0341i cam","a":"shoot","b":"orange","c":"occurrence","d":"electoral","answer":"orange"}

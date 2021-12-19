@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ha\u0340nh kha\u0341ch, ng\u01b0\u01a1\u0340i \u0111i du li\u0323ch","a":"passenger","b":"exception","c":"predator","d":"automatically","answer":"passenger"}

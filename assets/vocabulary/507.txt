@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ghe\u0341p tha\u0340nh b\u00f4\u0323, hoa\u0340n tha\u0340nh c\u00f4ng vi\u00ea\u0323c, la\u0340m cho \u0111\u00e2\u0340y \u0111u\u0309, s\u0103\u0341p tha\u0340nh \u0111\u00f4i","a":"discharge","b":"recognition","c":"philosophical","d":"completely","answer":"completely"}

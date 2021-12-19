@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c he\u0323n, gi\u00e2\u0341y m\u01a1\u0340i, gi\u00e2\u0341y tri\u00ea\u0323u t\u00e2\u0323p, s\u0103\u0341c li\u0323nh, s\u01b0\u0323 b\u00f4\u0309 nhi\u00ea\u0323m, s\u01b0\u0323 he\u0323n","a":"utterly","b":"dealer","c":"appointment","d":"pipeline","answer":"appointment"}

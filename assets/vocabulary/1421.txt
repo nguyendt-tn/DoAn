@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"l\u00e2u, \u0111\u0103\u0323t mu\u0303i gia\u0340y d\u01b0\u01a1\u0341i khu\u00f4n, ke\u0341o da\u0340i, t\u00f4\u0340n ta\u0323i","a":"last","b":"optimistic","c":"punch","d":"allegedly","answer":"last"}

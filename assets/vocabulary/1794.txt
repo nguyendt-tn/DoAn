@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"qu\u00e2\u0340n, qu\u00e2\u0340n da\u0340i, qu\u00e2\u0340n t\u00e2y da\u0340i","a":"rip","b":"countless","c":"pants","d":"hardware","answer":"pants"}

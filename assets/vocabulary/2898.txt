@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hoa\u0340n tha\u0340nh, kha\u0309 n\u0103ng, ta\u0340i n\u0103ng, th\u01b0\u0323c hi\u00ea\u0323n k\u00ea\u0341 hoa\u0323ch","a":"dialogue","b":"affect","c":"accomplishment","d":"narrative","answer":"accomplishment"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0323nh cu\u0341m, cu\u0341m","a":"linear","b":"bind","c":"snap","d":"flu","answer":"flu"}

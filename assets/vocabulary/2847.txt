@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"la\u0340m b\u0103\u0340ng c\u00e2y, vu\u0323ng v\u00ea\u0340","a":"simultaneously","b":"wooden","c":"breed","d":"limitation","answer":"wooden"}

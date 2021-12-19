@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0341t \u0111\u00f4\u0340ng, kha\u0341c, kha\u0341c nhau, kha\u0341c th\u01b0\u01a1\u0340ng","a":"literacy","b":"different","c":"contend","d":"taxpayer","answer":"different"}

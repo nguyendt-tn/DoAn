@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ha\u0340nh \u0111\u00f4\u0323ng g\u00e2\u0341p, la\u0340m g\u00e2\u0341p, tr\u01b0\u01a1\u0341c, v\u00f4\u0323i va\u0340ng","a":"execution","b":"broadband","c":"previous","d":"squeeze","answer":"previous"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 \u00e2\u0309n na\u0341u, ch\u00f4\u0309 nu\u0341p, ch\u00f4\u0309 n\u01b0\u01a1ng th\u00e2n","a":"adolescent","b":"shelter","c":"slogan","d":"offering","answer":"shelter"}

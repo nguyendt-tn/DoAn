@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0341p ho\u0323c, pho\u0340ng ho\u0323c","a":"processor","b":"indicator","c":"blow","d":"classroom","answer":"classroom"}

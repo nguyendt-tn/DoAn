@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u00e2m m\u01b0u, c\u00f4ng vi\u00ea\u0323c ky\u0303 s\u01b0","a":"delicate","b":"engineering","c":"exposure","d":"probable","answer":"engineering"}

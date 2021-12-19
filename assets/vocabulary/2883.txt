@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i v\u0103\u0341ng, khuy\u00ea\u0341t ti\u0323ch, v\u0103\u0341ng m\u0103\u0323t","a":"rude","b":"absence","c":"bed","d":"flood","answer":"absence"}

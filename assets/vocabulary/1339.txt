@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u00f4ng minh, kh\u00f4n ngoan, sa\u0341ng tri\u0341","a":"outbreak","b":"intelligent","c":"undergraduate","d":"compound","answer":"intelligent"}

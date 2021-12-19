@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0309n th\u00e2\u0323n, chu\u0309 t\u00e2m, c\u00f4\u0341 y\u0341, \u0111i\u0323nh tr\u01b0\u01a1\u0341c, th\u00e2\u0323n tro\u0323ng, thong tha\u0309","a":"pity","b":"orchestra","c":"deliberate","d":"accountant","answer":"deliberate"}

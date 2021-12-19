@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"x\u01b0a, c\u00f4\u0309 \u0111a\u0323i, cu\u0303","a":"ancient","b":"motivate","c":"championship","d":"theatrical","answer":"ancient"}

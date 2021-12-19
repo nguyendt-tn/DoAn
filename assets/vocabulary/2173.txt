@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"mui xe, ma\u0341i nha\u0340, tr\u00e2\u0340n cu\u0309a h\u00e2\u0340m mo\u0309, vo\u0340m","a":"preach","b":"deputy","c":"mortgage","d":"roof","answer":"roof"}

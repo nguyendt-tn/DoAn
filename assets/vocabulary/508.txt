@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kho\u0341 hi\u00ea\u0309u, m\u0103\u0323c ca\u0309m, phi\u00ea\u0340n ph\u01b0\u0341c, ph\u01b0\u0341c ta\u0323p","a":"blend","b":"incentive","c":"theoretical","d":"complex","answer":"complex"}

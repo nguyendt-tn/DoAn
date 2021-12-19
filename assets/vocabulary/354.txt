@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tr\u00e2\u0341n ti\u0309nh, y\u00ean l\u0103\u0323ng","a":"epidemic","b":"calm","c":"dedicated","d":"thesis","answer":"calm"}

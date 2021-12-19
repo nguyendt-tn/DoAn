@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341i nhi\u0340n ch\u0103m ch\u0103m, ca\u0341i nhi\u0340n cho\u0340ng cho\u0323c","a":"stare","b":"golden","c":"abundance","d":"transcript","answer":"stare"}

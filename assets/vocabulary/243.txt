@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"khi tr\u01b0\u01a1\u0341c, nga\u0340y tr\u01b0\u01a1\u0341c, phi\u0341a tr\u01b0\u01a1\u0341c, tr\u01b0\u01a1\u0341c","a":"before","b":"agriculture","c":"thankfully","d":"patron","answer":"before"}

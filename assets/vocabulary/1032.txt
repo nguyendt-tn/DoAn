@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0341y s\u00f4ng, l\u01a1\u0341p khoa\u0341ng sa\u0309n, r\u00e2\u0340m nha\u0340, sa\u0340n nha\u0340, s\u00e2n \u0111\u00e2\u0323p lu\u0341a, t\u00e2\u0340ng l\u00e2\u0340u","a":"rival","b":"floor","c":"besides","d":"imminent","answer":"floor"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"la\u0340m tra\u0341i y\u0341, qu\u00e2\u0341y nhi\u00ea\u0309u","a":"annoy","b":"jurisdiction","c":"desirable","d":"suspend","answer":"annoy"}

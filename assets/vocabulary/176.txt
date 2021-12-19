@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng ty, \u0111oa\u0340n th\u00ea\u0309, s\u01b0\u0323 giao thi\u00ea\u0323p, s\u01b0\u0323 k\u00ea\u0341t h\u01a1\u0323p, s\u01b0\u0323 li\u00ean h\u01a1\u0323p","a":"lyric","b":"association","c":"reign","d":"desirable","answer":"association"}

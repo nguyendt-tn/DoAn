@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"gia \u0111i\u0340nh, gia t\u00f4\u0323c, qu\u00f4\u0341c n\u00f4\u0323i, trong n\u01b0\u01a1\u0341c, la\u0340m ta\u0323i trong n\u01b0\u01a1\u0341c","a":"domestic","b":"commodity","c":"stabilize","d":"facilitate","answer":"domestic"}

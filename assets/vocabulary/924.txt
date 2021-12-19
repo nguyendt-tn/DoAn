@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi ti\u00eau, kinh phi\u0341, mo\u0341n ti\u00eau, s\u01a1\u0309 phi\u0341, ti\u00ea\u0340n phi\u0341 t\u00f4\u0309n, ti\u00ea\u0340n xu\u00e2\u0341t ra","a":"independence","b":"ambassador","c":"pump","d":"expense","answer":"expense"}

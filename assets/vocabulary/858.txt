@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ham, h\u01b0\u01a1\u0309ng thu\u0323, thi\u0341ch thu\u0341, th\u01b0\u01a1\u0309ng th\u01b0\u0341c, vui thi\u0341ch","a":"sake","b":"enjoy","c":"challenging","d":"glance","answer":"enjoy"}

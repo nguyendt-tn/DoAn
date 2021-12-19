@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00e2\u0340u ti\u00ean, g\u00e2\u0340n, r\u00e2\u0341t s\u01a1\u0341m, s\u0103\u0341p t\u01a1\u0341i, s\u01a1\u0341m","a":"early","b":"appropriately","c":"temporarily","d":"opera","answer":"early"}

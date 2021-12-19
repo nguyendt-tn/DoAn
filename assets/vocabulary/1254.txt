@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111o\u0341i, \u0111o\u0341i bu\u0323ng, ham mu\u00f4\u0341n","a":"ideological","b":"hungry","c":"proceeds","d":"cater","answer":"hungry"}

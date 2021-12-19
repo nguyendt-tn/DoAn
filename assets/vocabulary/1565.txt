@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2n tay, b\u00f4\u0323 ph\u00e2\u0323n s\u01b0\u01a1\u0340n nha\u0340, chi th\u00ea\u0309, c\u01a1 quan ca\u0341i ma\u0341y","a":"pregnancy","b":"conventional","c":"patrol","d":"member","answer":"member"}

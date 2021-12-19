@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u0103\u0341c c\u01b0\u0309, \u0111\u01b0\u01a1\u0323c b\u00e2\u0340u, tru\u0341ng tuy\u00ea\u0309n, \u0111\u01b0\u01a1\u0323c cho\u0323n","a":"corresponding","b":"elect","c":"jet","d":"short-term","answer":"elect"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"xa, ca\u0341ch xa, cha\u0323y tr\u00f4\u0341n, \u0111i ch\u00f4\u0309 kha\u0341c, \u01a1\u0309 xa","a":"welfare","b":"counsellor","c":"away","d":"odds","answer":"away"}

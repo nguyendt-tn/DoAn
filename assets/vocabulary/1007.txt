@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 ta\u0340i cha\u0341nh","a":"collision","b":"rating","c":"motorist","d":"financial","answer":"financial"}

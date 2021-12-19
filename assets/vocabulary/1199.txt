@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01b0\u0323a ga\u0340, go\u0341t, go\u0341t ba\u0341ng su\u0341ng, ng\u01b0\u01a1\u0340i \u0103n ch\u01b0\u0323c, ng\u01b0\u01a1\u0340i v\u00f4 du\u0323ng, go\u0341t ch\u00e2n, go\u0341t gia\u0340y","a":"whilst","b":"heel","c":"lap","d":"choir","answer":"heel"}

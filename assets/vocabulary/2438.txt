@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u0103\u0341c ch\u0103\u0341n, v\u01b0\u0303ng ch\u0103\u0341c, v\u01b0\u0303ng va\u0340ng","a":"steady","b":"besides","c":"residence","d":"likewise","answer":"steady"}

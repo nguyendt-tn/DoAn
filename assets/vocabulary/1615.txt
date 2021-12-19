@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"h\u01a1n h\u00ea\u0341t, nhi\u00ea\u0340u h\u01a1n","a":"mostly","b":"ally","c":"precisely","d":"honesty","answer":"mostly"}

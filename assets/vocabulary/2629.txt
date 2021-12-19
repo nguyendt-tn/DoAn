@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"hoa\u0340n toa\u0340n, toa\u0340n b\u00f4\u0323, toa\u0340n th\u00ea\u0309","a":"totally","b":"outing","c":"systematic","d":"collaborate","answer":"totally"}

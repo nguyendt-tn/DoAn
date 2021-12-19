@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"g\u00f4n, ba\u0340n th\u0103\u0341ng, c\u01b0\u0309a g\u00f4n, \u0111i\u00ea\u0309m, mu\u0323c ti\u00eau, tha\u0340nh","a":"rocket","b":"parliamentary","c":"aspire","d":"goal","answer":"goal"}

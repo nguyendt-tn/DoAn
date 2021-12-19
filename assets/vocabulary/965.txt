@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"di\u0323 th\u01b0\u01a1\u0340ng, ky\u0340 di\u0323, ky\u0340 qua\u0341i","a":"nod","b":"recognition","c":"compel","d":"fantastic","answer":"fantastic"}

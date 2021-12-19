@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111i va\u0340o nha\u0340, \u01a1\u0309 nha\u0340, \u01a1\u0309 trong, \u01a1\u0309 trong nha\u0340","a":"treaty","b":"indoor","c":"badge","d":"offspring","answer":"indoor"}

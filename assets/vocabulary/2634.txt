@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"du kha\u0341ch, kha\u0341ch du la\u0303m","a":"legislative","b":"tourist","c":"chaos","d":"refugee","answer":"tourist"}

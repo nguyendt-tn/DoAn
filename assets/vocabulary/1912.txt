@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"da\u0341ng b\u00f4\u0323, tha\u0341i \u0111\u00f4\u0323, b\u00f4\u0323 \u0111i\u00ea\u0323u","a":"instruct","b":"pose","c":"seal","d":"cult","answer":"pose"}

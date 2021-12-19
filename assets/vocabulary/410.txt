@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ti\u0341nh ca\u0341ch \u0111\u0103\u0323c bi\u00ea\u0323t","a":"disappoint","b":"sketch","c":"hail","d":"characteristic","answer":"characteristic"}

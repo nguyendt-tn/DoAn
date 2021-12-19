@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"khi\u00ea\u0341p ha\u0309i, s\u01a1\u0323 ha\u0309i","a":"acute","b":"scared","c":"tribe","d":"lad","answer":"scared"}

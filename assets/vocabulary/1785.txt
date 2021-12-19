@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kho\u0341 chi\u0323u, la\u0340m \u0111au \u0111\u01a1\u0341n, la\u0340m \u0111au nh\u01b0\u0341c, lao kh\u00f4\u0309, phi\u00ea\u0340n mu\u00f4\u0323n, v\u00e2\u0341t va\u0309","a":"strand","b":"diminish","c":"graphic","d":"painful","answer":"painful"}

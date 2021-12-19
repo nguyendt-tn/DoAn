@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi\u0309 v\u00ea\u0340 gi\u01a1\u0340, chi\u0309 v\u00ea\u0340 th\u01a1\u0340i gian","a":"disability","b":"o'clock","c":"participation","d":"strategic","answer":"o'clock"}

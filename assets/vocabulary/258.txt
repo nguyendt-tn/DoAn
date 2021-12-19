@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"h\u01a1n, phi\u0309nh ga\u0323t","a":"operator","b":"weaken","c":"best","d":"breed","answer":"best"}

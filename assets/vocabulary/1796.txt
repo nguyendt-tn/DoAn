@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111oa\u0323n ti\u00ea\u0341t, ha\u0340ng \u0111\u00e2\u0340u \u0111oa\u0323n v\u0103n","a":"abortion","b":"indulge","c":"paragraph","d":"straightforward","answer":"paragraph"}

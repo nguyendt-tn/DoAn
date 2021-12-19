@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00e2\u0340y sanh khi\u0341, h\u01a1\u0341n h\u01a1\u0309, linh \u0111\u00f4\u0323ng, linh hoa\u0323t, ma\u0340u sa\u0341ng, s\u0103\u0341c t\u01b0\u01a1i, s\u00f4\u0341ng","a":"formulate","b":"lively","c":"stun","d":"dense","answer":"lively"}

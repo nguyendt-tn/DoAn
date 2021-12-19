@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i \u0111i du li\u0323ch, ng\u01b0\u01a1\u0340i \u0111i m\u01a1\u0340i mua ha\u0340ng ho\u0341a, ng\u01b0\u01a1\u0340i \u0111i xa, du kha\u0341ch","a":"strain","b":"traveller","c":"ignorance","d":"consequently","answer":"traveller"}

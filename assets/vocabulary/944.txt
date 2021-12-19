@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0341t th\u01b0\u01a1\u0340ng, di\u0323 ky\u0340, kha\u0341c th\u01b0\u01a1\u0340ng, la\u0323 lu\u0340ng, phi th\u01b0\u01a1\u0340ng","a":"squad","b":"imminent","c":"desktop","d":"extraordinary","answer":"extraordinary"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"coi, chia loa\u0323i, khi\u00ea\u0309n tra\u0341ch, ng\u00e2m cho m\u00ea\u0340m ra, qu\u01a1\u0309 m\u0103\u0341ng, r\u00e2\u0340y la, \u0111a\u0341nh gia\u0341, \u0111i\u0323nh gia\u0341, \u0111\u01b0\u01a1\u0323c coi, \u0111\u01b0\u01a1\u0323c xem","a":"mob","b":"rate","c":"visible","d":"cop","answer":"rate"}

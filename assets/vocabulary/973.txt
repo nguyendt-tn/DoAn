@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nhanh, mau, l\u00e2u phai, ki\u00ean c\u00f4\u0341, bu\u00f4\u0323c la\u0323i, pho\u0341ng \u0111a\u0309ng, r\u00e2\u0341t t\u01b0\u0323 do, cha\u0323y mau, b\u00ea\u0340n v\u01b0\u0303ng, v\u01b0\u0303ng ch\u0103\u0341c, ch\u0103\u0341c ch\u0103\u0341n","a":"anchor","b":"robbery","c":"erupt","d":"fast","answer":"fast"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"he\u0309o la\u0341nh, le\u0309 loi, tr\u01a1 tro\u0323i, v\u0103\u0341ng ve\u0309","a":"symbolic","b":"deficiency","c":"minimal","d":"lonely","answer":"lonely"}

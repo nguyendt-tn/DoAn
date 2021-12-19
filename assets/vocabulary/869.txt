@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"tro\u0323n ve\u0323n","a":"hierarchy","b":"promising","c":"confusion","d":"entirely","answer":"entirely"}

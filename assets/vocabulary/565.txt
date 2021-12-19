@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00e2\u0340u b\u00ea\u0341p, ng\u01b0\u01a1\u0340i n\u00e2\u0341u \u0103n, th\u01a1\u0323 n\u00e2\u0341u","a":"coalition","b":"cook","c":"niche","d":"serial","answer":"cook"}

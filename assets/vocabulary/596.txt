@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0323 ha\u0323, loa\u0340i v\u00e2\u0323t, ng\u01b0\u01a1\u0340i bi\u0323 hoa\u0340n ca\u0309nh chi ph\u00f4\u0341i, sinh v\u00e2\u0323t, ta\u0341c ph\u00e2\u0309m, v\u00e2\u0323t \u0111\u01b0\u01a1\u0323c sa\u0341ng ta\u0323o","a":"compound","b":"creature","c":"valid","d":"installation","answer":"creature"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 tha\u0340nh ph\u00f4\u0341","a":"urban","b":"broadband","c":"ruin","d":"homeland","answer":"urban"}

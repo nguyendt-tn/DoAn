@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"h\u01a1n n\u01b0\u0303a, va\u0309 ch\u0103ng, va\u0309 la\u0323i","a":"diverse","b":"partnership","c":"wrist","d":"furthermore","answer":"furthermore"}

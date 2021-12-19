@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0340i chi\u0309 thi\u0323, s\u01b0\u0323 da\u0323y d\u00f4\u0309, s\u01b0\u0323 gia\u0341o hu\u00e2\u0341n, s\u01b0\u0323 gia\u0341o du\u0323c","a":"recount","b":"depression","c":"instruction","d":"hilarious","answer":"instruction"}

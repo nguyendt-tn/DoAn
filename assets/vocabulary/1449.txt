@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nha\u0340n r\u00f4\u0309i","a":"elbow","b":"gallon","c":"leisure","d":"rape","answer":"leisure"}

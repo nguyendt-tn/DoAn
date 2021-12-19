@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0303i ca\u0341t, b\u01a1\u0340 bi\u00ea\u0309n, h\u00f4\u0323t ca\u0341t, ca\u0341t","a":"compile","b":"induce","c":"spokeswoman","d":"sand","answer":"sand"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"sanh ra, \u0111\u01b0a \u0111\u00ea\u0341n k\u00ea\u0341t qu\u0309a, pha\u0341t ra","a":"generate","b":"counterpart","c":"functional","d":"soar","answer":"generate"}

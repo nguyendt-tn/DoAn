@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340i ha\u0341t, ti\u00ea\u0341ng ha\u0341t","a":"song","b":"implement","c":"worthy","d":"cheek","answer":"song"}

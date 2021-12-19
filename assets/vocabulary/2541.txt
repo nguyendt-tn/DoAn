@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"da\u0323y, da\u0323y ho\u0323c, da\u0323y d\u00f4\u0309, hu\u00e2\u0341n luy\u00ea\u0323n, h\u01b0\u01a1\u0341ng d\u00e2\u0309n","a":"scattered","b":"altogether","c":"teach","d":"intensive","answer":"teach"}

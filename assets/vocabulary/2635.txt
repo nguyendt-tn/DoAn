@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"\u0111\u00ea\u0309, \u0111\u00f4\u0341i v\u01a1\u0341i, g\u00e2\u0340n, va\u0340o khoa\u0309ng, v\u00ea\u0340 h\u01b0\u01a1\u0341ng, v\u00ea\u0340 phi\u0341a","a":"drought","b":"installation","c":"restraint","d":"towards","answer":"towards"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 \u0111\u01b0a \u0111\u00ea\u0341n, ch\u00f4\u0309 nh\u00e2\u0323n, ch\u00f4\u0309 th\u00e2u nh\u00e2\u0323n, \u0111i\u0341ch, \u0111i\u0341ch \u0111\u00ea\u0341n, \u0111i\u00ea\u0309m \u0111\u00ea\u0341n","a":"detection","b":"destination","c":"ton","d":"persist","answer":"destination"}

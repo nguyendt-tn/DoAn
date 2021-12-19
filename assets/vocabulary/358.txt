@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u0103\u0341m tra\u0323i, ha\u0323 tra\u0323i, s\u01b0\u0323 \u0111o\u0341ng tra\u0323i","a":"peer","b":"blessing","c":"camping","d":"pop","answer":"camping"}

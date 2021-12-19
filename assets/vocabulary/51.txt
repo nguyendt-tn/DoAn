@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0341o cho hay, chi\u0309 ba\u0309o vi\u00ea\u0323c gi\u0340, ho\u0309i y\u0341 ki\u00ea\u0341n, khuy\u00ea\u0341n ca\u0341o, khuy\u00ean ng\u01b0\u01a1\u0340i na\u0340o","a":"placement","b":"insufficient","c":"administrator","d":"advise","answer":"advise"}

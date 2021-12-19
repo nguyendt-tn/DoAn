@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0341t l\u01a1\u0323i, b\u00e2\u0341t ti\u00ea\u0323n, pha\u0309n \u0111\u00f4\u0341i, tra\u0341i ng\u01b0\u01a1\u0323c","a":"adverse","b":"closed","c":"organizer","d":"distance","answer":"adverse"}

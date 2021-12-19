@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"ha\u0340ng n\u0103m, m\u00f4\u0309i n\u0103m, nh\u01b0 tho\u0341i quen, theo th\u01b0\u01a1\u0340ng l\u00ea\u0323","a":"saint","b":"compelling","c":"per","d":"merge","answer":"per"}

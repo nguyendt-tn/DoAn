@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ph\u00e2\u0340n \u0111\u00f4ng, ph\u00e2\u0340n l\u01a1\u0341n","a":"elbow","b":"fake","c":"proclaim","d":"mainly","answer":"mainly"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"ca\u0341i na\u0340o, thi\u0341ch ca\u0341i na\u0340o, thi\u0341ch loa\u0323i na\u0340o, v\u00e2\u0323t na\u0340o","a":"remedy","b":"isolated","c":"which","d":"bounce","answer":"which"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"giu\u0341p \u0111\u01a1\u0309 l\u00e2\u0309n nhau","a":"example","b":"population","c":"client","d":"aide","answer":"aide"}

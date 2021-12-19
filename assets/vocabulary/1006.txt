@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ta\u0340i cha\u0341nh, ti\u00ea\u0340n cu\u0309a","a":"uncertainty","b":"finance","c":"meantime","d":"creativity","answer":"finance"}

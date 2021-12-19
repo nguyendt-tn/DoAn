@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u00f4\u0340 ph\u00ea\u0341 tha\u0309i la\u0340m la\u0323i","a":"orchestra","b":"vow","c":"recycle","d":"economics","answer":"recycle"}

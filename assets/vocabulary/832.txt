@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00f4\u0341i r\u00f4\u0341i, kho\u0341 chi\u0323u, lu\u0341ng tu\u0341ng, lu\u00f4\u0341ng cu\u00f4\u0341ng","a":"embarrassed","b":"ritual","c":"accused","d":"incidence","answer":"embarrassed"}

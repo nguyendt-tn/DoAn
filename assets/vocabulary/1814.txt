@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"h\u01a1n, \u01a1\u0309 b\u00ean kia, \u01a1\u0309 tr\u00ean kia, \u01a1\u0309 tr\u01b0\u01a1\u0341c","a":"past","b":"counsellor","c":"prominent","d":"memorial","answer":"past"}

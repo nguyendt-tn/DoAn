@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u00e2\u0340u ho\u0309a, d\u00e2\u0340u l\u01b0\u0309a, d\u00e2\u0340u s\u0103ng","a":"applicant","b":"petrol","c":"kidnap","d":"rape","answer":"petrol"}

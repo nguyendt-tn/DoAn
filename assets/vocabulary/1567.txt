@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 c\u0103\u0340m, thu\u00f4\u0323c v\u00ea\u0340 tinh th\u00e2\u0340n, tri\u0341 o\u0341c","a":"motion","b":"compliance","c":"mental","d":"robbery","answer":"mental"}

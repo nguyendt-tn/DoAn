@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ti\u00ea\u0341p theo","a":"miserable","b":"following","c":"compassion","d":"reliability","answer":"following"}

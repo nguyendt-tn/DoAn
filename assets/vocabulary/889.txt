@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"nh\u01b0 nhau, ca\u0309 nh\u01b0\u0303ng, cho \u0111\u00ea\u0341n, cu\u0303ng, ngay \u0111\u00ea\u0341n","a":"even","b":"incentive","c":"seal","d":"distort","answer":"even"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"mang, \u00f4m, \u0111\u00e2\u0340u c\u01a1, chi\u0323u, c\u00e2\u0340m, pho\u0340ng su\u0323t gia\u0341, chi\u0323u thi\u00ea\u0323t ha\u0323i, chi\u0323u tra\u0341ch nhi\u00ea\u0323m","a":"assign","b":"bear","c":"personnel","d":"situated","answer":"bear"}

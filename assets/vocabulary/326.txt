@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a\u0309 b\u00ea\u0309, \u0111a\u0309 n\u01b0\u0341t","a":"medieval","b":"consecutive","c":"productive","d":"broken","answer":"broken"}

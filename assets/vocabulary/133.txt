@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u00f4\u0341i b\u00e2\u0341t ho\u0340a, m\u00f4\u0341i ph\u00e2n tranh, ta\u0341o, tra\u0341i b\u01a1m","a":"marker","b":"descend","c":"apple","d":"quest","answer":"apple"}

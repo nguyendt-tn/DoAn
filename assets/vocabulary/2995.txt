@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"go\u0323i nho\u0341m, ho\u0323p la\u0323i, t\u00e2\u0323p h\u01a1\u0323p, tri\u00ea\u0323u t\u00e2\u0323p","a":"assemble","b":"create","c":"dismiss","d":"measurement","answer":"assemble"}

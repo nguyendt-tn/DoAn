@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"sao, la\u0340m sao","a":"domain","b":"how","c":"fond","d":"reporting","answer":"how"}

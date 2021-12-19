@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0340i m\u01a1\u0340i, s\u01b0\u0323 m\u01a1\u0340i, thi\u0309nh c\u00e2\u0340u","a":"necessity","b":"province","c":"invitation","d":"composer","answer":"invitation"}

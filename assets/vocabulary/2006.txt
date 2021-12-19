@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chung, c\u00f4ng khai, c\u00f4ng nhi\u00ean, c\u00f4ng c\u00f4\u0323ng","a":"realization","b":"irony","c":"public","d":"deposit","answer":"public"}

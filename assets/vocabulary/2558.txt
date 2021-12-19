@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"qu\u00e2\u0340n v\u01a1\u0323t","a":"protective","b":"extensively","c":"tennis","d":"custody","answer":"tennis"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho hay, ba\u0341o cho bi\u00ea\u0341t tr\u01b0\u01a1\u0341c","a":"warn","b":"fond","c":"prescription","d":"commander","answer":"warn"}

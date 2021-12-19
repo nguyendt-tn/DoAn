@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0341nh banh b\u0103\u0340ng g\u00e2\u0323y, m\u00f4\u0323t l\u00f4\u0341i ch\u01a1i qu\u00e2\u0340n","a":"invade","b":"counterpart","c":"hockey","d":"sphere","answer":"hockey"}

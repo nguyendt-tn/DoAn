@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"g\u00e2\u0340n nhau, k\u00ea\u0340 nhau, ti\u00ea\u0341p c\u00e2\u0323n","a":"confirm","b":"adjacent","c":"destination","d":"lip","answer":"adjacent"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0303m gia\u0341c, gia\u0341c quan, s\u01b0\u0323 \u00f4\u0309n ki\u00ea\u0323n cu\u0309a tinh th\u00e2\u0340n, s\u01b0\u0323 pha\u0341n \u0111oa\u0341n, tri gia\u0341c, y\u0341 nghi\u0303a, y\u0341 th\u01b0\u0341c","a":"endeavour","b":"raid","c":"sense","d":"permanently","answer":"sense"}

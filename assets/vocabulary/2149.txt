@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"lui binh, \u0111a\u0341nh tha\u0341o lui, h\u01b0u tri\u0341, \u00e2\u0309n d\u00e2\u0323t, lui v\u00ea\u0340, ru\u0341t lui, t\u01b0\u0340 ch\u01b0\u0341c, th\u00f4\u0309i ke\u0340n lui qu\u00e2n, v\u00ea\u0340 h\u01b0u","a":"revival","b":"retire","c":"credible","d":"exile","answer":"retire"}

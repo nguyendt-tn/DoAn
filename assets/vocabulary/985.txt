@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nu\u00f4i, cho thu\u0341 v\u00e2\u0323t \u0103n, cung c\u00e2\u0341p, nu\u00f4i hy vo\u0323ng, nu\u00f4i d\u01b0\u01a1\u0309ng","a":"feed","b":"predominantly","c":"nasty","d":"denounce","answer":"feed"}

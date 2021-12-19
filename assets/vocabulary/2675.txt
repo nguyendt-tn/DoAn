@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u01b0\u01a1\u0340ng h\u00e2\u0340m","a":"tunnel","b":"meditation","c":"veteran","d":"ally","answer":"tunnel"}

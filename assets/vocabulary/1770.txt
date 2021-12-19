@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u01a1\u0309 phi\u0341a ngoa\u0340i, phi\u0341a ngoa\u0340i","a":"outdoors","b":"thoughtful","c":"enforce","d":"invade","answer":"outdoors"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ph\u01b0\u01a1ng \u0111\u00f4ng","a":"raid","b":"denounce","c":"eastern","d":"hunger","answer":"eastern"}

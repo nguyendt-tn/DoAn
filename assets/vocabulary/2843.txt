@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0340n ba\u0340","a":"woman","b":"blanket","c":"stark","d":"intervention","answer":"woman"}

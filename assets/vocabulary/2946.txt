@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0340y to\u0309, chu\u0309 tr\u01b0\u01a1ng, qua\u0309 quy\u00ea\u0341t, xa\u0341c nh\u00e2\u0323n","a":"allege","b":"weakness","c":"banana","d":"friendly","answer":"allege"}

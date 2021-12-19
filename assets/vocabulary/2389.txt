@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"linh h\u00f4\u0340n, ng\u01b0\u01a1\u0340i, t\u00e2m h\u00f4\u0340n","a":"breed","b":"mainland","c":"soul","d":"workplace","answer":"soul"}

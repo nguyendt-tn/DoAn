@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00ea\u0323nh vi\u00ea\u0323n, c\u01b0\u0341u t\u00ea\u0341 vi\u00ea\u0323n, nha\u0340 th\u01b0\u01a1ng, d\u01b0\u01a1\u0303ng \u0111\u01b0\u01a1\u0340ng","a":"hospital","b":"breakthrough","c":"unity","d":"landlord","answer":"hospital"}

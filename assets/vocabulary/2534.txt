@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u0103ng b\u0103\u0340ng va\u0309i, cu\u00f4\u0341n b\u0103ng nha\u0323c","a":"unacceptable","b":"insert","c":"destruction","d":"tape","answer":"tape"}

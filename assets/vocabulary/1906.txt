@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111\u00f4\u0340 u\u00f4\u0341ng s\u00f4i bo\u0323t","a":"pop","b":"accommodate","c":"gathering","d":"ratio","answer":"pop"}

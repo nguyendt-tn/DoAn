@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i k\u00ea\u0341 quy\u00ea\u0340n, ng\u01b0\u01a1\u0340i th\u01b0\u0340a h\u01b0\u01a1\u0309ng, ng\u01b0\u01a1\u0340i th\u01b0\u0340a k\u00ea\u0341, ng\u01b0\u01a1\u0340i th\u01b0\u0340a nh\u00e2\u0323n, nh\u01b0\u01a1\u0340ng la\u0323i","a":"common","b":"development","c":"leave","d":"assign","answer":"assign"}

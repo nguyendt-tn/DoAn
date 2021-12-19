@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"m\u00f4\u0323t va\u0340i, ng\u01b0\u01a1\u0340i na\u0340o","a":"canvas","b":"stimulate","c":"some","d":"flee","answer":"some"}

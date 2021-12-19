@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nh\u0103\u0341c la\u0323i, s\u01b0\u0323 ghi che\u0341p","a":"vulnerable","b":"mention","c":"gig","d":"charter","answer":"mention"}

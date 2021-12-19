@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u00ea\u0341t \u01a1n, d\u00ea\u0309 chi\u0323u","a":"grateful","b":"devastate","c":"fortunate","d":"theology","answer":"grateful"}

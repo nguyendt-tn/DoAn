@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ky\u0341 hi\u00ea\u0323u, v\u00e2\u0323t t\u01b0\u01a1\u0323ng tr\u01b0ng","a":"symbol","b":"mature","c":"spectator","d":"dismissal","answer":"symbol"}

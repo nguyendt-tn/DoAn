@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nghi\u0323 vi\u00ea\u0323n","a":"parliament","b":"aids","c":"tap","d":"mosque","answer":"parliament"}

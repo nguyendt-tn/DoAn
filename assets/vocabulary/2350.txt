@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng ki\u0341nh tro\u0323ng, mo\u0309ng, nhe\u0323","a":"slight","b":"meaningful","c":"comprise","d":"warming","answer":"slight"}

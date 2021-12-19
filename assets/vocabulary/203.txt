@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"em be\u0341, \u0111\u01b0\u0341a be\u0341, tre\u0309 ni\u0341t, tre\u0309 nho\u0309","a":"jet","b":"baby","c":"diplomat","d":"puzzle","answer":"baby"}

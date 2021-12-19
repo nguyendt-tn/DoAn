@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u0103\u0341c ch\u0103\u0341n, c\u01b0\u01a1ng quy\u00ea\u0341t, minh ba\u0323ch, qua\u0309 quy\u00ea\u0341t, thu\u00f4\u0323c v\u00ea\u0340 a\u0309nh m\u0103\u0323t, xa\u0341c th\u00e2\u0323t, ro\u0309 ra\u0340ng","a":"positive","b":"visible","c":"listing","d":"correction","answer":"positive"}

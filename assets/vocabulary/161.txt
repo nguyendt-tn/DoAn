@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"do ng\u01b0\u01a1\u0340i la\u0340m ra, nh\u00e2n ta\u0323o","a":"referendum","b":"artificial","c":"infant","d":"buddy","answer":"artificial"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u00f4\u0309i ho\u0340a nha\u0323c","a":"concert","b":"specimen","c":"bind","d":"gene","answer":"concert"}

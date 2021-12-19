@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u00e2u s\u00e2\u0340u, bu\u00f4\u0340n, bu\u00f4\u0340n ba\u0309, bu\u00f4\u0340n r\u00e2\u0340u, \u0111a\u0341ng th\u01b0\u01a1ng t\u00e2m","a":"charm","b":"sad","c":"rod","d":"exit","answer":"sad"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch \u0111\u01b0\u0341ng, ch\u00f4\u0309, ch\u00f4\u0309 \u0111\u00e2\u0323u xe, gian ha\u0340ng, kha\u0341n \u0111a\u0340i, s\u01b0\u0323 ch\u00f4\u0341ng c\u01b0\u0323, s\u01b0\u0323 ng\u01b0\u0340ng la\u0323i, vi\u0323 tri\u0341","a":"stand","b":"considerable","c":"loom","d":"skip","answer":"stand"}

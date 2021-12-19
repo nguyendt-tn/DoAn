@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u00e2\u0309n ma\u0323ch, kha\u0341m bi\u0323nh, kha\u0341m pha\u0341, do\u0340 xe\u0341t, ti\u0340m to\u0340i, tha\u0341m hi\u00ea\u0309m","a":"prominent","b":"headquarters","c":"explore","d":"deem","answer":"explore"}

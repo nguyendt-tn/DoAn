@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0323nh nh\u01b0\u0341c \u0111\u00e2\u0340u, ch\u01b0\u0341ng nh\u01b0\u0341c \u0111\u00e2\u0340u, \u0111au \u0111\u00e2\u0340u, nh\u01b0\u0341c \u0111\u00e2\u0340u","a":"encompass","b":"substitute","c":"incorporate","d":"headache","answer":"headache"}

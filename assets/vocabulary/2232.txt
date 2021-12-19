@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"mu\u0340a, th\u01a1\u0340i ky\u0340, th\u01a1\u0340i ti\u00ea\u0341t","a":"steam","b":"season","c":"delete","d":"guerrilla","answer":"season"}

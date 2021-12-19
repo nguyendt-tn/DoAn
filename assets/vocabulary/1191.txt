@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nghe, nh\u00e2\u0323n, thi\u0341nh gia\u0341c, thi\u0341nh tai, thi\u0341nh tri\u0323","a":"decision-making","b":"film-maker","c":"hear","d":"squad","answer":"hear"}

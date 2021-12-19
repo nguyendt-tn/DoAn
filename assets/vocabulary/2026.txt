@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hoa\u0340ng h\u00e2\u0323u, la\u0341 \u0111\u00e2\u0340m, n\u01b0\u0303 chu\u0341a, n\u01b0\u0303 hoa\u0340ng, n\u01b0\u0303 v\u01b0\u01a1ng, ong chu\u0341a, tha\u0341nh m\u00e2\u0303u","a":"cheer","b":"queen","c":"supervise","d":"explicitly","answer":"queen"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"chi\u0341nh mi\u0340nh","a":"enterprise","b":"restore","c":"hip","d":"personally","answer":"personally"}

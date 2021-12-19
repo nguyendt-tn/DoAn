@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thi\u00ea\u0341u ni\u00ean, tre\u0309, tre\u0309 tu\u00f4\u0309i","a":"young","b":"prosecution","c":"partially","d":"assign","answer":"young"}

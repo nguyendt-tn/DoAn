@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340i la\u0340m, c\u00f4ng vi\u00ea\u0323c, ph\u00e2\u0340n vi\u00ea\u0323c la\u0340m","a":"puzzle","b":"firework","c":"task","d":"constitution","answer":"task"}

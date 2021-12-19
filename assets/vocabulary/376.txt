@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0309u tha\u0309, kh\u00f4ng c\u00e2\u0309n th\u00e2\u0323n, kh\u00f4ng chu\u0341 y\u0341, kh\u00f4ng lo l\u0103\u0341ng, kh\u00f4ng l\u01b0u y\u0341, v\u00f4 t\u01b0 l\u01b0\u0323","a":"careless","b":"emergence","c":"sue","d":"establishment","answer":"careless"}

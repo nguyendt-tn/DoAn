@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"i\u0341t h\u01a1n, ke\u0341m h\u01a1n, kh\u00f4ng co\u0341, nho\u0309 h\u01a1n","a":"democracy","b":"less","c":"formula","d":"trailer","answer":"less"}

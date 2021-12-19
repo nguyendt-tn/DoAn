@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"h\u00f4\u0340i t\u01b0\u01a1\u0309ng, l\u01b0u y\u0341 \u0111\u00ea\u0341n, nghi\u0303 \u0111\u00ea\u0341n, nh\u01a1\u0341 la\u0323i","a":"remember","b":"grocery","c":"diverse","d":"workplace","answer":"remember"}

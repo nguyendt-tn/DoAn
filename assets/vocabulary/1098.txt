@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"t\u0103ng gia, \u0111\u01b0\u01a1\u0323c \u01a1n, l\u01a1\u0340i, l\u01a1\u0323i i\u0341ch, s\u01b0\u0323 t\u0103ng th\u00eam, \u0111\u01b0\u01a1\u0323c, tham l\u01a1\u0323i, th\u0103\u0341ng l\u01a1\u0323i","a":"patron","b":"primarily","c":"gain","d":"chunk","answer":"gain"}

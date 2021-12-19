@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"trong khi, trong khoa\u0309ng","a":"thankfully","b":"personnel","c":"counsellor","d":"during","answer":"during"}

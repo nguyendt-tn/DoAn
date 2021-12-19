@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"gia\u0309i ph\u01b0\u01a1ng tri\u0340nh, gia\u0309i quy\u00ea\u0341t, thanh toa\u0341n","a":"solve","b":"bow","c":"poll","d":"persistent","answer":"solve"}

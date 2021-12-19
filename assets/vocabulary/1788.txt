@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01b0\u0341c tranh, s\u01b0\u0323 s\u01a1n, s\u01b0\u0323 ta\u0309 ra, s\u01b0\u0323 t\u00f4 \u0111i\u00ea\u0309m, s\u01b0\u0323 ve\u0303","a":"undoubtedly","b":"painting","c":"investor","d":"accountant","answer":"painting"}

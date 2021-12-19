@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u00e2m \u0111i\u00ea\u0323u, gio\u0323ng, ma\u0340u s\u0103\u0341c, ti\u00ea\u0341ng, ti\u0341nh c\u01b0\u01a1ng","a":"tone","b":"modification","c":"workshop","d":"encompass","answer":"tone"}

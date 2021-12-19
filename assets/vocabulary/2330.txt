@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0340n r\u01b0\u0309a, ch\u00e2\u0323u r\u01b0\u0309a che\u0341n, cu\u0323c chi\u0340 bu\u00f4\u0323c \u01a1\u0309 l\u01b0\u01a1\u0303i c\u00e2u, ra\u0309nh n\u01b0\u01a1\u0341c d\u01a1, thu\u0340ng, ch\u00e2\u0323u r\u01b0\u0309a m\u0103\u0323t","a":"symbolic","b":"parallel","c":"altogether","d":"sink","answer":"sink"}

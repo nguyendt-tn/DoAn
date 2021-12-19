@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ha\u0309i ngoa\u0323i, \u01a1\u0309 xa, t\u01b0\u0341 phi\u0341a","a":"tendency","b":"craft","c":"gorgeous","d":"abroad","answer":"abroad"}

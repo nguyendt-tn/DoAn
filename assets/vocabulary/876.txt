@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ta\u0341nh ca\u0341ch b\u0103\u0340ng nhau, ta\u0341nh ca\u0341ch ngang nhau","a":"equally","b":"infer","c":"verbal","d":"aids","answer":"equally"}

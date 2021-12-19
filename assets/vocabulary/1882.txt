@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111e\u0323p, \u00eam di\u0323u, d\u00ea\u0309 th\u01b0\u01a1ng, thu\u0341 vi\u0323, vui ve\u0309","a":"legendary","b":"supreme","c":"congregation","d":"pleasant","answer":"pleasant"}

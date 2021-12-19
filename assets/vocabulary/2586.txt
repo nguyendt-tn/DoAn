@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4 khan, kha\u0341t, kha\u0341t n\u01b0\u01a1\u0341c","a":"testimony","b":"landlord","c":"contend","d":"thirsty","answer":"thirsty"}

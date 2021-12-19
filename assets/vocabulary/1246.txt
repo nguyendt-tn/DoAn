@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"la\u0341 phu\u0309, va\u0309i tru\u0340m mi\u0340nh ng\u01b0\u0323a","a":"housing","b":"coordinator","c":"slogan","d":"input","answer":"housing"}

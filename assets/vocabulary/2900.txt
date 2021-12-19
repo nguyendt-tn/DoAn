@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nhi\u00ea\u0323m vu\u0323, tra\u0341ch nhi\u00ea\u0323m","a":"turn","b":"accountability","c":"competitor","d":"her","answer":"accountability"}

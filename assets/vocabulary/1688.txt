@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ph\u01b0\u01a1ng b\u0103\u0341c, thu\u00f4\u0323c v\u00ea\u0340 h\u01b0\u01a1\u0341ng b\u0103\u0341c, vu\u0340ng ph\u01b0\u01a1ng b\u0103\u0341c","a":"destruction","b":"northern","c":"hail","d":"receiver","answer":"northern"}

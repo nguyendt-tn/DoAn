@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ph\u00e2n minh, gia\u0309n di\u0323, hi\u00ea\u0309n nhi\u00ean, b\u0103\u0340ng ph\u0103\u0309ng, ro\u0309 ra\u0340ng, kh\u00f4ng phi\u00ea\u0340n ph\u01b0\u0341c, kh\u00f4ng r\u01b0\u01a1\u0340m ra\u0340, minh ba\u0323ch","a":"plain","b":"dare","c":"suppress","d":"municipal","answer":"plain"}

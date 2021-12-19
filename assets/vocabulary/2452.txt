@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u01b0a gi\u00f4ng, ba\u0303o, ba\u0309o t\u00f4\u0341, s\u01b0\u0323 t\u00e2\u0341n c\u00f4ng","a":"storm","b":"output","c":"pregnancy","d":"cave","answer":"storm"}

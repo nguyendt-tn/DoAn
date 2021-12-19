@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nguy\u00ean, cha\u0341nh, \u0111\u00e2\u0340u ti\u00ean, thu\u00f4\u0323c v\u00ea\u0340 c\u0103n nguy\u00ean, kh\u01a1\u0309i \u0111\u00e2\u0340u","a":"aesthetic","b":"genetic","c":"verify","d":"original","answer":"original"}

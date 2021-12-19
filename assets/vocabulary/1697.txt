@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"b\u00e2y gi\u01a1\u0340, gi\u01a1\u0340 \u0111\u00e2y, trong ti\u0340nh tra\u0323ng, hi\u00ea\u0323n nay, lu\u0341c n\u00e2\u0340y, ngay b\u00e2y gi\u01a1\u0340, nga\u0340y nay, ti\u0340nh th\u00ea\u0341 \u00e2\u0341y","a":"motorist","b":"now","c":"pursuit","d":"cheek","answer":"now"}

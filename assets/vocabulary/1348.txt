@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"qu\u00f4\u0341c t\u00ea\u0341","a":"progressive","b":"international","c":"outbreak","d":"confrontation","answer":"international"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u0340nh giao ha\u0309o gi\u01b0\u0303a la\u0341ng gi\u00ea\u0340ng, ti\u0340nh giao ha\u0309o ng\u01b0\u01a1\u0340i l\u00e2n c\u00e2\u0323n, ti\u0340nh ha\u0340ng xo\u0341m, ti\u0340nh l\u00e2n bang","a":"neighbourhood","b":"stir","c":"congregation","d":"parliamentary","answer":"neighbourhood"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng vi\u00ea\u0323c, ta\u0341c ph\u00e2\u0309m, vi\u00ea\u0323c la\u0340m","a":"fossil","b":"restrict","c":"distant","d":"work","answer":"work"}

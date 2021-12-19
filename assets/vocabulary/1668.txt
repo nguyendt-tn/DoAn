@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"t\u00e2n, ch\u01b0a du\u0340ng \u0111\u00ea\u0341n, m\u01a1\u0341i, m\u01a1\u0341i la\u0323, m\u01a1\u0341i la\u0340m ra, m\u01a1\u0341i me\u0309","a":"new","b":"discourse","c":"treaty","d":"founder","answer":"new"}

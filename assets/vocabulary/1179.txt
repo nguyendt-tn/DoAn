@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00e2\u0341t ti\u00ea\u0323n, la\u0340m thi\u00ea\u0323t ha\u0323i, m\u00f4\u0341i ha\u0323i, t\u00f4\u0309n ha\u0323i","a":"incur","b":"violation","c":"commodity","d":"harm","answer":"harm"}

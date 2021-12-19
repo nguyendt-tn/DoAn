@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"\u0111i qua","a":"thrive","b":"firmly","c":"chronic","d":"via","answer":"via"}

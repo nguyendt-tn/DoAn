@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0323nh l\u01a1\u0309 hay co\u0341 ung, con \u00ea\u0341ch, con nha\u0341i","a":"frog","b":"loom","c":"thoughtful","d":"cynical","answer":"frog"}

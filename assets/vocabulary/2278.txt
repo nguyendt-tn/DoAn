@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"pha\u0309i, se\u0309","a":"shall","b":"notebook","c":"calculation","d":"robbery","answer":"shall"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c no\u0341i chuy\u00ea\u0323n phi\u00ea\u0341m, no\u0341i chuy\u00ea\u0323n nha\u0303m, s\u01b0\u0323 chuy\u00ea\u0323n tro\u0340, s\u01b0\u0323 th\u00e2n m\u00e2\u0323t","a":"chat","b":"chamber","c":"set-up","d":"hint","answer":"chat"}

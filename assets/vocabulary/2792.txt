@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 b\u00e2\u0323n, s\u01b0\u0323 mang, s\u01b0\u0323 m\u0103\u0323c, s\u01b0\u0323 mo\u0340n vi\u0340 th\u01b0\u01a1\u0340ng du\u0340ng","a":"wear","b":"facilitate","c":"chase","d":"trillion","answer":"wear"}

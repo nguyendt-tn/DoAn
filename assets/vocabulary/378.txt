@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0309i ca\u0340 r\u00f4\u0341t, ca\u0340 r\u00f4\u0341t, cu\u0309 ca r\u00f4\u0341t, thu\u00f4\u0341c la\u0341 qu\u00e2\u0341n","a":"aide","b":"carrot","c":"parental","d":"versus","answer":"carrot"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"xe h\u01a1i, xe \u00f4 t\u00f4, toa, gio\u0309 khi\u0341 c\u00e2\u0340u ch\u01a1\u0309 \u0111\u00f4\u0340 du\u0340ng, gio\u0309 khi\u0341 c\u00e2\u0340u ch\u01a1\u0309 ng\u01b0\u01a1\u0340i, xe b\u00f4\u0341n ba\u0341nh","a":"defect","b":"humanitarian","c":"portfolio","d":"car","answer":"car"}

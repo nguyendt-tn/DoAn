@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cha\u0323y, co\u0341 c\u00f4ng hi\u00ea\u0323u, co\u0341 hi\u00ea\u0323u qu\u0309a, co\u0341 ta\u0341c du\u0323ng, gia\u0341m \u0111\u00f4\u0341c, m\u00f4\u0309 xe\u0309, thi ha\u0340nh, th\u01b0\u0323c ha\u0340nh, v\u00e2\u0323n chuy\u00ea\u0309n","a":"operate","b":"grin","c":"precisely","d":"destruction","answer":"operate"}

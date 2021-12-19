@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cu\u00f4\u0341n sa\u0341ch \u0111o\u0341","a":"vocal","b":"fibre","c":"that","d":"contention","answer":"that"}

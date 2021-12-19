@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u01b0\u01a1\u0340i bi\u00ea\u0341ng","a":"lazy","b":"genocide","c":"pronounced","d":"defect","answer":"lazy"}

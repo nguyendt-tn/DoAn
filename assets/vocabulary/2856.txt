@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"t\u00ea\u0323 h\u01a1n, t\u00f4\u0340i h\u01a1n, v\u00e2\u0323t t\u00ea\u0323 h\u01a1n, x\u00e2\u0341u h\u01a1n","a":"contractor","b":"greatly","c":"worse","d":"tighten","answer":"worse"}

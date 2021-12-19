@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"khe\u0341o \u0111e\u0323p, thu\u00f4\u0323c v\u00ea\u0340 my\u0303 thu\u00e2\u0323t, thu\u00f4\u0323c v\u00ea\u0340 ngh\u00ea\u0323 thu\u00e2\u0323t","a":"artistic","b":"diplomatic","c":"reasoning","d":"establishment","answer":"artistic"}

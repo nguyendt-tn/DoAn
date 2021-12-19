@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u00f4ng n\u00f4\u0323i, \u00f4ng ngoa\u0323i","a":"habitat","b":"endorsement","c":"racist","d":"grandfather","answer":"grandfather"}

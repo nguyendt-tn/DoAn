@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"chi\u0341nh xa\u0341c, \u0111u\u0341ng, \u0111u\u0341ng nh\u01b0 v\u00e2\u0323y, hoa\u0340n toa\u0340n \u0111u\u0341ng","a":"sigh","b":"exactly","c":"booking","d":"formerly","answer":"exactly"}

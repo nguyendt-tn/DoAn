@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chu\u0309 nh\u00e2\u0323t","a":"initiate","b":"descent","c":"sunday","d":"punch","answer":"sunday"}

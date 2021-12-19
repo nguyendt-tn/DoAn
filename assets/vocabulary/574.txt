@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"s\u01b0\u0309a ch\u01b0\u0309a, s\u01b0\u0323 tr\u01b0\u0340ng tri\u0323","a":"correctly","b":"making","c":"sake","d":"domain","answer":"correctly"}

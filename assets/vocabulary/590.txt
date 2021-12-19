@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"k\u00eau vang, \u0111u\u0323ng xe h\u01a1i, r\u01a1\u0341t xu\u00f4\u0341ng \u0111\u00e2\u0341t, ti\u00ea\u0341ng s\u00e2\u0341m n\u00f4\u0309, \u0111\u00e2\u0323p b\u00ea\u0309, la\u0340m b\u00ea\u0309, n\u00f4\u0309 vang","a":"detain","b":"crash","c":"prey","d":"extremist","answer":"crash"}

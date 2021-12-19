@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phu\u0323c ki\u0341ch, s\u01b0\u0323 ch\u01a1\u0340 \u0111\u01a1\u0323i, s\u01b0\u0323 ng\u01b0\u0340ng la\u0323i, s\u01b0\u0323 ri\u0340nh, s\u01b0\u0323 tr\u00f4ng mong","a":"insert","b":"subsequent","c":"wait","d":"embed","answer":"wait"}

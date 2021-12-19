@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0341 nh\u00e2n, co\u0341 ti\u0341nh \u0111\u0103\u0323c bi\u00ea\u0323t, \u0111\u01a1\u0340i t\u01b0, ri\u00eang bi\u00ea\u0323t, thu\u00f4\u0323c v\u00ea\u0340 ca\u0341 nh\u00e2n","a":"subsidy","b":"championship","c":"mill","d":"individual","answer":"individual"}

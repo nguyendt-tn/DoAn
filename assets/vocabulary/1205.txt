@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hay giu\u0341p \u0111\u01a1\u0303","a":"contrary","b":"helpful","c":"miserable","d":"transparency","answer":"helpful"}

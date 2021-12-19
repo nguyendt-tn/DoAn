@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01a1n, h\u00f4\u0340","a":"theoretical","b":"consciousness","c":"lake","d":"fibre","answer":"lake"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"dung ma\u0323o, hi\u0340nh da\u0341ng, hi\u0340nh th\u00ea\u0309, ngoa\u0323i hi\u0340nh, nh\u00e2n v\u00e2\u0323t","a":"observer","b":"deposit","c":"proportion","d":"figure","answer":"figure"}

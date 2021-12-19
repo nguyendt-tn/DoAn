@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nh\u00e2n vi\u00ean, ba toong, b\u00f4\u0323 tham m\u01b0u, g\u00e2\u0323y, g\u00e2y bi\u00ea\u0309u hi\u00ea\u0323u ch\u01b0\u0341c t\u01b0\u01a1\u0341c","a":"pride","b":"municipal","c":"staff","d":"database","answer":"staff"}

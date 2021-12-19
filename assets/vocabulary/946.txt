@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"tr\u01b0\u01a1\u0340ng h\u01a1\u0323p \u0111\u0103\u0323c bi\u00ea\u0323t, v\u00f4 cu\u0340ng","a":"sound","b":"allocate","c":"extremely","d":"lens","answer":"extremely"}

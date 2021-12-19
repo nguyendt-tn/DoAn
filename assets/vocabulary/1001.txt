@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"v\u0103n th\u01b0, ca\u0341i giu\u0303a, ha\u0340ng da\u0303y, h\u00f4\u0323c tu\u0309, t\u00e2\u0323p gi\u00e2\u0341y, t\u01a1\u0340 bi\u0340a, ba\u0341o s\u01b0u t\u00e2\u0323p, h\u00f4\u0340 s\u01a1, ng\u0103n c\u00e2\u0341t h\u00f4\u0340 s\u01a1","a":"consumption","b":"excess","c":"spare","d":"file","answer":"file"}

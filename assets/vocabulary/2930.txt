@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i b\u00eanh v\u01b0\u0323c, th\u00e2\u0340y ki\u00ea\u0323n","a":"teaching","b":"beauty","c":"advocate","d":"expand","answer":"advocate"}

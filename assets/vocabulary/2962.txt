@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"vui, gia\u0309i tri\u0341","a":"amusing","b":"few","c":"coin","d":"useful","answer":"amusing"}

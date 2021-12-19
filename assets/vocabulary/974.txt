@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0341m ch\u0103\u0323t, b\u0103\u0341t di\u0341nh va\u0340o, bu\u00f4\u0323c, c\u00f4\u0323t, \u0111o\u0341ng la\u0323i, tro\u0341i","a":"consultant","b":"surrender","c":"fasten","d":"mechanic","answer":"fasten"}

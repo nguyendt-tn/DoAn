@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"la\u0340m g\u01b0\u01a1ng x\u00e2\u0341u, la\u0340m nhu\u0323c, l\u00e2\u0340m l\u00f4\u0303i, pha\u0323m l\u00f4\u0303i, pha\u0323m t\u00f4\u0323i","a":"monk","b":"offend","c":"specialized","d":"constitute","answer":"offend"}

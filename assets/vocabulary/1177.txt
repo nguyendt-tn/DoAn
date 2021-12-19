@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"si\u00eang n\u0103ng, th\u00f4, kho\u0341, kho\u0341 kh\u0103n, kho\u0341 ta\u0341nh, nghi\u00eam kh\u0103\u0341c, nha\u0341m, c\u01b0\u0341ng, c\u01b0\u0323c nho\u0323c, r\u0103\u0341n, v\u01b0\u0303ng","a":"hard","b":"timber","c":"corresponding","d":"loyalty","answer":"hard"}

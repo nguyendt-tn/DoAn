@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"b\u00e2\u0341t ky\u0340 ch\u00f4\u0309 na\u0340o, n\u01a1i na\u0340o","a":"anywhere","b":"patrol","c":"ambassador","d":"render","answer":"anywhere"}

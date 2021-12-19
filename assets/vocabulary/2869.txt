@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u0103m","a":"monthly","b":"year","c":"enforcement","d":"revenge","answer":"year"}

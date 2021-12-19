@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 giao pho\u0341, truy\u00ea\u0340n thuy\u00ea\u0341t","a":"indication","b":"backdrop","c":"tradition","d":"rip","answer":"tradition"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"khen ng\u01a1\u0323i, ta\u0341n th\u01b0\u01a1\u0309ng, ti\u00ea\u0341ng v\u00f4\u0309 tay, v\u00f4\u0309 tay khen","a":"typical","b":"empty","c":"closely","d":"applaud","answer":"applaud"}

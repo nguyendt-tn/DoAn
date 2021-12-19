@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0340n ca\u0309i, ba\u0340n lu\u00e2\u0323n, la\u0340m tan","a":"nutrition","b":"discuss","c":"bass","d":"shortage","answer":"discuss"}

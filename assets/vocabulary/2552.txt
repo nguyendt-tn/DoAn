@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tivi, phe\u0341p v\u00f4 tuy\u00ea\u0341n truy\u00ea\u0340n hi\u0340nh","a":"reverse","b":"television","c":"joint","d":"desperately","answer":"television"}

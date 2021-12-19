@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bu\u00f4\u0340n r\u00e2\u0340u, kh\u00f4\u0309 s\u01a1\u0309, phi\u00ea\u0340n mu\u00f4\u0323n","a":"encouragement","b":"fame","c":"unhappy","d":"vicious","answer":"unhappy"}

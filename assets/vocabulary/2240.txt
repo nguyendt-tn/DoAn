@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khu v\u01b0\u0323c","a":"representation","b":"conquer","c":"overly","d":"sector","answer":"sector"}

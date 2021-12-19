@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u00e2\u0341m a\u0341p, \u00eam a\u0341i, di\u0323u da\u0340ng, kh\u00f4ng nghi\u00eam kh\u0103\u0341c, ngo\u0323t nga\u0340o, \u00f4n ho\u0340a, thu\u00f4\u0341c nhe\u0323","a":"coincide","b":"mild","c":"resemble","d":"frequent","answer":"mild"}

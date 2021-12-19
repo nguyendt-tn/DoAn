@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"xa, xa x\u00f4i, he\u0309o la\u0341nh, v\u0103\u0341ng ve\u0309","a":"speculate","b":"remote","c":"harassment","d":"absence","answer":"remote"}

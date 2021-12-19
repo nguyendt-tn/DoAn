@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hi\u0340nh th\u01b0\u0341c ta\u0341c ph\u00e2\u0309m, hi\u0340nh th\u01b0\u0341c v\u0103n ch\u01b0\u01a1ng, s\u00f4\u0341 xu\u00e2\u0341t ba\u0309n","a":"turnover","b":"anticipate","c":"edition","d":"nest","answer":"edition"}

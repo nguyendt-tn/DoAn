@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"di\u0341nh, di\u0341nh kho\u0341 g\u01a1\u0309 \u0111\u01b0\u01a1\u0323c, di\u0341nh tr\u00ea\u0341t","a":"sticky","b":"transcript","c":"nearby","d":"dare","answer":"sticky"}

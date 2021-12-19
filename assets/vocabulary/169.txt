@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111a\u0341nh gia\u0341, \u0111a\u0341nh thu\u00ea\u0341, \u0111i\u0323nh gia\u0341, ra gia\u0341","a":"assess","b":"trait","c":"outrage","d":"counterpart","answer":"assess"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ha\u0340nh ha\u0323, pha\u0323t, s\u01b0\u0309a pha\u0323t, tr\u01b0\u0340ng pha\u0323t, tr\u01b0\u0340ng tri\u0323 l\u00f4\u0309i","a":"coalition","b":"punish","c":"loyal","d":"stab","answer":"punish"}

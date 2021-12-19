@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"gia t\u0103ng, ch\u00e2\u0341p th\u00eam, no\u0341i hay vi\u00ea\u0341t th\u00eam, th\u00eam va\u0340o","a":"add","b":"concede","c":"presently","d":"objection","answer":"add"}

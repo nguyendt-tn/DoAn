@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00ea\u0340 d\u00e2\u0340y cu\u0309a b\u01b0\u0341c t\u01b0\u01a1\u0340ng","a":"republic","b":"infer","c":"appreciation","d":"reveal","answer":"reveal"}

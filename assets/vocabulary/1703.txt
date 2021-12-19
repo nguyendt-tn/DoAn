@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u00ean, ha\u0323t, khu\u0340ng, ng\u01b0\u01a1\u0340i kho\u0341 l\u01b0\u0340a ga\u0323t, ng\u01b0\u01a1\u0340i kho\u0341 ta\u0341nh, tra\u0341i de\u0303, tra\u0341i phi\u0309, v\u00e2\u0341n \u0111\u00ea\u0340 kho\u0341 gia\u0309i quy\u00ea\u0341t","a":"realization","b":"nut","c":"manufacture","d":"comparable","answer":"nut"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"mong, tr\u00f4ng m\u00f4ng, hy vo\u0323ng","a":"flourish","b":"bias","c":"psychological","d":"hope","answer":"hope"}

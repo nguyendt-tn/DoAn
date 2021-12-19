@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0323 o\u0341c, na\u0309o, o\u0341c","a":"magistrate","b":"contractor","c":"brain","d":"substitution","answer":"brain"}

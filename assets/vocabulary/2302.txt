@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u0341 su\u0341t banh, \u0111a\u0323n cu\u0309a su\u0341ng, ngu\u0323m r\u01b0\u01a1\u0323u, pha\u0341t su\u0341ng, s\u01b0\u0323 b\u0103\u0341n su\u0341ng, s\u01b0\u0323 qu\u0103ng l\u01b0\u01a1\u0341i, tay thi\u00ea\u0323n xa\u0323","a":"rotation","b":"shot","c":"overlook","d":"availability","answer":"shot"}

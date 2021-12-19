@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u0103\u0341c, ch\u0103\u0323t, v\u01b0\u0309ng va\u0340ng, c\u01b0\u01a1\u0340ng tra\u0341ng, ma\u0323nh me\u0309, nh\u01b0\u0341t tri\u0341","a":"neighbouring","b":"roughly","c":"blade","d":"solid","answer":"solid"}

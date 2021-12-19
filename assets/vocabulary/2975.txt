@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"van l\u01a1n, g\u01a1\u0323i m\u00f4\u0341i th\u01b0\u01a1ng t\u00e2m","a":"unknown","b":"forgive","c":"admire","d":"appealing","answer":"appealing"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"to, b\u01b0\u0323, l\u01a1\u0341n, r\u00f4\u0323ng","a":"cognitive","b":"big","c":"unveil","d":"mechanical","answer":"big"}

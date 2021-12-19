@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"mu\u0323c s\u01b0, th\u00e2\u0340y tu","a":"audit","b":"priest","c":"sake","d":"legislature","answer":"priest"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"v\u01b0\u0340a pha\u0309i","a":"average","b":"radiation","c":"artwork","d":"freely","answer":"average"}

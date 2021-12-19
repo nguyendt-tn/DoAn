@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2y chi\u0309 s\u00f4\u0341ng m\u00f4\u0323t n\u0103m, ha\u0340ng n\u0103m, m\u00f4\u0323t n\u0103m, t\u01b0\u0340ng n\u0103m","a":"pulse","b":"annual","c":"carve","d":"hostile","answer":"annual"}

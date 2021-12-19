@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2\u0340u \u0111\u01a1\u0341i","a":"zone","b":"gorgeous","c":"circuit","d":"supreme","answer":"zone"}

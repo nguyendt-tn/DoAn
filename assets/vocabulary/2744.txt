@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 h\u00f4\u0323i ho\u0323p, ch\u00f4\u0309 to\u0340a h\u01a1\u0323p \u0111\u00ea\u0309 x\u01b0\u0309, ch\u00f4\u0309 tu\u0323 ho\u0323p","a":"venue","b":"abundance","c":"ministry","d":"roughly","answer":"venue"}

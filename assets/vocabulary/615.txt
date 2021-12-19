@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"canh ta\u0341c, ca\u0340y c\u00e2\u0341y, gia\u0341o ho\u0341a, khai kh\u00e2\u0309n, s\u01b0\u0323 m\u01a1\u0309 mamg, s\u01b0\u0323 nu\u00f4i t\u0103\u0340m, s\u01b0\u0323 tr\u00f4\u0340ng tro\u0323t","a":"adaptation","b":"penalty","c":"culture","d":"racist","answer":"culture"}

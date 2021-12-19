@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng nh\u00e2n, ng\u01b0\u01a1\u0340i la\u0340m vi\u00ea\u0323c","a":"occurrence","b":"workout","c":"conservation","d":"worker","answer":"worker"}

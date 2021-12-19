@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111o\u0323c thu\u00f4\u0323c lo\u0340ng, l\u0103\u0323p la\u0323i, ma\u0341ch le\u0309o, thu\u00e2\u0323t la\u0323i, nh\u0103\u0341c la\u0323i","a":"repeated","b":"greatly","c":"rocket","d":"burden","answer":"repeated"}

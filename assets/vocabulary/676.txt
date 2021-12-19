@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ca\u0309i, ch\u00f4\u0341i, kh\u00f4ng nh\u00e2\u0323n, kh\u00f4ng nhi\u0340n nh\u00e2\u0323n, qu\u00ean mi\u0340nh, t\u01b0\u0340 ch\u00f4\u0341i","a":"deny","b":"stumble","c":"namely","d":"content","answer":"deny"}

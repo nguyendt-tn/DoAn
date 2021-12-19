@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u01a1i an toa\u0340n, s\u01b0\u0323 an ninh, s\u01b0\u0323 an toa\u0340n, ti\u0340nh tra\u0323ng an toa\u0340n, ti\u0340nh tra\u0323ng ch\u0103\u0341c ch\u0103\u0341n","a":"opt","b":"safety","c":"ambulance","d":"reporting","answer":"safety"}

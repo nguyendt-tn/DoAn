@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bo\u0309ng, h\u00e2\u0340m ga\u0323ch, s\u01b0\u0323 pho\u0309ng l\u01b0\u0303a, v\u00ea\u0341t bo\u0309ng, v\u00ea\u0341t pho\u0309ng","a":"empirical","b":"intimate","c":"burn","d":"segment","answer":"burn"}

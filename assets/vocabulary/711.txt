@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00e2\u0341t \u0111\u00f4\u0340ng, hi\u00ea\u0323u s\u00f4\u0341 cu\u0309a hai s\u00f4\u0341, ti\u0340nh tra\u0323ng kha\u0341c nhau, di\u0323 \u0111\u00f4\u0340ng, kha\u0341c nhau, ph\u00e2n bi\u00ea\u0323t","a":"reform","b":"displace","c":"difference","d":"outrage","answer":"difference"}

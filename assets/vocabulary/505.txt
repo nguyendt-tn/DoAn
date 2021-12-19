@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi ca, l\u01a1\u0340i pha\u0340n na\u0340n, l\u01a1\u0340i than va\u0303n, nguy\u00ean nh\u00e2n than phi\u00ea\u0340n","a":"convention","b":"complaint","c":"torture","d":"mechanic","answer":"complaint"}

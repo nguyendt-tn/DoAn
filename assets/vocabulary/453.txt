@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"leo l\u00ean, h\u01b0\u01a1\u0341ng th\u01b0\u01a1\u0323ng, s\u01b0\u0323 l\u00ean cao, ti\u00ea\u0341n b\u00f4\u0323, tre\u0340o l\u00ean, t\u00f4\u0341c l\u01b0\u0323c","a":"climb","b":"manifest","c":"coincide","d":"quota","answer":"climb"}

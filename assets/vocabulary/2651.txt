@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0341n da\u0323ng, di\u0323ch, phi\u00ean di\u0323ch, th\u00f4ng di\u0323ch","a":"domain","b":"translate","c":"suck","d":"layout","answer":"translate"}

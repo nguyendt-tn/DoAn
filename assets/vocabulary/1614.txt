@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u01a1n nh\u01b0\u0341t, h\u01a1n h\u00ea\u0341t, nhi\u00ea\u0340u h\u01a1n h\u00ea\u0341t","a":"most","b":"regulatory","c":"delicate","d":"fossil","answer":"most"}

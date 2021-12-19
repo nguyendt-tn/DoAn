@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lo\u0340ng ti\u0341n ng\u01b0\u01a1\u0303ng, s\u01b0\u0323 tu ha\u0340nh, t\u00f4n gia\u0341o","a":"valid","b":"religion","c":"fine","d":"await","answer":"religion"}

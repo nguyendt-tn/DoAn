@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00eam, ban \u0111\u00eam, bu\u00f4\u0309i t\u00f4\u0341i","a":"portfolio","b":"landing","c":"copper","d":"night","answer":"night"}

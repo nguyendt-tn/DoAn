@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u0309 ha\u0309ng bu\u00f4n, chu\u0309 nh\u00e2n, sa\u0309n chu\u0309","a":"owner","b":"destructive","c":"stark","d":"fluid","answer":"owner"}

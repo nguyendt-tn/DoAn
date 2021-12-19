@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tha\u0340nh th\u00e2\u0323t, th\u00e2\u0323t ti\u0340nh","a":"sincere","b":"prior","c":"commissioner","d":"noon","answer":"sincere"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"d\u00ea\u0309 n\u0103\u0341n, d\u00ea\u0309 n\u0103\u0323n, thu\u00f4\u0323c v\u00ea\u0340 phe\u0341p ta\u0323o hi\u0340nh","a":"referendum","b":"plastic","c":"patience","d":"chase","answer":"plastic"}

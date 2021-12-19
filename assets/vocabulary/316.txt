@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho ng\u01b0\u0323a th\u01a1\u0309, hi\u0341t, la\u0340m cho, pha\u0341t \u00e2m, to\u0309a mu\u0340i th\u01a1m, th\u00f4\u0309i kh\u00f4ng khi\u0341, th\u01a1\u0309","a":"violate","b":"breathe","c":"anonymous","d":"fraction","answer":"breathe"}

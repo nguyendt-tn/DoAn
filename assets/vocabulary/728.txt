@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cha\u0341n na\u0309n, nga\u0309 lo\u0340ng, th\u00e2\u0341t vo\u0323ng, th\u00e2\u0341t h\u01b0\u0341a","a":"bias","b":"rotation","c":"lighting","d":"disappointed","answer":"disappointed"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111ua xe, cha\u0323y \u0111ua, cha\u0323y h\u00ea\u0341t t\u00f4\u0341c l\u01b0\u0323c, \u0111ua ng\u01b0\u0323a, nha\u0309y mau, ganh \u0111ua t\u00f4\u0341c l\u01b0\u0323c","a":"communist","b":"healthcare","c":"sphere","d":"race","answer":"race"}

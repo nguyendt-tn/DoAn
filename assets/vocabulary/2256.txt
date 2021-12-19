@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2u v\u0103n, l\u01a1\u0341i pha\u0341n quy\u00ea\u0341t, l\u01a1\u0341i tuy\u00ean ca\u0341o","a":"induce","b":"sentence","c":"variable","d":"aids","answer":"sentence"}

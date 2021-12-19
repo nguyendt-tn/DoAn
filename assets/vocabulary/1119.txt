@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ban cho, t\u0103\u0323ng v\u00e2\u0323t gi\u0340","a":"orientation","b":"concrete","c":"stun","d":"gift","answer":"gift"}

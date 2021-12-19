@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c no\u0341i chuy\u00ea\u0323n, l\u01a1\u0340i no\u0341i, tin \u0111\u00f4\u0340n","a":"deputy","b":"expire","c":"talk","d":"reasonably","answer":"talk"}

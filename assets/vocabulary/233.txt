@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khu v\u01b0\u0323c, nhi\u0323p, pha\u0341ch, ti\u00ea\u0341ng \u0111\u00e2\u0323p","a":"beat","b":"formation","c":"autonomy","d":"revolutionary","answer":"beat"}

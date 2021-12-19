@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 thi\u00ea\u0323n y\u0341, hay giu\u0341p \u0111\u01a1\u0309","a":"addiction","b":"flee","c":"willing","d":"provincial","answer":"willing"}

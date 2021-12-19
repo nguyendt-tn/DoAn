@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kinh nghi\u00ea\u0323m, t\u01b0\u0340ng tra\u0309i","a":"experienced","b":"ballet","c":"vanish","d":"lottery","answer":"experienced"}

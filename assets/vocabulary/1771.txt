@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cu\u0341 \u0111a\u0341nh \u0111o va\u0341n, \u01a1\u0309 ngoa\u0340i, phi\u0341a ngoa\u0340i cu\u0309a","a":"lawn","b":"confine","c":"outer","d":"upgrade","answer":"outer"}

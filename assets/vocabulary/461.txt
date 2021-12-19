@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"v\u00e2n, d\u00e2\u0340y \u0111\u0103\u0323c, m\u00f4\u0323t cu\u0323m m\u00e2y, bao phu\u0309, m\u00f4\u0323t \u0111a\u0341m \u0111\u00f4ng \u0111\u0103\u0323c, m\u00f4\u0323t la\u0340n, m\u00f4\u0323t \u0111a\u0341m","a":"interfere","b":"trophy","c":"arguably","d":"cloud","answer":"cloud"}

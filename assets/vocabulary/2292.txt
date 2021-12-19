@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chi\u00ea\u0341u sa\u0341ng, lo\u0340e sa\u0341ng, lo\u0341ng la\u0341nh, sa\u0341ng","a":"shiny","b":"spark","c":"eliminate","d":"passionate","answer":"shiny"}

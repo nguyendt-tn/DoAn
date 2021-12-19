@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"quan h\u00ea\u0323 th\u00e2n t\u00f4\u0323c, ti\u0340nh ba\u0340 con, ti\u0340nh th\u00f4ng gia","a":"jail","b":"agriculture","c":"relationship","d":"shaped","answer":"relationship"}

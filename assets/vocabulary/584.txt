@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u00f4ng na\u0309n lo\u0340ng, lo\u0340ng can \u0111a\u0309m, du\u0309ng ca\u0309m, du\u0309ng khi\u0341","a":"ranking","b":"misery","c":"drown","d":"courage","answer":"courage"}

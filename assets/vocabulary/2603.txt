@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chu \u0111a\u0341o, co\u0341 ng\u0103n n\u0103\u0341p, do\u0323n de\u0323p ng\u0103n n\u0103\u0341p, s\u0103\u0341p \u0111\u0103\u0323t","a":"sovereignty","b":"modest","c":"tidy","d":"bay","answer":"tidy"}

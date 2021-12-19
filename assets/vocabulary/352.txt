@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"la\u0340m cho thi\u0341ch h\u01a1\u0323p, ti\u0341nh toa\u0341n, t\u01b0\u01a1\u0309ng r\u0103\u0340ng, tru\u0340 hoa\u0323ch","a":"calculate","b":"regime","c":"fundraising","d":"clarity","answer":"calculate"}

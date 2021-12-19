@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi\u00ea\u0341n ha\u0323m nho\u0309, gi\u00f4\u0341ng ky\u0340 \u0111a\u0340 l\u01a1\u0341n \u01a1\u0309 phi ch\u00e2u, ma\u0341y th\u00e2u thanh","a":"monitor","b":"tribal","c":"altogether","d":"inspector","answer":"monitor"}

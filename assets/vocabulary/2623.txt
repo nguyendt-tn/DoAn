@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ngoa\u0340i ra, nhi\u00ea\u0340u qua\u0341, qua\u0341, ti\u0309nh la\u0323i, va\u0309 la\u0323i","a":"adoption","b":"too","c":"succession","d":"mechanism","answer":"too"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"g\u00e2\u0341p, l\u00e2\u0323p t\u01b0\u0341c, t\u01b0\u0341c thi\u0340, tr\u01b0\u0323c ti\u00ea\u0341p, v\u00f4\u0323i","a":"vessel","b":"immediate","c":"expertise","d":"density","answer":"immediate"}

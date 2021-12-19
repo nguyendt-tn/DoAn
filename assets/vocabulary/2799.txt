@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0341i tu\u00e2\u0340n, nga\u0340y cu\u00f4\u0341i tu\u00e2\u0340n","a":"sustainable","b":"forum","c":"weekend","d":"accurately","answer":"weekend"}

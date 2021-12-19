@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng trong, d\u00e2\u0340y, r\u00e2\u0323m ra\u0323p, th\u00e2n thi\u00ea\u0341t","a":"accumulate","b":"thick","c":"forbid","d":"seize","answer":"thick"}

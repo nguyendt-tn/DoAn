@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi\u00ea\u0341n l\u01b0\u01a1\u0323c","a":"strategy","b":"availability","c":"reluctant","d":"harsh","answer":"strategy"}

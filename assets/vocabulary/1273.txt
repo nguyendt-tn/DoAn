@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gia\u0309i nghi\u0303a, thi\u0341 du\u0323, thu\u00e2\u0323t ve\u0303 tranh a\u0309nh","a":"complexity","b":"illustration","c":"explicit","d":"tag","answer":"illustration"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0323n h\u00f4\u0323 cho ng\u01b0\u01a1\u0340i na\u0340o","a":"cruise","b":"peer","c":"resolution","d":"apologize","answer":"apologize"}

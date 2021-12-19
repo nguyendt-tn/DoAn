@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"g\u00e2\u0340n b\u00ean, k\u00ea\u0341 b\u00ean, \u01a1\u0309 g\u00e2\u0340n, t\u01a1\u0341i, k\u00ea\u0341 ti\u00ea\u0341p","a":"barrel","b":"next","c":"reform","d":"pathway","answer":"next"}

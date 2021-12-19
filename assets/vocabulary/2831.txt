@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u01a1i, gio\u0341, mu\u0340i do gio\u0341 \u0111\u01b0a, th\u00f4\u0309i \u0111i, h\u01a1i th\u01a1\u0309, h\u01a1i trong bao t\u01b0\u0309, h\u01a1i trong ru\u00f4\u0323t","a":"evacuate","b":"substantially","c":"compelling","d":"wind","answer":"wind"}

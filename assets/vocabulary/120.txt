@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"b\u00e2\u0341t c\u01b0\u0341 ng\u01b0\u01a1\u0340i na\u0340o, mo\u0323i ng\u01b0\u01a1\u0340i, m\u00f4\u0323t va\u0340i ng\u01b0\u01a1\u0340i, ng\u01b0\u01a1\u0340i na\u0340o","a":"obesity","b":"anybody","c":"swing","d":"deadline","answer":"anybody"}

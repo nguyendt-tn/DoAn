@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111ang ngu\u0303, ngu\u0303, ngu\u0303 m\u00ea","a":"aide","b":"asleep","c":"surrender","d":"mayor","answer":"asleep"}

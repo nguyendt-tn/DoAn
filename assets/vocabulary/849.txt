@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0341i, cu\u00f4\u0341i cu\u0340ng, sau cho\u0341t, sau cu\u0340ng","a":"efficiently","b":"hostility","c":"ending","d":"troop","answer":"ending"}

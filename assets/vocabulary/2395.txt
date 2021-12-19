@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kh\u00f4ng gian, khoa\u0309ng, mi\u00ea\u0341ng ca\u0341ch ch\u01b0\u0303, ch\u00f4\u0309, khoa\u0309ng th\u01a1\u0341i gian, khoa\u0309ng tr\u00f4\u0341ng, khoa\u0309ng kh\u00f4ng","a":"investigator","b":"accumulate","c":"supplement","d":"space","answer":"space"}

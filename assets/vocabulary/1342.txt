@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ki\u0323ch li\u00ea\u0323t, kh\u00f4\u0341c li\u00ea\u0323t, ma\u0303nh li\u00ea\u0323t, no\u0341ng g\u0103\u0341t, nhi\u00ea\u0323t li\u00ea\u0323t, nh\u01b0\u0341c nh\u00f4\u0341i, d\u01b0\u0309 d\u00f4\u0323i","a":"headquarters","b":"certainty","c":"intense","d":"substantial","answer":"intense"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u0103\u0340ng ph\u0103\u0309ng, bi\u0340nh ti\u0309nh, kh\u00f4ng co\u0341 la\u0341, ngo\u0323t nga\u0340o, nh\u0103\u0309n nhu\u0323i, bi\u0340nh tha\u0309n, bo\u0341ng la\u0341ng","a":"stir","b":"creator","c":"merchant","d":"smooth","answer":"smooth"}

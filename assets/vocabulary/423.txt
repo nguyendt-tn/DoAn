@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u00f4\u0323p c\u00e2\u0341t v\u00e2\u0323t qui\u0341 gi\u0341a, ng\u01b0\u0323c, quan ta\u0340i, tu\u0309, v\u00e2\u0323t \u0111\u01b0\u0323ng","a":"chest","b":"referendum","c":"democratic","d":"manufacture","answer":"chest"}

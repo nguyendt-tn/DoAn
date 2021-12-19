@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"l\u00ean l\u00e2\u0340u, \u01a1\u0309 t\u01b0\u0340ng l\u00e2\u0340u tr\u00ean, \u01a1\u0309 tr\u00ean l\u00e2\u0340u cao, t\u01b0\u0340ng l\u00e2\u0340u cao","a":"residence","b":"mere","c":"upstairs","d":"determination","answer":"upstairs"}

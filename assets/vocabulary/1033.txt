@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0323t, ph\u00e2\u0341n","a":"inevitable","b":"diagnosis","c":"weekly","d":"flour","answer":"flour"}

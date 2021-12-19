@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"qu\u00ean, kh\u00f4ng nh\u01a1\u0341","a":"forget","b":"enthusiast","c":"seal","d":"militant","answer":"forget"}

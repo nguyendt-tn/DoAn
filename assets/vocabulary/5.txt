@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tr\u00ean \u0111\u00e2y, h\u01a1n, tr\u01b0\u01a1\u0341c, tr\u01b0\u01a1\u0341c h\u00ea\u0341t","a":"seize","b":"pioneer","c":"above","d":"accumulate","answer":"above"}

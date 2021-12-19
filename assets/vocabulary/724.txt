@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0309n thi\u0309u, d\u01a1 da\u0341y, \u0111\u00e2\u0341t, l\u01a1\u0340i th\u00f4 tu\u0323c, d\u01a1 b\u00e2\u0309n, \u0111\u00e2\u0340y bu\u0340n, th\u00f4 tu\u0323c, tr\u01a1\u0340i x\u00e2\u0341u, v\u00e2\u0341y bu\u0340n","a":"dirty","b":"pill","c":"crack","d":"reporting","answer":"dirty"}

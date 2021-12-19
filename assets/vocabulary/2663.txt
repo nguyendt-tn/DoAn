@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 nhi\u00ea\u0323t \u0111\u01a1\u0341i","a":"tropical","b":"economics","c":"openly","d":"reasonably","answer":"tropical"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u01a1\u0309 tr\u00ean, \u01a1\u0309 tr\u00ean cao, phi\u0341a tr\u00ean cao, t\u01b0\u0340 d\u01b0\u01a1\u0341i l\u00ean tr\u00ean","a":"succession","b":"upwards","c":"exclusive","d":"disastrous","answer":"upwards"}

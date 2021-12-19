@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"s\u00e2u, th\u00e2m, kh\u00f4n lanh, s\u00e2\u0323m, \u0111\u00e2\u0323m, xa\u0309o tra\u0341, quy\u0303 quy\u00ea\u0323t, s\u00e2u ki\u0341n, tr\u00e2\u0340m","a":"deep","b":"panic","c":"weed","d":"capitalism","answer":"deep"}

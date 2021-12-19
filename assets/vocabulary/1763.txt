@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"v\u00ea\u0340 ph\u01b0\u01a1ng di\u00ea\u0323n kha\u0341c","a":"balloon","b":"theoretical","c":"peak","d":"otherwise","answer":"otherwise"}

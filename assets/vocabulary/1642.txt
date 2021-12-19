@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111inh, \u0111a\u0341nh tru\u0341ng ch\u00f4\u0309, la\u0340m \u0111u\u0341ng vi\u00ea\u0323c, mo\u0341ng, mo\u0341ng ch\u00e2n, mo\u0341ng tay, no\u0341i \u0111u\u0341ng l\u01a1\u0340i","a":"entity","b":"vulnerability","c":"isolate","d":"nail","answer":"nail"}

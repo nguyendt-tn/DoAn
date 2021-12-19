@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"pho ma\u0341t, vi\u00ea\u0323c pha\u0309i nh\u01b0 th\u00ea\u0341","a":"villager","b":"corridor","c":"intellectual","d":"cheese","answer":"cheese"}

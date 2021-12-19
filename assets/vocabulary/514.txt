@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kha\u0341i ni\u00ea\u0323m","a":"empower","b":"concept","c":"shrug","d":"incorrect","answer":"concept"}

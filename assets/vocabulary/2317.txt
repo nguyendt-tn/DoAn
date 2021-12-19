@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lu\u0323a, t\u01a1 cu\u0309a loa\u0340i nh\u00ea\u0323n, t\u01a1 lu\u0323a","a":"conviction","b":"silk","c":"thorough","d":"globalization","answer":"silk"}

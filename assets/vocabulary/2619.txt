@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"mai, nga\u0340y mai","a":"tomorrow","b":"detain","c":"tissue","d":"newly","answer":"tomorrow"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0323nh cu\u0309a c\u00e2y c\u00f4\u0341i, c\u0103n b\u00ea\u0323nh, ch\u01b0\u0341ng bi\u0323nh cho\u0341ng m\u0103\u0323t","a":"passive","b":"problematic","c":"disease","d":"analogy","answer":"disease"}

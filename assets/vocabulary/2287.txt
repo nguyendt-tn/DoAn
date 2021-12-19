@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309i ca\u0341t, k\u00ea\u0323 tu\u0309, ng\u0103n tu\u0309, ph\u00e2\u0340n nh\u00f4 ra","a":"shelf","b":"just","c":"sympathetic","d":"capability","answer":"shelf"}

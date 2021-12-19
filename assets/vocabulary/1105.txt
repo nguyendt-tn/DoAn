@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"x\u0103ng, h\u01a1i, khi\u0341, l\u01a1\u0340i no\u0341i da\u0340i do\u0340ng, d\u00e2\u0340u l\u01b0\u0309a, d\u00e2\u0340u x\u0103ng, ba\u0341 la\u0341p, d\u00e2\u0340u ho\u0309a","a":"hook","b":"pregnancy","c":"gas","d":"cute","answer":"gas"}

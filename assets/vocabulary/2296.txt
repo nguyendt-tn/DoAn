@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gia\u0340y, mo\u0341ng ng\u01b0\u0323a b\u0103\u0340ng s\u0103\u0341t","a":"shoe","b":"declaration","c":"interface","d":"vulnerable","answer":"shoe"}

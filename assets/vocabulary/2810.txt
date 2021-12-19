@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"m\u00f4\u0303i khi, m\u00f4\u0303i l\u00e2\u0340n","a":"gender","b":"whenever","c":"socialist","d":"adjacent","answer":"whenever"}

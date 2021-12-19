@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00ea\u0309, bi\u00ea\u0309n","a":"sea","b":"dictate","c":"stabilize","d":"halfway","answer":"sea"}

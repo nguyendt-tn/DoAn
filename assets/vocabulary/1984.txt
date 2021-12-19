@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01b0\u01a1ng tri\u0340nh, k\u00ea\u0341 hoa\u0323ch","a":"program","b":"academy","c":"inclined","d":"spill","answer":"program"}

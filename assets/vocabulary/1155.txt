@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"t\u0103ng gia, m\u01a1\u0309 mang, pha\u0341t du\u0323c, khu\u00ea\u0341ch tr\u01b0\u01a1ng, s\u01b0\u0323 l\u01a1\u0341n l\u00eam, s\u01b0\u0323 t\u0103ng th\u00eam, sanh tr\u01b0\u01a1\u0309ng","a":"interactive","b":"density","c":"rape","d":"growth","answer":"growth"}

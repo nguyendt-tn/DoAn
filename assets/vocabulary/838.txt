@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01b0\u01a1ng quy\u00ea\u0341t, gio\u0323ng nh\u00e2\u0341n ma\u0323nh, h\u00f4\u0341ng ha\u0341ch, hu\u0340ng h\u00f4\u0340n, nh\u00e2\u0341n ma\u0323nh, s\u01b0\u0323 c\u00f4\u0341 na\u0340i","a":"harbour","b":"commerce","c":"sin","d":"emphasis","answer":"emphasis"}

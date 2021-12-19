@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u0103\u0341t, \u0111\u0103\u0341t ti\u00ea\u0340n, m\u0103\u0341c ti\u00ea\u0340n, t\u00f4\u0341n ke\u0341m","a":"oxygen","b":"expensive","c":"serial","d":"companion","answer":"expensive"}

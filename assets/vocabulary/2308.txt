@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"be\u0309n le\u0309n, nha\u0341t, ru\u0323t re\u0340","a":"shy","b":"arguably","c":"gesture","d":"prestigious","answer":"shy"}

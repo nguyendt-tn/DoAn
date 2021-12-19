@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"kh\u00f4ng ai, ch\u0103\u0309ng m\u00f4\u0323t ai, kh\u00f4ng ng\u01b0\u01a1\u0340i na\u0340o, kh\u00f4ng v\u00e2\u0323t gi\u0340","a":"implement","b":"trailer","c":"none","d":"correspondence","answer":"none"}

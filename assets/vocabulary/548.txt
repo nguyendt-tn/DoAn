@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ba\u0323n \u0111\u00f4\u0340ng nghi\u00ea\u0323p, cu\u0340ng chung s\u01a1\u0309, cu\u0340ng lu\u0341c, cu\u0340ng m\u00f4\u0323t tu\u00f4\u0309i, \u0111\u00f4\u0340ng th\u01a1\u0340i, xu\u00e2\u0341t ba\u0309n chung","a":"catalogue","b":"contemporary","c":"escalate","d":"undoubtedly","answer":"contemporary"}

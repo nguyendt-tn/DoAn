@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"s\u00f4\u0341 ta\u0341m, th\u01b0\u0341 ta\u0341m","a":"eight","b":"intake","c":"variable","d":"adolescent","answer":"eight"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ngang qua, b\u0103ng qua, \u0111i ngang, hi\u0340nh ch\u01b0\u0309 th\u00e2\u0323p, h\u01a1\u0323p tha\u0340nh hi\u0340nh ch\u01b0\u0309 th\u00e2\u0323p, l\u00f4\u0323i ngang, \u0111\u0103\u0323t v\u00e2\u0323t gi\u0340 ngang, \u01a1\u0309 b\u00ean kia","a":"inhibit","b":"across","c":"sacrifice","d":"concede","answer":"across"}

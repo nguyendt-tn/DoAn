@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u0103\u0340ng nga\u0340y, m\u00f4\u0309i nga\u0340y, th\u01b0\u01a1\u0340ng nga\u0340y","a":"dictator","b":"notable","c":"wholly","d":"daily","answer":"daily"}

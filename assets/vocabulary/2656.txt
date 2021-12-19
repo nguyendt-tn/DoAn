@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01b0\u0303a ti\u00ea\u0323c, m\u00f4\u0341i vui thi\u0341ch, s\u01b0\u0323 vui m\u01b0\u0340ng, ti\u00ea\u0323c l\u01a1\u0341n, y\u00ea\u0341n ti\u00ea\u0323c","a":"consolidate","b":"legislative","c":"therapist","d":"treat","answer":"treat"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nh\u00f4 l\u00ean, \u0111\u00f4\u0309 ra, hi\u00ea\u0323n ra, lo\u0341 ra, n\u00f4\u0303i l\u00ean, tr\u00f4\u0340i l\u00ean","a":"partnership","b":"corruption","c":"emerge","d":"rear","answer":"emerge"}

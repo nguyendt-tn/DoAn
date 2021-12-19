@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"pho\u0340ng thi\u0341 nghi\u00ea\u0323m","a":"lab","b":"assembly","c":"isolation","d":"synthesis","answer":"lab"}

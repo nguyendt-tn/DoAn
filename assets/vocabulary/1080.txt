@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"preposition","vi_terms":"\u0111o\u0341, \u01a1\u0309, t\u01b0\u0340, t\u01b0\u0340 khi","a":"from","b":"crown","c":"glory","d":"thread","answer":"from"}

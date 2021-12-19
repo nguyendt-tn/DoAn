@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ngay, co\u0341 th\u01b0\u0341 t\u01b0\u0323, minh ba\u0323ch, ch\u00e2n th\u00e2\u0323t, ro\u0309 ra\u0340ng, tha\u0340nh th\u00e2\u0323t, th\u0103\u0309ng","a":"infamous","b":"troubled","c":"straight","d":"compensate","answer":"straight"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"abbreviation","vi_terms":"AIDS","a":"concert","b":"girl","c":"aids","d":"via","answer":"aids"}

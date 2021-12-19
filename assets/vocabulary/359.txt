@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 cha\u0341nh, \u0111a\u0323i ho\u0323c","a":"restoration","b":"campus","c":"albeit","d":"norm","answer":"campus"}

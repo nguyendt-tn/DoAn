@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"xe m\u00f4 t\u00f4, xe g\u0103\u0341n ma\u0341y, xe ma\u0341y d\u00e2\u0340u","a":"trading","b":"joint","c":"administer","d":"motorcycle","answer":"motorcycle"}

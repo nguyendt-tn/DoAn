@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tai bi\u00ea\u0341n, tai ho\u0323a, tha\u0309m ho\u0323a","a":"disaster","b":"manufacture","c":"effectiveness","d":"plea","answer":"disaster"}

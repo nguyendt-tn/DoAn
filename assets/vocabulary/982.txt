@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u0103\u0323c s\u0103\u0341c, \u0111\u0103\u0323c ti\u0341nh, ne\u0341t m\u0103\u0323t, phim ha\u0341t bo\u0341ng, ti\u0341nh ch\u00e2\u0341t, tra\u0323ng tha\u0341i \u0111\u0103\u0323c bi\u00ea\u0323t, \u0111\u0103\u0323c tr\u01b0ng","a":"feature","b":"curiosity","c":"inspection","d":"recount","answer":"feature"}

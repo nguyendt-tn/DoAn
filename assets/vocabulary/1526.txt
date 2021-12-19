@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gia\u0341m \u0111\u00f4\u0341c, ng\u01b0\u01a1\u0340i \u0111i\u00ea\u0340u ha\u0340nh c\u00f4ng vi\u00ea\u0323c, ng\u01b0\u01a1\u0340i qua\u0309n ly\u0341, ng\u01b0\u01a1\u0340i tr\u00f4ng nom","a":"manager","b":"relevance","c":"moderate","d":"collaborate","answer":"manager"}

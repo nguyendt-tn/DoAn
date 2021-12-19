@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"manh nha, m\u00e2\u0340m mo\u0341ng, tr\u01b0\u0341ng","a":"certainty","b":"egg","c":"surgeon","d":"loyal","answer":"egg"}

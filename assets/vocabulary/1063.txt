@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"l\u00e2\u0323p tha\u0340nh, x\u00e2y d\u01b0\u0323ng tha\u0340nh","a":"found","b":"philosophical","c":"condemn","d":"slap","answer":"found"}

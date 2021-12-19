@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"la\u0340m thi\u0340nh li\u0340nh, xa\u0309y ra","a":"activate","b":"forth","c":"predator","d":"sudden","answer":"sudden"}

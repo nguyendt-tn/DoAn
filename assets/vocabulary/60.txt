@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ti\u00ea\u0341n l\u00ean","a":"against","b":"enrich","c":"shore","d":"faculty","answer":"against"}

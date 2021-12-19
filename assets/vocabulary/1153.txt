@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0341m, \u0111oa\u0340n, ho\u0323p la\u0323i, nho\u0341m, t\u00f4\u0341p","a":"compensate","b":"group","c":"spectrum","d":"interval","answer":"group"}

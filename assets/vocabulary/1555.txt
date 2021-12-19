@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111o, \u0111ong, \u0111o ki\u0341ch t\u00e2\u0341t, l\u01b0\u01a1\u0340ng, tr\u0103\u0341c l\u01b0\u01a1\u0323ng, \u0111o ki\u0341ch th\u01b0\u01a1\u0341c","a":"cultivate","b":"measure","c":"placement","d":"fever","answer":"measure"}

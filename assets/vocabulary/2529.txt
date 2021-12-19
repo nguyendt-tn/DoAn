@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u0103ng l\u01b0\u0323c","a":"supplement","b":"credible","c":"integral","d":"talent","answer":"talent"}

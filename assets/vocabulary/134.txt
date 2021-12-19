@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u01a1n xin vi\u00ea\u0323c la\u0340m, l\u01a1\u0340i y\u00eau c\u00e2\u0340u, s\u01b0\u0323 da\u0341n va\u0340o, s\u01b0\u0323 chuy\u00ean c\u00e2\u0340n, s\u01b0\u0323 ghe\u0341p, s\u01b0\u0323 thi ha\u0340nh, s\u01b0\u0323 \u01b0\u0341ng du\u0323ng","a":"application","b":"failed","c":"swing","d":"allege","answer":"application"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"v\u0103n ch\u01b0\u01a1ng","a":"horn","b":"random","c":"dip","d":"literature","answer":"literature"}

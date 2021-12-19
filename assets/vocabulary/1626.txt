@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nhi\u00ea\u0340u","a":"much","b":"cute","c":"prosecute","d":"nationwide","answer":"much"}

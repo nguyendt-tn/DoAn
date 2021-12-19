@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tai, b\u00f4ng, ca\u0341i quai, v\u00e2\u0323t gi\u00f4\u0341ng ca\u0341i tai, thi\u0341nh gia\u0341c","a":"stem","b":"casual","c":"ear","d":"lesbian","answer":"ear"}

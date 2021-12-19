@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 lo\u0341t, qu\u00e2\u0340n a\u0341o lo\u0341t","a":"underwear","b":"ancestor","c":"realization","d":"physician","answer":"underwear"}

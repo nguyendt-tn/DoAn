@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u00ea\u0340u sai, l\u00e2\u0340m l\u01a1\u0303, l\u00f4\u0303i, sai la\u0323c, sai l\u00e2\u0340m, s\u01b0\u0323 ng\u00f4\u0323 nh\u00e2\u0323n, ti\u0341nh sai, t\u01b0 t\u01b0\u01a1\u0309ng l\u00e2\u0340m, y\u0341 ki\u00ea\u0341n sai","a":"steam","b":"error","c":"derive","d":"glorious","answer":"error"}

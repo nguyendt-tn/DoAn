@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u0103n nguy\u00ean, c\u0103n ba\u0309n, thu\u00f4\u0323c v\u00ea\u0340 nguy\u00ean thu\u0309y, tr\u01b0\u01a1\u0341c h\u00ea\u0341t, \u0111\u00e2\u0340u, \u0111\u00e2\u0340u ti\u00ean","a":"leak","b":"primary","c":"robust","d":"countless","answer":"primary"}

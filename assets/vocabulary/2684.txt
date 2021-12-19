@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kho\u0341 chi\u0323u, kh\u00f4ng \u0111e\u0323p, x\u00e2\u0341u, x\u00e2\u0341u xi\u0341","a":"ugly","b":"whilst","c":"conservation","d":"modification","answer":"ugly"}

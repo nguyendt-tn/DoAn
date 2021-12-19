@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 chu\u0341 y\u0341, s\u01b0\u0323 \u0111\u0103\u0341n \u0111o, s\u01b0\u0323 ki\u0341nh tro\u0323ng, s\u01b0\u0323 quan tro\u0323ng, s\u01b0\u0323 xem xe\u0341t, ti\u00ea\u0340n ba\u0309o ch\u01b0\u0341ng, ti\u00ea\u0340n th\u01b0\u01a1\u0309ng","a":"golden","b":"aside","c":"pit","d":"consideration","answer":"consideration"}

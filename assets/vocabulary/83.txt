@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"hoa\u0340n toa\u0340n, t\u00f4\u0341t","a":"creep","b":"humanity","c":"all right","d":"vibrant","answer":"all right"}

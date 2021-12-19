@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"s\u01a1n, ho\u0323a, ta\u0309 ra, ve\u0303, t\u00f4 \u0111i\u00ea\u0309m","a":"awareness","b":"suppress","c":"objection","d":"paint","answer":"paint"}

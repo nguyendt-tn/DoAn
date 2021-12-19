@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng cao, \u0111i\u0323a ngu\u0323c, he\u0340n mo\u0323n, th\u00e2\u0341p ke\u0341m, th\u01b0\u0341c \u0103n thi\u00ea\u0341u th\u00f4\u0341n, th\u00e2\u0341p","a":"robbery","b":"low","c":"academy","d":"making","answer":"low"}

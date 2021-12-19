@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y c\u00f4\u0323t, c\u00f4\u0323t ch\u01b0\u0303, \u0111a\u0309ng pha\u0341i, \u0111i tha\u0340nh hai ha\u0340ng, \u0111\u00f4\u0323i, \u0111\u00f4\u0323i qu\u00e2n, ha\u0340ng, tru\u0323","a":"rating","b":"coordination","c":"foster","d":"column","answer":"column"}

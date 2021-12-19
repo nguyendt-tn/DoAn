@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111i\u0323ch thu\u0309, pha\u0309n \u0111\u00f4\u0341i, tra\u0341i nhau","a":"plea","b":"opponent","c":"craft","d":"ideological","answer":"opponent"}

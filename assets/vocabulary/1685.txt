@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"ca\u0309 hai \u0111\u00ea\u0340u kh\u00f4ng bi\u00ea\u0341t, no\u0341 kh\u00f4ng co\u0341 ai h\u00ea\u0341t, ng\u01b0\u01a1\u0340i ta kh\u00f4ng th\u00e2\u0341y","a":"donor","b":"outstanding","c":"nor","d":"provision","answer":"nor"}

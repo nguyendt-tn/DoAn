@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ph\u00e2n c\u00f4ng, ph\u00e2n ly, chia ra, chia ra t\u01b0\u0340ng khu, chia re\u0309, mu\u0323c, chia ra t\u01b0\u0340ng b\u00f4\u0323, bo\u0309 phi\u00ea\u0341u, t\u00e2\u0340ng","a":"reminder","b":"fragile","c":"divert","d":"division","answer":"division"}

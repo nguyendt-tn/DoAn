@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cao gio\u0323ng, d\u00e2\u0341u s\u0103\u0341c, nho\u0323n, s\u0103\u0341c sa\u0309o, d\u01b0\u0309 d\u00f4\u0323i","a":"sample","b":"acute","c":"government","d":"clue","answer":"acute"}

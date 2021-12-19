@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u00ea\u0340u","a":"fortunate","b":"constitute","c":"tent","d":"terrain","answer":"tent"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"lo\u0340ng tho\u0340ng, tin c\u00e2\u0323y va\u0340o, tu\u0340y theo, t\u01b0\u0323 l\u01b0\u0323c","a":"gesture","b":"cutting","c":"sympathetic","d":"depend","answer":"depend"}

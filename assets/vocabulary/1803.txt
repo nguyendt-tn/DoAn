@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chia xe\u0309, co\u0341 d\u01b0\u0323 ph\u00e2\u0340n, tham gia va\u0340o, tham d\u01b0\u0323, d\u01b0\u0323 va\u0340o","a":"spell","b":"cocktail","c":"participate","d":"likewise","answer":"participate"}

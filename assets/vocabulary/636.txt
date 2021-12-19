@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ha\u0323i, hi\u00ea\u0309m nghe\u0340o","a":"inspector","b":"premium","c":"dangerous","d":"entertaining","answer":"dangerous"}

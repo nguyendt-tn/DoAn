@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"thi si\u0303","a":"soak","b":"corrupt","c":"hunger","d":"poet","answer":"poet"}

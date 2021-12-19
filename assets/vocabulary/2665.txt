@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"qu\u00e2\u0340n cu\u0323t","a":"charm","b":"vanish","c":"lens","d":"trousers","answer":"trousers"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u00f4\u0309 t\u00f4\u0341t nh\u01b0\u0341t, co\u0341 le\u0309 \u0111u\u0341ng, co\u0341 le\u0309 th\u00e2\u0323t, co\u0341 th\u00ea\u0309 th\u00e2\u0323t","a":"likely","b":"major","c":"disastrous","d":"premise","answer":"likely"}

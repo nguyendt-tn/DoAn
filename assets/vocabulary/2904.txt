@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u00f4\u0340ng ch\u00e2\u0341t, ch\u01b0\u0341a ch\u00e2\u0341t, d\u00f4\u0340n la\u0323i, ti\u0341ch tr\u01b0\u0303","a":"choose","b":"accumulate","c":"huge","d":"money","answer":"accumulate"}

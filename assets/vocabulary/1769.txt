@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ngoa\u0340i c\u01b0\u0309a, ngoa\u0340i tr\u01a1\u0340i, \u01a1\u0309 ngoa\u0340i","a":"slogan","b":"dignity","c":"outdoor","d":"graphics","answer":"outdoor"}

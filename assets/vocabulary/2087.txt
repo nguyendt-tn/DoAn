@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khu, \u0111i\u0323a ph\u01b0\u01a1ng, mi\u00ea\u0340n, vu\u0340ng","a":"democracy","b":"wholly","c":"obstacle","d":"region","answer":"region"}

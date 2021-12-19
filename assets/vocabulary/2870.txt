@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ma\u0340u va\u0340ng, nha\u0341t gan, va\u0340ng","a":"thumb","b":"firm","c":"confrontation","d":"yellow","answer":"yellow"}

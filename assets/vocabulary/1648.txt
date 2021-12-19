@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2y, thi\u00ean nhi\u00ean, t\u01b0\u0323 nhi\u00ean, thi\u00ean b\u00e2\u0309m, thu\u00f4\u0323c v\u00ea\u0340 n\u01a1i sanh \u0111e\u0309, v\u00e2\u0323t th\u00f4\u0309 sa\u0309n, b\u00e2\u0309m sinh, thi\u00ean phu\u0341","a":"freely","b":"trauma","c":"native","d":"acceptance","answer":"native"}

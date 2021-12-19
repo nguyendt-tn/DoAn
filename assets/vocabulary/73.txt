@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"da\u0341ng \u0111i\u00ea\u0323u, gio\u0341, tha\u0341i \u0111\u00f4\u0323, ha\u0340ng kh\u00f4ng, h\u01b0\u0341ng gi\u0341o, kh\u00f4ng khi\u0341, khu\u0341c nha\u0323c","a":"gaming","b":"dawn","c":"air","d":"worthy","answer":"air"}

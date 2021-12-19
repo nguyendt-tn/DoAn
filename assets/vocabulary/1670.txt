@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341o, nh\u01b0\u0323t tri\u0340nh","a":"retreat","b":"newspaper","c":"irrelevant","d":"cop","answer":"newspaper"}

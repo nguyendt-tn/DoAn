@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ta\u0341nh lu\u0341ng tu\u0341ng, ta\u0341nh lu\u00f4\u0341ng cu\u00f4\u0341ng, ta\u0341nh ng\u01b0\u01a1\u0323ng ngu\u0340ng","a":"raid","b":"embarrassing","c":"breach","d":"marine","answer":"embarrassing"}

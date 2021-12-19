@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i tu\u00f4\u0309i khoa\u0309ng 13 \u0111\u00ea\u0341n 20","a":"teenager","b":"workout","c":"autonomy","d":"fabric","answer":"teenager"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"kh\u00f4ng may, b\u00e2\u0341t ha\u0323nh","a":"unfortunately","b":"emission","c":"sanction","d":"merely","answer":"unfortunately"}

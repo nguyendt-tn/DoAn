@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0323nh \u0111au ph\u00f4\u0309i, ph\u00f4\u0309i","a":"privatization","b":"embed","c":"magnetic","d":"lung","answer":"lung"}

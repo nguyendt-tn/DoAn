@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thanh li\u00eam, kh\u00f4ng co\u0341 l\u00f4\u0303i, lanh le\u0323, ngay th\u0103\u0309ng, sa\u0323ch, sa\u0323ch se\u0303, nhanh nhe\u0323n, tinh khi\u00ea\u0341t, thanh khi\u00ea\u0341t, d\u00ea\u0309 \u0111o\u0323c, trong sa\u0323ch, trung tr\u01b0\u0323c","a":"bleed","b":"motive","c":"clean","d":"transaction","answer":"clean"}

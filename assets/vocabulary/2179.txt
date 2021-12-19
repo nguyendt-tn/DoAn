@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"con \u0111\u01b0\u01a1\u0340ng, l\u00f4\u0323 tri\u0340nh, qu\u00f4\u0341c l\u00f4\u0323, tuy\u00ea\u0341n \u0111\u01b0\u01a1\u0340ng, xa l\u00f4\u0323","a":"route","b":"realization","c":"essence","d":"deployment","answer":"route"}

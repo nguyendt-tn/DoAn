@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111i qua, b\u0103\u0341t tre\u0341o nhau, ga\u0323ch ngang, la\u0340m d\u00e2\u0341u tha\u0341nh gia\u0341, la\u0340m tra\u0341i y\u0341, pha gi\u00f4\u0341ng, tre\u0341o nhau, v\u01b0\u01a1\u0323t qua","a":"custody","b":"cross","c":"fool","d":"say","answer":"cross"}

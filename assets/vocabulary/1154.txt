@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u00e2m m\u00f4\u0323ng, l\u01a1\u0341n l\u00ean, mo\u0323c l\u00ean, mo\u0323c m\u00e2\u0340m, mo\u0323c m\u00f4\u0323ng, mu\u0340a ma\u0340ng, n\u00e2\u0309y m\u00e2\u0340m, pha\u0341t sinh","a":"grow","b":"underlying","c":"enact","d":"icon","answer":"grow"}

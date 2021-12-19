@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"gh\u00ea g\u01a1\u0341m, gh\u00ea s\u01a1\u0323, kinh khu\u0309ng, khi\u00ea\u0341p s\u01a1\u0323","a":"deployment","b":"pole","c":"horrible","d":"patrol","answer":"horrible"}

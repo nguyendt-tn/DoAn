@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"thu\u00ea, cho thu\u00ea, \u0111i\u0323nh ti\u00ea\u0340n m\u01b0\u01a1\u0341n cho, m\u01b0\u01a1\u0341n, m\u01b0\u01a1\u0341n la\u0323i, cho m\u01b0\u01a1\u0341n, thu\u00ea la\u0323i","a":"whereby","b":"rent","c":"notify","d":"blend","answer":"rent"}

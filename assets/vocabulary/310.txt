@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0103n m\u0103\u0323t \u0111e\u0323p, can \u0111a\u0309m, du\u0309ng ca\u0309m","a":"pity","b":"explicitly","c":"balloon","d":"brave","answer":"brave"}

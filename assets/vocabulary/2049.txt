@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"h\u01a1n, h\u01a1i h\u01a1i, chu\u0341t i\u0341t, kha\u0341","a":"rather","b":"reign","c":"duration","d":"glance","answer":"rather"}

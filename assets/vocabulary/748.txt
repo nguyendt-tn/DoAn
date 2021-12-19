@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chia, ph\u00e2n chia, ph\u00e2n ly, ng\u0103n ra, ph\u00e2n ra, chia re\u0309, gieo m\u00f4\u0341i b\u00e2\u0341t ho\u0340a, \u0111i bo\u0309 phi\u00ea\u0341u, re\u0309 ra nhi\u00ea\u0340u nga\u0309, xe\u0309 ra t\u01b0\u0340ng ph\u00e2\u0340n","a":"lately","b":"divide","c":"democratic","d":"remainder","answer":"divide"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00f4\u0303 s\u01b0\u0341c, c\u01b0\u01a1\u0340ng tra\u0341ng, h\u01a1\u0323p v\u00ea\u0323 sinh, kho\u0309e ma\u0323nh, la\u0340nh ma\u0323nh, sa\u0323ch se\u0309, tra\u0341ng ki\u00ea\u0323n","a":"earnings","b":"healthy","c":"settler","d":"marketplace","answer":"healthy"}

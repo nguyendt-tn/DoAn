@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ki\u00ea\u0341n tru\u0341c s\u01b0, ng\u01b0\u01a1\u0340i ki\u00ea\u0341n tru\u0341c, t\u01b0\u0323 mi\u0340mh la\u0340m n\u00ean","a":"inequality","b":"architect","c":"allege","d":"sketch","answer":"architect"}

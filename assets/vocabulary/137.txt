@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0341t ro\u0309, ca\u0309i qua\u0341, \u0111a\u0341nh gia\u0341, \u0111i\u0323nh gia\u0341, l\u00ean gia\u0341, tr\u01a1\u0309 n\u00ean t\u00f4\u0341t, \u01b0a thi\u0341ch","a":"protester","b":"philosophical","c":"assembly","d":"appreciate","answer":"appreciate"}

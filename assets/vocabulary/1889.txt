@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bao, loa\u0323i bo\u0309 tu\u0341i, l\u00f4\u0309 cu\u0309a ba\u0340n bida, ti\u00ea\u0340n ba\u0323c, tu\u0341i, l\u00f4\u0309 d\u01b0\u01a1\u0341i \u0111\u00e2\u0341t, tu\u0341i qu\u00e2\u0340n","a":"enquire","b":"pocket","c":"theology","d":"greenhouse","answer":"pocket"}

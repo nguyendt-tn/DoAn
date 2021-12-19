@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"nh\u01b0, n\u00ea\u0341u, nh\u01b0\u01a1\u0323c b\u0103\u0340ng, vi\u0340 nh\u01b0","a":"strand","b":"fit","c":"blast","d":"if","answer":"if"}

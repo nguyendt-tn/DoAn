@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u00e2y chi\u0309, d\u00e2y \u0111a\u0340n, th\u01a1\u0341 thi\u0323t, d\u00e2y nho\u0309","a":"string","b":"exceptional","c":"refusal","d":"beam","answer":"string"}

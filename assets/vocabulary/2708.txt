@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a\u0323i ho\u0323c \u0111\u01b0\u01a1\u0340ng","a":"commerce","b":"insufficient","c":"seal","d":"university","answer":"university"}

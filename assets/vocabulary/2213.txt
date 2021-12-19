@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0340i no\u0341i, l\u01a1\u0340i pha\u0341t bi\u00ea\u0309u","a":"shocking","b":"artwork","c":"say","d":"joint","answer":"say"}

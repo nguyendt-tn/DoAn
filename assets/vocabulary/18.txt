@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chi\u0341nh xa\u0341c, \u0111u\u0341ng, \u0111u\u0341ng \u0111\u0103\u0341n, xa\u0341c th\u01b0\u0323c","a":"accurate","b":"ease","c":"twist","d":"involvement","answer":"accurate"}

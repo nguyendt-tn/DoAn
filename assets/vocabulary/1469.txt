@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khoen, ng\u01b0\u01a1\u0340i n\u00f4\u0341i ti\u00ea\u0341p, v\u00e2\u0323t \u0111\u00ea\u0309 n\u00f4\u0341i ti\u00ea\u0341p, li\u00ean k\u00ea\u0341t, vo\u0340ng s\u0103\u0341t, l\u00f4\u0309 \u0111an, l\u00f4\u0309 l\u01b0\u01a1\u0341i","a":"marine","b":"radiation","c":"dense","d":"link","answer":"link"}

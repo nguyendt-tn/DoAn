@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cha\u0341n na\u0309n, la\u0340m bu\u00f4\u0340n r\u00e2\u0340u, phi\u00ea\u0340n mu\u00f4\u0323n","a":"depressing","b":"super","c":"companion","d":"leak","answer":"depressing"}

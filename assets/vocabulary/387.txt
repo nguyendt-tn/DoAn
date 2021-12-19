@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nguy\u00ean nh\u00e2n, nguy\u00ean do, c\u0103ng nguy\u00ean, le\u0303, ly\u0341 do, duy\u00ean c\u01a1\u0341, vi\u00ea\u0323c t\u00f4\u0341 tu\u0323ng, vi\u00ea\u0323c th\u01b0a ki\u00ea\u0323n, vi\u00ea\u0323c tranh tu\u0323ng","a":"civilization","b":"patron","c":"cause","d":"render","answer":"cause"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c tu\u00f4\u0309i ch\u01b0a qua\u0341 20","a":"diagnosis","b":"imprisonment","c":"screw","d":"teenage","answer":"teenage"}

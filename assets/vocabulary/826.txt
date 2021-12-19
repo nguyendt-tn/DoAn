@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hoa\u0340n ca\u0309nh, nguy\u00ean t\u00f4\u0341, ph\u00e2\u0340n t\u01b0\u0309, s\u01a1 lu\u00e2\u0323n, s\u01a1\u0309 tr\u01b0\u01a1\u0340ng, tha\u0340nh ph\u00e2\u0340n, y\u00ea\u0341u t\u00f4\u0341","a":"textbook","b":"commentary","c":"inspection","d":"element","answer":"element"}

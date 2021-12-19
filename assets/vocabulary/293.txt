@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u0103n sau, r\u01b0\u01a1ng, ch\u00e2n co\u0341 l\u00f4ng, gia\u0340y \u00f4\u0341ng, gia\u0340y \u00f4\u0341ng bu\u00f4\u0323t d\u00e2y","a":"bind","b":"obstacle","c":"sword","d":"boot","answer":"boot"}

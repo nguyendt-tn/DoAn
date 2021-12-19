@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u0103\u0340ng lo\u0340ng, ch\u00e2\u0341p nh\u00e2\u0323n, nh\u00e2\u0323n, thu nh\u00e2\u0323n, \u01b0ng thu\u00e2\u0323n","a":"accept","b":"monopoly","c":"reproduction","d":"carriage","answer":"accept"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ph\u01b0\u01a1ng b\u0103\u0341c, thu\u00f4\u0323c v\u00ea\u0340 ph\u01b0\u01a1ng b\u0103\u0341c, xoay v\u00ea\u0340 h\u01b0\u01a1\u0341ng b\u0103\u0341c","a":"beneath","b":"litre","c":"tremendous","d":"north","answer":"north"}

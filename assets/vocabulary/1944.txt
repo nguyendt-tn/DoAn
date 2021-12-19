@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nay, cho \u0111\u00ea\u0341n nay, co\u0341 m\u0103\u0323t, b\u00e2y gi\u01a1\u0340, hi\u00ea\u0323n ta\u0323i, hi\u00ea\u0323n th\u01a1\u0340i, hi\u00ea\u0323n di\u00ea\u0323n","a":"likewise","b":"present","c":"activist","d":"testimony","answer":"present"}

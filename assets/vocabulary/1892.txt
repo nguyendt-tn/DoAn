@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"th\u01a1 phu\u0341, vi\u00ea\u0323c la\u0340m cu\u0309a thi si\u0303","a":"dictate","b":"revolutionary","c":"poetry","d":"identification","answer":"poetry"}

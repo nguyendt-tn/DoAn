@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"th\u00f4ng tri, ban tha\u0341nh th\u00ea\u0309, truy\u00ea\u0340n cho bi\u00ea\u0341t, truy\u00ea\u0340n sang","a":"cabin","b":"resemble","c":"communicate","d":"necessity","answer":"communicate"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng chuy\u00ean m\u00f4n, kh\u00f4ng thu\u00f4\u0323c v\u00ea\u0340 \u0111a\u0323o, thu\u00f4\u0323c v\u00ea\u0340 th\u00ea\u0341 tu\u0323c","a":"warehouse","b":"lay","c":"inability","d":"beast","answer":"lay"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"mi\u00ea\u0341ng gi\u00e2\u0341y, mi\u00ea\u0341ng va\u0309i, nha\u0309n hi\u00ea\u0323u, ph\u00e2\u0340n \u0111a\u0341 nh\u00f4 ra ngoa\u0340i, pho\u0340ng xa\u0323 k\u00ea\u0341, t\u00ean cu\u0309a nha\u0309n hi\u00ea\u0323u","a":"massacre","b":"label","c":"robbery","d":"costly","answer":"label"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bao thu\u00ea","a":"farm","b":"verify","c":"instinct","d":"adoption","answer":"farm"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"g\u0103\u0323p v\u00e2\u0323n may, g\u0103\u0323p h\u00ean, may m\u0103\u0341n","a":"verify","b":"clinic","c":"lucky","d":"opt","answer":"lucky"}

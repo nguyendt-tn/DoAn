@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"g\u00e2y ra, sanh ra, ba\u0341o, ba\u0341o cho ng\u01b0\u01a1\u0340i na\u0340o bi\u00ea\u0341t, cho bi\u00ea\u0341t, t\u00f4\u0341 ca\u0341o","a":"circulate","b":"overturn","c":"inform","d":"prominent","answer":"inform"}

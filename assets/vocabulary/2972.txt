@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lo nga\u0323i, lo\u0340ng b\u0103n khuy\u00e2n, lo\u0340ng ham mu\u00f4\u0341n, m\u00f4\u0341i lo s\u01a1\u0323","a":"behind","b":"anxiety","c":"weigh","d":"impress","answer":"anxiety"}

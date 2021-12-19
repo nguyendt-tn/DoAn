@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ti\u00ea\u0323n l\u01a1\u0323i, thu\u00f4\u0323c v\u00ea\u0340 co\u0341 i\u0341ch, thu\u00f4\u0323c v\u00ea\u0340 th\u01b0\u0323c ha\u0340nh, thu\u00f4\u0323c v\u00ea\u0340 th\u01b0\u0323c du\u0323ng","a":"grin","b":"derive","c":"span","d":"practical","answer":"practical"}

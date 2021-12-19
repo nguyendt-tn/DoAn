@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tin nh\u0103\u0341n, th\u00f4ng \u0111i\u00ea\u0323p, vi\u00ea\u0323c nh\u01a1\u0340 la\u0340m, vi\u00ea\u0323c sai la\u0340m, th\u01a1 ti\u0341n, vi\u00ea\u0323c u\u0309y tha\u0341c","a":"message","b":"activation","c":"terrorism","d":"invasion","answer":"message"}

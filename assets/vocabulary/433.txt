@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u00ea\u0341u thu\u00f4\u0341c la\u0341, thu\u00f4\u0341c la\u0341","a":"cleaning","b":"cigarette","c":"undertake","d":"exclusively","answer":"cigarette"}

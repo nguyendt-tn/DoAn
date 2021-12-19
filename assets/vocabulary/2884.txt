@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"v\u0103\u0341ng, v\u0103\u0341ng m\u0103\u0323t","a":"afterwards","b":"produce","c":"depressing","d":"absent","answer":"absent"}

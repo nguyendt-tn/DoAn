@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"khoan thai, thung dung, y\u00ean t\u00e2m, d\u00ea\u0309 ta\u0341nh, khinh khoa\u0341i, d\u00ea\u0309 da\u0340ng, kh\u00f4ng lo nga\u0323i, t\u01b0\u0323 do, d\u00ea\u0309 da\u0303i, y\u00ean lo\u0340ng, bi\u0340nh di\u0323","a":"offspring","b":"economics","c":"easy","d":"timely","answer":"easy"}

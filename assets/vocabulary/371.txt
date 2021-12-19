@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0340i, ba\u0340n cha\u0309i, ma\u0341y cha\u0309i len, ma\u0341y cha\u0309i t\u01a1, ba\u0309ng y\u00ea\u0341t thi\u0323, qua\u0309ng ca\u0341o, ch\u01b0\u01a1ng tri\u0340nh cu\u00f4\u0323c \u0111ua, the\u0309, con lu\u0341c l\u0103\u0341c, thi\u00ea\u0341p","a":"humanitarian","b":"shortage","c":"buffer","d":"card","answer":"card"}

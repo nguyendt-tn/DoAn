@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"say m\u00ea, la\u0340m m\u00ea ho\u0103\u0323c, quy\u00ea\u0341n ru\u0303","a":"corporation","b":"rehabilitation","c":"overturn","d":"fascinating","answer":"fascinating"}

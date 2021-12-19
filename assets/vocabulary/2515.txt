@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u01a1m, di\u0323u da\u0340ng, ngo\u0323t","a":"columnist","b":"sweet","c":"namely","d":"shareholder","answer":"sweet"}

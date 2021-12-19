@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"t\u00f4\u0323i a\u0341c, tro\u0323ng t\u00f4\u0323i","a":"minimize","b":"testing","c":"clerk","d":"crime","answer":"crime"}

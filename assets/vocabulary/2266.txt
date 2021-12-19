@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nghi\u00eam trang, c\u0103ng th\u0103\u0309ng","a":"revision","b":"set","c":"infamous","d":"anticipate","answer":"set"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"phi\u00ea\u0340n lu\u0323y, s\u01b0\u0323 l\u00e2\u0323t u\u0341p, s\u01b0\u0323 pha\u0341 r\u00f4\u0341i, s\u01b0\u0323 tr\u01a1\u0309 nga\u0323i, ti\u0340nh tra\u0323ng h\u00f4\u0309n loa\u0323n","a":"upset","b":"mainland","c":"resume","d":"attachment","answer":"upset"}

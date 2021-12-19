@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"k\u00ea\u0341 ti\u00ea\u0341p, k\u00ea\u0341 vi\u0323, n\u00f4\u0341i nghi\u00ea\u0323p, tha\u0340nh c\u00f4ng, tha\u0340nh t\u01b0\u0323u","a":"conceal","b":"succeed","c":"jail","d":"tribal","answer":"succeed"}

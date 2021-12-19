@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ph\u00e2n, chu\u0341t, la\u0341t, nguy\u00ean ba\u0309n, nguy\u00ean ca\u0341o, phu\u0341t","a":"coincidence","b":"minute","c":"stumble","d":"innovative","answer":"minute"}

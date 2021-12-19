@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0309nh ti\u0309nh, gia\u0341c ng\u00f4\u0323, hi\u00ea\u0309n nhi\u00ean, l\u00f4\u0309 c\u00e2y kim, m\u0103\u0341t, m\u00e2\u0340m cu\u0309a c\u00e2y, m\u01a1\u0309 m\u0103\u0341t sa\u0341ng, mu\u0323c, nha\u0309n, ro\u0309 ra\u0340ng","a":"exile","b":"eye","c":"designate","d":"territory","answer":"eye"}

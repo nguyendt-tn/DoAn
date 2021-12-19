@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"d\u00ea\u0309 u\u00f4\u0341n, x\u00ea\u0341p la\u0323i","a":"anonymous","b":"flexible","c":"provincial","d":"parental","answer":"flexible"}

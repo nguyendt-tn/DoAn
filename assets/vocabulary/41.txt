@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cho\u0323n m\u00f4\u0323t ngh\u00ea\u0340, la\u0340m con nu\u00f4i, nh\u00e2\u0323n m\u00f4\u0323t \u0111\u00ea\u0340 nghi\u0323, nh\u00e2\u0323n nu\u00f4i, theo m\u00f4\u0323t y\u0341 ki\u00ea\u0341n","a":"sporting","b":"adopt","c":"limitation","d":"confirmation","answer":"adopt"}

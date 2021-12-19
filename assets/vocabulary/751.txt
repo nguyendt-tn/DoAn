@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01b0\u0309 chi\u0309, gian xa\u0309o, ha\u0340nh \u0111\u00f4\u0323ng cu\u0309a ng\u01b0\u01a1\u0340i na\u0340o, ngo\u0341n l\u01b0\u0340a \u0111a\u0309o, om so\u0340m, ti\u00ea\u0341ng \u00f4\u0340n a\u0340o, xa\u0309o quy\u00ea\u0323t, n\u00f4\u0341t \u0111\u00f4","a":"inclined","b":"altogether","c":"rifle","d":"do","answer":"do"}

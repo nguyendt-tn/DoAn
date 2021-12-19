@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u0103\u0340ng ph\u0103\u0309ng, ngang m\u01b0\u0323c n\u01b0\u01a1\u0341c, ngang v\u01a1\u0341i, nh\u0103\u0309n, tri\u0340nh \u0111\u00f4\u0323","a":"level","b":"mosque","c":"cling","d":"workplace","answer":"level"}

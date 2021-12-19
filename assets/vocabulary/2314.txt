@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 y\u0341 nghi\u0303a, \u0111\u00e2\u0340y y\u0341 nghi\u0303a, quan tro\u0323ng, tro\u0323ng \u0111a\u0323i","a":"persistent","b":"efficiency","c":"random","d":"significant","answer":"significant"}

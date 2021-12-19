@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"b\u00f4\u0341n m\u01b0\u01a1\u0340i, s\u00f4\u0341 b\u00f4\u0341n m\u01b0\u01a1i","a":"forty","b":"jury","c":"comparable","d":"pronounced","answer":"forty"}

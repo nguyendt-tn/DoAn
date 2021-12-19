@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i b\u00ean ca\u0323nh, ng\u01b0\u01a1\u0340i hay la\u0340m \u01a1n, ng\u01b0\u01a1\u0340i \u01a1\u0309 b\u00ean ca\u0323nh, ng\u01b0\u01a1\u0340i la\u0341ng gi\u00ea\u0340ng","a":"accumulation","b":"strengthen","c":"hypothesis","d":"neighbour","answer":"neighbour"}

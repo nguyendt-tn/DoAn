@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cu\u0340ng m\u00f4\u0323t ki\u00ea\u0309u, \u0111\u00f4\u0340ng da\u0323ng, \u0111\u00f4\u0340ng chu\u0309ng, \u0111\u00f4\u0340ng hi\u0340nh, kh\u00f4ng thay \u0111\u00f4\u0309i","a":"horizon","b":"diminish","c":"stake","d":"uniform","answer":"uniform"}

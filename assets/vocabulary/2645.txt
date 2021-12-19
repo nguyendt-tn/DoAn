@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111oa\u0340n ng\u01b0\u01a1\u0340i \u0111i sau h\u00e2\u0340u, \u0111oa\u0340n tu\u0340y tu\u0340ng, xe l\u01b0\u0309a, xe tr\u01b0\u01a1\u0323t tuy\u00ea\u0341t, \u0111oa\u0340n xe l\u01b0\u0309a, \u0111u\u00f4i que\u0341t \u0111\u00e2\u0341t","a":"train","b":"privatization","c":"gay","d":"cluster","answer":"train"}

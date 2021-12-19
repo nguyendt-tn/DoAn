@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"g\u00e2\u0340n","a":"beloved","b":"villager","c":"almost","d":"incur","answer":"almost"}

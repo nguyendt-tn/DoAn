@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ngh\u00ea\u0340 nghi\u00ea\u0323p, s\u01b0\u0323 bu\u00f4n ba\u0341n, s\u01b0\u0323 giao di\u0323ch, th\u01b0\u01a1ng ma\u0303i","a":"trade","b":"primarily","c":"conviction","d":"forum","answer":"trade"}

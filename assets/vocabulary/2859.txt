@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u00ea\u0340u quy\u00ea\u0341t \u0111i\u0323nh, y\u0341 chi\u0341, y\u0341 mu\u00f4\u0341n","a":"would","b":"rod","c":"parliamentary","d":"debris","answer":"would"}

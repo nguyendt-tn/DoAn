@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nguy\u00ean nh\u00e2n, ngu\u00f4\u0340n","a":"source","b":"revision","c":"firework","d":"bass","answer":"source"}

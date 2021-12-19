@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"thu\u00ea, ch\u0103m lo, m\u01b0\u01a1\u0341n, s\u01b0\u0309 du\u0323ng, du\u0340ng","a":"epidemic","b":"employ","c":"aspire","d":"warming","answer":"employ"}

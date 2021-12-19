@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xem nh\u01b0, c\u0103\u0341t nghi\u0309a, gia\u0309i thi\u0341ch","a":"aluminium","b":"worthy","c":"account","d":"modification","answer":"account"}

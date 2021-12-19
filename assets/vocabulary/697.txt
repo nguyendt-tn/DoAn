@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"kha\u0341m pha\u0341, nh\u00e2\u0323n th\u00e2\u0341y, do\u0340 ra, ti\u0340m ra","a":"plunge","b":"fake","c":"councillor","d":"detect","answer":"detect"}

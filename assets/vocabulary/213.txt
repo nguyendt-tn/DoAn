@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"banh, \u0111a\u0323n, qua\u0309 banh, qua\u0309 c\u00e2\u0340u, ho\u0340n da\u0341i, ho\u0340n tro\u0340n","a":"implementation","b":"scholarship","c":"ball","d":"cutting","answer":"ball"}

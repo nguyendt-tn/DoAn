@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"phi\u0341a ta\u0309, phi\u0341a tra\u0341i","a":"burden","b":"merely","c":"left","d":"undergraduate","answer":"left"}

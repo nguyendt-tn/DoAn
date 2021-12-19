@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"chung quanh, xung quanh, vo\u0340ng tro\u0340n, vo\u0340ng vo\u0340ng","a":"round","b":"dependence","c":"warrior","d":"litre","answer":"round"}

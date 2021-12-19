@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"uy nghi, oai phong, trang nghi\u00eam","a":"elevate","b":"tonne","c":"august","d":"modest","answer":"august"}

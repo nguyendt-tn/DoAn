@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309n ch\u00e2\u0341t, ba\u0309n ti\u0341nh, \u0111\u0103\u0323c ti\u0341nh, ta\u0323o ho\u0341a, ti\u0341nh ch\u00e2\u0341t, t\u01b0\u0323 nhi\u00ean ti\u0341nh, thi\u00ean nhi\u00ean ti\u0341nh","a":"amusing","b":"nature","c":"log","d":"resistance","answer":"nature"}

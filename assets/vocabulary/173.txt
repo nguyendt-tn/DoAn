@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"giu\u0341p \u0111\u01a1\u0309, phu\u0323 ta\u0341","a":"assistant","b":"constitution","c":"resemble","d":"fibre","answer":"assistant"}

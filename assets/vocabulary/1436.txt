@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u01b0\u01a1\u0341ng d\u00e2\u0309n","a":"refugee","b":"asset","c":"leading","d":"hopeful","answer":"leading"}

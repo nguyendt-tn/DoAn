@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2n tha\u0340nh, lo\u0340ng tin, lo\u0340ng trung tha\u0340nh, tin c\u00e2\u0323y, ti\u0341n ng\u01b0\u01a1\u0309ng, ti\u0341n nhi\u00ea\u0323m","a":"faith","b":"collaborate","c":"packet","d":"venture","answer":"faith"}

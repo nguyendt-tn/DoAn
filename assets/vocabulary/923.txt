@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chinh pha\u0323t, cu\u00f4\u0323c vi\u00ea\u0309n chinh","a":"memoir","b":"expedition","c":"broadly","d":"prevention","answer":"expedition"}

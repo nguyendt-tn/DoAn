@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"giao banh, co\u0341 l\u01a1\u0323i, c\u01b0 x\u01b0\u0309, phu\u0323c di\u0323ch","a":"align","b":"serve","c":"layout","d":"whip","answer":"serve"}

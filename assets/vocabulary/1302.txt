@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"pha\u0309i \u0111o\u0341, qua\u0309 nhi\u00ean, th\u00e2\u0323t, theo s\u01b0\u0323 th\u00e2\u0323t","a":"coastal","b":"indeed","c":"practitioner","d":"ownership","answer":"indeed"}

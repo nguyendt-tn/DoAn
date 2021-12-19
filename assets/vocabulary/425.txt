@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cha\u0341nh, chu\u0309 y\u00ea\u0341u","a":"chief","b":"slap","c":"database","d":"golden","answer":"chief"}

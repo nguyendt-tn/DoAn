@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ph\u00e2\u0340n tri\u00ea\u0323u, tri\u00ea\u0323u","a":"evolve","b":"million","c":"aide","d":"socialist","answer":"million"}

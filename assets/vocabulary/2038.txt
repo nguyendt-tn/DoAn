@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"cha\u0323y mau, nha\u0309y mau","a":"merely","b":"racing","c":"reconstruction","d":"crown","answer":"racing"}

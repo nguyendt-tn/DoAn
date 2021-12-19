@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 hi\u00ea\u0323u l\u01b0\u0323c, co\u0341 i\u0341ch, co\u0341 l\u01a1\u0323i, co\u0341 th\u00ea\u0309 du\u0340ng, ra\u0309nh rang, s\u0103\u0309n sa\u0340ng \u0111\u00ea\u0309 du\u0340ng, ti\u00ea\u0323n l\u01a1\u0323i","a":"transmit","b":"available","c":"architectural","d":"forth","answer":"available"}

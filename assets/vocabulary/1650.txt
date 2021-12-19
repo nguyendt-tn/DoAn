@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"quen phong th\u00f4\u0309, quen thu\u0309y th\u00f4\u0309, quen ve\u0309 t\u01b0\u0323 nhi\u00ean","a":"mayor","b":"naturally","c":"thread","d":"astonishing","answer":"naturally"}

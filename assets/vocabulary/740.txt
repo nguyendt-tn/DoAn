@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng th\u00e2\u0323t tha\u0340","a":"dishonest","b":"tighten","c":"instrumental","d":"companion","answer":"dishonest"}

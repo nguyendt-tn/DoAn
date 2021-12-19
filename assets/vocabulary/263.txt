@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"xe \u0111a\u0323p, xe ma\u0341y","a":"meditation","b":"raid","c":"bicycle","d":"biography","answer":"bicycle"}

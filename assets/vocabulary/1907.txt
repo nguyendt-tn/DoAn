@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nh\u00e2n d\u00e2n, thu\u00f4\u0323c v\u00ea\u0340 d\u00e2n chu\u0341ng, thu\u00f4\u0323c v\u00ea\u0340 bi\u0340nh d\u00e2n, thu\u00f4\u0323c v\u00ea\u0340 nh\u00e2n gian","a":"spectacle","b":"imprison","c":"briefly","d":"popular","answer":"popular"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bi\u00ea\u0341t ro\u0309, ca\u0303m th\u00e2\u0341y, co\u0341 tri gia\u0341c, co\u0341 y\u0341 th\u01b0\u0341c, h\u00f4\u0340i ti\u0309nh, sa\u0341ng su\u00f4\u0341t","a":"divine","b":"conscious","c":"recipient","d":"harvest","answer":"conscious"}

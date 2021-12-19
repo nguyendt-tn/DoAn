@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca si\u0303","a":"realm","b":"deployment","c":"monk","d":"singer","answer":"singer"}

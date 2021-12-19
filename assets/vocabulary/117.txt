@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2u \u0111a\u0341p, c\u00e2u tra\u0309 l\u01a1\u0340i, kha\u0341ng bi\u00ea\u0323n, l\u01a1\u0340i bi\u00ea\u0323n ba\u0341c, \u0111a\u0341nh tra\u0309 la\u0323i, phe\u0341p gia\u0309i, th\u01a1 phu\u0341c \u0111a\u0341p","a":"cynical","b":"fairness","c":"versus","d":"answer","answer":"answer"}

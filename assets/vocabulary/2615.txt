@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2n t\u01b0\u01a1\u0340ng, \u0111\u00e2\u0340u mo\u0341ng ch\u00e2n ng\u01b0\u0323a, mu\u0303i gia\u0340y, ngo\u0341n ch\u00e2n","a":"ironically","b":"comic","c":"sophisticated","d":"toe","answer":"toe"}

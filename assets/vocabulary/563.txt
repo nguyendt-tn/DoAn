@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"la\u0340m nghe theo, la\u0340m tin theo","a":"transaction","b":"dose","c":"convince","d":"hidden","answer":"convince"}

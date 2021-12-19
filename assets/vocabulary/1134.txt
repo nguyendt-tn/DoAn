@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u0309a sa\u0309i","a":"goods","b":"parental","c":"specimen","d":"broadband","answer":"goods"}

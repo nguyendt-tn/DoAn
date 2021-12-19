@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"g\u00e2y ra, sanh ra, hi\u0341t va\u0340o, hu\u0341t va\u0340o, ca\u0309m h\u01b0\u0341ng, th\u01a1\u0309, xiu khi\u00ea\u0341n","a":"inspire","b":"soak","c":"aspire","d":"equation","answer":"inspire"}

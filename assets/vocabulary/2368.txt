@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 giao t\u00ea\u0341, s\u01b0\u0323 giao thi\u00ea\u0323p, s\u01b0\u0323 xa\u0303 giao","a":"society","b":"drain","c":"ironically","d":"preference","answer":"society"}

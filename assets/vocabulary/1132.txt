@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111i\u00ea\u0340u thi\u00ea\u0323n, \u0111\u01b0\u01a1\u0323c, gio\u0309i, hoa\u0340n t\u00e2\u0341t, hoa\u0340n ha\u0309o, kh\u00f4ng x\u00e2\u0341u, t\u00f4\u0341t, t\u00f4\u0341t \u0111e\u0323p, t\u00f4\u0341t la\u0340nh, tuy\u00ea\u0323t my\u0309","a":"good","b":"crawl","c":"lifetime","d":"stance","answer":"good"}

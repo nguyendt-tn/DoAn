@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u00e2\u0323u tr\u00ean c\u00e2y, ng\u00f4\u0340i, nho\u0341m ho\u0323p","a":"acceptance","b":"thesis","c":"epidemic","d":"sit","answer":"sit"}

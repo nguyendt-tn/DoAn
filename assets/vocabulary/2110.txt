@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 \u0103n d\u01b0, \u0111\u00f4\u0340 \u0103n th\u01b0\u0340a, s\u00f4\u0341 co\u0340n la\u0323i, di ca\u0309o cu\u0309a ta\u0341c gia\u0309","a":"stimulate","b":"mosque","c":"remain","d":"comparable","answer":"remain"}

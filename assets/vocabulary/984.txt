@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ho\u0323c phi\u0341, la\u0309nh \u0111i\u0323a, ta\u0340i sa\u0309n th\u01b0\u0340a k\u00ea\u0341, ti\u00ea\u0340n c\u00f4ng","a":"philosophical","b":"suicide","c":"battlefield","d":"fee","answer":"fee"}

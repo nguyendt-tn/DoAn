@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 c\u00f4ng ngh\u00ea\u0323, thu\u00f4\u0323c v\u00ea\u0340 ky\u0309 thu\u00e2\u0323t","a":"contend","b":"technical","c":"interface","d":"pit","answer":"technical"}

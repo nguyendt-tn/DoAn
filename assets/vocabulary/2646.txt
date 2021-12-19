@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hu\u00e2\u0341n luy\u00ea\u0323n vi\u00ean, ng\u01b0\u01a1\u0340i t\u00e2\u0323p d\u01b0\u01a1\u0323t cho vo\u0309 si\u0303","a":"declaration","b":"monk","c":"trainer","d":"precise","answer":"trainer"}

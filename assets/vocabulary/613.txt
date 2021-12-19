@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"k\u00eau, he\u0341t l\u00ean, kho\u0341c, su\u0309a","a":"steam","b":"cry","c":"obsess","d":"embed","answer":"cry"}

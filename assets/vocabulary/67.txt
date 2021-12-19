@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ca\u0341ch \u0111\u00e2y","a":"administer","b":"inhabitant","c":"ago","d":"simulation","answer":"ago"}

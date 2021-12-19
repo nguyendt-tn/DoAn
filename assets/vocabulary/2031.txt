@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"gia\u0309n di\u0323, hi\u00ea\u0340n la\u0340nh, l\u0103\u0323ng, \u00f4n ho\u0340a, th\u01b0\u01a1\u0340ng, y\u00ean l\u0103\u0323ng, y\u00ean \u00f4\u0309n, y\u00ean ti\u0309nh","a":"aesthetic","b":"extract","c":"quiet","d":"vacuum","answer":"quiet"}

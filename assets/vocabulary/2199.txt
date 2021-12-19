@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0309i \u0111\u00ea\u0309 \u0103n, ca\u0309i xa\u0340 la\u0341ch, xa\u0340 la\u0341ch","a":"disposal","b":"salad","c":"referendum","d":"passionate","answer":"salad"}

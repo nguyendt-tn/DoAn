@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng, kh\u00f4ng chu\u0341t gi\u0340, kh\u00f4ng chu\u0341t na\u0340o, kh\u00f4ng h\u0103\u0309n, tuy\u00ea\u0323t kh\u00f4ng","a":"no","b":"terrify","c":"mosque","d":"besides","answer":"no"}

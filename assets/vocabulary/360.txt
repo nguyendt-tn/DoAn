@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lon, bi\u0340nh \u0111\u01b0\u0323ng n\u01b0\u01a1\u0341c, h\u00f4\u0323p, h\u00f4\u0323p la\u0340m b\u0103\u0340ng s\u0103\u0341t t\u00e2y","a":"sketch","b":"can","c":"memo","d":"constraint","answer":"can"}

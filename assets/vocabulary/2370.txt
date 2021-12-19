@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"de\u0303o, kh\u01a1\u0340 da\u0323i, m\u00ea\u0340m, nhu nh\u01b0\u01a1\u0323c, \u00f4n ho\u0340a","a":"unfold","b":"inappropriate","c":"barrel","d":"soft","answer":"soft"}

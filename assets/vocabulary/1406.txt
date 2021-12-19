@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0341t, hi\u00ea\u0309u bi\u00ea\u0341t, nh\u00e2\u0323n bi\u00ea\u0341t, nh\u00e2\u0323n ra, ph\u00e2n bi\u00ea\u0323t","a":"clerk","b":"intent","c":"know","d":"theatrical","answer":"know"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ve\u0309 linh hoa\u0323t","a":"genuine","b":"breathing","c":"tactic","d":"absence","answer":"breathing"}

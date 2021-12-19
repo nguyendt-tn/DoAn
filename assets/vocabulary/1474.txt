@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nghe, nghe theo, l\u0103\u0341ng tai nghe","a":"listen","b":"disappoint","c":"sensation","d":"founder","answer":"listen"}

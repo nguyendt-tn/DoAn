@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"che, ch\u00f4n, tr\u00f4\u0341n, tr\u00f4\u0341n tra\u0341nh, gi\u00e2\u0341u","a":"hilarious","b":"hide","c":"autonomy","d":"utility","answer":"hide"}

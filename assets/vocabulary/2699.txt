@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hay thi\u00ean vi\u0323, kh\u00f4ng c\u00f4ng bi\u0340nh","a":"unfair","b":"enact","c":"reform","d":"interim","answer":"unfair"}

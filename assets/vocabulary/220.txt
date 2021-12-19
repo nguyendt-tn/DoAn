@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"di\u00eam c\u01a1, c\u0103n c\u01b0\u0341, c\u01a1 s\u00f4\u0341, \u0111\u01b0\u01a1\u0340ng ch\u00e2n, \u0111\u01b0\u01a1\u0340ng \u0111a\u0341y","a":"shareholder","b":"gay","c":"conspiracy","d":"base","answer":"base"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"th\u01b0\u0341 hai","a":"assassination","b":"monday","c":"terribly","d":"infant","answer":"monday"}

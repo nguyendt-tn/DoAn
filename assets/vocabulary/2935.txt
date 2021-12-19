@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chuy\u00ean v\u00ea\u0340 ngh\u00ea\u0340 n\u00f4ng, la\u0340m ru\u00f4\u0323ng","a":"intended","b":"declare","c":"pen","d":"agricultural","answer":"agricultural"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0323n","a":"vacuum","b":"bullet","c":"exception","d":"collision","answer":"bullet"}

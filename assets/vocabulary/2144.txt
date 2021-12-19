@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chi\u0323u tra\u0341ch nhi\u00ea\u0323m, co\u0341 quy\u00ea\u0340n, \u0111a\u0341ng ki\u0341nh, \u0111a\u0341ng tin c\u00e2\u0323y","a":"fragment","b":"sack","c":"divorce","d":"responsible","answer":"responsible"}

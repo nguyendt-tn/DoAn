@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u01b0\u0341c t\u01b0\u01a1\u0341c, ch\u01b0\u0341ng th\u01b0, t\u00ean m\u00f4\u0323t quy\u00ea\u0309n sa\u0341ch, ch\u01b0\u01a1ng sa\u0341ch","a":"verdict","b":"high-profile","c":"consistently","d":"title","answer":"title"}

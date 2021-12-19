@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 th\u01b0\u01a1ng ma\u0309i, th\u01b0\u01a1ng nghi\u00ea\u0323p, vi\u00ea\u0323c m\u00e2\u0323u di\u0323ch, vu\u0323 l\u01a1\u0323i","a":"commercial","b":"assert","c":"punch","d":"intimate","answer":"commercial"}

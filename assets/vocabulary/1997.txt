@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ba\u0309o v\u00ea\u0323, che ch\u01a1\u0309, gi\u01b0\u0309, pho\u0340ng ng\u01b0\u0340a","a":"grind","b":"specialized","c":"benchmark","d":"protect","answer":"protect"}

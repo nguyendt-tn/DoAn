@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng d\u00e2n, d\u00e2n \u01a1\u0309 tha\u0340nh, ng\u01b0\u01a1\u0340i \u01a1\u0309 tha\u0340nh","a":"militant","b":"substantial","c":"civic","d":"citizen","answer":"citizen"}

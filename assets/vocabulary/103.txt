@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khi gi\u00e2\u0323n, m\u00f4\u0341i gi\u00e2\u0323n","a":"genocide","b":"coincidence","c":"anger","d":"refusal","answer":"anger"}

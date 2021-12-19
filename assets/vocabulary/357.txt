@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c v\u00e2\u0323n \u0111\u00f4\u0323ng tuy\u00ea\u0309n c\u01b0\u0309","a":"slavery","b":"coup","c":"campaign","d":"faction","answer":"campaign"}

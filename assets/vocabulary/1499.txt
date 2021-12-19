@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111o\u0323c to, hay la\u0340m \u00f4\u0340n, huy\u00ean na\u0341o, lo\u0340e loe\u0323t, l\u01a1\u0341n, no\u0341i l\u01a1\u0341n ti\u00ea\u0341ng, \u00f4\u0340n a\u0340o, s\u0103\u0323c s\u01a1\u0309","a":"loud","b":"summit","c":"franchise","d":"canal","answer":"loud"}

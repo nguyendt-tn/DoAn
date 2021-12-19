@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"t\u00f4\u0341 ca\u0341o","a":"log","b":"accuse","c":"urgent","d":"adjacent","answer":"accuse"}

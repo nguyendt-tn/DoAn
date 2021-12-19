@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bao ha\u0340m, ch\u01b0\u0341a, \u0111\u01b0\u0323ng","a":"foundation","b":"contain","c":"ballot","d":"symbolic","answer":"contain"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khi\u0341 h\u00e2\u0323u, nhi\u00ea\u0323t \u0111\u00f4\u0323, s\u00f4\u0341t","a":"temperature","b":"desperately","c":"identical","d":"stereotype","answer":"temperature"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111u\u0341ng s\u01b0\u0323 th\u00e2\u0323t, ngay th\u00e2\u0323t, tha\u0340nh th\u00e2\u0323t, xa\u0341c th\u00e2\u0323t, th\u00e2\u0323t","a":"TRUE","b":"make-up","c":"ancestor","d":"progressive","answer":"TRUE"}

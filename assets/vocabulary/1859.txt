@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ch\u00e2\u0323m ra\u0309i, nhe\u0323 nha\u0340ng","a":"involvement","b":"bonus","c":"recovery","d":"piano","answer":"piano"}

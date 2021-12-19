@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0103n kh\u01a1\u0341p nhau, k\u00ea\u0309 la\u0323i, li\u00ean k\u00ea\u0341t, li\u00ean la\u0323c, quan h\u00ea\u0323, thu\u00e2\u0323t la\u0323i","a":"relate","b":"aspiration","c":"globalization","d":"unveil","answer":"relate"}

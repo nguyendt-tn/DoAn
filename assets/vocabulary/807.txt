@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ng\u01b0\u01a1\u0340i co\u0341 ho\u0323c t\u00e2\u0323p, ng\u01b0\u01a1\u0340i co\u0341 ho\u0323c th\u01b0\u0341c, ng\u01b0\u01a1\u0340i co\u0341 ho\u0323c v\u00e2\u0341n, ng\u01b0\u01a1\u0340i co\u0341 tri\u0340nh \u0111\u00f4\u0323","a":"adoption","b":"kingdom","c":"educated","d":"screw","answer":"educated"}

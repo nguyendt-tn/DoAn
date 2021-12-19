@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nghe theo, la\u0340m tho\u0309a ma\u0309n, la\u0340m tro\u0340n nhi\u00ea\u0323m vu\u0323, la\u0340m vui lo\u0340ng, la\u0340m cho tin theo, thuy\u00ea\u0341t phu\u0323c, tra\u0309 n\u01a1\u0323","a":"attendance","b":"vein","c":"satisfy","d":"modest","answer":"satisfy"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 k\u00ea\u0309 va\u0340o, co\u0341 \u01a1\u0309 trong, k\u00ea\u0309 ra","a":"including","b":"embarrassment","c":"vacuum","d":"output","answer":"including"}

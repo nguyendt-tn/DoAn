@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ma\u0341y \u0111i\u00ea\u0323n toa\u0341n, ma\u0341y ti\u0341nh, ng\u01b0\u01a1\u0340i ti\u0341nh toa\u0341n","a":"computer","b":"perception","c":"supervisor","d":"contractor","answer":"computer"}

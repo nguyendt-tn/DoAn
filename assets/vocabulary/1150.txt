@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cha\u0340o, cha\u0340o \u0111o\u0341n, kho\u0341c, ti\u00ea\u0341ng kho\u0341c, ti\u00ea\u0341p r\u01b0\u01a1\u0341c","a":"likelihood","b":"greet","c":"contention","d":"proposition","answer":"greet"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ki\u00eau c\u0103ng, gia\u0309 b\u00f4\u0323, s\u01b0\u0323 c\u01b0\u01a1\u0309ng chi\u00ea\u0341m, s\u01b0\u0323 gia\u0309 thuy\u00ea\u0341t, ti\u00ea\u0309u ti\u00ea\u0340n \u0111\u00ea\u0340, ti\u0341nh t\u01b0\u0323 phu\u0323","a":"suddenly","b":"bride","c":"assumption","d":"drama","answer":"assumption"}

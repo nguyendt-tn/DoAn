@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u01a1i xa, \u0111oa\u0323n \u0111\u01b0\u01a1\u0340ng, khoa\u0309ng ca\u0341ch, l\u00f4\u0323 tri\u0340nh, khoa\u0309ng th\u01a1\u0340i gian, qua\u0309ng \u0111\u01b0\u01a1\u0340ng","a":"carve","b":"distance","c":"prescription","d":"exclusion","answer":"distance"}

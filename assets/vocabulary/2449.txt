@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0341, \u0111a\u0341 so\u0309i, tha\u0323ch","a":"rally","b":"outstanding","c":"aluminium","d":"stone","answer":"stone"}

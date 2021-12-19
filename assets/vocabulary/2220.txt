@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u00e2m m\u01b0u, du\u0340ng m\u01b0u, gian k\u00ea\u0341","a":"clinic","b":"scheme","c":"remedy","d":"heritage","answer":"scheme"}

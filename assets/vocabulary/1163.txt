@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u0340nh s\u01a1n ma\u0341y, \u00f4\u0341ng b\u01a1m, s\u01a1n bi\u0341t t\u00f4 l\u00ea, su\u0341ng, su\u0341ng \u0111a\u0323i ba\u0341c, su\u0341ng lu\u0323c, su\u0341ng sa\u0341u, ti\u00ea\u0341ng su\u0341ng \u0111a\u0323i ba\u0341c","a":"aluminium","b":"feminist","c":"gun","d":"uncertainty","answer":"gun"}

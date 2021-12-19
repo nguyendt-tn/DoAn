@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0103n c\u0103\u0341p, \u0103n tr\u00f4\u0323m, du\u0323 d\u00f4\u0309","a":"dual","b":"testing","c":"expertise","d":"steal","answer":"steal"}

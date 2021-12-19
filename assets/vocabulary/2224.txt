@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i gio\u0309i v\u00ea\u0340 khoa va\u0323n v\u00e2\u0323t, nha\u0340 khoa ho\u0323c, nha\u0340 v\u00e2\u0323t ly\u0341 ho\u0323c","a":"creator","b":"scientist","c":"sake","d":"parade","answer":"scientist"}

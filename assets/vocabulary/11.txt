@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hoan nghinh, \u0111e\u0323p, \u01b0ng thu\u00e2\u0323n","a":"acceptable","b":"weekly","c":"assertion","d":"patch","answer":"acceptable"}

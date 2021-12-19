@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"c\u0103\u0323n ke\u0309, \u0111\u00e2\u0340y \u0111u\u0309, ky\u0309 ca\u0340ng, ro\u0309 ra\u0340ng, ti\u0309 mi\u0309","a":"minimal","b":"particularly","c":"contributor","d":"sword","answer":"particularly"}

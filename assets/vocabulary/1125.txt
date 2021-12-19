@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chung, t\u00f4\u0309ng qua\u0341t","a":"strictly","b":"lifetime","c":"global","d":"consequently","answer":"global"}

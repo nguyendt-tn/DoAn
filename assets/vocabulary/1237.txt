@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u00ea\u0340u gh\u00ea s\u01a1\u0323, ru\u0340ng r\u01a1\u0323n, s\u01b0\u0323 kinh khu\u0309ng","a":"horror","b":"merge","c":"assurance","d":"supportive","answer":"horror"}

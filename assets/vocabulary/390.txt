@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chu\u0341c tu\u0323ng, ha\u0340nh l\u00ea\u0309, la\u0340m l\u00ea\u0309 truy ni\u00ea\u0323m, ta\u0341n d\u01b0\u01a1ng","a":"celebrate","b":"outfit","c":"blend","d":"substitute","answer":"celebrate"}

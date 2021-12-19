@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0303m ki\u0341ch, \u0111\u0103\u0323c ti\u0341nh, lo\u0340ng th\u01b0\u01a1ng","a":"interview","b":"affection","c":"agent","d":"shallow","answer":"affection"}

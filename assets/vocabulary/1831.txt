@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ho\u0340a \u00e2m, ho\u0340a h\u01a1\u0323p, hoa\u0340n bi\u0323, hoa\u0340n toa\u0340n, hoa\u0340n ha\u0309o, kh\u00f4ng co\u0341 khuy\u00ea\u0341t \u0111i\u00ea\u0309m","a":"perfect","b":"sacred","c":"endeavour","d":"parish","answer":"perfect"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"xe cam nh\u00f4ng, s\u01b0\u0323 giao hoa\u0341n, s\u01b0\u0323 \u0111\u00f4\u0309i cha\u0341c, xe ha\u0323ng n\u0103\u0323ng, s\u01b0\u0323 giao thi\u00ea\u0323p, xe ta\u0309i, xe v\u00e2\u0323n ta\u0309i","a":"truck","b":"publishing","c":"empirical","d":"input","answer":"truck"}

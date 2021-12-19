@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u01b0\u01a1\u0340ng, l\u01a1\u0340i no\u0341i ngo\u0323t nga\u0340o","a":"moderate","b":"tournament","c":"sugar","d":"dot","answer":"sugar"}

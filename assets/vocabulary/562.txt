@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ng\u01b0\u01a1\u0340i \u0111\u00f4\u0309i \u0111a\u0309ng","a":"urgent","b":"conceive","c":"optical","d":"convert","answer":"convert"}

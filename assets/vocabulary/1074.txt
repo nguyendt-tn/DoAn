@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u00e2n m\u00e2\u0323t, th\u00e2n thi\u00ea\u0323n","a":"sketch","b":"friendly","c":"commentary","d":"incur","answer":"friendly"}

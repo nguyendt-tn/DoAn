@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"quy\u0341 ba\u0341u, quy\u0341 gia\u0341","a":"meditation","b":"affection","c":"valuable","d":"stun","answer":"valuable"}

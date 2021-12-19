@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0341ch kha\u0341c, m\u00f4\u0323t ca\u0341i kha\u0341c, n\u01b0\u0303a, ng\u01b0\u01a1\u0340i kha\u0341c n\u01b0\u0309a","a":"fortunate","b":"another","c":"useless","d":"assert","answer":"another"}

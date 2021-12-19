@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u00f4\u0309 ma\u0341t me\u0309, kh\u00f4ng s\u00f4\u0341t s\u0103\u0341ng, la\u0323nh nha\u0323t, la\u0323t le\u0309o, ma\u0341t me\u0309, ngu\u00f4\u0323i, tr\u00e2\u0340m ti\u0309nh, ma\u0341t","a":"unacceptable","b":"cool","c":"landmark","d":"civilian","answer":"cool"}

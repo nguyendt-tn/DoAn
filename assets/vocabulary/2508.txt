@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bo\u0323c chung quanh","a":"defensive","b":"surrounding","c":"militant","d":"villager","answer":"surrounding"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u0309 \u0111\u00ea\u0340","a":"theme","b":"arena","c":"gaze","d":"resolution","answer":"theme"}

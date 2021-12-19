@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"nga\u0303 ng\u01b0\u0309a","a":"successor","b":"backwards","c":"leaflet","d":"crude","answer":"backwards"}

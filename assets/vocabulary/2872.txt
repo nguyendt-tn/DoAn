@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"h\u00f4m qua, nga\u0340y h\u00f4m qua","a":"yesterday","b":"banner","c":"halfway","d":"soak","answer":"yesterday"}

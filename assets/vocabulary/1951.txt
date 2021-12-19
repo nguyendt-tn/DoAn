@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111e\u0323p, ki\u00ea\u0340u di\u00ea\u0309m, khe\u0341p le\u0341o, xinh x\u0103\u0341n, lanh l\u01a1\u0323i, my\u0303 mi\u00ea\u0340u","a":"pretty","b":"miracle","c":"terrain","d":"domain","answer":"pretty"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chi\u0341nh xa\u0341c, \u0111u\u0341ng, nghi\u00eam kh\u0103\u0341c, thi\u0341ch \u0111a\u0341ng","a":"exact","b":"briefly","c":"mobility","d":"retrieve","answer":"exact"}

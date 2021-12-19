@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"nh\u01b0ng","a":"fit","b":"certainty","c":"residence","d":"only","answer":"only"}

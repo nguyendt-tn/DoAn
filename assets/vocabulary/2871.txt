@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"particle","vi_terms":"v\u00e2ng, da\u0323","a":"globe","b":"presumably","c":"yes","d":"buffer","answer":"yes"}

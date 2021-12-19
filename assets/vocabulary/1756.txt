@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u00e2\u0341u ta\u0323o, c\u00e2\u0341u tha\u0340nh, t\u00f4\u0309 ch\u01b0\u0341c","a":"organize","b":"deck","c":"genocide","d":"tsunami","answer":"organize"}

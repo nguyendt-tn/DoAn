@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"bao ky\u0309 la\u0323i, d\u00e2\u0341u ki\u0341n la\u0323i, bi\u0323 bi\u0341t la\u0323i, \u0111em c\u00e2\u0341t ky\u0309, \u0111o\u0341ng, \u0111o\u0341ng ki\u0341n, go\u0341i la\u0323i","a":"closed","b":"full-time","c":"regardless","d":"adequately","answer":"closed"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u0103\u0341t nghi\u0309a, chi\u0323u tra\u0341ch nhi\u00ea\u0323m, gia\u0309i thi\u0341ch, pha\u0309i tra\u0309 l\u01a1\u0340i","a":"sequence","b":"accountable","c":"cross","d":"furthermore","answer":"accountable"}

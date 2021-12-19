@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tu\u0309 \u0111\u01b0\u0323ng che\u0341n, tu\u0309 n\u0103\u0340m trong t\u01b0\u01a1\u0340ng","a":"contention","b":"stumble","c":"cupboard","d":"legislative","answer":"cupboard"}

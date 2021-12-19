@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 th\u00e2\u0323t, th\u00e2\u0323t s\u01b0\u0323, th\u00e2\u0323t ra","a":"virtual","b":"navigation","c":"defect","d":"prohibit","answer":"virtual"}

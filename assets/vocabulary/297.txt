@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"vay, m\u01b0\u01a1\u0323n","a":"eager","b":"ignorance","c":"borrow","d":"shatter","answer":"borrow"}

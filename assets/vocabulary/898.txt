@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"mo\u0323i \u0111i\u00ea\u0340u, t\u00e2\u0341t ca\u0309 \u0111i\u00ea\u0340u","a":"efficiently","b":"mature","c":"everything","d":"punch","answer":"everything"}

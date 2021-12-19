@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0341i gi\u0340, \u0111i\u00ea\u0340u gi\u0340, mu\u00f4\u0341n gi\u0340, v\u00e2\u0323t gi\u0340","a":"cult","b":"kidney","c":"terrorism","d":"what","answer":"what"}

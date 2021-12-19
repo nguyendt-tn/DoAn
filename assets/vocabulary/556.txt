@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0341i chi\u00ea\u0341u, s\u01b0\u0323 \u0111\u00f4\u0341i cho\u0323i, s\u01b0\u0323 tra\u0341i ng\u01b0\u01a1\u0323c, t\u01b0\u01a1ng pha\u0309n","a":"contrast","b":"mate","c":"thrilled","d":"constituency","answer":"contrast"}

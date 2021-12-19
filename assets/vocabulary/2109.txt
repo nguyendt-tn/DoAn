@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tin c\u00e2\u0323y, ti\u0341n nhi\u00ea\u0323m","a":"objection","b":"charm","c":"refusal","d":"rely","answer":"rely"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0341t va\u0340ng \u0111a\u0309i \u0111\u01b0\u01a1\u0323c, ch\u00f4\u0309 \u0111a\u0309i va\u0340ng","a":"incentive","b":"spotlight","c":"washing","d":"closure","answer":"washing"}

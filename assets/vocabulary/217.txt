@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u01a1\u0340 \u0111\u00e2\u0341t, b\u01a1\u0340 gi\u00f4\u0341c, \u0111\u00e2\u0341t cao, \u0111\u00e2\u0341t gi\u00f4\u0341c, ng\u00e2n ha\u0340ng","a":"concession","b":"racism","c":"physician","d":"bank","answer":"bank"}

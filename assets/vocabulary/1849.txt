@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hi\u00ea\u0323n t\u01b0\u01a1\u0323ng, ng\u01b0\u01a1\u0340i phi th\u01b0\u01a1\u0340ng","a":"forth","b":"clash","c":"strain","d":"phenomenon","answer":"phenomenon"}

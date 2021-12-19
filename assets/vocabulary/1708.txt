@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0309n ph\u00e2\u0323n, nghi\u0303a vu\u0323, nhi\u00ea\u0323m vu\u0323, tra\u0341i vu\u0323","a":"tactic","b":"obligation","c":"ballot","d":"limitation","answer":"obligation"}

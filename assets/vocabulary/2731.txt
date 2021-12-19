@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"quen du\u0340ng, th\u01b0\u01a1\u0340ng du\u0340ng","a":"tragedy","b":"usual","c":"input","d":"backdrop","answer":"usual"}

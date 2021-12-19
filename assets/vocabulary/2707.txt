@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"th\u00ea\u0341 gian, th\u00ea\u0341 gi\u01a1\u0341i, va\u0323n v\u00e2\u0323t, vu\u0303 tru\u0323","a":"commentary","b":"top","c":"liberty","d":"universe","answer":"universe"}

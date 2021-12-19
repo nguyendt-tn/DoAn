@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u00e2n v\u00e2\u0323n \u0111\u00f4\u0323ng","a":"stadium","b":"meditation","c":"brick","d":"poll","answer":"stadium"}

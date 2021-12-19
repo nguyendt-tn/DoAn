@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tu\u00e2n theo, gi\u01b0\u0303 theo, nh\u00e2\u0323n ra, nhi\u0340n ra, do\u0323 tha\u0341m, quan sa\u0341t, ri\u0340nh, gi\u01b0\u0303 l\u00ea\u0309 ti\u00ea\u0341t, xem xe\u0341t","a":"observe","b":"simulation","c":"economics","d":"patrol","answer":"observe"}

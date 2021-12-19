@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ho\u0323c th\u01b0\u0341c, l\u00ea\u0309 phe\u0341p, li\u0323ch s\u01b0\u0323","a":"polite","b":"preservation","c":"habitat","d":"demonstration","answer":"polite"}

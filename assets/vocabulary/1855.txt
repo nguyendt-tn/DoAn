@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch chu\u0323p hi\u0340nh, ca\u0341ch nhi\u00ea\u0341p a\u0309nh","a":"tension","b":"electoral","c":"formulate","d":"photography","answer":"photography"}

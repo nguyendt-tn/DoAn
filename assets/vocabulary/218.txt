@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"thanh, c\u00e2\u0341m, ha\u0340m thi\u00ea\u0341c, kha\u0341ng bi\u00ea\u0323n, ng\u0103n tr\u01a1\u0309, qua\u0341n bar, ca\u0309n tr\u01a1\u0309, c\u00e2\u0341m chi\u0309, ch\u01b0\u01a1\u0341ng nga\u0323i","a":"bar","b":"configuration","c":"massacre","d":"tribunal","answer":"bar"}

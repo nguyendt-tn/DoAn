@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u00e2\u0341t l\u00ean, ki\u00ea\u0341n tru\u0341c, x\u00e2y d\u01b0\u0323ng","a":"construct","b":"inherit","c":"devise","d":"tribute","answer":"construct"}

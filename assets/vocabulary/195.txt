@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"lu\u0341c ta\u0340n ta\u0323, lu\u0341c v\u00ea\u0340 chi\u00ea\u0340u, mu\u0340a thu","a":"robust","b":"autumn","c":"extract","d":"elite","answer":"autumn"}

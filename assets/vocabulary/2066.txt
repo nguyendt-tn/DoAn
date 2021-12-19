@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bi\u00ean lai, bi\u00ean nh\u00e2\u0323n, gi\u00e2\u0341y bi\u00ean lai, s\u00f4\u0341 ti\u00ea\u0340n th\u00e2u, s\u01b0\u0323 th\u00e2u ti\u00ea\u0340n, s\u01b0\u0323 th\u00e2u thu\u00ea\u0341","a":"receipt","b":"grind","c":"appreciation","d":"stem","answer":"receipt"}

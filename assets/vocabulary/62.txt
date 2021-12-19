@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 tu\u00f4\u0309i, gia\u0340, tu\u00f4\u0309i tre\u0309, tu\u00f4\u0309i tr\u01b0\u01a1\u0309ng tha\u0340nh, tro\u0323ng tu\u00f4\u0309i","a":"aged","b":"just","c":"shrink","d":"carriage","answer":"aged"}

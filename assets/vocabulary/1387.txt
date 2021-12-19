@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00f4ng b\u0103\u0340ng","a":"liver","b":"dramatically","c":"just","d":"symbolic","answer":"just"}

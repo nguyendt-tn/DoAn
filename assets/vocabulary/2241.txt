@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00ea\u0340n ch\u0103\u0341c, ch\u0103\u0341c ch\u0103\u0341n, v\u01b0\u0303ng b\u00ea\u0340n, v\u01b0\u0303ng ch\u0103\u0341c","a":"ongoing","b":"secure","c":"consultant","d":"short-term","answer":"secure"}

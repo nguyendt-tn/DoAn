@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tinh th\u00f4ng, la\u0303o luy\u00ea\u0323n, tha\u0323o, th\u00f4ng tha\u0323o","a":"align","b":"expert","c":"offspring","d":"sympathetic","answer":"expert"}

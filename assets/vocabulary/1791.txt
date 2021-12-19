@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ta\u0341i me\u0341t, ta\u0341i nh\u01a1\u0323t, tr\u0103\u0341ng nh\u01a1\u0323t, xanh nh\u01a1\u0323t","a":"pale","b":"bow","c":"revive","d":"ethnic","answer":"pale"}

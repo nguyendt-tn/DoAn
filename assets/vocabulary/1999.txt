@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"cam \u0111oan, c\u01b0\u0323 tuy\u00ea\u0323t, pha\u0309n \u0111\u00f4\u0341i, qua\u0309 quy\u00ea\u0341t","a":"protest","b":"architectural","c":"obsession","d":"prevalence","answer":"protest"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a ca\u0309m, hay ca\u0309m \u0111\u00f4\u0323ng, thu\u00f4\u0323c v\u00ea\u0340 ti\u0340nh ca\u0309m","a":"completion","b":"emotional","c":"suite","d":"nutrition","answer":"emotional"}

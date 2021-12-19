@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"th\u00e2n c\u00e2y, \u0111oa\u0340n, mi\u0340nh, \u0111a\u0341m \u0111\u00f4ng, th\u00e2n th\u00ea\u0309, th\u00e2n th\u00ea\u0309 ng\u01b0\u01a1\u0340i, thu\u0340ng","a":"firearm","b":"total","c":"disagreement","d":"body","answer":"body"}

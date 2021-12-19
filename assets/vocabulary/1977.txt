@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ph\u00e2\u0303m v\u00e2\u0323t, sa\u0309n ph\u00e2\u0303m, sa\u0309n v\u00e2\u0323t, v\u00e2\u0323t ph\u00e2\u0303m","a":"product","b":"expansion","c":"backdrop","d":"subsequently","answer":"product"}

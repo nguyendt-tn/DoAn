@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341c chu\u0309ng, ba\u0341c gi\u00f4\u0341ng, ti\u0341nh ca\u0341ch b\u00e2\u0341t \u0111\u00f4\u0340ng, ti\u0341nh ca\u0341ch b\u00e2\u0341t nh\u01b0\u0341t, y\u0341 ki\u00ea\u0341n b\u00e2\u0341t \u0111\u00f4\u0340ng","a":"enterprise","b":"variety","c":"tribute","d":"obsess","answer":"variety"}

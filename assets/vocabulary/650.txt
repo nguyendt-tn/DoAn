@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111oan chi\u0341nh, h\u01a1\u0323p l\u00ea\u0323, h\u01a1\u0323p th\u01b0\u0341c, phong nha\u0303","a":"midst","b":"convenience","c":"referee","d":"decent","answer":"decent"}

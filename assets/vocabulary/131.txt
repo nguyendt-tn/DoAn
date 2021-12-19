@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u01b0\u0341ng to\u0309 r\u0103\u0340ng, gi\u00f4\u0341ng nh\u01b0, hi\u00ea\u0323n ra, lo\u0340i ra, lo\u0341 ra, ra m\u0103\u0323t, thay m\u0103\u0323t, tri\u0340nh di\u00ea\u0323n, xu\u00e2\u0341t ba\u0309n, xu\u00e2\u0341t hi\u00ea\u0323n","a":"probe","b":"hunger","c":"defender","d":"appear","answer":"appear"}

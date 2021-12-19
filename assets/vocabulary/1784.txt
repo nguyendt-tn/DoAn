@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111au, c\u01a1n \u0111au, hi\u0340nh pha\u0323t, n\u00f4\u0309i kh\u00f4\u0309 \u0111au, s\u01b0\u0323 \u0111au \u0111\u01a1\u0341n, s\u01b0\u0323 \u0111au v\u00ea\u0340 xa\u0341c thi\u0323t","a":"pain","b":"embassy","c":"villager","d":"flesh","answer":"pain"}

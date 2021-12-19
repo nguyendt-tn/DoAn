@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kha\u0341c nhau, nhi\u00ea\u0340u th\u01b0\u0341","a":"rival","b":"various","c":"intensity","d":"commentator","answer":"various"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111un, \u0111\u00f4\u0341t, la\u0340m cho no\u0341ng, la\u0340m n\u00f4\u0303i gi\u00e2\u0323n, tr\u00eau t\u01b0\u0341c, tr\u01a1\u0309 n\u00ean no\u0341ng","a":"devastate","b":"heat","c":"magnetic","d":"rear","answer":"heat"}

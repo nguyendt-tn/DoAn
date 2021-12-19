@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khu\u00f4n, cu\u0323c l\u01a1\u0341n, su\u0341c c\u00e2y, \u0111\u00e2\u0340u, \u0111oa\u0340n, cho\u0340m nha\u0340, hi\u0340nh n\u00f4\u0323m, kh\u00f4\u0341i l\u01a1\u0341n, khu\u0341c \u0111\u01b0\u01a1\u0340ng r\u00e2\u0340y, \u0111o\u0340n k\u00ea","a":"block","b":"evolve","c":"wholly","d":"continually","answer":"block"}

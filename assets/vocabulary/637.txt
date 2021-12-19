@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"a\u0309m \u0111a\u0323m, bi\u0341 m\u00e2\u0323t, \u0111\u00e2\u0323m, ki\u0341n, m\u01a1\u0340 a\u0341m, mu\u0340 mi\u0323t, t\u00f4\u0341i om, nham hi\u00ea\u0309m, s\u00e2\u0323m, t\u00f4\u0341i","a":"mayor","b":"dark","c":"articulate","d":"rifle","answer":"dark"}

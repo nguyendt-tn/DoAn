@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"hy\u0341 vi\u00ea\u0323n, ki\u0323ch tr\u01b0\u01a1\u0340ng, nha\u0340 ha\u0341t, ra\u0323p ha\u0341t","a":"theatre","b":"triumph","c":"broadband","d":"heritage","answer":"theatre"}

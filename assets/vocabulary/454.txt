@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00e2\u0341m gi\u01a1\u0340, \u0111\u00f4\u0340ng h\u00f4\u0340, ghi gi\u01a1\u0340","a":"miner","b":"arrow","c":"clock","d":"primarily","answer":"clock"}

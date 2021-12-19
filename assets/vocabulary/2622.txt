@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111\u00eam nay, t\u00f4\u0341i nay","a":"tonight","b":"prey","c":"discretion","d":"foster","answer":"tonight"}

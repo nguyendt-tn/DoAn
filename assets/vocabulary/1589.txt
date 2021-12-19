@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"thi\u00ea\u0309u s\u00f4\u0341, vi\u0323 tha\u0340nh ni\u00ean","a":"effectiveness","b":"minority","c":"gallon","d":"suburb","answer":"minority"}

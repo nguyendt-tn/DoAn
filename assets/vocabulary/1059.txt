@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"g\u0103\u0323p v\u00e2\u0323n may","a":"installation","b":"comparable","c":"prosperity","d":"fortunately","answer":"fortunately"}

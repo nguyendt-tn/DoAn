@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u01b0\u0341ng \u0111\u00e2\u0340u, lu\u0341c \u0111\u00e2\u0340u, m\u01a1\u0309 \u0111\u00e2\u0340u, \u01a1\u0309 \u0111\u00e2\u0340u","a":"regime","b":"pastor","c":"initial","d":"characterize","answer":"initial"}

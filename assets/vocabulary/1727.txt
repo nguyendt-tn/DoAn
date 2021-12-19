@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4ng ch\u01b0\u0341c, si\u0303 quan","a":"officer","b":"prosperity","c":"disrupt","d":"license","answer":"officer"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"xe t\u0103ng, bi\u0340nh nhi\u00ean li\u00ea\u0323u, b\u00f4\u0340n ch\u01b0\u0341a s\u0103ng, chi\u00ea\u0341n xa, thu\u0340ng ch\u01b0\u0341a n\u01b0\u01a1\u0341c","a":"proceeds","b":"jury","c":"conventional","d":"tank","answer":"tank"}

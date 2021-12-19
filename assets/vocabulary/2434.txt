@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u00f4\u0341ng k\u00ea","a":"non-profit","b":"racial","c":"statistic","d":"accumulate","answer":"statistic"}

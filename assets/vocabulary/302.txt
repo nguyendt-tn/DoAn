@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 th\u00e2\u0341p, \u0111a\u0341y, \u01a1\u0309 d\u01b0\u01a1\u0341i, ph\u00e2\u0340n d\u01b0\u01a1\u0341i","a":"bottom","b":"coordination","c":"mainstream","d":"width","answer":"bottom"}

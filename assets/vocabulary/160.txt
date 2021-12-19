@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00e2\u0341t \u0111i\u0323nh, \u0111i\u00ea\u0340u khoa\u0309n, \u0111i\u00ea\u0340u l\u00ea\u0323, m\u00f4\u0323t v\u0103n ki\u00ea\u0323n, mu\u0323c cu\u0309a ba\u0340i ba\u0341o, ti\u0341n \u0111i\u00ea\u0340u, v\u00e2\u0323t ph\u00e2\u0303m","a":"article","b":"slot","c":"alike","d":"motorist","answer":"article"}

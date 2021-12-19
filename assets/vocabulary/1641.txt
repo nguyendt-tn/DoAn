@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"huy\u00ea\u0340n bi\u0341","a":"dispose","b":"mystery","c":"portray","d":"involvement","answer":"mystery"}

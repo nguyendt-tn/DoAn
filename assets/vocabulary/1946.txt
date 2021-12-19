@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khu \u0111\u00e2\u0341t da\u0340nh ri\u00eang, m\u01b0\u0341t, tra\u0341i c\u00e2y ng\u00e2m v\u01a1\u0341i \u0111\u01b0\u01a1\u0340ng","a":"classification","b":"snap","c":"lethal","d":"preserve","answer":"preserve"}

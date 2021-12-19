@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00ea\u0340 da\u0340i, chi\u00ea\u0340u da\u0340i, khu\u0341c g\u00f4\u0309, khu\u0341c va\u0309i, qua\u0303ng \u0111\u01b0\u01a1\u0340ng, s\u00f4\u0341 m\u00e2\u0303u \u00e2m, tr\u01b0\u01a1\u0340ng \u0111\u00f4\u0323","a":"objection","b":"tobacco","c":"bizarre","d":"length","answer":"length"}

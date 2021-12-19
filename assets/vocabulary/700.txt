@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u01b0\u01a1ng quy\u00ea\u0341t, \u0111a\u0309 \u0111i\u0323nh ro\u0309, qua\u0309 quy\u00ea\u0341t, quy\u00ea\u0341t \u0111i\u0323nh, xa\u0341c \u0111i\u0323nh","a":"shoot","b":"accused","c":"guilt","d":"determined","answer":"determined"}

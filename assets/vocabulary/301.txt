@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chai, ve, bi\u0340nh","a":"march","b":"proportion","c":"charm","d":"bottle","answer":"bottle"}

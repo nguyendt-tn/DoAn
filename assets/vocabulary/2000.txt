@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ki\u00eau c\u0103ng, \u0111e\u0323p, ki\u00eau ha\u0309nh, ki\u00eau nga\u0323o, nga\u0323o ma\u0323n, t\u01b0\u0323 \u0111\u0103\u0341c, tra\u0341ng l\u00ea\u0323","a":"exclusion","b":"proud","c":"chamber","d":"transparency","answer":"proud"}

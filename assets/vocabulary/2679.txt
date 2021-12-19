@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"sanh \u0111\u00f4i","a":"exclusive","b":"rod","c":"twin","d":"deputy","answer":"twin"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00f4\u0323c l\u00e2\u0323p, kh\u00f4ng chi\u0323u khu\u00e2\u0341t phu\u0323c, kh\u00f4ng tu\u0340y thu\u00f4\u0323c","a":"arguably","b":"independent","c":"listing","d":"provincial","answer":"independent"}

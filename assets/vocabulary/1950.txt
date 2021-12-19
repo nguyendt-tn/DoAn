@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"gia\u0309 ca\u0341ch, gia\u0309 \u0111o\u0340, gia\u0309 v\u01a1\u0340, la\u0340m b\u00f4\u0323, y\u00eau c\u00e2\u0340u","a":"mayor","b":"backup","c":"sponsorship","d":"pretend","answer":"pretend"}

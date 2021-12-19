@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u00f4\u0323c duy\u00ea\u0323t la\u0323i, cu\u00f4\u0323c thao di\u00ea\u0309n, s\u01b0\u0323 h\u00f4\u0340i t\u01b0\u01a1\u0309ng, s\u01b0\u0323 ph\u00ea bi\u0340nh, s\u01b0\u0323 xem la\u0323i, s\u01b0\u0323 xe\u0341t la\u0323i, ta\u0323p chi\u0341","a":"prospective","b":"allege","c":"mainstream","d":"review","answer":"review"}

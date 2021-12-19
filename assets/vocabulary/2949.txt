@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u00e2\u0341p cho, chi\u0309 \u0111i\u0323nh, ph\u00e2n pha\u0341t, du\u0340ng cho","a":"cash","b":"departure","c":"south","d":"allocate","answer":"allocate"}

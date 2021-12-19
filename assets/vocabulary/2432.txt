@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309n ba\u0341o ca\u0341o, ba\u0309n t\u01b0\u01a1\u0340ng tri\u0340nh, s\u01b0\u0323 ba\u0340y to\u0309, s\u01b0\u0323 pha\u0341t bi\u00ea\u0309u, s\u01b0\u0323 xa\u0341c nh\u00e2\u0323n","a":"statement","b":"dose","c":"problematic","d":"newsletter","answer":"statement"}

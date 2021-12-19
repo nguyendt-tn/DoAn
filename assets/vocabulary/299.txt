@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0309 hai","a":"both","b":"mercy","c":"underlying","d":"encouragement","answer":"both"}

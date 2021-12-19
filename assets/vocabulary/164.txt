@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"nh\u01b0, ch\u01b0\u0340ng na\u0340o, ch\u01b0\u0340ng n\u00e2\u0341y, cu\u0303ng nh\u01b0, gi\u00f4\u0341ng, ch\u01b0\u0340ng \u0111o\u0341, th\u00ea\u0341 m\u00e2\u0341y, v\u00ea\u0340 vi\u00ea\u0323c \u0111o\u0341","a":"bizarre","b":"as","c":"marathon","d":"realization","answer":"as"}

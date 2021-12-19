@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"ho\u0103\u0323c","a":"or","b":"lyric","c":"supervision","d":"assurance","answer":"or"}

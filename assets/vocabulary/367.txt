@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chi\u0309 ca\u0341i gi\u0340 tr\u00ean h\u00ea\u0341t, tr\u01b0\u01a1\u0341c h\u00ea\u0341t","a":"referendum","b":"capital","c":"compose","d":"footage","answer":"capital"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 gia vi\u0323, co\u0341 h\u01b0\u01a1ng li\u00ea\u0323u, co\u0341 mu\u0340i th\u01a1m, co\u0341 y\u0341 vi\u0323, thu\u0341 vi\u0323","a":"remainder","b":"indictment","c":"spicy","d":"disrupt","answer":"spicy"}

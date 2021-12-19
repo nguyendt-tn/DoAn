@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341i ki\u00ea\u0341n, h\u00f4\u0323i ki\u00ea\u0341n, s\u01b0\u0323 y\u00ea\u0341t ki\u00ea\u0341n, ti\u00ea\u0341p ki\u00ea\u0341n, tri\u00ea\u0340u ki\u00ea\u0341n","a":"audience","b":"respectively","c":"involvement","d":"dependence","answer":"audience"}

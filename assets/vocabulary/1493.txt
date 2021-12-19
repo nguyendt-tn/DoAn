@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u0341a t\u00ea\u0309, \u0111\u01b0\u0341c chu\u0341a tr\u01a1\u0340i, la\u0309nh chu\u0341a, quan \u0111\u00f4 \u0111\u00f4\u0341c, quan thu\u0309y s\u01b0, vi\u0323 \u0111a\u0323i nguy\u00ean soa\u0341i","a":"relieved","b":"closure","c":"miner","d":"lord","answer":"lord"}

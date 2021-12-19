@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u0309 m\u01b0u, ng\u01b0\u01a1\u0340i sa\u0341ng ta\u0341c, ng\u01b0\u01a1\u0340i sa\u0341ng ta\u0323o, ta\u0341c gia\u0309","a":"author","b":"shatter","c":"exploit","d":"absent","answer":"author"}

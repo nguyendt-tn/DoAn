@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ch\u01b0\u01a1ng tri\u0340nh gia\u0341o ho\u0341a, ph\u01b0\u01a1ng pha\u0341p gia\u0341o du\u0323c","a":"namely","b":"choir","c":"educational","d":"trailer","answer":"educational"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cong vo\u0340ng, \u0111\u01b0\u01a1\u0340ng cong, hi\u0340nh th\u00ea\u0341 v\u00e2\u0323t cong, kho\u0340m l\u01b0ng xu\u00f4\u0341ng, khu\u0341c \u0111\u01b0\u01a1\u0340ng que\u0323o","a":"timely","b":"inherent","c":"curve","d":"empower","answer":"curve"}

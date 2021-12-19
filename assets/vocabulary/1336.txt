@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"v\u0103n th\u01b0, du\u0323ng cu\u0323 c\u01a1 khi\u0341, \u0111\u00f4\u0340 du\u0340ng, nha\u0323c cu\u0323, ph\u01b0\u01a1ng ti\u00ea\u0323n, ch\u01b0\u0341ng th\u01b0, khi\u0341 cu\u0323 ma\u0341y mo\u0341c, khi\u0341 gi\u01a1\u0341i","a":"betray","b":"somehow","c":"foreigner","d":"instrument","answer":"instrument"}

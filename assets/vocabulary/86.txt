@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00f4 \u0111\u01a1n, b\u01a1 v\u01a1, c\u00f4 \u0111\u00f4\u0323c, m\u00f4\u0323t mi\u0340nh, tr\u01a1 tro\u0323i","a":"alone","b":"bid","c":"saint","d":"invade","answer":"alone"}

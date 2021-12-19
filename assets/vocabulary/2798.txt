@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tu\u00e2\u0340n, tu\u00e2\u0340n l\u00ea\u0309","a":"transaction","b":"ancestor","c":"week","d":"long-standing","answer":"week"}

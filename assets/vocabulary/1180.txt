@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ha\u0323i","a":"harmful","b":"punch","c":"extensive","d":"congregation","answer":"harmful"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"cho \u0111\u00ea\u0341n khi, cho \u0111\u00ea\u0341n lu\u0341c","a":"enforce","b":"sacrifice","c":"maintenance","d":"till","answer":"till"}

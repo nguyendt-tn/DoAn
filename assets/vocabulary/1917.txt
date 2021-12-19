@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ti\u0340nh tra\u0323ng, vi\u00ea\u0323c co\u0341 th\u00ea\u0309 \u0111\u01b0\u01a1\u0323c","a":"verdict","b":"possibility","c":"expertise","d":"deployment","answer":"possibility"}

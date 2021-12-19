@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00f4\u0340i \u01a1\u0309 nha\u0340 ha\u0340ng, ng\u01b0\u01a1\u0340i ch\u01a1\u0340, ng\u01b0\u01a1\u0340i \u0111\u01a1\u0323i","a":"subsidy","b":"distinctive","c":"physician","d":"waiter","answer":"waiter"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ch\u00e2\u0341t r\u01b0\u01a1\u0323u, ng\u01b0\u01a1\u0340i ghi\u00ea\u0340n r\u01b0\u01a1\u0323u","a":"symbolic","b":"alcoholic","c":"loyal","d":"civic","answer":"alcoholic"}

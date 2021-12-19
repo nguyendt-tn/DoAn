@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ci n\u00ea, chi\u00ea\u0341u bo\u0341ng, cho\u0341p bo\u0341ng, ra\u0323p chi\u00ea\u0341u bo\u0341ng","a":"temporarily","b":"cinema","c":"insertion","d":"anchor","answer":"cinema"}

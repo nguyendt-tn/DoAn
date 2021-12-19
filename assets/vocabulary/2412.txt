@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"pha\u0341t ng\u00f4n","a":"cynical","b":"moderate","c":"spoken","d":"sue","answer":"spoken"}

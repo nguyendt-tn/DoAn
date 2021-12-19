@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u00e2\u0340n thi\u00ea\u0341t, chuy\u00ean ch\u00ea\u0341, hoa\u0340n toa\u0340n, tuy\u00ea\u0323t \u0111\u00f4\u0341i, xa\u0341c th\u00e2\u0323t","a":"tissue","b":"array","c":"absolute","d":"mill","answer":"absolute"}

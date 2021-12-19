@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca tu\u0323ng, l\u01a1\u0340i khen, l\u01a1\u0340i khen ng\u01a1\u0323i","a":"imminent","b":"accused","c":"praise","d":"readily","answer":"praise"}

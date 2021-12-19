@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"t\u01b0\u01a1i, h\u0103ng ha\u0341i, sa\u0341ng, t\u01b0\u01a1ng lai r\u01b0\u0323c r\u01a1\u0309, sa\u0341ng cho\u0341i","a":"racial","b":"discourage","c":"perceive","d":"bright","answer":"bright"}

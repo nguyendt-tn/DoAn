@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ti\u0340nh tra\u0323ng","a":"await","b":"aspect","c":"tissue","d":"equation","answer":"aspect"}

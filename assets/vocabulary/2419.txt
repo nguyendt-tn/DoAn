@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"vu\u00f4ng","a":"astonishing","b":"postpone","c":"square","d":"intriguing","answer":"square"}

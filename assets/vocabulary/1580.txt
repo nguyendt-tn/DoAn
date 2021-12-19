@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"qu\u00e2n nh\u00e2n, l\u01b0\u0323c l\u01b0\u01a1\u0323ng qu\u00e2n \u0111\u00f4\u0323i","a":"denounce","b":"military","c":"pastor","d":"sphere","answer":"military"}

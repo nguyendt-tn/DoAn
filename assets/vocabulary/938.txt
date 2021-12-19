@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nghi\u00eam, \u0111u\u0341ng, g\u01a1\u0309i g\u00e2\u0341p, gi\u00f4\u0341ng, kh\u00f4ng ng\u01b0\u0340ng, chi\u0341nh xa\u0341c, t\u00f4\u0341c ha\u0340nh, ho\u0309a t\u00f4\u0341c","a":"monthly","b":"consolidate","c":"express","d":"speculation","answer":"express"}

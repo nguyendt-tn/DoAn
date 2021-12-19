@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng sai, chi\u0341nh xa\u0341c, \u0111u\u0341ng, \u0111u\u0341ng lu\u00e2\u0323t, h\u01a1\u0323p ca\u0341ch, h\u01a1\u0323p th\u01b0\u0341c","a":"correct","b":"utility","c":"logic","d":"capability","answer":"correct"}

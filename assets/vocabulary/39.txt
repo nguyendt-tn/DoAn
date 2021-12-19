@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ham mu\u00f4\u0341n, khao kha\u0341t, l\u00e2\u0341y la\u0340m la\u0323, nhi\u0340n m\u00f4\u0323t ca\u0341ch vui thi\u0341ch","a":"fond","b":"rotate","c":"dealer","d":"admire","answer":"admire"}

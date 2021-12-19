@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 bu\u0340n l\u00e2\u0340y, \u0111\u00e2\u0341t, v\u00ea\u0341t d\u01a1 b\u00e2\u0309n, \u0111\u00f4\u0341m","a":"stun","b":"creativity","c":"laser","d":"soil","answer":"soil"}

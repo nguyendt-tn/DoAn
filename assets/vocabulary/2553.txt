@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"sanh ra, k\u00ea\u0309 la\u0323i, no\u0341i, ph\u00e2n bi\u00ea\u0323t, ti\u00ea\u0341t l\u00f4\u0323","a":"chamber","b":"organizational","c":"tell","d":"trap","answer":"tell"}

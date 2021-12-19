@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"k\u00ea\u0341t qua\u0309, n\u0103ng xu\u00e2\u0341t, sa\u0309n ph\u00e2\u0303m, sa\u0309n v\u00e2\u0323t, v\u00e2\u0323t du\u0323ng","a":"corporation","b":"registration","c":"produce","d":"implementation","answer":"produce"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"kha\u0341ch ha\u0340ng, ng\u01b0\u01a1\u0340i mua","a":"width","b":"customer","c":"chronic","d":"philosopher","answer":"customer"}

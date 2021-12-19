@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chuy\u00ean m\u00f4n, ky\u0309 thu\u00e2\u0323t","a":"helmet","b":"technique","c":"theology","d":"dominance","answer":"technique"}

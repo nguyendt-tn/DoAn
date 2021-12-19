@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u00ea\u0309 da\u0340ng, la\u0340m vi\u00ea\u0323c d\u00ea\u0309, ta\u0341nh d\u00ea\u0309 da\u0309i, ti\u00ea\u0323n l\u01a1\u0323i, ti\u0341nh d\u00ea\u0309, thu\u00e2\u0323n ti\u00ea\u0323n","a":"assert","b":"privatization","c":"meditation","d":"facility","answer":"facility"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"lu\u00f4n lu\u00f4n","a":"inequality","b":"always","c":"workout","d":"cater","answer":"always"}

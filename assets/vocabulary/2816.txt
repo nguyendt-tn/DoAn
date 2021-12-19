@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"trong khi, \u0111\u01b0\u01a1ng khi","a":"intermediate","b":"preservation","c":"aside","d":"while","answer":"while"}

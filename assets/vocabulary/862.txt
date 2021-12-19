@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u00ea\u0340n v\u01b0\u0303ng, ch\u0103\u0341c ch\u0103\u0341n, la\u0340m cho v\u01b0\u0303ng","a":"demonstration","b":"ensure","c":"fairness","d":"seminar","answer":"ensure"}

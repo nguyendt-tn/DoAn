@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nghi\u0303 ng\u01a1i","a":"relaxing","b":"exclusively","c":"seemingly","d":"demon","answer":"relaxing"}

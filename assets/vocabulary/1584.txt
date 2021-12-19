@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u0323a l\u00f4i, mi\u0340n, mo\u0309 than, qu\u0103\u0323ng s\u0103\u0341t, thu\u0309y l\u00f4i","a":"cheer","b":"reassure","c":"mine","d":"frequent","answer":"mine"}

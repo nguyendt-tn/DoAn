@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0323i lu\u0323c, \u0111a\u0323i lu\u0323c \u00e2u ch\u00e2u, lu\u0323c \u0111i\u0323a","a":"terms","b":"continent","c":"firmly","d":"annually","answer":"continent"}

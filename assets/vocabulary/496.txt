@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111oa\u0340n th\u00ea\u0309","a":"blast","b":"community","c":"net","d":"validity","answer":"community"}

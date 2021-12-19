@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"chung v\u01a1\u0341i nhau, cu\u0340ng m\u00f4\u0323t l\u00e2\u0340n, cu\u0340ng nhau","a":"together","b":"erupt","c":"bombing","d":"sophisticated","answer":"together"}

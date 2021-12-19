@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111o\u0309 ti\u0341a, \u0111o\u0309 th\u0103\u0309m","a":"just","b":"assassination","c":"purple","d":"transit","answer":"purple"}

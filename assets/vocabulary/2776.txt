@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111un, la\u0340m cho \u00e2\u0341m, n\u00e2\u0341u","a":"shore","b":"warm","c":"legendary","d":"chaos","answer":"warm"}

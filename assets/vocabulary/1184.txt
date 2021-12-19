@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"co\u0341","a":"strip","b":"drown","c":"have to","d":"major","answer":"have to"}

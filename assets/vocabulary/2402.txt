@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0340i no\u0341i, ng\u00f4n ng\u01b0\u0303 cu\u0309a m\u00f4\u0323t d\u00e2n t\u00f4\u0323c","a":"execution","b":"speech","c":"squeeze","d":"accusation","answer":"speech"}

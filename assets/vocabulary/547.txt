@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 \u0111\u00ea\u0309 \u0111\u01b0\u0323ng, thu\u0340ng ch\u01b0\u0341a, vo\u0309 bi\u0340nh ch\u01b0\u0341a \u0111i\u00ea\u0323n","a":"container","b":"rhetoric","c":"designate","d":"inappropriate","answer":"container"}

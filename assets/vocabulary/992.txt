@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u00f4\u0323i he\u0340, nga\u0340y l\u00ea\u0309","a":"festival","b":"total","c":"lately","d":"conventional","answer":"festival"}

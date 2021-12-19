@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hoa\u0340n toa\u0340n, t\u00e2\u0341t ca\u0309","a":"plug","b":"accuracy","c":"inspiration","d":"every","answer":"every"}

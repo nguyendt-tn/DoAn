@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u00f4\u0323i \u0111\u00f4\u0340ng qu\u00f4\u0341c gia","a":"artificial","b":"assembly","c":"inside","d":"set","answer":"assembly"}

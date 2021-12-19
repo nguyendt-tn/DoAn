@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u0103\u0340ng nga\u0340y, mo\u0323i nga\u0340y, m\u00f4\u0309i nga\u0340y","a":"prescription","b":"cope","c":"lawsuit","d":"everyday","answer":"everyday"}

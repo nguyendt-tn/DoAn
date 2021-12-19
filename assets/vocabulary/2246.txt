@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"hi\u0340nh nh\u01b0","a":"seem","b":"memoir","c":"corresponding","d":"predominantly","answer":"seem"}

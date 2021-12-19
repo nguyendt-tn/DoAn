@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4\u0340 \u0103n, th\u01b0\u0341c \u0103n","a":"productive","b":"biography","c":"inspect","d":"food","answer":"food"}

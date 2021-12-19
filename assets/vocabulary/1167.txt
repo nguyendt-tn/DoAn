@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u00f4ng, b\u00f4\u0323 l\u00f4ng, cha\u0309i to\u0341c, \u0111\u00e2\u0340u to\u0341c, to\u0341c","a":"hair","b":"arguably","c":"forecast","d":"reportedly","answer":"hair"}

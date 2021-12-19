@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u01b0a ra, \u0111\u00ea\u0340 nghi\u0323, \u0111\u00ea\u0340 xu\u00e2\u0341t, \u0111\u00ea\u0340 x\u01b0\u01a1\u0341ng, c\u00e2\u0340u h\u00f4n, la\u0340m quy t\u0103\u0341c, ra y\u0341 ki\u00ea\u0341n, tri\u0340nh ra","a":"substantially","b":"boom","c":"magical","d":"propose","answer":"propose"}

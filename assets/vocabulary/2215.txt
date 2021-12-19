@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xem qua loa, ng\u00e2m th\u01a1 t\u01b0\u0340ng v\u00ea\u0341, nhi\u0340n, do\u0340 xe\u0341t, th\u0103m do\u0340, ng\u00e2m th\u01a1 t\u01b0\u0340ng v\u00e2\u0323n, xem v\u00e2\u0323t gi\u0340","a":"scan","b":"rock","c":"overturn","d":"bail","answer":"scan"}

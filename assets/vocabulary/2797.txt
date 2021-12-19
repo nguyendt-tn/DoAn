@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nga\u0340y th\u01b0\u0341 t\u01b0 trong tu\u00e2\u0340n, th\u01b0\u0341 t\u01b0","a":"counter","b":"turnout","c":"wednesday","d":"goodness","answer":"wednesday"}

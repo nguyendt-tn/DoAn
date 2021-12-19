@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u0103n nguy\u00ean, ca\u0340nh l\u01a1\u0341n, ba ma\u0341, cha me\u0323, g\u00f4\u0341c, m\u00e2\u0303u qu\u00f4\u0341c, ngu\u00f4\u0340n g\u00f4\u0341c","a":"profitable","b":"parent","c":"assemble","d":"memorial","answer":"parent"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111\u00e2u, \u01a1\u0309 ch\u00f4\u0309 na\u0340o, \u01a1\u0309 \u0111\u00e2u, trong \u00e2\u0341y","a":"stability","b":"distract","c":"where","d":"obsess","answer":"where"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 cha\u0341nh phu\u0309, thu\u00f4\u0323c v\u00ea\u0340 chi\u0341nh tri\u0323, thu\u00f4\u0323c v\u00ea\u0340 qu\u00f4\u0341c gia","a":"originate","b":"assertion","c":"trap","d":"political","answer":"political"}

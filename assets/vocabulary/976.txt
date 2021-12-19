@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cha, ba, cha trong nha\u0340 th\u01a1\u0340, ng\u01b0\u01a1\u0340i pha\u0341t minh, ng\u01b0\u01a1\u0340i sa\u0341ng l\u00e2\u0323p, ng\u01b0\u01a1\u0340i sa\u0341ng ta\u0323o","a":"frequent","b":"father","c":"simulate","d":"drought","answer":"father"}

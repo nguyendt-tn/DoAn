@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u01a1n, h\u01a1n nhi\u00ea\u0340u","a":"institutional","b":"distinctive","c":"senator","d":"more","answer":"more"}

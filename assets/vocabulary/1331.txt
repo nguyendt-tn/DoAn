@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111a\u0323i di\u00ea\u0323n, thay th\u00ea\u0341","a":"instead","b":"experimental","c":"bail","d":"precedent","answer":"instead"}

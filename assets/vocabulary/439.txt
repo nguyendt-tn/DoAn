@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00f4 thi\u0323, t\u00e2\u0341t ca\u0309 d\u00e2n tha\u0340nh ph\u00f4\u0341, tha\u0340nh ph\u00f4\u0341, tha\u0340nh thi\u0323","a":"communist","b":"city","c":"query","d":"evident","answer":"city"}

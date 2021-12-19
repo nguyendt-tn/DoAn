@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nga\u0340i","a":"underlying","b":"sir","c":"peer","d":"diminish","answer":"sir"}

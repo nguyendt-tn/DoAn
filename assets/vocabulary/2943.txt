@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi\u0309nh \u0111u\u0341ng la\u0323i, \u0111\u0103\u0323t theo \u0111\u01b0\u01a1\u0340ng th\u0103\u0309ng, \u0111i\u00ea\u0340u chi\u0309nh ngay ng\u0103\u0341n, s\u01b0\u0323 s\u0103\u0341p ha\u0340ng","a":"needle","b":"hit","c":"associate","d":"alignment","answer":"alignment"}

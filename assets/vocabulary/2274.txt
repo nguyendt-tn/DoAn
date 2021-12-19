@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 sinh th\u01b0\u0323c khi\u0341, thu\u00f4\u0323c v\u00ea\u0340 ti\u0340nh du\u0323c","a":"biological","b":"sceptical","c":"sexual","d":"insufficient","answer":"sexual"}

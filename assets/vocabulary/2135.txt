@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01b0 d\u00e2n, ng\u01b0\u01a1\u0340i \u01a1\u0309, tru\u0341 d\u00e2n","a":"resident","b":"alongside","c":"glance","d":"query","answer":"resident"}

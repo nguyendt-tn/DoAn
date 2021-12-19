@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u01a1\u0309 phi\u0341a tr\u01b0\u01a1\u0341c, qua m\u0103\u0323t","a":"profitable","b":"expire","c":"activate","d":"ahead","answer":"ahead"}

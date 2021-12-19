@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00e2m ch\u00f4\u0340i, \u0111\u00e2m m\u00f4\u0323c l\u00ean, m\u00f4\u0323c l\u00ean, tr\u00f4\u0309 b\u00f4ng","a":"massive","b":"aftermath","c":"fitness","d":"complicated","answer":"aftermath"}

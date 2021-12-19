@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 \u01a1\u0309 tro\u0323, ti\u00ea\u0340n c\u00e2\u0341p d\u01b0\u01a1\u0303ng","a":"pension","b":"parade","c":"separation","d":"dependence","answer":"pension"}

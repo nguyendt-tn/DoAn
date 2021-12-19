@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gi\u01b0\u0309 s\u00f4\u0309 sa\u0341ch, k\u00ea\u0341 toa\u0341n","a":"guitar","b":"air","c":"accounting","d":"picture","answer":"accounting"}

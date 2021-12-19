@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341nh tha\u0341nh, chu\u0309 kha\u0341ch sa\u0323n, chu\u0309 l\u01b0\u0303 \u0111i\u00ea\u0341m, chu\u0309 l\u01b0\u0303 qua\u0341n, chu\u0309 nha\u0340, chu\u0309 nh\u00e2n, m\u00f4\u0323t nho\u0341m, m\u00f4\u0323t s\u00f4\u0341 \u0111\u00f4ng","a":"slogan","b":"bug","c":"militia","d":"host","answer":"host"}

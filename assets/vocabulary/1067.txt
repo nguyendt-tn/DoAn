@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00f4\u0323c l\u00e2\u0323p, \u0111\u01b0\u01a1\u0323c mi\u00ea\u0309n, kh\u00f4ng bi\u0323 bo\u0341 bu\u00f4\u0323c, ra\u0309nh, ra\u0309nh rang, t\u01b0\u0323 chu\u0309, t\u01b0\u0323 do, tr\u00f4\u0341ng","a":"penalty","b":"free","c":"diagnosis","d":"surgical","answer":"free"}

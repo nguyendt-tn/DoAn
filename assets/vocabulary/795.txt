@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"d\u00ea\u0309 da\u0303i","a":"pad","b":"angel","c":"easily","d":"testimony","answer":"easily"}

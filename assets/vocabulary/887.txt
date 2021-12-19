@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"euro, \u0111\u00f4\u0340ng euro, ti\u00ea\u0340n euro","a":"hook","b":"eager","c":"terrify","d":"euro","answer":"euro"}

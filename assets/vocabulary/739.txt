@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 lo\u0303m xu\u00f4\u0341ng, di\u0303a ba\u0340n, mo\u0341n \u0103n, v\u00e2\u0323t gi\u00f4\u0341ng hi\u0340nh di\u0303a","a":"protective","b":"ethnic","c":"dish","d":"contemplate","answer":"dish"}

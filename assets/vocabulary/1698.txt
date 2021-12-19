@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u01b0 kh\u00f4ng","a":"grin","b":"romance","c":"coastal","d":"nowhere","answer":"nowhere"}

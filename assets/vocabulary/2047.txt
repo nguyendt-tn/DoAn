@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"hi\u00ea\u0341m, hi\u00ea\u0341m co\u0341, i\u0341t co\u0341","a":"copyright","b":"rarely","c":"pipeline","d":"troop","answer":"rarely"}

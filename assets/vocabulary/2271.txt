@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ca\u0341 nh\u00e2n, kha\u0341c nhau, ph\u00e2n bi\u00ea\u0323t, ri\u00eang bi\u00ea\u0323t","a":"several","b":"journalism","c":"ego","d":"total","answer":"several"}

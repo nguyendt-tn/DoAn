@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"anh \u00e2\u0341y, \u0111a\u0340n \u00f4ng, gi\u00f4\u0341ng \u0111\u01b0\u0323c, no\u0341, thu\u0341 \u0111\u01b0\u0323c","a":"he","b":"scattered","c":"anticipate","d":"mob","answer":"he"}

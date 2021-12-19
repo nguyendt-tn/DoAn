@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u00f4\u0309i mai, bu\u00f4\u0309i sa\u0341ng, sa\u0341ng s\u01a1\u0341m, s\u01a1\u0341m mai","a":"detain","b":"syndrome","c":"morning","d":"explicitly","answer":"morning"}

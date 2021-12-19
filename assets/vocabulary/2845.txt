@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kinh nga\u0323c, la\u0323 lu\u0340ng, phi th\u01b0\u01a1\u0340ng","a":"wonderful","b":"boost","c":"nominee","d":"rat","answer":"wonderful"}

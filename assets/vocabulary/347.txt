@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"qua, chu\u0341t n\u01b0\u0303a, g\u00e2\u0340n, g\u00e2\u0340n \u0111\u00e2y","a":"counter","b":"valid","c":"motivation","d":"by","answer":"by"}

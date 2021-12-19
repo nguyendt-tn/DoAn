@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chua, gay g\u0103\u0341t, ho\u0341a ch\u00e2\u0341t chua, vi\u0323 chua","a":"cupboard","b":"successfully","c":"acid","d":"frog","answer":"acid"}

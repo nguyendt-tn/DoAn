@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"hoa\u0323t \u0111\u00f4\u0323ng","a":"football","b":"crowded","c":"water","d":"activate","answer":"activate"}

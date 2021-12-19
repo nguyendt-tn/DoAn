@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"b\u00f4\u0309 nhi\u00ea\u0323m, \u0111\u00ea\u0340 c\u01b0\u0309, \u0111i\u0323nh nga\u0340y, l\u00e2\u0323p m\u00f4\u0323t u\u0309y ban, l\u00e2\u0323p t\u01b0\u0323","a":"bullet","b":"shoulder","c":"impression","d":"appoint","answer":"appoint"}

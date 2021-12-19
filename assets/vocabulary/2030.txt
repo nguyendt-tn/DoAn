@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"mau, le\u0323 la\u0340ng","a":"dub","b":"quickly","c":"violation","d":"hilarious","answer":"quickly"}

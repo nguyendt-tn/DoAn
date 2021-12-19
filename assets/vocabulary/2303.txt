@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"vai, ba\u0309 vai, b\u01a1\u0340 vai, m\u00f4\u0341ng \u0111\u00ea\u0309 \u0111\u01a1\u0309 v\u00e2\u0323t gi\u0340, ph\u00e2\u0340n cu\u0309a \u0111\u00f4\u0340i l\u00f4\u0340i ra nh\u01b0 vai","a":"economics","b":"shoulder","c":"resemble","d":"ownership","answer":"shoulder"}

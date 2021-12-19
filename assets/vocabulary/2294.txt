@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0341o lo\u0341t cu\u0309a \u0111a\u0340n \u00f4ng, a\u0341o s\u01a1 mi","a":"shirt","b":"municipal","c":"surveillance","d":"curious","answer":"shirt"}

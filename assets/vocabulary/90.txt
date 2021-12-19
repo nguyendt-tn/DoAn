@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u00f4\u0309i, s\u01b0\u0309a \u0111\u00f4\u0309i, tu chi\u0309nh, thay \u0111\u00f4\u0309i","a":"alter","b":"grid","c":"calculation","d":"preach","answer":"alter"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ca, ha\u0341t","a":"motivation","b":"accidentally","c":"succession","d":"sing","answer":"sing"}

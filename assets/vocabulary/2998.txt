@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u0309a ca\u0309i, v\u00e2\u0323t co\u0341 l\u01a1\u0323i, v\u00e2\u0323t s\u01a1\u0309 h\u01b0\u0309u","a":"asset","b":"language","c":"however","d":"butter","answer":"asset"}

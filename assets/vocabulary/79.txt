@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00f4\u0340n, r\u01b0\u01a1\u0323u","a":"obsession","b":"enquire","c":"sack","d":"alcohol","answer":"alcohol"}

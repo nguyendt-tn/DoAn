@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i hay chi\u0309 tri\u0341ch, nha\u0340 ph\u00ea bi\u0340nh","a":"globe","b":"thumb","c":"critic","d":"canal","answer":"critic"}

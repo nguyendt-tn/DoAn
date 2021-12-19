@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u0103\u0340ng lo\u0340ng, ma\u0303n nguy\u00ea\u0323n, vui thi\u0341ch, v\u01b0\u0340a lo\u0340ng","a":"content","b":"aggression","c":"spite","d":"naked","answer":"content"}

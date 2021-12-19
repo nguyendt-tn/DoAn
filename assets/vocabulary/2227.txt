@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ma\u0340n, ma\u0340n a\u0309nh, ma\u0340n ba\u0323c chi\u00ea\u0341u bo\u0341ng, ma\u0340n che chu\u0323p a\u0309nh, minh tinh ma\u0340n ba\u0323c, t\u00e2\u0341m bi\u0340nh phong, v\u00e2\u0323t che khu\u00e2\u0341t","a":"lottery","b":"screen","c":"proportion","d":"compensate","answer":"screen"}

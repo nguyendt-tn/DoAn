@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u01a1\u0309 cu\u00f4\u0341i, \u01a1\u0309 sau cu\u0340ng","a":"transformation","b":"closely","c":"colourful","d":"incorporate","answer":"closely"}

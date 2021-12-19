@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ghe\u0341t, ghe\u0341t ng\u01b0\u01a1\u0340i na\u0340o, h\u00e2\u0323n, thu\u0340 ghe\u0341t","a":"leap","b":"well-being","c":"additionally","d":"hate","answer":"hate"}

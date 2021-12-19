@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u00ea\u0323 tro\u0323ng, nghi\u00eam tro\u0323ng, nguy hi\u00ea\u0309m","a":"empirical","b":"weed","c":"serious","d":"nutrition","answer":"serious"}

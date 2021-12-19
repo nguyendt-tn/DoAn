@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u0103n ba\u0309n","a":"adjustment","b":"timely","c":"membership","d":"basic","answer":"basic"}

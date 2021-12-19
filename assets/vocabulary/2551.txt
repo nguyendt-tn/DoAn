@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u00ea\u0323n thoa\u0323i, ma\u0341y \u0111i\u00ea\u0323n thoa\u0323i","a":"telephone","b":"straightforward","c":"ambulance","d":"independence","answer":"telephone"}

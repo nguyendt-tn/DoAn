@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"t\u00ean, danh, thanh danh, t\u00ean cu\u0309a tu\u00f4\u0340ng ha\u0341t, danh gia\u0341, t\u00ean cu\u0309a v\u00e2\u0323t gi\u0340, danh ti\u00ea\u0341ng, ti\u00ea\u0341ng t\u0103m, danh ta\u0341nh","a":"philosophical","b":"questionnaire","c":"divine","d":"name","answer":"name"}

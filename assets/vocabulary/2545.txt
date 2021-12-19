@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 ra\u0341ch cu\u0309a qu\u00e2\u0340n a\u0341o, gi\u00f4\u0341ng nh\u01b0 gio\u0323t n\u01b0\u01a1\u0341c m\u0103\u0341t, n\u01b0\u01a1\u0341c m\u0103\u0341t","a":"authentic","b":"fairness","c":"sigh","d":"tear","answer":"tear"}

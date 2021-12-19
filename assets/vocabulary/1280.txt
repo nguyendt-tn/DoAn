@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"di tru\u0341, ng\u01b0\u01a1\u0340i va\u0340o \u01a1\u0309 m\u00f4\u0323t n\u01b0\u01a1\u0341c na\u0340o","a":"reasoning","b":"feminist","c":"activist","d":"immigrant","answer":"immigrant"}

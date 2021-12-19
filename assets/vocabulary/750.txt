@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111a\u0303 ly di\u0323","a":"gravity","b":"shoot","c":"divorced","d":"elegant","answer":"divorced"}

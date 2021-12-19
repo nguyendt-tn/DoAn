@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 ca\u0303m gia\u0341c, thu\u00f4\u0323c v\u00ea\u0340 ca\u0303m gia\u0341c","a":"creativity","b":"genuine","c":"rape","d":"sensitive","answer":"sensitive"}

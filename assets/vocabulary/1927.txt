@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u0323i, ph\u00e2\u0341n, ph\u00e2\u0341n cho tre\u0309 con, thu\u00f4\u0341c b\u00f4\u0323t, thu\u00f4\u0341c su\u0341ng, ph\u00e2\u0341n thoa m\u0103\u0323t","a":"sensation","b":"powder","c":"amid","d":"outrage","answer":"powder"}

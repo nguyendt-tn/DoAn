@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u00ea\u0340u ki\u00ea\u0323n b\u00e2\u0341t l\u01a1\u0323i, m\u00f4\u0341i thi\u00ea\u0323t ha\u0323i, t\u00f4\u0309n th\u00e2\u0341t, t\u00f4\u0309n ha\u0323i, thi\u00ea\u0323t tho\u0340i, thua ke\u0341m, thua su\u0341t","a":"verdict","b":"bind","c":"disadvantage","d":"evident","answer":"disadvantage"}

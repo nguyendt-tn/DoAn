@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"radio, a\u0309nh quang tuy\u00ea\u0341n x, ma\u0341y v\u00f4 tuy\u00ea\u0341n \u0111i\u00ea\u0323n","a":"enterprise","b":"radio","c":"psychological","d":"governance","answer":"radio"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"h\u00f4n, \u00f4m h\u00f4n","a":"kiss","b":"comprehensive","c":"utilize","d":"intervene","answer":"kiss"}

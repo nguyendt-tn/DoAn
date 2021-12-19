@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"gi\u00f4\u0341ng, ha\u0323ng, th\u01b0\u0341, loa\u0340i, loa\u0323i","a":"devise","b":"sort","c":"prominent","d":"fate","answer":"sort"}

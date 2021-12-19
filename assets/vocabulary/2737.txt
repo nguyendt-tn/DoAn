@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341nh qu\u00e2n ta\u0323i m\u0103\u0323t tr\u00e2\u0323n, \u0111\u00f4\u0323i qu\u00e2n xung phong, loa\u0323i xe l\u01a1\u0341n, xe thu\u0340ng","a":"circuit","b":"innovative","c":"subsequently","d":"van","answer":"van"}

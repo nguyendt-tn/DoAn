@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2\u0341t cha\u0341nh, kh\u00f4ng ngay th\u0103\u0309ng, kh\u00f4ng th\u0103\u0309ng, kh\u00f4ng tr\u01b0\u0323c ti\u00ea\u0341p","a":"indirect","b":"distant","c":"era","d":"tremendous","answer":"indirect"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ti\u00eau, ti\u00eau pha, la\u0340m ki\u00ea\u0323t s\u01b0\u0341c, du\u0340ng h\u00ea\u0341t ti\u00ea\u0340n, xa\u0340i, xa\u0340i phi\u0341","a":"dispute","b":"spend","c":"invade","d":"sacred","answer":"spend"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u0103\u0323t la\u0323i ch\u00f4\u0309 cu\u0309, \u0111\u00ea\u0309 la\u0323i ch\u00f4\u0309 cu\u0309, thay th\u00ea\u0341 va\u0340o, th\u00ea\u0341 ng\u01b0\u01a1\u0340i na\u0340o","a":"residue","b":"miner","c":"replace","d":"behalf","answer":"replace"}

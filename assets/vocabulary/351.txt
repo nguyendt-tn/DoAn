@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341nh ke\u0323p, ba\u0341nh ngo\u0323t, kh\u00f4\u0341i, \u00f4\u0309 ba\u0341nh gie\u0323p, ba\u0341nh sa\u0341p, th\u0103\u0341ng tr\u00e2\u0323n, ba\u0341nh s\u00f4c\u00f4la, chi\u00ea\u0341n th\u0103\u0341ng","a":"timing","b":"circulate","c":"cake","d":"golden","answer":"cake"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ch\u00e2n th\u00e2\u0323t, \u0111u\u0341ng, \u0111u\u0341ng \u0111\u0103\u0341n, ngay th\u00e2\u0323t, tha\u0340nh th\u00e2\u0323t, th\u00e2\u0323t, th\u00e2\u0323t ra","a":"robbery","b":"truly","c":"overly","d":"assign","answer":"truly"}

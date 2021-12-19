@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nh\u01b0, nh\u01b0 nhau, gi\u00f4\u0341ng, gi\u00f4\u0341ng nhau, th\u00e2\u0323t gi\u00f4\u0341ng","a":"accomplish","b":"like","c":"litter","d":"ton","answer":"like"}

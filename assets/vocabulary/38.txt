@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch cai tri\u0323, cha\u0341nh phu\u0309, s\u01b0\u0323 la\u0340m phe\u0341p, s\u01b0\u0323 qua\u0309n ly\u0341, s\u01b0\u0323 tr\u00f4ng n\u00f4m, vi\u00ea\u0323c ha\u0340nh cha\u0341nh","a":"momentum","b":"competence","c":"administration","d":"post-war","answer":"administration"}

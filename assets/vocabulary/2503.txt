@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"m\u0103\u0323t, m\u0103\u0323t ngoa\u0340i","a":"surface","b":"considerably","c":"fade","d":"thrive","answer":"surface"}

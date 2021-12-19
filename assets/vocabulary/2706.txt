@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hi\u00ea\u0323p, hi\u00ea\u0323p chu\u0309ng, h\u01a1\u0323p, li\u00ean k\u00ea\u0341t, li\u00ean hi\u00ea\u0323p","a":"significance","b":"glorious","c":"diagnosis","d":"united","answer":"united"}

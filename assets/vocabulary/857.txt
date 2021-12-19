@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"n\u00e2ng cao, t\u0103ng gia, th\u00eam l\u00ean, la\u0340m t\u0103ng th\u00eam, l\u00ean gia\u0341","a":"portfolio","b":"aluminium","c":"instantly","d":"enhance","answer":"enhance"}

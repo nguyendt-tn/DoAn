@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u00e2\u0341p nh\u00e2\u0323n \u0111\u00ea\u0340 nghi\u0323, \u0111a\u0303i ti\u00ea\u0323c, khoa\u0309n \u0111a\u0309i, khu\u00e2y kho\u0309a, la\u0340m cho vui, nu\u00f4i hy vo\u0323ng","a":"entertain","b":"password","c":"ensue","d":"shocking","answer":"entertain"}

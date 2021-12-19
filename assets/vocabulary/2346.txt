@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u00f4 l\u00ea\u0323","a":"mobilize","b":"slave","c":"ward","d":"councillor","answer":"slave"}

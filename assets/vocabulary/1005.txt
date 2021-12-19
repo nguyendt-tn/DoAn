@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"chung cu\u00f4\u0323c, chung k\u00ea\u0341t, cu\u00f4\u0341i cu\u0340ng, k\u00ea\u0341t cu\u00f4\u0323c, ti\u0341nh ca\u0341ch cu\u00f4\u0341i cu\u0340ng","a":"whilst","b":"fortunate","c":"delegate","d":"finally","answer":"finally"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"sai, kh\u00f4ng \u0111u\u0341ng, l\u00e2\u0340m, t\u00f4\u0340i, tra\u0341i, x\u00e2\u0341u","a":"tissue","b":"evolution","c":"bishop","d":"wrong","answer":"wrong"}

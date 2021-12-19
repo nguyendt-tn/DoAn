@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"k\u00ea\u0341 \u0111o\u0341, lu\u0341c b\u00e2\u0341y gi\u01a1\u0340, trong lu\u0341c \u00e2\u0341y","a":"acid","b":"grave","c":"proportion","d":"then","answer":"then"}

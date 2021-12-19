@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u00f4\u0309 the\u0323n, x\u00e2\u0341u h\u00f4\u0309, x\u00e2\u0341u xa","a":"width","b":"petition","c":"ashamed","d":"administrative","answer":"ashamed"}

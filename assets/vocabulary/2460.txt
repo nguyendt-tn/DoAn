@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0341c ma\u0323nh, ti\u0341nh ch\u0103\u0341c ch\u0103\u0341n","a":"triumph","b":"distinct","c":"march","d":"strength","answer":"strength"}

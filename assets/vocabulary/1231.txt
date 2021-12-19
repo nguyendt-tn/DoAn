@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"qu\u00ea h\u01b0\u01a1ng, ch\u00f4\u0303 \u01a1\u0309, gia \u0111i\u0340nh, nha\u0340, nha\u0340 c\u01b0\u0309a, nha\u0340 ri\u00eang","a":"home","b":"isolation","c":"trailer","d":"crown","answer":"home"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 \u0111u\u0309 t\u01b0 ca\u0341ch, co\u0341 ta\u0340i n\u0103ng, \u0111u\u0309 ta\u0340i, kha\u0309 n\u0103ng","a":"frustrating","b":"craft","c":"subscriber","d":"able","answer":"able"}

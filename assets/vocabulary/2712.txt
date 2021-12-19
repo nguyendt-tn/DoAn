@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"co\u0341 le\u0303, \u0111\u00ea\u0340u \u00e2\u0341y co\u0341 le\u0303, kh\u00f4ng ch\u0103\u0341c, kh\u00f4ng co\u0341 le\u0303 th\u00e2\u0323t","a":"goodness","b":"steer","c":"unlikely","d":"ego","answer":"unlikely"}

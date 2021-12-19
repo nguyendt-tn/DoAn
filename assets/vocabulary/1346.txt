@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u00e2\u0341p d\u00e2\u0303n, thu\u0341 vi\u0323","a":"interesting","b":"grace","c":"dual","d":"tribunal","answer":"interesting"}

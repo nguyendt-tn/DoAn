@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi\u0309 nh\u01b0\u0303ng t\u00f4i t\u01a1\u0341, chung gia \u0111i\u0340nh, chung m\u00f4\u0323t nha\u0340","a":"tuition","b":"large-scale","c":"aids","d":"household","answer":"household"}

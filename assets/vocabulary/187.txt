@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ke\u0341o la\u0323i, ru\u0341t la\u0323i, du\u0323 d\u00f4\u0309","a":"dose","b":"overly","c":"unveil","d":"attract","answer":"attract"}

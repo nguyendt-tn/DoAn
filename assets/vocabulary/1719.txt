@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"d\u01b0, le\u0309 b\u00f4\u0323, le\u0309 m\u00e2\u0341t, le\u0309 m\u00e2\u0341y, kh\u00f4ng \u0111u\u0309 b\u00f4\u0323, trong m\u00f4\u0323t go\u0341c, trong m\u00f4\u0323t xo\u0341, s\u00f4\u0341 le\u0309","a":"critically","b":"odd","c":"parental","d":"specification","answer":"odd"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u0323i c\u00e2y, bu\u0323i r\u00e2\u0323m, \u0111u\u00f4i ch\u00f4\u0340n, qua\u0341n r\u01b0\u01a1\u0323u","a":"bush","b":"suburban","c":"composition","d":"evolve","answer":"bush"}

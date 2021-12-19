@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u01a1m ngon, \u0103n ngon mi\u00ea\u0323ng, khoa\u0341i tra\u0341, la\u0340m m\u00ea m\u00e2\u0309n, vui s\u01b0\u01a1\u0341ng","a":"divorce","b":"petition","c":"delicious","d":"rational","answer":"delicious"}

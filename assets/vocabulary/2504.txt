@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khoa gia\u0309i ph\u00e2\u0309u, khoa m\u00f4\u0309 xe\u0309","a":"surgery","b":"lobby","c":"shed","d":"councillor","answer":"surgery"}

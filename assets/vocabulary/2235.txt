@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng quan tro\u0323ng, phu\u0323 thu\u00f4\u0323c, th\u01b0\u0341 hai","a":"secondary","b":"annually","c":"revive","d":"exposure","answer":"secondary"}

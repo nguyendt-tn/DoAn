@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"chi\u0309 tri\u0341ch, ph\u00ea bi\u0340nh","a":"relieved","b":"editorial","c":"criticize","d":"forge","answer":"criticize"}

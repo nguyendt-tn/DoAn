@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 nha\u0340 qu\u00ea","a":"discharge","b":"peak","c":"stem","d":"rural","answer":"rural"}

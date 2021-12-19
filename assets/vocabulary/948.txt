@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xoay qua, ch\u00f4\u0341ng c\u01b0\u0323, \u0111\u00f4\u0341i \u0111i\u0323ch, \u0111\u01b0\u0341ng tr\u01b0\u01a1\u0341c, l\u00e2\u0323t ng\u01b0\u0303a, phu\u0309 m\u00f4\u0323t l\u01a1\u0341p tr\u00ean m\u0103\u0323t","a":"face","b":"firmly","c":"altogether","d":"width","answer":"face"}

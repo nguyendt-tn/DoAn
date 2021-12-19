@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"a\u0309o a\u0309nh, bo\u0341ng, ch\u00f4\u0309 \u00e2\u0309n d\u00e2\u0323t, h\u00f4\u0340n ma, bo\u0341ng t\u00f4\u0341i","a":"decisive","b":"shadow","c":"erupt","d":"strive","answer":"shadow"}

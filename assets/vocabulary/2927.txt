@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"thanh ni\u00ean, tu\u00f4\u0309i d\u00e2\u0323y thi\u0340, thanh n\u01b0\u0303","a":"dozen","b":"ban","c":"adolescent","d":"launch","answer":"adolescent"}

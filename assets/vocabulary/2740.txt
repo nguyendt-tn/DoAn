@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"hay thay \u0111\u00f4\u0309i, kh\u00f4ng \u0111\u00f4\u0340ng y\u0341, la\u0340m cho bi\u00ea\u0341n \u0111\u00f4\u0309i, la\u0340m cho kha\u0341c nhau, la\u0340m cho thay \u0111\u00f4\u0309i","a":"transmission","b":"vary","c":"infant","d":"database","answer":"vary"}

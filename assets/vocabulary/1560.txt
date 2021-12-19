@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"thu\u00f4\u0341c, thu\u00f4\u0341c x\u00f4\u0309, d\u01b0\u01a1\u0323c ph\u00e2\u0309m, y ho\u0323c, y thu\u00e2\u0323t","a":"arguably","b":"simultaneously","c":"medicine","d":"hierarchy","answer":"medicine"}

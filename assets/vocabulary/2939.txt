@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"conjunction","vi_terms":"d\u00e2\u0340u, m\u0103\u0323c d\u00e2\u0340u, du\u0340","a":"qualification","b":"bone","c":"executive","d":"albeit","answer":"albeit"}

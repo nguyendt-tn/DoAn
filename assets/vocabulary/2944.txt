@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"nh\u01b0 nhau, b\u0103\u0340ng nhau, gi\u00f4\u0341ng nhau, khu\u00f4n \u0111u\u0341c","a":"generally","b":"balance","c":"alike","d":"involved","answer":"alike"}

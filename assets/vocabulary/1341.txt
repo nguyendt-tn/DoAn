@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chu\u0309 t\u00e2m, co\u0341 y\u0341 \u0111i\u0323nh, c\u00f4\u0341 y\u0341, tru\u0340 \u0111i\u0323nh, d\u01b0\u0323 \u0111i\u0323nh, d\u01b0\u0323 li\u00ea\u0323u, d\u01b0\u0323 ph\u00e2\u0340n","a":"amateur","b":"formula","c":"intended","d":"prevention","answer":"intended"}

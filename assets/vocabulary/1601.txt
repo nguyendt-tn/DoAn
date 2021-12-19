@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"m\u01a1\u0341i, t\u00e2n th\u01a1\u0340i","a":"content","b":"modern","c":"yield","d":"extensive","answer":"modern"}

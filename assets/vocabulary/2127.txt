@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 \u0111\u01b0\u01a1\u0323c \u01b0a thi\u0341ch, s\u01b0\u0323 nguy\u00ea\u0323n vo\u0323ng, s\u01b0\u0323 thi\u0309nh c\u00e2\u0340u, s\u01b0\u0323 thi\u0323nh ha\u0340ng, s\u01b0\u0323 y\u00eau c\u00e2\u0340u","a":"request","b":"recruitment","c":"mere","d":"crystal","answer":"request"}

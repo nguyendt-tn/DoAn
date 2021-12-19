@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"nghi\u00ean c\u01b0\u0341u, ph\u00e2n ta\u0341ch, ph\u00e2n ti\u0341ch, ph\u00e2n gia\u0309i","a":"elaborate","b":"undermine","c":"analyse","d":"hunger","answer":"analyse"}

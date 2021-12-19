@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"hi\u0340nh cong, la\u0340m cong, u\u00f4\u0341n cong","a":"slash","b":"cleaning","c":"curved","d":"merger","answer":"curved"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thi\u0341ch h\u01a1\u0323p, xa\u0341c \u0111a\u0341ng","a":"overwhelming","b":"clinical","c":"relevant","d":"tolerate","answer":"relevant"}

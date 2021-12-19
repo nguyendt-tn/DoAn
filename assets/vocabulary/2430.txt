@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u00f4\u0309i \u0111\u00e2\u0340u, lu\u0341c \u0111\u00e2\u0340u, s\u01b0\u0323 gi\u01b0\u0323t mi\u0340nh, s\u01b0\u0323 kh\u01a1\u0309i ha\u0340nh","a":"grief","b":"cave","c":"reproduction","d":"start","answer":"start"}

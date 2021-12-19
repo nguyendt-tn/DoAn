@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"li\u00ean quan, xui gia, th\u00f4ng gia, kha\u0341ch ha\u0340ng, li\u00ean la\u0323c, giao thi\u00ea\u0323p, ba\u0340 con, m\u00f4n pha\u0341i, pha\u0341i, th\u00e2n quy\u00ea\u0341n, giao t\u00ea\u0341, m\u00f4\u0341i quan h\u00ea\u0323","a":"cult","b":"hook","c":"terribly","d":"connection","answer":"connection"}

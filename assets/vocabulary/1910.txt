@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00ea\u0341n ta\u0340u, da\u0341ng, ha\u0309i ca\u0309ng, ma\u0323n la\u0341i cu\u0309a ta\u0340u, r\u01b0\u01a1\u0323u porto, tha\u0341i \u0111\u00f4\u0323, b\u00f4\u0323 da\u0323ng","a":"port","b":"skip","c":"memo","d":"civilian","answer":"port"}

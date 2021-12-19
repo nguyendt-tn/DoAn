@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"b\u00e2\u0341t \u0111\u00f4\u0323ng sa\u0309n, \u0111\u0103\u0323c s\u0103\u0341c, \u0111\u0103\u0323c ta\u0341nh, \u0111\u00f4\u0340 gia\u0309, s\u01a1\u0309 h\u01b0\u0309u chu\u0309, ti\u0341nh ch\u00e2\u0341t","a":"property","b":"quest","c":"comic","d":"frustrating","answer":"property"}

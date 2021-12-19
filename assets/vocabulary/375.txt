@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"ha\u0309y c\u00e2\u0309n th\u00e2\u0323n, ha\u0309y gi\u01b0\u0303 gi\u0340n","a":"fabric","b":"complement","c":"carefully","d":"surveillance","answer":"carefully"}

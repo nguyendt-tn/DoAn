@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"x\u01b0a, c\u00f4\u0309, cu\u0303, gia\u0340","a":"notorious","b":"warrior","c":"assumption","d":"old","answer":"old"}

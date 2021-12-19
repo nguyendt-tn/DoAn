@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khi\u00ea\u0309n tra\u0341ch, l\u01a1\u0340i tra\u0341ch m\u0103\u0341ng, qu\u01a1\u0309 tra\u0341ch","a":"clarify","b":"blame","c":"jury","d":"sustainable","answer":"blame"}

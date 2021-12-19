@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 thi\u0323 gia\u0341c","a":"visual","b":"surge","c":"harsh","d":"constitutional","answer":"visual"}

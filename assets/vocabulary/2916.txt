@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"la\u0340m cho thi\u0341ch h\u01a1\u0323p, pho\u0309ng theo c\u00e2u chuy\u00ea\u0323n, s\u01b0\u0323 l\u0103\u0341p va\u0340o, s\u01b0\u0323 s\u01b0\u0309a \u0111\u00f4\u0309i, s\u01b0\u0323 thay th\u00ea\u0341, s\u01b0\u0323 tra va\u0340o","a":"adaptation","b":"problem","c":"capable","d":"fun","answer":"adaptation"}

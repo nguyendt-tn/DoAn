@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"cu\u0309a chi\u0341nh anh, cu\u0309a chi\u0341nh m\u00e2\u0340y, cu\u0309a chi\u0341nh \u00f4ng","a":"compel","b":"yourself","c":"grin","d":"terminate","answer":"yourself"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01a1\u0340i no\u0341i ch\u0103\u0341c, qua\u0309 quy\u00ea\u0341t, s\u01b0\u0323 \u0111o\u0340i quy\u00ea\u0340n ha\u0323n, s\u01b0\u0323 xa\u0341c nh\u00e2\u0323n","a":"brush","b":"assertion","c":"obligation","d":"huge","answer":"assertion"}

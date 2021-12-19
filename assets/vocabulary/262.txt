@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ngoa\u0340i ra, \u01a1\u0309 b\u00ean kia, \u01a1\u0309 xa, tr\u01b0\u0340 ra","a":"interval","b":"reign","c":"disappointment","d":"beyond","answer":"beyond"}

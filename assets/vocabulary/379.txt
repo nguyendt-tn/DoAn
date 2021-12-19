@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"mang, th\u01b0\u0340a nh\u00e2\u0323n","a":"desktop","b":"synthesis","c":"carry","d":"motivation","answer":"carry"}

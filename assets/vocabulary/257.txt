@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khuynh h\u01b0\u01a1\u0341ng, thi\u0323 du\u0323c, xu h\u01b0\u01a1\u0341ng","a":"functional","b":"behalf","c":"trail","d":"bent","answer":"bent"}

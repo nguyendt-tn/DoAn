@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"gio\u0309i","a":"investigator","b":"sexuality","c":"well","d":"betray","answer":"well"}

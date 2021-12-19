@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"vua, la\u0309nh chu\u0341a","a":"asset","b":"revival","c":"king","d":"perception","answer":"king"}

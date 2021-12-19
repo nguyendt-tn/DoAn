@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bao, tu\u0341i, vu\u0341 bo\u0340","a":"straightforward","b":"bag","c":"genocide","d":"backing","answer":"bag"}

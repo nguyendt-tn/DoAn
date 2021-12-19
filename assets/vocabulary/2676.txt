@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"xoay, qu\u00e2y, ngoa\u0309h \u0111\u00e2\u0340u, quay tro\u0340n, l\u00e2\u0323t trang gi\u00e2\u0341y, \u0111i vo\u0340ng qua, que\u0323o","a":"turn","b":"consciousness","c":"insert","d":"proportion","answer":"turn"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ho\u0323a si\u0303, nha\u0340 \u0111i\u00eau kh\u0103\u0341c, nha\u0340 my\u0303 thu\u00e2\u0323t, nha\u0340 ngh\u00ea\u0323 thu\u00e2\u0323t","a":"artist","b":"pond","c":"hilarious","d":"acre","answer":"artist"}

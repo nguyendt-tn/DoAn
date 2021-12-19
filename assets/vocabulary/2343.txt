@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"da, da thu\u0341","a":"injection","b":"skin","c":"assistance","d":"theft","answer":"skin"}

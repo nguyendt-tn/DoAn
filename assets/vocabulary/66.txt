@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"x\u00e2m l\u0103ng, t\u00e2\u0341n c\u00f4ng, x\u00e2m l\u01b0\u01a1\u0323c","a":"confer","b":"leak","c":"reasoning","d":"aggressive","answer":"aggressive"}

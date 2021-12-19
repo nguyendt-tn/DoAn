@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ban cho, phong cho, c\u00e2\u0341p cho","a":"quest","b":"differentiate","c":"litre","d":"award","answer":"award"}

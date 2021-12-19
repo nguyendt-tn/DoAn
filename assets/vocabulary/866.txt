@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"h\u0103ng ha\u0341i, lo\u0340ng t\u00f4\u0341t, nhi\u00ea\u0323t t\u00e2m, nhi\u00ea\u0323t tha\u0340nh, s\u00f4\u0341t s\u0103\u0341ng","a":"editorial","b":"palm","c":"enthusiasm","d":"yield","answer":"enthusiasm"}

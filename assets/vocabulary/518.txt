@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ch\u00e2\u0341m d\u01b0\u0341t, k\u00ea\u0341t li\u00ea\u0309u, k\u00ea\u0341t lu\u00e2\u0323n, k\u00ea\u0341t thu\u0341c, quy\u00ea\u0341t \u0111i\u0323nh","a":"manipulate","b":"conclude","c":"disposal","d":"transportation","answer":"conclude"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi\u0323, em ga\u0341i","a":"ironic","b":"sufficiently","c":"countless","d":"sister","answer":"sister"}

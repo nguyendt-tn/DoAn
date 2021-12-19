@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0323 nghe, s\u01b0\u0323 nh\u00e2\u0323n, thi\u0341nh gia\u0341c, thi\u0341nh quan, thi\u0341nh tai","a":"forbid","b":"preach","c":"hearing","d":"counter","answer":"hearing"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u01b0\u01a1\u0341c \u0111i nhe\u0323 nha\u0340ng, \u0111\u00e2\u0341t x\u00f4\u0341p, nhe\u0323, sa\u0341ng su\u0309a","a":"pity","b":"database","c":"foster","d":"light","answer":"light"}

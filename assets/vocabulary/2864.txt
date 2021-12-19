@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i vi\u00ea\u0341t v\u0103n ki\u00ea\u0323n","a":"manipulation","b":"writer","c":"defy","d":"undoubtedly","answer":"writer"}

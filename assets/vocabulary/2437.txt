@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"s\u01b0\u0341c chi\u0323u \u0111\u01b0\u0323ng, s\u01b0\u0323 \u01a1\u0309 la\u0323i, s\u01b0\u0323 tr\u01a1\u0309 nga\u0323i, th\u01a1\u0340i gian l\u01b0u la\u0323i","a":"preside","b":"stay","c":"accurately","d":"physician","answer":"stay"}

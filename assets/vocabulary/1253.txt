@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"khu ha\u0340nh cha\u0341nh cu\u0309a qu\u00e2\u0323n","a":"problematic","b":"depart","c":"lawsuit","d":"hundred","answer":"hundred"}

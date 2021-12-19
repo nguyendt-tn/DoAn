@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u0103n nha\u0340, ch\u00f4\u0309 \u01a1\u0309, nha\u0340, nha\u0340 c\u01b0\u0309a","a":"spectacle","b":"palm","c":"house","d":"accordingly","answer":"house"}

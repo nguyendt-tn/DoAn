@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111i\u00ea\u0340u d\u01b0\u0323 \u0111i\u0323nh, k\u00ea\u0341 hoa\u0323ch, li\u00ea\u0323ng ra, ne\u0341m \u0111i, pho\u0341ng ra, tru\u0340 hoa\u0323ch, tru\u0340 li\u00ea\u0323u, va\u0323ch m\u00f4\u0323t \u0111\u01b0\u01a1\u0340ng th\u0103\u0309ng","a":"project","b":"tobacco","c":"entitle","d":"outlet","answer":"project"}

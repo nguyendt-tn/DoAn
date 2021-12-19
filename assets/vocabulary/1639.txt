@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"pronoun","vi_terms":"chi\u0341nh cu\u0309a t\u00f4i, cu\u0309a t\u00f4i la\u0340m","a":"irrelevant","b":"myself","c":"sexuality","d":"cemetery","answer":"myself"}

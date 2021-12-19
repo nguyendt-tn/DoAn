@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"","vi_terms":"m\u01b0\u01a1\u0340i sa\u0341u","a":"inspiration","b":"reproduce","c":"automatically","d":"sixteen","answer":"sixteen"}

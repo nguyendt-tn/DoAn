@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u00f4\u0309i chi\u00ea\u0340u, chi\u00ea\u0340u, la\u0340m cho b\u0103\u0340ng nhau, la\u0340m cho b\u0103\u0340ng ph\u0103\u0309ng, t\u00f4\u0323i","a":"turnover","b":"evening","c":"extensively","d":"entity","answer":"evening"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"sau, sau \u0111o\u0341","a":"later","b":"constitutional","c":"trillion","d":"mathematical","answer":"later"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u00f4, ca\u0341i \u00f4, c\u00e2y du\u0340, du\u0340 che m\u01b0a","a":"feminist","b":"spectacular","c":"umbrella","d":"adverse","answer":"umbrella"}

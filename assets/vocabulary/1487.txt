@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u01a1\u0323p v\u01a1\u0341i lu\u00e2\u0323n ly\u0341 ho\u0323c","a":"rape","b":"nominate","c":"logical","d":"duration","answer":"logical"}

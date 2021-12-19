@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cu\u0341 \u0111\u00e2\u0323p xu\u00f4\u0341ng, ng\u01b0\u01a1\u0340i ba\u0341n thi\u0323t, s\u01b0\u0323 gi\u00ea\u0341t ch\u00ea\u0341t, thu\u0341 bi\u0323 th\u01a1\u0323 s\u0103n gi\u00ea\u0341t","a":"unify","b":"earnings","c":"landmark","d":"kill","answer":"kill"}

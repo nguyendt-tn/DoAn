@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"c\u01b0\u0341u giu\u0341p, da\u0340nh du\u0323m, ti\u00ea\u0323n t\u0103\u0323n, ti\u00ea\u0341t ki\u00ea\u0323m, \u0111\u00ea\u0309 da\u0340nh, theo ki\u0323p, \u0111u\u00f4\u0309i ki\u0323p, tra\u0341nh kho\u0309i, ha\u0340 ti\u00ea\u0323n","a":"era","b":"refuge","c":"bombing","d":"saving","answer":"saving"}

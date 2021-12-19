@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u01b0\u01a1\u0340ng ra\u0309nh, thung lu\u0303ng","a":"conscience","b":"valley","c":"film-maker","d":"sometime","answer":"valley"}

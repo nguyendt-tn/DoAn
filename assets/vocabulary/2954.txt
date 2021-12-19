@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"chung t\u00e2\u0341t ca\u0309, \u0111a\u0323i kha\u0341i, hoa\u0340n toa\u0340n, toa\u0340n th\u00ea\u0309","a":"altogether","b":"again","c":"harmful","d":"silver","answer":"altogether"}

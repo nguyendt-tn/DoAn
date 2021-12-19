@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"chung, cu\u0340ng m\u00f4\u0323t lu\u0341c, toa\u0340n th\u00ea\u0309, t\u00f4\u0309ng h\u01a1\u0323p","a":"chaos","b":"reliability","c":"general","d":"litre","answer":"general"}

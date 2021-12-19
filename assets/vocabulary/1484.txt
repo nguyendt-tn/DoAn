@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111i\u0323nh ch\u00f4\u0309, \u0111i\u0323nh vi\u0323 tri\u0341, \u01a1\u0309, ti\u0340m ch\u00f4\u0309, tru\u0341","a":"full-time","b":"supervisor","c":"composition","d":"locate","answer":"locate"}

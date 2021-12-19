@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ng\u01b0\u01a1\u0340i t\u01b0\u01a1\u0340ng tri\u0340nh, ng\u01b0\u01a1\u0340i vi\u00ea\u0341t ba\u0341o ca\u0341o, pho\u0341ng vi\u00ean","a":"passing","b":"accumulate","c":"reporter","d":"quest","answer":"reporter"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111o\u0341ng, khe\u0341p la\u0323i, kh\u00f4ng mu\u00f4\u0341n nghe, ng\u00e2\u0323m mi\u00ea\u0323ng la\u0323i","a":"shut","b":"asset","c":"revival","d":"philosophical","answer":"shut"}

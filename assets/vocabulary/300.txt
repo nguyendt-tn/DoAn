@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"la\u0340m kho\u0341 chi\u0323u, m\u00f4\u0341i bu\u00f4\u0340n ba\u0309, phi\u00ea\u0340n mu\u00f4\u0323n","a":"treasure","b":"passive","c":"bother","d":"absurd","answer":"bother"}

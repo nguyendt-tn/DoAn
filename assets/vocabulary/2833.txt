@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"r\u01b0\u01a1\u0323u, r\u01b0\u01a1\u0323u nho","a":"cop","b":"wine","c":"squeeze","d":"immigration","answer":"wine"}

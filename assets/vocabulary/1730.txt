@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"d\u00e2\u0340u, d\u00e2\u0340u \u0103n, d\u00e2\u0340u ho\u0309a, d\u00e2\u0340u l\u01b0\u0309a, d\u00e2\u0340u mo\u0309","a":"denial","b":"substantially","c":"oil","d":"liberty","answer":"oil"}

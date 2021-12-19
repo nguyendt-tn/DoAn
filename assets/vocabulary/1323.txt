@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ng\u00e2y th\u01a1, ngay th\u0103\u0309ng, ngay th\u00e2\u0323t, kh\u00f4ng co\u0341, th\u00e2\u0323t tha\u0340, trong sa\u0323ch, v\u00f4 ha\u0323i, v\u00f4 t\u00f4\u0323i","a":"charm","b":"naked","c":"innocent","d":"tsunami","answer":"innocent"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"l\u01b0\u01a1\u0341i b\u0103\u0341t chim, l\u01b0\u01a1\u0341i \u0111a\u0341nh ca\u0341, va\u0309i l\u01b0\u01a1\u0341i \u0111\u00ea\u0309 may ma\u0340n, v\u01a1\u0323t, l\u01b0\u01a1\u0341i \u0111a\u0341nh thu\u0341 r\u01b0\u0340ng","a":"suspension","b":"adhere","c":"hydrogen","d":"net","answer":"net"}

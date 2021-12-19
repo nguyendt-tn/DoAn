@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"nam, h\u01b0\u01a1\u0341ng nam, phi\u0341a nam","a":"transportation","b":"mob","c":"demonstration","d":"south","answer":"south"}

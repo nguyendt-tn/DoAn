@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"anh hu\u0340ng, anh hu\u0340ng ha\u0340o ki\u00ea\u0323t, anh ki\u00ea\u0323t","a":"rail","b":"hero","c":"automatic","d":"mainland","answer":"hero"}

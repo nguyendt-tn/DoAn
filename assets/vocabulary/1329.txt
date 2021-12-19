@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111\u0103\u0323t, l\u0103\u0341p va\u0340o, ra\u0341p va\u0340o, s\u0103\u0341p \u0111\u0103\u0323t, d\u01b0\u0323ng l\u00ean","a":"fool","b":"install","c":"characterize","d":"whip","answer":"install"}

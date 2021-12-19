@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ho\u0341a ch\u00e2\u0341t, ho\u0341a ho\u0323c, nga\u0340nh ho\u0341a ch\u00e2\u0341t","a":"clerk","b":"tribe","c":"chemistry","d":"machinery","answer":"chemistry"}

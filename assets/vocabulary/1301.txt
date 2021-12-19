@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kho\u0341 tin, kh\u00f4ng th\u00ea\u0309 tin \u0111\u01b0\u01a1\u0323c, kh\u00f4ng th\u00ea\u0309 t\u01b0\u01a1\u0309ng t\u01b0\u01a1\u0323ng","a":"landmark","b":"presently","c":"elbow","d":"incredible","answer":"incredible"}

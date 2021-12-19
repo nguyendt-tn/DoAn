@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"tin ch\u0103\u0341c, xa\u0341c tin","a":"convinced","b":"marine","c":"counselling","d":"spell","answer":"convinced"}

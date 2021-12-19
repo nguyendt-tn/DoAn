@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0309n tha\u0309o, ca\u0341i bi\u0323, ch\u01b0\u0341ng khoa\u0341n, c\u00f4\u0309 ph\u00e2\u0340n, gi\u00e2\u0341y ba\u0323c nho\u0309, nguy\u00ean ba\u0309n","a":"completion","b":"tackle","c":"script","d":"erupt","answer":"script"}

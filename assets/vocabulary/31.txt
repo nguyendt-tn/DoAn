@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"b\u00e2y gi\u01a1\u0340, co\u0341 th\u00e2\u0323t, hi\u00ea\u0323n nay, hi\u00ea\u0323n th\u01a1\u0340i","a":"evolve","b":"actual","c":"cabinet","d":"strain","answer":"actual"}

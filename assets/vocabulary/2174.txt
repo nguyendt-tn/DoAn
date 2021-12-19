@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"bu\u00f4\u0340ng, ch\u00f4\u0309, duy\u00ean c\u01a1\u0341, ly\u0341 do, pho\u0340ng, nha\u0340 \u01a1\u0309 co\u0341 nhi\u00ea\u0340u pho\u0340ng","a":"ash","b":"room","c":"outstanding","d":"specialize","answer":"room"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"\u0111\u00f4\u0323c t\u00f4\u0341","a":"restoration","b":"compelling","c":"virus","d":"index","answer":"virus"}

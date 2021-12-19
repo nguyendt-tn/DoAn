@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"tem, com tem, d\u00e2\u0341u kh\u0103\u0341c ch\u01b0\u0303, d\u00e2\u0341u v\u00ea\u0341t, con d\u00e2\u0341u","a":"rocket","b":"basement","c":"stamp","d":"optimism","answer":"stamp"}

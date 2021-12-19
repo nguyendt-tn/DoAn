@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ma\u0341y \u0111a\u0341nh ch\u01b0\u0303, m\u0103\u0323t d\u01b0\u01a1ng c\u00e2\u0340m","a":"keyboard","b":"sword","c":"formulate","d":"bench","answer":"keyboard"}

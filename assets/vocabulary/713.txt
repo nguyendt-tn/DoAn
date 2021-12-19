@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"\u0111\u0103\u0323c bi\u00ea\u0323t","a":"adjustment","b":"regulatory","c":"differently","d":"evident","answer":"differently"}

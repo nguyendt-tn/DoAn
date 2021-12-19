@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"kh\u00f4ng bi\u00ea\u0341t, kh\u00f4ng co\u0340n tri gia\u0341c, v\u00f4 y\u0341 th\u01b0\u0341c","a":"naval","b":"assistance","c":"unconscious","d":"subscriber","answer":"unconscious"}

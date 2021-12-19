@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chi\u0341nh phu\u0309, n\u00f4\u0323i ca\u0341c, s\u01b0\u0323 cai tri\u0323, s\u01b0\u0323 th\u00f4\u0341ng tri\u0323","a":"outlet","b":"deposit","c":"government","d":"refuge","answer":"government"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"cung hi\u00ea\u0341n, s\u01b0\u0323 bi\u00ea\u0341u, s\u01b0\u0323 d\u00e2ng, s\u01b0\u0323 cho, s\u01b0\u0323 \u0111\u00ea\u0340 nghi\u0323, s\u01b0\u0323 t\u0103\u0323ng","a":"fierce","b":"distinction","c":"terminate","d":"offer","answer":"offer"}

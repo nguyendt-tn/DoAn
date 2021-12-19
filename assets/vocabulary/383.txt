@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"s\u01b0\u0323 c\u00f4\u0323ng s\u00f4\u0341, s\u01b0\u0323 \u0111\u00f4\u0309 va\u0340o khu\u00f4n, t\u00f4\u0309 ong, tra\u0323ng tha\u0341i nghi\u00ean","a":"linger","b":"stimulate","c":"cast","d":"blow","answer":"cast"}

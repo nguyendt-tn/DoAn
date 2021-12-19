@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"bi\u00ea\u0341n m\u00e2\u0341t, ch\u00ea\u0341t m\u00e2\u0341t, kh\u00f4ng co\u0340n t\u00f4\u0340n ta\u0323i","a":"openly","b":"terrain","c":"disappear","d":"betray","answer":"disappear"}

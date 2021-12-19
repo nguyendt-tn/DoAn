@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"be\u0341, chu\u0341t i\u0341t, kh\u00f4ng quan tro\u0323ng, nho\u0309, nho\u0309 mo\u0323n","a":"little","b":"archive","c":"institutional","d":"strengthen","answer":"little"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u0323a vi\u0323, ti\u00ea\u0309u bang, ti\u0340nh tra\u0323ng, tra\u0323ng tha\u0341i, ve\u0309 l\u00f4\u0323ng l\u00e2\u0309y","a":"sufficiently","b":"state","c":"envelope","d":"clinical","answer":"state"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0103n, ki\u00ea\u0341m \u0111\u01b0\u01a1\u0323c","a":"conceive","b":"rating","c":"earn","d":"massacre","answer":"earn"}

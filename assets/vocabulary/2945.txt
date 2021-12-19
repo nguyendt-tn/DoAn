@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"vi\u00ea\u0323n c\u01a1\u0341, vi\u00ea\u0323n le\u0309","a":"allegation","b":"rely","c":"heaven","d":"aged","answer":"allegation"}

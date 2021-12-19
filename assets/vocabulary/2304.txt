@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"k\u00eau la, tra\u0309 ti\u00ea\u0340n r\u01b0\u01a1\u0323u","a":"tendency","b":"shout","c":"civilization","d":"eternal","answer":"shout"}

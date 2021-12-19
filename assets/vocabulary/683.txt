@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"mi\u00eau ta\u0309, ta\u0309 la\u0323i, ve\u0309 hi\u0340nh cong","a":"non-profit","b":"deem","c":"describe","d":"strive","answer":"describe"}

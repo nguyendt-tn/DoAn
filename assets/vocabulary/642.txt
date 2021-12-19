@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111\u00eam khuya, l\u00ea\u0309 truy \u0111i\u00ea\u0323u, ng\u01b0\u01a1\u0340i ch\u00ea\u0341t, ng\u01b0\u01a1\u0340i \u0111a\u0309 khu\u00e2\u0341t","a":"undertake","b":"dump","c":"film-maker","d":"dead","answer":"dead"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"la\u0340m ph\u00e2\u0323t y\u0341, s\u01b0\u0323 cha\u0323m \u0111\u00ea\u0341n, s\u01b0\u0323 la\u0340m t\u00f4\u0309n th\u01b0\u01a1ng, s\u01b0\u0323 xu\u0341c pha\u0323m, v\u00ea\u0341t th\u01b0\u01a1ng","a":"ecological","b":"wound","c":"realm","d":"halfway","answer":"wound"}

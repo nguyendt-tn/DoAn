@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ly, bi\u0340nh, ca\u0341i soong, n\u00f4\u0340i, ch\u00e2\u0323u, s\u00f4\u0341 ti\u00ea\u0340n l\u01a1\u0341n","a":"pot","b":"citizenship","c":"inflation","d":"pond","answer":"pot"}

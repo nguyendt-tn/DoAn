@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"than van, ki\u00ea\u0323n, pha\u0340n na\u0340n, r\u00ean ri\u0309, than phi\u00ea\u0340n","a":"charm","b":"complain","c":"evaluation","d":"separation","answer":"complain"}

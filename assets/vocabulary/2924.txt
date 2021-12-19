@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"thu\u00f4\u0323c v\u00ea\u0340 ha\u0340nh cha\u0341nh, thu\u00f4\u0323c v\u00ea\u0340 qua\u0309n ly\u0341, vi\u00ea\u0323c nha\u0340 n\u01b0\u01a1\u0341c","a":"audience","b":"surface","c":"effective","d":"administrative","answer":"administrative"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"co\u0341 ph\u01b0\u01a1\u0341c, ha\u0323nh phu\u0341c, di\u00ea\u0309m phu\u0341c, sung s\u01b0\u01a1\u0341ng","a":"constituency","b":"magical","c":"happily","d":"surgeon","answer":"happily"}

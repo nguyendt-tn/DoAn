@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"c\u00e2\u0340u c\u01b0\u0341u, da\u0341n, chuy\u00ean chu\u0341, g\u0103\u0341n, ghe\u0341p, \u01b0\u0341ng du\u0323ng, xin vi\u00ea\u0323c la\u0340m","a":"formula","b":"conception","c":"apply","d":"undermine","answer":"apply"}

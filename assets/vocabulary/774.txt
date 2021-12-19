@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch \u0103n m\u0103\u0323c, qu\u00e2\u0340n a\u0341o, trang phu\u0323c, v\u00e2\u0323t che l\u00ean, v\u00e2\u0323t phu\u0309 l\u00ean, y phu\u0323c","a":"horn","b":"cop","c":"surgeon","d":"dress","answer":"dress"}

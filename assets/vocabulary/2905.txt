@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2\u0341t \u0111o\u0341ng la\u0323i, t\u0103ng th\u00eam ti\u00ea\u0340n v\u00f4\u0341n","a":"geography","b":"accumulation","c":"beauty","d":"source","answer":"accumulation"}

@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111a\u0323i y\u0341, n\u00f4\u0323i dung, ta\u0340i sa\u0309n, ti\u0341nh b\u00ea\u0340n, th\u00ea\u0309 ch\u00e2\u0341t, v\u00e2\u0323t ch\u00e2\u0341t","a":"thoroughly","b":"dispute","c":"substance","d":"memoir","answer":"substance"}

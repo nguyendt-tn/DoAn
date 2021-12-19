@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"m\u00f4\u0323c l\u00ean, n\u00f4\u0309i l\u00ean, s\u00f4\u0341ng la\u0323i, t\u01b0\u0323 no\u0341 ma\u0340 ra, d\u01b0\u0323ng l\u00ean","a":"arise","b":"descend","c":"intriguing","d":"synthesis","answer":"arise"}

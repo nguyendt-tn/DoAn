@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ba\u0341nh mi\u0340, s\u00f4\u0341ng \u0111a\u0323m ba\u0323c","a":"essence","b":"empirical","c":"publicity","d":"bread","answer":"bread"}

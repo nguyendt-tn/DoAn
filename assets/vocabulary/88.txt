@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"r\u00f4\u0340i","a":"already","b":"disposal","c":"sufficiently","d":"junction","answer":"already"}

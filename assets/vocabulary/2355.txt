@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"be\u0341, nho\u0309, vu\u0323n v\u0103\u0323t","a":"small","b":"workshop","c":"adoption","d":"judicial","answer":"small"}

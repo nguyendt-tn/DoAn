@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"em, con, tre\u0309 tu\u00f4\u0309i h\u01a1n","a":"handy","b":"bay","c":"junior","d":"trillion","answer":"junior"}

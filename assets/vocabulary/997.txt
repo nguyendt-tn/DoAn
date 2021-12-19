@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"th\u01b0\u0341 n\u0103m","a":"strip","b":"electronics","c":"mandatory","d":"fifth","answer":"fifth"}

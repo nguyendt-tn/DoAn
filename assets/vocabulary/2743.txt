@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00e2\u0341t lo\u0309ng trong n\u01b0\u01a1\u0341c s\u01a1n, chuy\u00ean ch\u01a1\u0309 b\u0103\u0340ng xe c\u00f4\u0323, n\u01b0\u01a1\u0341c d\u00e2\u0303n thu\u00f4\u0341c, xe c\u00f4\u0323","a":"sketch","b":"echo","c":"vehicle","d":"neutral","answer":"vehicle"}

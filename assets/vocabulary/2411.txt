@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ch\u00f4\u0309 n\u01b0\u0341t, \u0111\u01b0\u01a1\u0340ng n\u01b0\u0341t, l\u01a1\u0341p da thu\u0341 n\u01b0\u0341t ra, n\u01b0\u0303a chai n\u01b0\u01a1\u0340c, ke\u0309 h\u01a1\u0309, s\u01b0\u0323 chia re\u0309, khe h\u01a1\u0309","a":"split","b":"banner","c":"identification","d":"selective","answer":"split"}

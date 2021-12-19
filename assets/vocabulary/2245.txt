@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"ki\u00ea\u0341m, ti\u0340m, ti\u0340m ki\u00ea\u0341m","a":"seek","b":"nutrition","c":"cluster","d":"spoil","answer":"seek"}

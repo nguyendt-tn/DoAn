@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"ng\u01b0\u01a1\u0340i t\u01b0\u01a1i c\u01b0\u01a1\u0340i, ng\u01b0\u01a1\u0340i vui ve\u0309, vui lo\u0340ng, xinh \u0111e\u0323p","a":"cheerful","b":"confrontation","c":"tempt","d":"humanitarian","answer":"cheerful"}

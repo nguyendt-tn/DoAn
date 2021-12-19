@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"ca\u0341ch la\u0340m vi\u00ea\u0323c gi\u0340, l\u00f4\u0341i, ph\u01b0\u01a1ng pha\u0341p, tho\u0341i quen","a":"induce","b":"asset","c":"manner","d":"triumph","answer":"manner"}

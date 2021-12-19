@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"\u0111i\u0323ch thu\u0309, \u0111\u00f4\u0341i thu\u0309","a":"flee","b":"ensue","c":"withdrawal","d":"competitor","answer":"competitor"}

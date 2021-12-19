@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"h\u00f4\u0303n h\u01a1\u0323p, l\u00f4\u0323n, pha l\u00f4\u0323n","a":"mixed","b":"lyric","c":"clip","d":"rocket","answer":"mixed"}

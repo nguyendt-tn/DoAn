@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"\u0111i\u00ea\u0340u chi\u0309nh, \u0111i\u00ea\u0340u \u0111i\u0340nh, ho\u0340a gia\u0309i, l\u0103\u0341p va\u0340o, s\u01b0\u0309a cho \u0111u\u0341ng, s\u01b0\u0309a cho v\u01b0\u0340a","a":"adjust","b":"absolute","c":"recommendation","d":"feed","answer":"adjust"}

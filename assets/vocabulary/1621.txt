@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chu\u00f4\u0323t","a":"militant","b":"thoughtful","c":"mouse","d":"controversy","answer":"mouse"}

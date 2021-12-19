@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u01b0 x\u01b0\u0309, \u0111\u00f4\u0341i \u0111a\u0309i, ph\u00e2\u0309m ha\u0323mh, tha\u0341i \u0111\u00f4\u0323","a":"behaviour","b":"detention","c":"flourish","d":"screening","answer":"behaviour"}

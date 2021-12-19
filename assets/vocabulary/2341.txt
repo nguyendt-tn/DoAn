@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"verb","vi_terms":"tr\u01b0\u01a1\u0323t tuy\u00ea\u0341t","a":"suffering","b":"denounce","c":"governor","d":"skiing","answer":"skiing"}

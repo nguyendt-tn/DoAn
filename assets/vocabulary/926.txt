@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"co\u0341 nhi\u00ea\u0340u kinh nghi\u00ea\u0323m, kinh nghi\u00ea\u0323m, li\u0323ch duy\u00ea\u0323t, s\u01b0\u0323 th\u01b0\u0309 tha\u0341ch, t\u01b0\u0340ng tra\u0309i","a":"niche","b":"commissioner","c":"rebel","d":"experience","answer":"experience"}

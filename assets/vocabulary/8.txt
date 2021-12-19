@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adverb","vi_terms":"kh\u00f4ng \u0111\u00f4\u0309i, tuy\u00ea\u0323t \u0111\u00f4\u0341i, thu\u00e2\u0340n tuy\u0341","a":"devil","b":"gig","c":"stabilize","d":"absolutely","answer":"absolutely"}

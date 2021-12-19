@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"c\u00e2y roi, c\u00f4ng t\u0103\u0341c, lo\u0323n to\u0341c gia\u0309, que g\u00f4\u0303 m\u00ea\u0340m, c\u00f4ng t\u0103\u0341c \u0111i\u00ea\u0323n","a":"switch","b":"indigenous","c":"prosecution","d":"diagnose","answer":"switch"}

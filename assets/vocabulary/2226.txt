@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"chuy\u00ea\u0323n c\u01b0\u01a1\u0340i, chuy\u00ea\u0323n t\u01b0\u0341c c\u01b0\u01a1\u0340i, ti\u00ea\u0341ng c\u01b0\u01a1\u0340i r\u00f4\u0323 l\u00ean, ti\u00ea\u0341ng k\u00eau the\u0341t l\u00ean, vi\u00ea\u0323c bu\u00f4\u0340n c\u01b0\u01a1\u0340i","a":"philosophical","b":"weed","c":"scream","d":"congratulate","answer":"scream"}

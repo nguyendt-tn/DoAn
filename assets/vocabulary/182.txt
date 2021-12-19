@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"adjective","vi_terms":"s\u01b0\u0323 \u0111a\u0341nh nha\u0323c","a":"intensive","b":"considerable","c":"vacuum","d":"attack","answer":"attack"}

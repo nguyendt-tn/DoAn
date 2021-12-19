@@ -1,0 +1,1 @@
+{"status":200,"vi_type":"noun","vi_terms":"n\u00f4ng nghi\u00ea\u0323p, ngh\u00ea\u0340 la\u0340m ru\u00f4\u0323ng","a":"grey","b":"author","c":"professional","d":"agriculture","answer":"agriculture"}
