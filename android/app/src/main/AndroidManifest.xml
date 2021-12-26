@@ -5,7 +5,7 @@
     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
    <application
-        android:label="Grammaker Pro"
+        android:label="DA"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/launcher_icon">
         <activity

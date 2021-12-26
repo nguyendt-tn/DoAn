@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:grammar_app/screens/check.dart';
+import 'package:grammar_app/screens/paraphrase.dart';
 import 'package:grammar_app/screens/translate.dart';
 import 'package:grammar_app/screens/dictionary/index.dart';
 import 'package:grammar_app/screens/setting.dart';
@@ -67,10 +68,10 @@ class _NavState extends State<Nav> {
   int _selectIndex = 0;
   List<Widget> _widgetOptions = <Widget>[
     CheckPage(),
+    ParaphrasePage(),
     TranslatePage(),
     DictionaryPage(),
-    PraceticePage(),
-    SettingPage()
+    PraceticePage()
   ];
 
   @override
@@ -92,6 +93,13 @@ class _NavState extends State<Nav> {
           ),
           BottomNavyBarItem(
               icon: Icon(
+                Icons.article,
+                size: 32,
+              ),
+              title: Text("Paraphrase", style: GoogleFonts.laila()),
+              activeColor: Colors.blue),
+          BottomNavyBarItem(
+              icon: Icon(
                 Icons.g_translate,
                 size: 32,
               ),
@@ -111,16 +119,6 @@ class _NavState extends State<Nav> {
               ),
               title: Text("Practice", style: GoogleFonts.laila()),
               activeColor: Colors.blue),
-          BottomNavyBarItem(
-              icon: Icon(
-                Icons.settings,
-                size: 32,
-              ),
-              title: Text(
-                "Setting",
-                style: GoogleFonts.laila(),
-              ),
-              activeColor: Colors.blue)
         ],
         selectedIndex: _selectIndex,
         showElevation: true,

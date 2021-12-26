@@ -237,7 +237,7 @@ class _CheckPage extends State<CheckPage> {
                                         style: TextStyle(fontSize: 19),
                                         decoration: InputDecoration(
                                           hintText:
-                                              'Click to enter the text to fix the error method English',
+                                              'Click to enter the text to fix grammar',
                                           hintStyle: TextStyle(fontSize: 20),
                                           labelStyle: TextStyle(fontSize: 18),
                                           hintMaxLines: 5,
